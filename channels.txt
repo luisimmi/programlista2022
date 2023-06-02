@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
 #EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/64afcf9818044f35d81d5cac71ca9bc9.png" group-title="ES✦ SPAIN TDT",ES| LA 1 HD
 http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185158
 #EXTINF:-1 tvg-id="" tvg-name="ES| LA 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/05354ea0e079370588e90918a467a888.png" group-title="ES✦ SPAIN TDT",ES| LA 2 HD
