@@ -1,801 +1,173 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/64afcf9818044f35d81d5cac71ca9bc9.png" group-title="ES✦ SPAIN TDT",ES| LA 1 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185158
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/05354ea0e079370588e90918a467a888.png" group-title="ES✦ SPAIN TDT",ES| LA 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185159
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/8585d16efe6a89af5f02818321a599cd.png" group-title="ES✦ SPAIN TDT",ES| LA 7 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185160
-#EXTINF:-1 tvg-id="" tvg-name="ES| ANTENA 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bd4a7237a2bee67f36f6fd3f212ae5ff.png" group-title="ES✦ SPAIN TDT",ES| ANTENA 3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185150
-#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/affc38ef646e6ee744b3a147101b5d73.png" group-title="ES✦ SPAIN TDT",ES| #VAMOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185148
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ #0 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b4b147bc522828731f1a016bfa72c073.png" group-title="ES✦ SPAIN TDT",ES| M+ #0 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185149
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELECINCO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7ab5238d3bed1eeeeae2d92215a6b5da.png" group-title="ES✦ SPAIN TDT",ES| TELECINCO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185151
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA SEXTA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/701b512d2b2c03681c0746b37aefcc04.png" group-title="ES✦ SPAIN TDT",ES| LA SEXTA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185152
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 24 HORAS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/31cbbd3e7370859b08889d9c90b2a615.png" group-title="ES✦ SPAIN TDT",ES| CANAL 24 HORAS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185153
-#EXTINF:-1 tvg-id="" tvg-name="ES| CUATRO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7c52f34d988223dc76d330a1380bf7e9.png" group-title="ES✦ SPAIN TDT",ES| CUATRO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185154
-#EXTINF:-1 tvg-id="" tvg-name="ES| BE MAD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d053601beeb16bb284b48ce1866cd25d.png" group-title="ES✦ SPAIN TDT",ES| BE MAD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185155
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEGA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bca0db7e82473f17dfbca0891435a9a0.png" group-title="ES✦ SPAIN TDT",ES| MEGA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185157
-#EXTINF:-1 tvg-id="" tvg-name="ES| DIVINITY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3c8405da4e10d8bf6ac8bd5b725c6d56.png" group-title="ES✦ SPAIN TDT",ES| DIVINITY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185161
-#EXTINF:-1 tvg-id="" tvg-name="ES| ENERGY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/93e0e13277e4354c72e2b033514037a5.png" group-title="ES✦ SPAIN TDT",ES| ENERGY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185162
-#EXTINF:-1 tvg-id="" tvg-name="ES| NEOX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/274e483b9448dd2f6f4aec16288e82c7.png" group-title="ES✦ SPAIN TDT",ES| NEOX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185163
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVE INTERNACIONAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7af99c204cc8d0538e55f8a2c74a2434.png" group-title="ES✦ SPAIN TDT",ES| TVE INTERNACIONAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185164
-#EXTINF:-1 tvg-id="" tvg-name="ES| ODISEA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1e51366df17c247341661eab945847dd.png" group-title="ES✦ SPAIN TDT",ES| ODISEA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185165
-#EXTINF:-1 tvg-id="" tvg-name="ES| IBERALIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/811dda6dd8aa1691cfcd5da15241a21d.png" group-title="ES✦ SPAIN TDT",ES| IBERALIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185166
-#EXTINF:-1 tvg-id="" tvg-name="ES| 7RM HD" tvg-logo="http://portal.bylr-tv.com:8080/images/dc40187217c958bba621272eadee9087.png" group-title="ES✦ SPAIN TDT",ES| 7RM HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185168
-#EXTINF:-1 tvg-id="" tvg-name="ES| POPULAR TV MELILLA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/aa11aebafa8d04c9b45b85efae0104e7.png" group-title="ES✦ SPAIN TDT",ES| POPULAR TV MELILLA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185169
-#EXTINF:-1 tvg-id="" tvg-name="ES| ATRESERIES HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5e6f413e1fbb6f37134f9697a4b8ccb6.png" group-title="ES✦ SPAIN TDT",ES| ATRESERIES HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185172
-#EXTINF:-1 tvg-id="" tvg-name="ES| TRECE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/279fe65e7311e2bcd31369bb9ca14ef1.png" group-title="ES✦ SPAIN TDT",ES| TRECE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185173
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/672ddb357b4c7ad1b65984fff445f445.png" group-title="ES✦ SPAIN TDT",ES| TV3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185174
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOMOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/315118cf402e05a4215f3895239f8490.png" group-title="ES✦ SPAIN TDT",ES| SOMOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185175
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOM CINE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/59b29e3ceeeb98186eae97fdb9a29177.png" group-title="ES✦ SPAIN TDT",ES| BOM CINE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185176
-#EXTINF:-1 tvg-id="" tvg-name="ES| EWTN SPAIN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/40dbd2460c336f980951da0f456e729f.png" group-title="ES✦ SPAIN TDT",ES| EWTN SPAIN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185178
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEMADRID HD" tvg-logo="http://portal.bylr-tv.com:8080/images/fc80580ea070bb38c644bd71ef886f50.png" group-title="ES✦ SPAIN TDT",ES| TELEMADRID HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185180
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOLIDARIA TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e4bcb3182493bda2c740bdb4bf6290be.png" group-title="ES✦ SPAIN TDT",ES| SOLIDARIA TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185186
-#EXTINF:-1 tvg-id="" tvg-name="ES| RT ESPA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/705610ed3e5ec724f5cb0d76a5fd3aa1.png" group-title="ES✦ SPAIN TDT",ES| RT ESPA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185187
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL ONDA CADIZ HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7aa1e026e61dfe3633e1444a6bf1f1e2.png" group-title="ES✦ SPAIN TDT",ES| CANAL ONDA CADIZ HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185190
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPAIN FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ SPAIN TDT",✦●✦| SPAIN FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185192
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/64afcf9818044f35d81d5cac71ca9bc9.png" group-title="ES✦ SPAIN TDT",ES| LA 1 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185203
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/05354ea0e079370588e90918a467a888.png" group-title="ES✦ SPAIN TDT",ES| LA 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185204
-#EXTINF:-1 tvg-id="" tvg-name="ES| ANTENA 3 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/bd4a7237a2bee67f36f6fd3f212ae5ff.png" group-title="ES✦ SPAIN TDT",ES| ANTENA 3 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185195
-#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/affc38ef646e6ee744b3a147101b5d73.png" group-title="ES✦ SPAIN TDT",ES| #VAMOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185193
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ #0 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b4b147bc522828731f1a016bfa72c073.png" group-title="ES✦ SPAIN TDT",ES| M+ #0 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185194
-#EXTINF:-1 tvg-id="" tvg-name="ES| BE MAD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d053601beeb16bb284b48ce1866cd25d.png" group-title="ES✦ SPAIN TDT",ES| BE MAD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185196
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 24 HORAS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/31cbbd3e7370859b08889d9c90b2a615.png" group-title="ES✦ SPAIN TDT",ES| CANAL 24 HORAS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185197
-#EXTINF:-1 tvg-id="" tvg-name="ES| CUATRO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7c52f34d988223dc76d330a1380bf7e9.png" group-title="ES✦ SPAIN TDT",ES| CUATRO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185198
-#EXTINF:-1 tvg-id="" tvg-name="ES| ENERGY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/93e0e13277e4354c72e2b033514037a5.png" group-title="ES✦ SPAIN TDT",ES| ENERGY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185199
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL SUR A FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ac45c34b1c8bee0f7fc7399817c160cd.png" group-title="ES✦ SPAIN TDT",ES| CANAL SUR A FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185200
-#EXTINF:-1 tvg-id="" tvg-name="ES| I24 FRANCIS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a91efc6102bfb44e9d50b2607964491e.png" group-title="ES✦ SPAIN TDT",ES| I24 FRANCIS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185201
-#EXTINF:-1 tvg-id="" tvg-name="ES| IBERALIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/811dda6dd8aa1691cfcd5da15241a21d.png" group-title="ES✦ SPAIN TDT",ES| IBERALIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185202
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA SEXTA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/701b512d2b2c03681c0746b37aefcc04.png" group-title="ES✦ SPAIN TDT",ES| LA SEXTA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185205
-#EXTINF:-1 tvg-id="" tvg-name="ES| NEOX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/274e483b9448dd2f6f4aec16288e82c7.png" group-title="ES✦ SPAIN TDT",ES| NEOX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185206
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX NEWS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/4757ff4d0a98cf131b4eb5c24561c98b.png" group-title="ES✦ SPAIN TDT",ES| FOX NEWS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185207
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELECINCO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7ab5238d3bed1eeeeae2d92215a6b5da.png" group-title="ES✦ SPAIN TDT",ES| TELECINCO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185208
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVE INTERNACIONAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7af99c204cc8d0538e55f8a2c74a2434.png" group-title="ES✦ SPAIN TDT",ES| TVE INTERNACIONAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185209
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELESAFOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/157b12de6f8e3396866e8b890859ed1a.png" group-title="ES✦ SPAIN TDT",ES| TELESAFOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185210
-#EXTINF:-1 tvg-id="" tvg-name="ES| XTRM FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a0da1ae3a1f706340a1fedb40898563c.png" group-title="ES✦ SPAIN TDT",ES| XTRM FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185211
-#EXTINF:-1 tvg-id="" tvg-name="ES| 7 LA RIOJA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/2444f2dc3cfd6853d9cf3827d07cd9a4.png" group-title="ES✦ SPAIN TDT",ES| 7 LA RIOJA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185212
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV3 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/672ddb357b4c7ad1b65984fff445f445.png" group-title="ES✦ SPAIN TDT",ES| TV3 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185215
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEGA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/bca0db7e82473f17dfbca0891435a9a0.png" group-title="ES✦ SPAIN TDT",ES| MEGA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185217
-#EXTINF:-1 tvg-id="" tvg-name="ES| ATRESERIES FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b313391c2f62220813602b156e1a8eac.png" group-title="ES✦ SPAIN TDT",ES| ATRESERIES FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185218
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOM CINE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59b29e3ceeeb98186eae97fdb9a29177.png" group-title="ES✦ SPAIN TDT",ES| BOM CINE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185219
-#EXTINF:-1 tvg-id="" tvg-name="ES| POPULAR TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/aa11aebafa8d04c9b45b85efae0104e7.png" group-title="ES✦ SPAIN TDT",ES| POPULAR TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185221
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOMOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ SPAIN TDT",ES| SOMOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185224
-#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b88f609005d139a789f3f79479ab617b.png" group-title="ES✦ SPAIN TDT",ES| EL TORO TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185227
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| KIDS HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NINOS",✦●✦| KIDS HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185228
-#EXTINF:-1 tvg-id="" tvg-name="ES| BABY TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="ES✦ NINOS",ES| BABY TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185229
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOING HD" tvg-logo="http://portal.bylr-tv.com:8080/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="ES✦ NINOS",ES| BOING HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185230
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL PANDA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e75497285bb8989458277333a5f8746e.png" group-title="ES✦ NINOS",ES| CANAL PANDA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185231
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY JUNIOR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7955bcdf31d77d69f51ea5a6f4b8d8a2.png" group-title="ES✦ NINOS",ES| DISNEY JUNIOR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185232
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICK JUNIOR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d1eccc4a8bccb1269e7f415fa9ad6744.png" group-title="ES✦ NINOS",ES| NICK JUNIOR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185233
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICKELODEON HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="ES✦ NINOS",ES| NICKELODEON HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185234
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| KIDS FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NINOS",✦●✦| KIDS FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185235
-#EXTINF:-1 tvg-id="" tvg-name="ES| BABY TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="ES✦ NINOS",ES| BABY TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185236
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOING FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="ES✦ NINOS",ES| BOING FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185237
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL PANDA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/e75497285bb8989458277333a5f8746e.png" group-title="ES✦ NINOS",ES| CANAL PANDA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185238
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/2f44573497e1f92d929bb6171f74aaac.png" group-title="ES✦ NINOS",ES| DISNEY CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185239
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY JUNIOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7955bcdf31d77d69f51ea5a6f4b8d8a2.png" group-title="ES✦ NINOS",ES| DISNEY JUNIOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185240
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICK JUNIOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d1eccc4a8bccb1269e7f415fa9ad6744.png" group-title="ES✦ NINOS",ES| NICK JUNIOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185241
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICKELODEON FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="ES✦ NINOS",ES| NICKELODEON FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185242
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MOVIESTAR HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MOVIESTAR",✦●✦| MOVIESTAR HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185243
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR LA RESISTENCIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7cf50952c16a0c8aa4cbc55f87d14483.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR LA RESISTENCIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185244
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ACCION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/38a086b1d038fb722e7e2d5ef08ec43e.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ACCION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185245
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CINE ESPAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/89fc2b03408eef9521961e8140d9a956.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CINE ESPAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185246
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CL.SICOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5365349526ee257515aa01706ed4886b.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CL.SICOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185247
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR COMEDIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/864a3c7cad8e04e5c756a7602d482122.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR COMEDIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185248
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR DRAMA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5f828e5c7afd2f57144f0454c1047a62.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR DRAMA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185249
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185250
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR FEST HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e7fb6735bbd71b5fd0c3da180ef4c8a7.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR FEST HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185251
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185252
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bc354b2744ddf055e64f0984907f1308.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185253
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR VHS HD" tvg-logo="" group-title="ES✦ MOVIESTAR",ES| MOVISTAR VHS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185254
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MOVIESTAR FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MOVIESTAR",✦●✦| MOVIESTAR FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185255
-#EXTINF:-1 tvg-id="" tvg-name="ES| DREAMWORKS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="ES✦ MOVIESTAR",ES| DREAMWORKS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185256
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ACCION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/38a086b1d038fb722e7e2d5ef08ec43e.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ACCION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185257
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CINE ESPAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/89fc2b03408eef9521961e8140d9a956.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CINE ESPAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185258
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CLICOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5365349526ee257515aa01706ed4886b.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CLICOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185259
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR COMEDIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/864a3c7cad8e04e5c756a7602d482122.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR COMEDIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185260
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185261
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR DRAMA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5f828e5c7afd2f57144f0454c1047a62.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR DRAMA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185262
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185263
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185264
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185265
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR FEST FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/e7fb6735bbd71b5fd0c3da180ef4c8a7.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR FEST FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185266
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MUSICA HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",✦●✦| MUSICA HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185267
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLASSICA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/76d4bd23004b10e6f02e1e3b9126287d.png" group-title="ES✦ MUSIC",ES| CLASSICA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185268
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/28a47e75bd19955972d47a8bde649622.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185269
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV ESPA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ES✦ MUSIC",ES| MTV ESPA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185270
-#EXTINF:-1 tvg-id="" tvg-name="ES| MULTIDEPORTE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/aeb4ac9281154c7f26facae88b3527ef.png" group-title="ES✦ MUSIC",ES| MULTIDEPORTE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185271
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/46ba9eba2f4b52116787dfa6fb4278e3.png" group-title="ES✦ MUSIC",ES| SOL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185272
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/ec91672fbeb2968fa9644ea671048832.png" group-title="ES✦ MUSIC",ES| TELEDEPORTE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185273
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MUSICA FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",✦●✦| MUSICA FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185274
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLASSICA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/76d4bd23004b10e6f02e1e3b9126287d.png" group-title="ES✦ MUSIC",ES| CLASSICA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185275
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/28a47e75bd19955972d47a8bde649622.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185276
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV ESPA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ES✦ MUSIC",ES| MTV ESPA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185277
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ec91672fbeb2968fa9644ea671048832.png" group-title="ES✦ MUSIC",ES| TELEDEPORTE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185278
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",ES| SOL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185279
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="ES✦ MUSIC",ES| MTV LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185280
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/50601437b69fd2de9e91c293dac9d162.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185281
-#EXTINF:-1 tvg-id="" tvg-name="ES| TRECE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/279fe65e7311e2bcd31369bb9ca14ef1.png" group-title="ES✦ MUSIC",ES| TRECE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185282
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| NEWS HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NEWS",✦●✦| NEWS HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185283
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX NEWS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/4757ff4d0a98cf131b4eb5c24561c98b.png" group-title="ES✦ NEWS",ES| FOX NEWS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185284
-#EXTINF:-1 tvg-id="" tvg-name="ES| ARAGON TV INT HD" tvg-logo="http://portal.bylr-tv.com:8080/images/cb4f8ee0aa87a787a9f558b8e0268f20.png" group-title="ES✦ NEWS",ES| ARAGON TV INT HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185285
-#EXTINF:-1 tvg-id="" tvg-name="ES| I24 FRANCIS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/a91efc6102bfb44e9d50b2607964491e.png" group-title="ES✦ NEWS",ES| I24 FRANCIS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185286
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ENTERTAINMENT HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",✦●✦| ENTERTAINMENT HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185287
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC HD" tvg-logo="http://portal.bylr-tv.com:8080/images/37f89ab7ff764ff6cfbfbc4dedf1981e.png" group-title="ES✦ ENTERTAINMENT",ES| AMC HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185288
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/ceb0f316891950904bccb7fc370887c1.png" group-title="ES✦ ENTERTAINMENT",ES| AXN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185289
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN WHITE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f60000f397bb31ec777675351d6564af.png" group-title="ES✦ ENTERTAINMENT",ES| AXN WHITE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185290
-#EXTINF:-1 tvg-id="" tvg-name="ES| CALLE 13 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/813713073b59ddd878c3eda137b65909.png" group-title="ES✦ ENTERTAINMENT",ES| CALLE 13 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185291
-#EXTINF:-1 tvg-id="" tvg-name="ES| DECASA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7bd717eff8e84e043ee8e8620ffa0420.png" group-title="ES✦ ENTERTAINMENT",ES| DECASA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185292
-#EXTINF:-1 tvg-id="" tvg-name="ES| COMEDY CENTRAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d728f73a8fef7ace0d98ff1a6f6e227d.png" group-title="ES✦ ENTERTAINMENT",ES| COMEDY CENTRAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185293
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL DARK HD" tvg-logo="http://portal.bylr-tv.com:8080/images/acaef50d33fc86532c260a045c672f3e.png" group-title="ES✦ ENTERTAINMENT",ES| CANAL DARK HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185294
-#EXTINF:-1 tvg-id="" tvg-name="ES| DREAMWORKS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="ES✦ ENTERTAINMENT",ES| DREAMWORKS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185295
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7d6b23f5b2db7dc7fe335aad8a32cca2.png" group-title="ES✦ ENTERTAINMENT",ES| FOX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185296
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX LIFE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/dcfd74beef8b6b18e5c42a6532ceee8b.png" group-title="ES✦ ENTERTAINMENT",ES| FOX LIFE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185297
-#EXTINF:-1 tvg-id="" tvg-name="ES| HOLLYWOOD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/6cef866302cf1bbc663944d63ab5cf20.png" group-title="ES✦ ENTERTAINMENT",ES| HOLLYWOOD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185298
-#EXTINF:-1 tvg-id="" tvg-name="ES| NOVA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="ES✦ ENTERTAINMENT",ES| NOVA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185299
-#EXTINF:-1 tvg-id="" tvg-name="ES| PARAMOUNT CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3e48cca712d5060410a85a4135606ac8.png" group-title="ES✦ ENTERTAINMENT",ES| PARAMOUNT CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185300
-#EXTINF:-1 tvg-id="" tvg-name="ES| SUNDANCE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3eea757693671c29fd2cf8a89bc7fba0.png" group-title="ES✦ ENTERTAINMENT",ES| SUNDANCE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185301
-#EXTINF:-1 tvg-id="" tvg-name="ES| SYFY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/38f03aa2b65064b232857f2ab8d91b0e.png" group-title="ES✦ ENTERTAINMENT",ES| SYFY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185302
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELESUR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/157b12de6f8e3396866e8b890859ed1a.png" group-title="ES✦ ENTERTAINMENT",ES| TELESUR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185303
-#EXTINF:-1 tvg-id="" tvg-name="ES| TNT HD" tvg-logo="http://portal.bylr-tv.com:8080/images/02c7d4f4a97bec1dc7d032cdf2f3f42d.png" group-title="ES✦ ENTERTAINMENT",ES| TNT HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185304
-#EXTINF:-1 tvg-id="" tvg-name="ES| TCM HD" tvg-logo="http://portal.bylr-tv.com:8080/images/edd473be1285875448b1e418817a4d42.png" group-title="ES✦ ENTERTAINMENT",ES| TCM HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185305
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC BREAK HD" tvg-logo="" group-title="ES✦ ENTERTAINMENT",ES| AMC BREAK HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185306
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ENTERTAINMENT FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",✦●✦| ENTERTAINMENT FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185307
-#EXTINF:-1 tvg-id="" tvg-name="ES| DARK RED FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/acaef50d33fc86532c260a045c672f3e.png" group-title="ES✦ ENTERTAINMENT",ES| DARK RED FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185308
-#EXTINF:-1 tvg-id="" tvg-name="ES| SYFY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/38f03aa2b65064b232857f2ab8d91b0e.png" group-title="ES✦ ENTERTAINMENT",ES| SYFY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185309
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/37f89ab7ff764ff6cfbfbc4dedf1981e.png" group-title="ES✦ ENTERTAINMENT",ES| AMC FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185310
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ceb0f316891950904bccb7fc370887c1.png" group-title="ES✦ ENTERTAINMENT",ES| AXN FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185311
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN WHITE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f60000f397bb31ec777675351d6564af.png" group-title="ES✦ ENTERTAINMENT",ES| AXN WHITE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185312
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC CRIME FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",ES| AMC CRIME FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185313
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC BREAK FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",ES| AMC BREAK FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185314
-#EXTINF:-1 tvg-id="" tvg-name="ES| CALLE 13 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/813713073b59ddd878c3eda137b65909.png" group-title="ES✦ ENTERTAINMENT",ES| CALLE 13 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185315
-#EXTINF:-1 tvg-id="" tvg-name="ES| DECASA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7bd717eff8e84e043ee8e8620ffa0420.png" group-title="ES✦ ENTERTAINMENT",ES| DECASA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185316
-#EXTINF:-1 tvg-id="" tvg-name="ES| COMEDY CENTRAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d728f73a8fef7ace0d98ff1a6f6e227d.png" group-title="ES✦ ENTERTAINMENT",ES| COMEDY CENTRAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185317
-#EXTINF:-1 tvg-id="" tvg-name="ES| COSMO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b64030edc18d04b7f36b9146f20890ea.png" group-title="ES✦ ENTERTAINMENT",ES| COSMO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185318
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7d6b23f5b2db7dc7fe335aad8a32cca2.png" group-title="ES✦ ENTERTAINMENT",ES| FOX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185319
-#EXTINF:-1 tvg-id="" tvg-name="ES| HOLLYWOOD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/6cef866302cf1bbc663944d63ab5cf20.png" group-title="ES✦ ENTERTAINMENT",ES| HOLLYWOOD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185320
-#EXTINF:-1 tvg-id="" tvg-name="ES| PARAMOUNT CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3e48cca712d5060410a85a4135606ac8.png" group-title="ES✦ ENTERTAINMENT",ES| PARAMOUNT CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185321
-#EXTINF:-1 tvg-id="" tvg-name="ES| SUNDANCE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3eea757693671c29fd2cf8a89bc7fba0.png" group-title="ES✦ ENTERTAINMENT",ES| SUNDANCE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185322
-#EXTINF:-1 tvg-id="" tvg-name="ES| TCM FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/edd473be1285875448b1e418817a4d42.png" group-title="ES✦ ENTERTAINMENT",ES| TCM FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185323
-#EXTINF:-1 tvg-id="" tvg-name="ES| TNT FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/02c7d4f4a97bec1dc7d032cdf2f3f42d.png" group-title="ES✦ ENTERTAINMENT",ES| TNT FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185324
-#EXTINF:-1 tvg-id="" tvg-name="ES| NOVA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="ES✦ ENTERTAINMENT",ES| NOVA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185325
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CULTURA HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ DOCUMENTALES",✦●✦| CULTURA HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185326
-#EXTINF:-1 tvg-id="" tvg-name="ES| DKISS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/72f2f7f98207e5b7ac2d17ce56e559a3.png" group-title="ES✦ DOCUMENTALES",ES| DKISS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185327
-#EXTINF:-1 tvg-id="" tvg-name="ES| DMAX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="ES✦ DOCUMENTALES",ES| DMAX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185328
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1584fb7f0965b93c69abdc1f3a10466a.png" group-title="ES✦ DOCUMENTALES",ES| BLAZE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185329
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZA Y PESCA  HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7bf0070dda7e642f746c3565858988c.png" group-title="ES✦ DOCUMENTALES",ES| CAZA Y PESCA  HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185330
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLAN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/6bce6e591d28a68ffcc0e0937c1737cd.png" group-title="ES✦ DOCUMENTALES",ES| CLAN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185331
-#EXTINF:-1 tvg-id="" tvg-name="ES| COSMO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b64030edc18d04b7f36b9146f20890ea.png" group-title="ES✦ DOCUMENTALES",ES| COSMO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185332
-#EXTINF:-1 tvg-id="" tvg-name="ES| CRIMEN+ INVESTIGACION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c64a95a7119ee94208b8f7ea0460daef.png" group-title="ES✦ DOCUMENTALES",ES| CRIMEN+ INVESTIGACION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185333
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISCOVERY CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="ES✦ DOCUMENTALES",ES| DISCOVERY CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185334
-#EXTINF:-1 tvg-id="" tvg-name="ES| FACTORIA DE FICCION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/42b5104287c35e87cfd3ecb0de4cd403.png" group-title="ES✦ DOCUMENTALES",ES| FACTORIA DE FICCION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185335
-#EXTINF:-1 tvg-id="" tvg-name="ES| HISTORIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/657422a9e592924f33cf820a9935962d.png" group-title="ES✦ DOCUMENTALES",ES| HISTORIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185336
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC WILD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185337
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5c051a2a7feff2e9d1ee16f3dd7cd84.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185338
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/2f44573497e1f92d929bb6171f74aaac.png" group-title="ES✦ DOCUMENTALES",ES| DISNEY CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185339
-#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b88f609005d139a789f3f79479ab617b.png" group-title="ES✦ DOCUMENTALES",ES| EL TORO TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185340
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL COCINA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a202ebc4349a224dae17333a8ba3fd9.png" group-title="ES✦ DOCUMENTALES",ES| CANAL COCINA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185341
-#EXTINF:-1 tvg-id="" tvg-name="ES| TOROS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/54f011b0c0ff969d8b89708f0d82d3ad.png" group-title="ES✦ DOCUMENTALES",ES| TOROS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185342
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CULTURA FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ DOCUMENTALES",✦●✦| CULTURA FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185343
-#EXTINF:-1 tvg-id="" tvg-name="ES| DMAX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="ES✦ DOCUMENTALES",ES| DMAX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185344
-#EXTINF:-1 tvg-id="" tvg-name="ES| DKISS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/72f2f7f98207e5b7ac2d17ce56e559a3.png" group-title="ES✦ DOCUMENTALES",ES| DKISS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185345
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1584fb7f0965b93c69abdc1f3a10466a.png" group-title="ES✦ DOCUMENTALES",ES| BLAZE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185346
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL COCINA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a202ebc4349a224dae17333a8ba3fd9.png" group-title="ES✦ DOCUMENTALES",ES| CANAL COCINA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185347
-#EXTINF:-1 tvg-id="" tvg-name="ES| ODISEA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1e51366df17c247341661eab945847dd.png" group-title="ES✦ DOCUMENTALES",ES| ODISEA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185348
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZA Y PESCA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7bf0070dda7e642f746c3565858988c.png" group-title="ES✦ DOCUMENTALES",ES| CAZA Y PESCA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185349
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLAN FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/6bce6e591d28a68ffcc0e0937c1737cd.png" group-title="ES✦ DOCUMENTALES",ES| CLAN FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185350
-#EXTINF:-1 tvg-id="" tvg-name="ES| CRIMEN & INVESTIGACION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/c64a95a7119ee94208b8f7ea0460daef.png" group-title="ES✦ DOCUMENTALES",ES| CRIMEN & INVESTIGACION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185351
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISCOVERY CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="ES✦ DOCUMENTALES",ES| DISCOVERY CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185352
-#EXTINF:-1 tvg-id="" tvg-name="ES| DIVINITY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3c8405da4e10d8bf6ac8bd5b725c6d56.png" group-title="ES✦ DOCUMENTALES",ES| DIVINITY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185353
-#EXTINF:-1 tvg-id="" tvg-name="ES| HISTORIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/657422a9e592924f33cf820a9935962d.png" group-title="ES✦ DOCUMENTALES",ES| HISTORIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185354
-#EXTINF:-1 tvg-id="" tvg-name="ES| NAUTICAL CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/dcfd74beef8b6b18e5c42a6532ceee8b.png" group-title="ES✦ DOCUMENTALES",ES| NAUTICAL CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185355
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC WILD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185356
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5c051a2a7feff2e9d1ee16f3dd7cd84.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185357
-#EXTINF:-1 tvg-id="" tvg-name="ES| TOROS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/54f011b0c0ff969d8b89708f0d82d3ad.png" group-title="ES✦ DOCUMENTALES",ES| TOROS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185358
-#EXTINF:-1 tvg-id="" tvg-name="ES| ARAGON TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/cb4f8ee0aa87a787a9f558b8e0268f20.png" group-title="ES✦ DOCUMENTALES",ES| ARAGON TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185359
-#EXTINF:-1 tvg-id="" tvg-name="ES| FACTORIA DE FICCION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/42b5104287c35e87cfd3ecb0de4cd403.png" group-title="ES✦ DOCUMENTALES",ES| FACTORIA DE FICCION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185360
-#EXTINF:-1 tvg-id="" tvg-name="ES| HORSE TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5580b2daa12c1eee42bfb8e513684f98.png" group-title="ES✦ DOCUMENTALES",ES| HORSE TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185361
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ALQUILER PPV |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ALQUILER PPV",✦●✦| ALQUILER PPV |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185362
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 1 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185363
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185364
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185365
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 4 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 4 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185366
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 5 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 5 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185367
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 6 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 6 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185368
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 7 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185369
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/64afcf9818044f35d81d5cac71ca9bc9.png" group-title="ES✦ SPAIN TDT",ES| LA 1 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185158
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/05354ea0e079370588e90918a467a888.png" group-title="ES✦ SPAIN TDT",ES| LA 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185159
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/8585d16efe6a89af5f02818321a599cd.png" group-title="ES✦ SPAIN TDT",ES| LA 7 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185160
-#EXTINF:-1 tvg-id="" tvg-name="ES| ANTENA 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bd4a7237a2bee67f36f6fd3f212ae5ff.png" group-title="ES✦ SPAIN TDT",ES| ANTENA 3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185150
-#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/affc38ef646e6ee744b3a147101b5d73.png" group-title="ES✦ SPAIN TDT",ES| #VAMOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185148
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ #0 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b4b147bc522828731f1a016bfa72c073.png" group-title="ES✦ SPAIN TDT",ES| M+ #0 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185149
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELECINCO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7ab5238d3bed1eeeeae2d92215a6b5da.png" group-title="ES✦ SPAIN TDT",ES| TELECINCO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185151
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA SEXTA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/701b512d2b2c03681c0746b37aefcc04.png" group-title="ES✦ SPAIN TDT",ES| LA SEXTA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185152
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 24 HORAS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/31cbbd3e7370859b08889d9c90b2a615.png" group-title="ES✦ SPAIN TDT",ES| CANAL 24 HORAS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185153
-#EXTINF:-1 tvg-id="" tvg-name="ES| CUATRO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7c52f34d988223dc76d330a1380bf7e9.png" group-title="ES✦ SPAIN TDT",ES| CUATRO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185154
-#EXTINF:-1 tvg-id="" tvg-name="ES| BE MAD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d053601beeb16bb284b48ce1866cd25d.png" group-title="ES✦ SPAIN TDT",ES| BE MAD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185155
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEGA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bca0db7e82473f17dfbca0891435a9a0.png" group-title="ES✦ SPAIN TDT",ES| MEGA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185157
-#EXTINF:-1 tvg-id="" tvg-name="ES| DIVINITY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3c8405da4e10d8bf6ac8bd5b725c6d56.png" group-title="ES✦ SPAIN TDT",ES| DIVINITY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185161
-#EXTINF:-1 tvg-id="" tvg-name="ES| ENERGY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/93e0e13277e4354c72e2b033514037a5.png" group-title="ES✦ SPAIN TDT",ES| ENERGY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185162
-#EXTINF:-1 tvg-id="" tvg-name="ES| NEOX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/274e483b9448dd2f6f4aec16288e82c7.png" group-title="ES✦ SPAIN TDT",ES| NEOX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185163
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVE INTERNACIONAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7af99c204cc8d0538e55f8a2c74a2434.png" group-title="ES✦ SPAIN TDT",ES| TVE INTERNACIONAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185164
-#EXTINF:-1 tvg-id="" tvg-name="ES| ODISEA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1e51366df17c247341661eab945847dd.png" group-title="ES✦ SPAIN TDT",ES| ODISEA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185165
-#EXTINF:-1 tvg-id="" tvg-name="ES| IBERALIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/811dda6dd8aa1691cfcd5da15241a21d.png" group-title="ES✦ SPAIN TDT",ES| IBERALIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185166
-#EXTINF:-1 tvg-id="" tvg-name="ES| 7RM HD" tvg-logo="http://portal.bylr-tv.com:8080/images/dc40187217c958bba621272eadee9087.png" group-title="ES✦ SPAIN TDT",ES| 7RM HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185168
-#EXTINF:-1 tvg-id="" tvg-name="ES| POPULAR TV MELILLA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/aa11aebafa8d04c9b45b85efae0104e7.png" group-title="ES✦ SPAIN TDT",ES| POPULAR TV MELILLA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185169
-#EXTINF:-1 tvg-id="" tvg-name="ES| ATRESERIES HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5e6f413e1fbb6f37134f9697a4b8ccb6.png" group-title="ES✦ SPAIN TDT",ES| ATRESERIES HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185172
-#EXTINF:-1 tvg-id="" tvg-name="ES| TRECE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/279fe65e7311e2bcd31369bb9ca14ef1.png" group-title="ES✦ SPAIN TDT",ES| TRECE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185173
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/672ddb357b4c7ad1b65984fff445f445.png" group-title="ES✦ SPAIN TDT",ES| TV3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185174
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOMOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/315118cf402e05a4215f3895239f8490.png" group-title="ES✦ SPAIN TDT",ES| SOMOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185175
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOM CINE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/59b29e3ceeeb98186eae97fdb9a29177.png" group-title="ES✦ SPAIN TDT",ES| BOM CINE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185176
-#EXTINF:-1 tvg-id="" tvg-name="ES| EWTN SPAIN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/40dbd2460c336f980951da0f456e729f.png" group-title="ES✦ SPAIN TDT",ES| EWTN SPAIN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185178
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEMADRID HD" tvg-logo="http://portal.bylr-tv.com:8080/images/fc80580ea070bb38c644bd71ef886f50.png" group-title="ES✦ SPAIN TDT",ES| TELEMADRID HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185180
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOLIDARIA TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e4bcb3182493bda2c740bdb4bf6290be.png" group-title="ES✦ SPAIN TDT",ES| SOLIDARIA TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185186
-#EXTINF:-1 tvg-id="" tvg-name="ES| RT ESPA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/705610ed3e5ec724f5cb0d76a5fd3aa1.png" group-title="ES✦ SPAIN TDT",ES| RT ESPA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185187
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL ONDA CADIZ HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7aa1e026e61dfe3633e1444a6bf1f1e2.png" group-title="ES✦ SPAIN TDT",ES| CANAL ONDA CADIZ HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185190
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPAIN FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ SPAIN TDT",✦●✦| SPAIN FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185192
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 1 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/64afcf9818044f35d81d5cac71ca9bc9.png" group-title="ES✦ SPAIN TDT",ES| LA 1 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185203
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/05354ea0e079370588e90918a467a888.png" group-title="ES✦ SPAIN TDT",ES| LA 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185204
-#EXTINF:-1 tvg-id="" tvg-name="ES| ANTENA 3 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/bd4a7237a2bee67f36f6fd3f212ae5ff.png" group-title="ES✦ SPAIN TDT",ES| ANTENA 3 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185195
-#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/affc38ef646e6ee744b3a147101b5d73.png" group-title="ES✦ SPAIN TDT",ES| #VAMOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185193
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ #0 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b4b147bc522828731f1a016bfa72c073.png" group-title="ES✦ SPAIN TDT",ES| M+ #0 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185194
-#EXTINF:-1 tvg-id="" tvg-name="ES| BE MAD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d053601beeb16bb284b48ce1866cd25d.png" group-title="ES✦ SPAIN TDT",ES| BE MAD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185196
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL 24 HORAS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/31cbbd3e7370859b08889d9c90b2a615.png" group-title="ES✦ SPAIN TDT",ES| CANAL 24 HORAS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185197
-#EXTINF:-1 tvg-id="" tvg-name="ES| CUATRO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7c52f34d988223dc76d330a1380bf7e9.png" group-title="ES✦ SPAIN TDT",ES| CUATRO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185198
-#EXTINF:-1 tvg-id="" tvg-name="ES| ENERGY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/93e0e13277e4354c72e2b033514037a5.png" group-title="ES✦ SPAIN TDT",ES| ENERGY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185199
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL SUR A FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ac45c34b1c8bee0f7fc7399817c160cd.png" group-title="ES✦ SPAIN TDT",ES| CANAL SUR A FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185200
-#EXTINF:-1 tvg-id="" tvg-name="ES| I24 FRANCIS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a91efc6102bfb44e9d50b2607964491e.png" group-title="ES✦ SPAIN TDT",ES| I24 FRANCIS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185201
-#EXTINF:-1 tvg-id="" tvg-name="ES| IBERALIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/811dda6dd8aa1691cfcd5da15241a21d.png" group-title="ES✦ SPAIN TDT",ES| IBERALIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185202
-#EXTINF:-1 tvg-id="" tvg-name="ES| LA SEXTA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/701b512d2b2c03681c0746b37aefcc04.png" group-title="ES✦ SPAIN TDT",ES| LA SEXTA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185205
-#EXTINF:-1 tvg-id="" tvg-name="ES| NEOX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/274e483b9448dd2f6f4aec16288e82c7.png" group-title="ES✦ SPAIN TDT",ES| NEOX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185206
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX NEWS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/4757ff4d0a98cf131b4eb5c24561c98b.png" group-title="ES✦ SPAIN TDT",ES| FOX NEWS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185207
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELECINCO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7ab5238d3bed1eeeeae2d92215a6b5da.png" group-title="ES✦ SPAIN TDT",ES| TELECINCO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185208
-#EXTINF:-1 tvg-id="" tvg-name="ES| TVE INTERNACIONAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7af99c204cc8d0538e55f8a2c74a2434.png" group-title="ES✦ SPAIN TDT",ES| TVE INTERNACIONAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185209
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELESAFOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/157b12de6f8e3396866e8b890859ed1a.png" group-title="ES✦ SPAIN TDT",ES| TELESAFOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185210
-#EXTINF:-1 tvg-id="" tvg-name="ES| XTRM FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a0da1ae3a1f706340a1fedb40898563c.png" group-title="ES✦ SPAIN TDT",ES| XTRM FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185211
-#EXTINF:-1 tvg-id="" tvg-name="ES| 7 LA RIOJA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/2444f2dc3cfd6853d9cf3827d07cd9a4.png" group-title="ES✦ SPAIN TDT",ES| 7 LA RIOJA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185212
-#EXTINF:-1 tvg-id="" tvg-name="ES| TV3 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/672ddb357b4c7ad1b65984fff445f445.png" group-title="ES✦ SPAIN TDT",ES| TV3 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185215
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEGA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/bca0db7e82473f17dfbca0891435a9a0.png" group-title="ES✦ SPAIN TDT",ES| MEGA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185217
-#EXTINF:-1 tvg-id="" tvg-name="ES| ATRESERIES FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b313391c2f62220813602b156e1a8eac.png" group-title="ES✦ SPAIN TDT",ES| ATRESERIES FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185218
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOM CINE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59b29e3ceeeb98186eae97fdb9a29177.png" group-title="ES✦ SPAIN TDT",ES| BOM CINE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185219
-#EXTINF:-1 tvg-id="" tvg-name="ES| POPULAR TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/aa11aebafa8d04c9b45b85efae0104e7.png" group-title="ES✦ SPAIN TDT",ES| POPULAR TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185221
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOMOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ SPAIN TDT",ES| SOMOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185224
-#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b88f609005d139a789f3f79479ab617b.png" group-title="ES✦ SPAIN TDT",ES| EL TORO TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185227
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| KIDS HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NINOS",✦●✦| KIDS HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185228
-#EXTINF:-1 tvg-id="" tvg-name="ES| BABY TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="ES✦ NINOS",ES| BABY TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185229
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOING HD" tvg-logo="http://portal.bylr-tv.com:8080/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="ES✦ NINOS",ES| BOING HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185230
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL PANDA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e75497285bb8989458277333a5f8746e.png" group-title="ES✦ NINOS",ES| CANAL PANDA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185231
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY JUNIOR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7955bcdf31d77d69f51ea5a6f4b8d8a2.png" group-title="ES✦ NINOS",ES| DISNEY JUNIOR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185232
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICK JUNIOR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d1eccc4a8bccb1269e7f415fa9ad6744.png" group-title="ES✦ NINOS",ES| NICK JUNIOR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185233
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICKELODEON HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="ES✦ NINOS",ES| NICKELODEON HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185234
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| KIDS FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NINOS",✦●✦| KIDS FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185235
-#EXTINF:-1 tvg-id="" tvg-name="ES| BABY TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/8812c926ca2b08383b7be94c09a0033b.png" group-title="ES✦ NINOS",ES| BABY TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185236
-#EXTINF:-1 tvg-id="" tvg-name="ES| BOING FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="ES✦ NINOS",ES| BOING FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185237
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL PANDA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/e75497285bb8989458277333a5f8746e.png" group-title="ES✦ NINOS",ES| CANAL PANDA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185238
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/2f44573497e1f92d929bb6171f74aaac.png" group-title="ES✦ NINOS",ES| DISNEY CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185239
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY JUNIOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7955bcdf31d77d69f51ea5a6f4b8d8a2.png" group-title="ES✦ NINOS",ES| DISNEY JUNIOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185240
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICK JUNIOR FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d1eccc4a8bccb1269e7f415fa9ad6744.png" group-title="ES✦ NINOS",ES| NICK JUNIOR FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185241
-#EXTINF:-1 tvg-id="" tvg-name="ES| NICKELODEON FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="ES✦ NINOS",ES| NICKELODEON FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185242
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MOVIESTAR HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MOVIESTAR",✦●✦| MOVIESTAR HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185243
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR LA RESISTENCIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7cf50952c16a0c8aa4cbc55f87d14483.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR LA RESISTENCIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185244
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ACCION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/38a086b1d038fb722e7e2d5ef08ec43e.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ACCION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185245
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CINE ESPAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/89fc2b03408eef9521961e8140d9a956.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CINE ESPAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185246
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CL.SICOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5365349526ee257515aa01706ed4886b.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CL.SICOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185247
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR COMEDIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/864a3c7cad8e04e5c756a7602d482122.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR COMEDIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185248
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR DRAMA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5f828e5c7afd2f57144f0454c1047a62.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR DRAMA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185249
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185250
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR FEST HD" tvg-logo="http://portal.bylr-tv.com:8080/images/e7fb6735bbd71b5fd0c3da180ef4c8a7.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR FEST HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185251
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185252
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES HD" tvg-logo="http://portal.bylr-tv.com:8080/images/bc354b2744ddf055e64f0984907f1308.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185253
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR VHS HD" tvg-logo="" group-title="ES✦ MOVIESTAR",ES| MOVISTAR VHS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185254
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MOVIESTAR FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MOVIESTAR",✦●✦| MOVIESTAR FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185255
-#EXTINF:-1 tvg-id="" tvg-name="ES| DREAMWORKS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="ES✦ MOVIESTAR",ES| DREAMWORKS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185256
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ACCION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/38a086b1d038fb722e7e2d5ef08ec43e.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ACCION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185257
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CINE ESPAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/89fc2b03408eef9521961e8140d9a956.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CINE ESPAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185258
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR CLICOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5365349526ee257515aa01706ed4886b.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR CLICOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185259
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR COMEDIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/864a3c7cad8e04e5c756a7602d482122.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR COMEDIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185260
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185261
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR DRAMA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5f828e5c7afd2f57144f0454c1047a62.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR DRAMA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185262
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/52b98c88d109601d2035e2ef8b308072.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR ESTRENOS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185263
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185264
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR SERIES 2 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d806a60e55803774817e17d56d08e6c6.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR SERIES 2 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185265
-#EXTINF:-1 tvg-id="" tvg-name="ES| MOVISTAR FEST FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/e7fb6735bbd71b5fd0c3da180ef4c8a7.png" group-title="ES✦ MOVIESTAR",ES| MOVISTAR FEST FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185266
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MUSICA HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",✦●✦| MUSICA HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185267
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLASSICA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/76d4bd23004b10e6f02e1e3b9126287d.png" group-title="ES✦ MUSIC",ES| CLASSICA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185268
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/28a47e75bd19955972d47a8bde649622.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185269
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV ESPA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ES✦ MUSIC",ES| MTV ESPA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185270
-#EXTINF:-1 tvg-id="" tvg-name="ES| MULTIDEPORTE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/aeb4ac9281154c7f26facae88b3527ef.png" group-title="ES✦ MUSIC",ES| MULTIDEPORTE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185271
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/46ba9eba2f4b52116787dfa6fb4278e3.png" group-title="ES✦ MUSIC",ES| SOL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185272
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/ec91672fbeb2968fa9644ea671048832.png" group-title="ES✦ MUSIC",ES| TELEDEPORTE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185273
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MUSICA FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",✦●✦| MUSICA FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185274
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLASSICA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/76d4bd23004b10e6f02e1e3b9126287d.png" group-title="ES✦ MUSIC",ES| CLASSICA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185275
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/28a47e75bd19955972d47a8bde649622.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185276
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV ESPA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ES✦ MUSIC",ES| MTV ESPA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185277
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ec91672fbeb2968fa9644ea671048832.png" group-title="ES✦ MUSIC",ES| TELEDEPORTE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185278
-#EXTINF:-1 tvg-id="" tvg-name="ES| SOL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ MUSIC",ES| SOL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185279
-#EXTINF:-1 tvg-id="" tvg-name="ES| MTV LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="ES✦ MUSIC",ES| MTV LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185280
-#EXTINF:-1 tvg-id="" tvg-name="ES| MEZZO LIVE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/50601437b69fd2de9e91c293dac9d162.png" group-title="ES✦ MUSIC",ES| MEZZO LIVE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185281
-#EXTINF:-1 tvg-id="" tvg-name="ES| TRECE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/279fe65e7311e2bcd31369bb9ca14ef1.png" group-title="ES✦ MUSIC",ES| TRECE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185282
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| NEWS HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ NEWS",✦●✦| NEWS HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185283
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX NEWS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/4757ff4d0a98cf131b4eb5c24561c98b.png" group-title="ES✦ NEWS",ES| FOX NEWS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185284
-#EXTINF:-1 tvg-id="" tvg-name="ES| ARAGON TV INT HD" tvg-logo="http://portal.bylr-tv.com:8080/images/cb4f8ee0aa87a787a9f558b8e0268f20.png" group-title="ES✦ NEWS",ES| ARAGON TV INT HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185285
-#EXTINF:-1 tvg-id="" tvg-name="ES| I24 FRANCIS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/a91efc6102bfb44e9d50b2607964491e.png" group-title="ES✦ NEWS",ES| I24 FRANCIS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185286
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ENTERTAINMENT HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",✦●✦| ENTERTAINMENT HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185287
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC HD" tvg-logo="http://portal.bylr-tv.com:8080/images/37f89ab7ff764ff6cfbfbc4dedf1981e.png" group-title="ES✦ ENTERTAINMENT",ES| AMC HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185288
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/ceb0f316891950904bccb7fc370887c1.png" group-title="ES✦ ENTERTAINMENT",ES| AXN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185289
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN WHITE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f60000f397bb31ec777675351d6564af.png" group-title="ES✦ ENTERTAINMENT",ES| AXN WHITE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185290
-#EXTINF:-1 tvg-id="" tvg-name="ES| CALLE 13 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/813713073b59ddd878c3eda137b65909.png" group-title="ES✦ ENTERTAINMENT",ES| CALLE 13 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185291
-#EXTINF:-1 tvg-id="" tvg-name="ES| DECASA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7bd717eff8e84e043ee8e8620ffa0420.png" group-title="ES✦ ENTERTAINMENT",ES| DECASA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185292
-#EXTINF:-1 tvg-id="" tvg-name="ES| COMEDY CENTRAL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/d728f73a8fef7ace0d98ff1a6f6e227d.png" group-title="ES✦ ENTERTAINMENT",ES| COMEDY CENTRAL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185293
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL DARK HD" tvg-logo="http://portal.bylr-tv.com:8080/images/acaef50d33fc86532c260a045c672f3e.png" group-title="ES✦ ENTERTAINMENT",ES| CANAL DARK HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185294
-#EXTINF:-1 tvg-id="" tvg-name="ES| DREAMWORKS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="ES✦ ENTERTAINMENT",ES| DREAMWORKS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185295
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/7d6b23f5b2db7dc7fe335aad8a32cca2.png" group-title="ES✦ ENTERTAINMENT",ES| FOX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185296
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX LIFE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/dcfd74beef8b6b18e5c42a6532ceee8b.png" group-title="ES✦ ENTERTAINMENT",ES| FOX LIFE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185297
-#EXTINF:-1 tvg-id="" tvg-name="ES| HOLLYWOOD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/6cef866302cf1bbc663944d63ab5cf20.png" group-title="ES✦ ENTERTAINMENT",ES| HOLLYWOOD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185298
-#EXTINF:-1 tvg-id="" tvg-name="ES| NOVA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="ES✦ ENTERTAINMENT",ES| NOVA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185299
-#EXTINF:-1 tvg-id="" tvg-name="ES| PARAMOUNT CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3e48cca712d5060410a85a4135606ac8.png" group-title="ES✦ ENTERTAINMENT",ES| PARAMOUNT CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185300
-#EXTINF:-1 tvg-id="" tvg-name="ES| SUNDANCE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3eea757693671c29fd2cf8a89bc7fba0.png" group-title="ES✦ ENTERTAINMENT",ES| SUNDANCE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185301
-#EXTINF:-1 tvg-id="" tvg-name="ES| SYFY HD" tvg-logo="http://portal.bylr-tv.com:8080/images/38f03aa2b65064b232857f2ab8d91b0e.png" group-title="ES✦ ENTERTAINMENT",ES| SYFY HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185302
-#EXTINF:-1 tvg-id="" tvg-name="ES| TELESUR HD" tvg-logo="http://portal.bylr-tv.com:8080/images/157b12de6f8e3396866e8b890859ed1a.png" group-title="ES✦ ENTERTAINMENT",ES| TELESUR HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185303
-#EXTINF:-1 tvg-id="" tvg-name="ES| TNT HD" tvg-logo="http://portal.bylr-tv.com:8080/images/02c7d4f4a97bec1dc7d032cdf2f3f42d.png" group-title="ES✦ ENTERTAINMENT",ES| TNT HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185304
-#EXTINF:-1 tvg-id="" tvg-name="ES| TCM HD" tvg-logo="http://portal.bylr-tv.com:8080/images/edd473be1285875448b1e418817a4d42.png" group-title="ES✦ ENTERTAINMENT",ES| TCM HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185305
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC BREAK HD" tvg-logo="" group-title="ES✦ ENTERTAINMENT",ES| AMC BREAK HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185306
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ENTERTAINMENT FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",✦●✦| ENTERTAINMENT FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185307
-#EXTINF:-1 tvg-id="" tvg-name="ES| DARK RED FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/acaef50d33fc86532c260a045c672f3e.png" group-title="ES✦ ENTERTAINMENT",ES| DARK RED FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185308
-#EXTINF:-1 tvg-id="" tvg-name="ES| SYFY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/38f03aa2b65064b232857f2ab8d91b0e.png" group-title="ES✦ ENTERTAINMENT",ES| SYFY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185309
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/37f89ab7ff764ff6cfbfbc4dedf1981e.png" group-title="ES✦ ENTERTAINMENT",ES| AMC FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185310
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/ceb0f316891950904bccb7fc370887c1.png" group-title="ES✦ ENTERTAINMENT",ES| AXN FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185311
-#EXTINF:-1 tvg-id="" tvg-name="ES| AXN WHITE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f60000f397bb31ec777675351d6564af.png" group-title="ES✦ ENTERTAINMENT",ES| AXN WHITE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185312
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC CRIME FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",ES| AMC CRIME FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185313
-#EXTINF:-1 tvg-id="" tvg-name="ES| AMC BREAK FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ENTERTAINMENT",ES| AMC BREAK FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185314
-#EXTINF:-1 tvg-id="" tvg-name="ES| CALLE 13 FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/813713073b59ddd878c3eda137b65909.png" group-title="ES✦ ENTERTAINMENT",ES| CALLE 13 FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185315
-#EXTINF:-1 tvg-id="" tvg-name="ES| DECASA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7bd717eff8e84e043ee8e8620ffa0420.png" group-title="ES✦ ENTERTAINMENT",ES| DECASA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185316
-#EXTINF:-1 tvg-id="" tvg-name="ES| COMEDY CENTRAL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/d728f73a8fef7ace0d98ff1a6f6e227d.png" group-title="ES✦ ENTERTAINMENT",ES| COMEDY CENTRAL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185317
-#EXTINF:-1 tvg-id="" tvg-name="ES| COSMO FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/b64030edc18d04b7f36b9146f20890ea.png" group-title="ES✦ ENTERTAINMENT",ES| COSMO FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185318
-#EXTINF:-1 tvg-id="" tvg-name="ES| FOX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/7d6b23f5b2db7dc7fe335aad8a32cca2.png" group-title="ES✦ ENTERTAINMENT",ES| FOX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185319
-#EXTINF:-1 tvg-id="" tvg-name="ES| HOLLYWOOD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/6cef866302cf1bbc663944d63ab5cf20.png" group-title="ES✦ ENTERTAINMENT",ES| HOLLYWOOD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185320
-#EXTINF:-1 tvg-id="" tvg-name="ES| PARAMOUNT CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3e48cca712d5060410a85a4135606ac8.png" group-title="ES✦ ENTERTAINMENT",ES| PARAMOUNT CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185321
-#EXTINF:-1 tvg-id="" tvg-name="ES| SUNDANCE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3eea757693671c29fd2cf8a89bc7fba0.png" group-title="ES✦ ENTERTAINMENT",ES| SUNDANCE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185322
-#EXTINF:-1 tvg-id="" tvg-name="ES| TCM FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/edd473be1285875448b1e418817a4d42.png" group-title="ES✦ ENTERTAINMENT",ES| TCM FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185323
-#EXTINF:-1 tvg-id="" tvg-name="ES| TNT FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/02c7d4f4a97bec1dc7d032cdf2f3f42d.png" group-title="ES✦ ENTERTAINMENT",ES| TNT FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185324
-#EXTINF:-1 tvg-id="" tvg-name="ES| NOVA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="ES✦ ENTERTAINMENT",ES| NOVA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185325
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CULTURA HD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ DOCUMENTALES",✦●✦| CULTURA HD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185326
-#EXTINF:-1 tvg-id="" tvg-name="ES| DKISS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/72f2f7f98207e5b7ac2d17ce56e559a3.png" group-title="ES✦ DOCUMENTALES",ES| DKISS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185327
-#EXTINF:-1 tvg-id="" tvg-name="ES| DMAX HD" tvg-logo="http://portal.bylr-tv.com:8080/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="ES✦ DOCUMENTALES",ES| DMAX HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185328
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1584fb7f0965b93c69abdc1f3a10466a.png" group-title="ES✦ DOCUMENTALES",ES| BLAZE HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185329
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZA Y PESCA  HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7bf0070dda7e642f746c3565858988c.png" group-title="ES✦ DOCUMENTALES",ES| CAZA Y PESCA  HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185330
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLAN HD" tvg-logo="http://portal.bylr-tv.com:8080/images/6bce6e591d28a68ffcc0e0937c1737cd.png" group-title="ES✦ DOCUMENTALES",ES| CLAN HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185331
-#EXTINF:-1 tvg-id="" tvg-name="ES| COSMO HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b64030edc18d04b7f36b9146f20890ea.png" group-title="ES✦ DOCUMENTALES",ES| COSMO HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185332
-#EXTINF:-1 tvg-id="" tvg-name="ES| CRIMEN+ INVESTIGACION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c64a95a7119ee94208b8f7ea0460daef.png" group-title="ES✦ DOCUMENTALES",ES| CRIMEN+ INVESTIGACION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185333
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISCOVERY CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="ES✦ DOCUMENTALES",ES| DISCOVERY CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185334
-#EXTINF:-1 tvg-id="" tvg-name="ES| FACTORIA DE FICCION HD" tvg-logo="http://portal.bylr-tv.com:8080/images/42b5104287c35e87cfd3ecb0de4cd403.png" group-title="ES✦ DOCUMENTALES",ES| FACTORIA DE FICCION HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185335
-#EXTINF:-1 tvg-id="" tvg-name="ES| HISTORIA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/657422a9e592924f33cf820a9935962d.png" group-title="ES✦ DOCUMENTALES",ES| HISTORIA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185336
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://portal.bylr-tv.com:8080/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC WILD HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185337
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC HD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5c051a2a7feff2e9d1ee16f3dd7cd84.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185338
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISNEY CHANNEL HD" tvg-logo="http://portal.bylr-tv.com:8080/images/2f44573497e1f92d929bb6171f74aaac.png" group-title="ES✦ DOCUMENTALES",ES| DISNEY CHANNEL HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185339
-#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO TV HD" tvg-logo="http://portal.bylr-tv.com:8080/images/b88f609005d139a789f3f79479ab617b.png" group-title="ES✦ DOCUMENTALES",ES| EL TORO TV HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185340
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL COCINA HD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a202ebc4349a224dae17333a8ba3fd9.png" group-title="ES✦ DOCUMENTALES",ES| CANAL COCINA HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185341
-#EXTINF:-1 tvg-id="" tvg-name="ES| TOROS HD" tvg-logo="http://portal.bylr-tv.com:8080/images/54f011b0c0ff969d8b89708f0d82d3ad.png" group-title="ES✦ DOCUMENTALES",ES| TOROS HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185342
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| CULTURA FHD |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ DOCUMENTALES",✦●✦| CULTURA FHD |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185343
-#EXTINF:-1 tvg-id="" tvg-name="ES| DMAX FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" group-title="ES✦ DOCUMENTALES",ES| DMAX FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185344
-#EXTINF:-1 tvg-id="" tvg-name="ES| DKISS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/72f2f7f98207e5b7ac2d17ce56e559a3.png" group-title="ES✦ DOCUMENTALES",ES| DKISS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185345
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1584fb7f0965b93c69abdc1f3a10466a.png" group-title="ES✦ DOCUMENTALES",ES| BLAZE FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185346
-#EXTINF:-1 tvg-id="" tvg-name="ES| CANAL COCINA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1a202ebc4349a224dae17333a8ba3fd9.png" group-title="ES✦ DOCUMENTALES",ES| CANAL COCINA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185347
-#EXTINF:-1 tvg-id="" tvg-name="ES| ODISEA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/1e51366df17c247341661eab945847dd.png" group-title="ES✦ DOCUMENTALES",ES| ODISEA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185348
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZA Y PESCA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7bf0070dda7e642f746c3565858988c.png" group-title="ES✦ DOCUMENTALES",ES| CAZA Y PESCA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185349
-#EXTINF:-1 tvg-id="" tvg-name="ES| CLAN FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/6bce6e591d28a68ffcc0e0937c1737cd.png" group-title="ES✦ DOCUMENTALES",ES| CLAN FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185350
-#EXTINF:-1 tvg-id="" tvg-name="ES| CRIMEN & INVESTIGACION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/c64a95a7119ee94208b8f7ea0460daef.png" group-title="ES✦ DOCUMENTALES",ES| CRIMEN & INVESTIGACION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185351
-#EXTINF:-1 tvg-id="" tvg-name="ES| DISCOVERY CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5be5d6686f2b4da516564958f23fbbe.png" group-title="ES✦ DOCUMENTALES",ES| DISCOVERY CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185352
-#EXTINF:-1 tvg-id="" tvg-name="ES| DIVINITY FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/3c8405da4e10d8bf6ac8bd5b725c6d56.png" group-title="ES✦ DOCUMENTALES",ES| DIVINITY FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185353
-#EXTINF:-1 tvg-id="" tvg-name="ES| HISTORIA FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/657422a9e592924f33cf820a9935962d.png" group-title="ES✦ DOCUMENTALES",ES| HISTORIA FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185354
-#EXTINF:-1 tvg-id="" tvg-name="ES| NAUTICAL CHANNEL FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/dcfd74beef8b6b18e5c42a6532ceee8b.png" group-title="ES✦ DOCUMENTALES",ES| NAUTICAL CHANNEL FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185355
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC WILD FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185356
-#EXTINF:-1 tvg-id="" tvg-name="ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/f5c051a2a7feff2e9d1ee16f3dd7cd84.png" group-title="ES✦ DOCUMENTALES",ES| NATIONAL GEOGRAPHIC FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185357
-#EXTINF:-1 tvg-id="" tvg-name="ES| TOROS FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/54f011b0c0ff969d8b89708f0d82d3ad.png" group-title="ES✦ DOCUMENTALES",ES| TOROS FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185358
-#EXTINF:-1 tvg-id="" tvg-name="ES| ARAGON TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/cb4f8ee0aa87a787a9f558b8e0268f20.png" group-title="ES✦ DOCUMENTALES",ES| ARAGON TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185359
-#EXTINF:-1 tvg-id="" tvg-name="ES| FACTORIA DE FICCION FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/42b5104287c35e87cfd3ecb0de4cd403.png" group-title="ES✦ DOCUMENTALES",ES| FACTORIA DE FICCION FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185360
-#EXTINF:-1 tvg-id="" tvg-name="ES| HORSE TV FHD" tvg-logo="http://portal.bylr-tv.com:8080/images/5580b2daa12c1eee42bfb8e513684f98.png" group-title="ES✦ DOCUMENTALES",ES| HORSE TV FHD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185361
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦| ALQUILER PPV |✦●✦" tvg-logo="http://portal.bylr-tv.com:8080/images/59240330332adfccfbe033ba96e84f20.png" group-title="ES✦ ALQUILER PPV",✦●✦| ALQUILER PPV |✦●✦
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185362
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 1 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185363
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 2 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185364
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 3 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185365
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 4 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 4 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185366
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 5 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 5 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185367
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 6 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 6 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185368
-#EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 7 HD
-http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185369
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720  
+http://127.0.0.1:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 720 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=05241e69091eedbb354f2651d30c83f40d1bb653
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 3 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 4 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 5 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080  
+http://127.0.0.1:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080  
+http://127.0.0.1:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720  
+http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080  
+http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720  
+http://127.0.0.1:6878/ace/getstream?id=47c6e8dadfba2b3bd013feecf4194ecceec428cd
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 720  
+http://127.0.0.1:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080  
+http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 720  
+http://127.0.0.1:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 2 720  
+http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 4 1080  
+http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 5 1080  
+http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 6 1080  
+http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080  
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 720  
+http://127.0.0.1:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 2 720  
+http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 3  
+http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 4  
+http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 5  
+http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 6   
+http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 7   
+http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 8  
+http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga TV Bar 1080  
+http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,BarÃ§a 720  
+http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 720  
+http://127.0.0.1:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 2 720  
+http://127.0.0.1:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M.L. Campeones 3 720  
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M.L. Campeones 4 SD  
+http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M.L. Campeones 5 SD  
+http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 6 SD  
+http://127.0.0.1:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 7 SD  
+http://127.0.0.1:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 8 SD  
+http://127.0.0.1:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD  
+http://127.0.0.1:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD  
+http://127.0.0.1:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 11 SD  
+http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.L. Campeones 12 SD  
+http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 1080  
+http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos 720  
+http://127.0.0.1:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 1080  
+http://127.0.0.1:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 720  
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M. Deportes 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M. Deportes 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 4 1080  
+http://127.0.0.1:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 5 1080  
+http://127.0.0.1:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 6 720  
+http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf 1080  
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080  
+http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1  
+http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 UHD  
+http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,#Ellas 1080  
+http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080  
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,tdp 1080  
+http://127.0.0.1:6878/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tennis Channel  
+http://127.0.0.1:6878/ace/getstream?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
+#EXTINF:-1 group-title="Otro contenido" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080  
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080  
+http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV 1 1080  
+http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV 2 1080  
+http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport TV 3 1080  
+http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS Ã±  
+http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN COLOMBIA  
+http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA COLOMBIA   
+http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 2 COLOMBIA  
+http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 3 COLOMBIA  
+http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1080  
+http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,aquÃ­  
+http://127.0.0.1:6878/ace/getstream?id=8819c851e10adc18ad914805ec4a13ddfb67063c
