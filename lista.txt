@@ -799,3 +799,61 @@ http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185367
 http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185368
 #EXTINF:-1 tvg-id="" tvg-name="ES| ALQUILER 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/26567402a7e1282ec7f519c0f77724f3.png" group-title="ES✦ ALQUILER PPV",ES| ALQUILER 7 HD
 http://10.aslan-iptv.com:8080/ThomasMarquis/eLNHyao2nA/185369
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: MOVISTAR LALIGA HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: EUROSPORT 1 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="ES➾ISPANYA  ",ES: EUROSPORT 2
+http://23.146.40.150:8080/live/gokhansen/9524294530/72471.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL" tvg-logo="" group-title="ES➾ISPANYA  ",ES: GOL
+http://23.146.40.150:8080/live/gokhansen/9524294530/72472.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: LA LIGA TV HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72473.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.DEPORTES HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.DEPORTES HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72474.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.ESTRENOS HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.ESTRENOS HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72475.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FORMULA 1 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.FORMULA 1 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72476.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.GOLF HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.GOLF HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72477.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.LIGA DE CAMPEONES HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72478.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: DAZN 1 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72479.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: DAZN 2 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72480.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: DAZN 3 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72481.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: DAZN 4 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72482.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: DAZN F1 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72483.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: #VAMOS HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72484.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="" group-title="ES➾ISPANYA  ",ES: BARCA TV
+http://23.146.40.150:8080/live/gokhansen/9524294530/72485.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELE MADRID" tvg-logo="" group-title="ES➾ISPANYA  ",ES: TELE MADRID
+http://23.146.40.150:8080/live/gokhansen/9524294530/72486.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="ES➾ISPANYA  ",ES: TELEDEPORTE
+http://23.146.40.150:8080/live/gokhansen/9524294530/72487.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="ES➾ISPANYA  ",ES: Andalucia TV
+http://23.146.40.150:8080/live/gokhansen/9524294530/72488.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DCINE HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M. DCINE HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72489.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: MEZZO LIVE HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72490.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="ES➾ISPANYA  ",ES: #0
+http://23.146.40.150:8080/live/gokhansen/9524294530/72491.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.COMEDIA HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M.COMEDIA HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72492.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="" group-title="ES➾ISPANYA  ",ES: FOX NEWS
+http://23.146.40.150:8080/live/gokhansen/9524294530/72493.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 3 HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M. LaLiga 3 HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72494.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES HD" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M. SERIES HD
+http://23.146.40.150:8080/live/gokhansen/9524294530/72495.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Cine Espaæol" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M. Cine Espaæol
+http://23.146.40.150:8080/live/gokhansen/9524294530/72496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Fest" tvg-logo="" group-title="ES➾ISPANYA  ",ES: M. Fest
+http://23.146.40.150:8080/live/gokhansen/9524294530/72497.ts
