@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio  
 http://127.0.0.1:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 MultiAudio  
