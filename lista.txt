@@ -18,10 +18,10 @@ http://406777867363321069.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321069.ts
 http://406777867363321072.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321072.ts
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name=" LA RESISTENCIA HD" tvg-logo="https://miguia.tv/channels/big_345.png" group-title="HD MOVISTAR+", LA RESISTENCIA HD
 http://406777867363321286.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321286.ts
-#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name=" M+ SERIES 2 HD" tvg-logo="https://miguia.tv/channels/big_230.png" group-title="HD MOVISTAR+", M+ SERIES 2 HD
-http://406777867363321345.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321345.ts
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-name=" M+ SERIES HD" tvg-logo="https://miguia.tv/channels/big_273.png" group-title="HD MOVISTAR+", M+ SERIES HD
 http://406777867363321348.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321348.ts
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name=" M+ SERIES 2 HD" tvg-logo="https://miguia.tv/channels/big_230.png" group-title="HD MOVISTAR+", M+ SERIES 2 HD
+http://406777867363321345.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321345.ts
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name=" M+ ESTRENOS HD" tvg-logo="https://miguia.tv/channels/big_274.png" group-title="HD MOVISTAR+", M+ ESTRENOS HD
 http://406777867363321338.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321338.ts
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name=" M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png" group-title="HD MOVISTAR+", M+ ESTRENOS 2 HD
