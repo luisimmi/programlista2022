@@ -34,9 +34,9 @@ http://406777867363321318.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321318.ts
 http://406777867363321332.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321332.ts
 #EXTINF:-1 tvg-id="ANTV TDT HD 2.sp" tvg-name=" M+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCION HD
 http://406777867363321306.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321306.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" M+ ACCIÂ©N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCIÂ©N HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" M+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCION HD
 http://406777867363321308.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321308.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ CINE ESPAÃNOL HD" tvg-logo="" group-title="HD MOVISTAR+", M+ CINE ESPAÃNOL HD
+#EXTINF:-1 tvg-id="" tvg-name=" M+ CINE ESPAÑOL HD" tvg-logo="" group-title="HD MOVISTAR+", M+ CINE ESPAÑOL HD
 http://406777867363321311.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321311.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name=" AMC HD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="HD MOVISTAR+", AMC HD
 http://406777867363321103.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321103.ts
