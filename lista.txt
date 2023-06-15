@@ -10,8 +10,8 @@ http://406777867363321197.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321197.ts
 http://406777867363321430.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321430.ts
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name=" LA SEXTA HD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="HD MOVISTAR+", LA SEXTA HD
 http://406777867363321289.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321289.ts
-#EXTINF:-1 tvg-id="" tvg-name=" CANAL SUR HD" tvg-logo="" group-title="HD MOVISTAR+", CANAL SUR HD
-http://406777867363339746.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/339746.ts
+#EXTINF:-1 tvg-id="ANTV TDT HD 2.sp" tvg-name="ES: CANAL SUR SD" tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="SD ES AUTONOMICOS",ES: CANAL SUR SD
+http://406777867363272448.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272448.ts
 #EXTINF:-1 tvg-id="#0 HD" tvg-name=" #0 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", #0 HD
 http://406777867363321069.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321069.ts
 #EXTINF:-1 tvg-id="DKISS.TV" tvg-name=" #VAMOS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aab581550279e56c78f6907c2c41197f.png" group-title="HD MOVISTAR+", #VAMOS HD
@@ -40,6 +40,8 @@ http://406777867363321308.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321308.ts
 http://406777867363321311.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321311.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name=" AMC HD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="HD MOVISTAR+", AMC HD
 http://406777867363321103.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321103.ts
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL SUR HD" tvg-logo="" group-title="HD MOVISTAR+", CANAL SUR HD
+http://406777867363339746.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/339746.ts
 #EXTINF:-1 tvg-id="" tvg-name=" ETB 1 HD" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" group-title="HD AUTONOMICOS", ETB 1 HD
 http://406777867363165332.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/165332.ts
 #EXTINF:-1 tvg-id="" tvg-name=" LA 7 HD" tvg-logo="http://graph.facebook.com/rtvcyl/picture?width=320&height=320" group-title="HD AUTONOMICOS", LA 7 HD
@@ -1098,8 +1100,7 @@ http://406777867363272436.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272436.ts
 http://406777867363272438.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272438.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SD" tvg-logo="http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="SD ES AUTONOMICOS",ES: CANAL EXTREMADURA SD
 http://406777867363272446.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272446.ts
-#EXTINF:-1 tvg-id="ANTV TDT HD 2.sp" tvg-name="ES: CANAL SUR SD" tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="SD ES AUTONOMICOS",ES: CANAL SUR SD
-http://406777867363272448.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272448.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: ERLO TELEBISTA SD" tvg-logo="http://graph.facebook.com/542582126141223/picture?width=320&height=320" group-title="SD ES AUTONOMICOS",ES: ERLO TELEBISTA SD
 http://406777867363272454.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/272454.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LEVANTE TV SD" tvg-logo="http://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="SD ES AUTONOMICOS",ES: LEVANTE TV SD
