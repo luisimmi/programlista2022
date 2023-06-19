@@ -32,9 +32,9 @@ http://406777867363321315.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321315.ts
 http://406777867363321318.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321318.ts
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name=" M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" group-title="HD MOVISTAR+", M+ DRAMA HD
 http://406777867363321332.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321332.ts
-#EXTINF:-1 tvg-id="ANTV TDT HD 2.sp" tvg-name=" M+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCION HD
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name=" M+ ACCIÓN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCIÓN HD
 http://406777867363321306.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321306.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name=" M+ ACCION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCION HD
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name=" M+ ACCIÓN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="HD MOVISTAR+", M+ ACCIÓN HD
 http://406777867363321308.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321308.ts
 #EXTINF:-1 tvg-id="" tvg-name=" M+ CINE ESPAÑOL HD" tvg-logo="" group-title="HD MOVISTAR+", M+ CINE ESPAÑOL HD
 http://406777867363321311.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321311.ts
