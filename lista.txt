@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="LUISMA" tvg-name="LUISMA" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="LUISMA", LUISMATV
-
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name=" LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="HD MOVISTAR+", LA 1 HD
 http://406777867363321277.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321277.ts
 #EXTINF:-1 tvg-id="la2.es" tvg-name=" LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="HD MOVISTAR+", LA 2 HD
