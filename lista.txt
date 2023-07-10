@@ -22,6 +22,8 @@ http://406777867363321286.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321286.ts
 http://406777867363321348.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321348.ts
 #EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name=" M+ SERIES 2 HD" tvg-logo="https://miguia.tv/channels/big_230.png" group-title="HD MOVISTAR+", M+ SERIES 2 HD
 http://406777867363321345.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321345.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ UNIVERSO TARANTINO HD" tvg-logo="" group-title="HD MOVISTAR+", M+ UNIVERSO TARANTINO HD
+http://406777867363379554.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/379554.ts
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name=" M+ ESTRENOS HD" tvg-logo="https://miguia.tv/channels/big_274.png" group-title="HD MOVISTAR+", M+ ESTRENOS HD
 http://406777867363321338.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321338.ts
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name=" M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png" group-title="HD MOVISTAR+", M+ ESTRENOS 2 HD
@@ -696,8 +698,6 @@ http://406777867363343875.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/343875.ts
 http://406777867363344721.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/344721.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TALKING TOM HEROES HD" tvg-logo="https://static.wikia.nocookie.net/outfit7talkingfriends/images/7/7a/SuddenlySuperlogo.png" group-title="HD MOVISTAR+", TALKING TOM HEROES HD
 http://406777867363356749.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/356749.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ UNIVERSO TARANTINO HD" tvg-logo="" group-title="HD MOVISTAR+", M+ UNIVERSO TARANTINO HD
-http://406777867363379554.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/379554.ts
 #EXTINF:-1 tvg-id="" tvg-name=" CANAL SUR A. HD" tvg-logo="" group-title="HD MOVISTAR+", CANAL SUR A. HD
 http://406777867363381730.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/381730.ts
 #EXTINF:-1 tvg-id="" tvg-name=" M+ XTRA HD" tvg-logo="" group-title="HD MOVISTAR+", M+ XTRA HD
@@ -1866,6 +1866,8 @@ http://406777867363321429.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321429.ts
 http://406777867363321196.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321196.ts
 #EXTINF:-1 tvg-id="AMC FHD" tvg-name=" AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="FHD MOVISTAR+", AMC FHD
 http://406777867363321102.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321102.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ UNIVERSO TARANTINO FHD" tvg-logo="" group-title="FHD MOVISTAR+", M+ UNIVERSO TARANTINO FHD
+http://406777867363379553.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/379553.ts
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-name=" #0 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="FHD MOVISTAR+", #0 FHD
 http://406777867363321068.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/321068.ts
 #EXTINF:-1 tvg-id="vamos.es" tvg-name=" #VAMOS FHD" tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png" group-title="FHD MOVISTAR+", #VAMOS FHD
@@ -2300,8 +2302,6 @@ http://406777867363363229.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/363229.ts
 http://406777867363372782.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/372782.ts
 #EXTINF:-1 tvg-id="" tvg-name=" M+ DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="FHD DAZN", M+ DAZN 1 FHD
 http://406777867363373766.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/373766.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ UNIVERSO TARANTINO FHD" tvg-logo="" group-title="FHD MOVISTAR+", M+ UNIVERSO TARANTINO FHD
-http://406777867363379553.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/379553.ts
 #EXTINF:-1 tvg-id="" tvg-name=" A3S ATRESERIES FHD" tvg-logo="" group-title="FHD MOVISTAR+", A3S ATRESERIES FHD
 http://406777867363381725.of2100.xyz:80/play/hu0110465/ud65GJkmsNj/381725.ts
 #EXTINF:-1 tvg-id="" tvg-name=" ALCARRIA TV FHD" tvg-logo="" group-title="FHD MOVISTAR+", ALCARRIA TV FHD
