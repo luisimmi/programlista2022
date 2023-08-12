@@ -43,7 +43,7 @@ LaLiga Smartbank 1080
 LaLiga Smartbank 720
 06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 LaLiga Smartbank 2 1080
-cf6249379184d88a61f9db617341c6b6e6abb342
+d81b4f2f3fde433539c097b2edc9b587ca47b087
 LaLiga Smartbank 2 720
 d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 LaLiga Smartbank 3
@@ -58,6 +58,8 @@ LaLiga Smartbank 7
 446e73a22582921393b020ed08b768ad8e14d754
 LaLiga Smartbank 8
 4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+M.Plus 1080
+5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #Vamos 1080
 859bb6295b8d0f224224d3063d9db7cdeca03122
 #Vamos 720
@@ -87,9 +89,9 @@ M.L. Campeones 1080 MultiAudio
 M.L. Campeones 720
 90beb42e9e276854348bc91a9ff3c3e46c617495
 M.L. Campeones 2 1080
-dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 M.L. Campeones 2 720
-2d584c7335ff44f97c3cf64947892ef30fde715c
+6753492c1908274c268a1b28e2a054a0ff8f86f9
 M.L. Campeones 3 1080
 ecf4ec41200785812c140e3d1050b412f1519fa7
 M.L. Campeones 3 720
