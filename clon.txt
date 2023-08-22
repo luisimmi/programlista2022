@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1,Canal F1 FHD (ES)
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/34701
 #EXTINF:-1,Barca TV SD (ES)
