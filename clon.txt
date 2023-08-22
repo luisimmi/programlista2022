@@ -417,10 +417,3 @@ http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/333098
 #EXTINF:-1,Mundotoro HD (es)
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/333099
 #EXTINF:-1,Mundotoro FHD (es)
-
-
-
-#EXTINF:-1,El fotógrafo de Mauthausen (2018)
-http://dnsplay.xyz:80/movie/joigcqhj/X44n6dH0cz/251005.mkv
-#EXTINF:-1,El último testigo (2018)
-http://dnsplay.xyz:80/movie/joigcqhj/X44n6dH0cz/251016.mkv
