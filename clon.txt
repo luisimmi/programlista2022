@@ -1,1013 +1,814 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" group-title="Lista 1", BLACKGHOST 01 http://bgtv.site/TV&f=file&dir=asdfasdfasdfasdfasdfasdf&f=.m3u8&f=file&dir=asdfasdfasdfasdfasdfasdf&f=.m3u8.ts 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 1", Apoyanos para seguirte ofreciendo mas opciones http://bgtv.site/TV&f=file&dir=asdfasdfasdfasdfasdfasdf&f=.m3u8.ts #EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 1", http://paypal.me/blackghost http://bgtv.site/TV&f=file&dir=asdfasdfasdfasdfasdfasdf&f=.m3u8 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Lista 1", A&E HD 
-http://bgtv.site/play/play-853.php?pl=474&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Lista 1", A+ 
-http://bgtv.site/play/play-853.php?pl=406&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png" group-title="Lista 1", A3Cine 
-http://bgtv.site/play/play-853.php?pl=945&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="Lista 1", A3Series 
-http://bgtv.site/play/play-853.php?pl=444&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Lista 1", ADN 40 
-http://bgtv.site/play/play-853.php?pl=447&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Lista 1", Afizzionados 
-http://bgtv.site/play/play-853.php?pl=939&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Lista 1", Afizzionados HD 
-http://bgtv.site/play/play-853.php?pl=878&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="Lista 1", Al Jazeera 
-http://bgtv.site/play/play-853.php?pl=668&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="Lista 1", Alf 
-http://bgtv.site/play/play-853.php?pl=426&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Lista 1", AMC 
-http://bgtv.site/play/play-853.php?pl=183&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Lista 1", AMC (ES) 
-http://bgtv.site/play/play-853.php?pl=981&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Lista 1", AMC HD 
-http://bgtv.site/play/play-853.php?pl=475&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Lista 1", America 
-http://bgtv.site/play/play-853.php?pl=780&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Lista 1", Animal Planet 
-http://bgtv.site/play/play-853.php?pl=3&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Lista 1", Animal Planet HD 
-http://bgtv.site/play/play-853.php?pl=633&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="Lista 1", Animaniacs 
-http://bgtv.site/play/play-853.php?pl=677&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="Lista 1", Antena 3 
-http://bgtv.site/play/play-853.php?pl=298&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 1", AXN 
-http://bgtv.site/play/play-853.php?pl=146&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 1", AXN HD 
-http://bgtv.site/play/play-853.php?pl=476&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 1", AXN HD (ES) 
-http://bgtv.site/play/play-853.php?pl=713&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Lista 1", AXN WHITE HD (ES) 
-http://bgtv.site/play/play-853.php?pl=714&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Lista 1", AyM Sports 
-http://bgtv.site/play/play-853.php?pl=148&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Lista 1", Az Cinema 
-http://bgtv.site/play/play-853.php?pl=186&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Lista 1", Az Clic 
-http://bgtv.site/play/play-853.php?pl=165&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Lista 1", Az Coraz\u00f3n 
-http://bgtv.site/play/play-853.php?pl=166&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Lista 1", Az Coraz\u00f3n HD 
-http://bgtv.site/play/play-853.php?pl=834&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Lista 1", Azteca 1 
-http://bgtv.site/play/play-853.php?pl=4&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Lista 1", Azteca 1 HD 
-http://bgtv.site/play/play-853.php?pl=634&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Lista 1", Azteca 7 
-http://bgtv.site/play/play-853.php?pl=5&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Lista 1", Azteca 7 HD 
-http://bgtv.site/play/play-853.php?pl=635&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Lista 1", Baby TV 
-http://bgtv.site/play/play-853.php?pl=7&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Lista 1", Bandamax 
-http://bgtv.site/play/play-853.php?pl=8&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Lista 1", Bandamax HD 
-http://bgtv.site/play/play-853.php?pl=833&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/basketamericas.jpg" group-title="Lista 1", Basket Americas 
-http://bgtv.site/play/play-853.php?pl=965&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bbc.png" group-title="Lista 1", BBC HD 
-http://bgtv.site/play/play-853.php?pl=931&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Lista 1", BeinSports 
-http://bgtv.site/play/play-853.php?pl=753&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Lista 1", BeinSports HD 
-http://bgtv.site/play/play-853.php?pl=9&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Lista 1", BeinSports \u00d1 
-http://bgtv.site/play/play-853.php?pl=761&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Lista 1", BeinSports \u00d1 HD 
-http://bgtv.site/play/play-853.php?pl=376&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png" group-title="Lista 1", BitMe 
-http://bgtv.site/play/play-853.php?pl=946&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="Lista 1", Bob Esponja 
-http://bgtv.site/play/play-853.php?pl=518&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Lista 1", Bolivision 
-http://bgtv.site/play/play-853.php?pl=783&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Lista 1", Breaking Bad 
-http://bgtv.site/play/play-853.php?pl=846&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="Lista 1", Caballeros del Zodiaco 
-http://bgtv.site/play/play-853.php?pl=427&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Lista 1", Canal 5 
-http://bgtv.site/play/play-853.php?pl=14&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Lista 1", Canal 5 HD 
-http://bgtv.site/play/play-853.php?pl=941&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Lista 1", Canal 5 Honduras 
-http://bgtv.site/play/play-853.php?pl=773&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Lista 1", Canal 5 Op. 2 
-http://bgtv.site/play/play-853.php?pl=999&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelamusica.png" group-title="Lista 1", Canal de la Musica 
-http://bgtv.site/play/play-853.php?pl=962&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Lista 1", Canal de las Estrellas 
-http://bgtv.site/play/play-853.php?pl=411&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Lista 1", Canal de las Estrellas -2 Horas 
-http://bgtv.site/play/play-853.php?pl=308&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Lista 1", Canal de las Estrellas HD 
-http://bgtv.site/play/play-853.php?pl=636&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Lista 1", Canal+ Toros 
-http://bgtv.site/play/play-853.php?pl=369&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Candy Candy 
-http://bgtv.site/play/play-853.php?pl=808&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="Lista 1", Cantinflas 
-http://bgtv.site/play/play-853.php?pl=428&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Lista 1", Caracol 
-http://bgtv.site/play/play-853.php?pl=391&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Lista 1", Caracol Internacional 
-http://bgtv.site/play/play-853.php?pl=290&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Lista 1", Cartoon Network 
-http://bgtv.site/play/play-853.php?pl=17&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Lista 1", Cartoon Network HD 
-http://bgtv.site/play/play-853.php?pl=637&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Lista 1", Cartoonito (Boomerang) 
-http://bgtv.site/play/play-853.php?pl=11&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Lista 1", Cartoonito (Boomerang) HD 
-http://bgtv.site/play/play-853.php?pl=824&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="Lista 1", Caso Cerrado 
-http://bgtv.site/play/play-853.php?pl=907&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Lista 1", CBeebies 
-http://bgtv.site/play/play-853.php?pl=13&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbs.png" group-title="Lista 1", CBS HD 
-http://bgtv.site/play/play-853.php?pl=932&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Lista 1", CDF Premium 
-http://bgtv.site/play/play-853.php?pl=318&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="Lista 1", CDF Premium HD 
-http://bgtv.site/play/play-853.php?pl=725&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Lista 1", CDN Sportsmax 
-http://bgtv.site/play/play-853.php?pl=206&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Lista 1", CDO Premium 
-http://bgtv.site/play/play-853.php?pl=401&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/celebritydeathmatch.png" group-title="Lista 1", Celebrity Deathmatch (EN) 
-http://bgtv.site/play/play-853.php?pl=985&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="Lista 1", Chapulin Colorado 
-http://bgtv.site/play/play-853.php?pl=418&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="Lista 1", Chespirito 
-http://bgtv.site/play/play-853.php?pl=417&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Lista 1", CHV Chilevision 
-http://bgtv.site/play/play-853.php?pl=198&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Accion 
-http://bgtv.site/play/play-853.php?pl=990&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Accion HD 
-http://bgtv.site/play/play-853.php?pl=706&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Accion Sagas 
-http://bgtv.site/play/play-853.php?pl=700&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Accion Sagas HD 
-http://bgtv.site/play/play-853.php?pl=707&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Comedia 1 
-http://bgtv.site/play/play-853.php?pl=695&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Comedia 1 HD 
-http://bgtv.site/play/play-853.php?pl=914&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Comedia 2 
-http://bgtv.site/play/play-853.php?pl=696&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Comedia 2 HD 
-http://bgtv.site/play/play-853.php?pl=915&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Ficcion\/Fantasia 1 
-http://bgtv.site/play/play-853.php?pl=709&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Ficcion\/Fantasia 2 
-http://bgtv.site/play/play-853.php?pl=710&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Ficcion\/Fantasia HD 
-http://bgtv.site/play/play-853.php?pl=712&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Infantil 
-http://bgtv.site/play/play-853.php?pl=687&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Infantil HD 
-http://bgtv.site/play/play-853.php?pl=702&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Infantil Sagas 
-http://bgtv.site/play/play-853.php?pl=694&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Infantil Sagas HD 
-http://bgtv.site/play/play-853.php?pl=703&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Lista 1", Cine Latino 
-http://bgtv.site/play/play-853.php?pl=295&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Marvel 
-http://bgtv.site/play/play-853.php?pl=697&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Marvel HD 
-http://bgtv.site/play/play-853.php?pl=701&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Navidad 
-http://bgtv.site/play/play-853.php?pl=699&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Navidad HD 
-http://bgtv.site/play/play-853.php?pl=991&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Romance 
-http://bgtv.site/play/play-853.php?pl=689&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Romance HD 
-http://bgtv.site/play/play-853.php?pl=705&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Suspenso 
-http://bgtv.site/play/play-853.php?pl=912&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Terror 
-http://bgtv.site/play/play-853.php?pl=693&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Terror HD 
-http://bgtv.site/play/play-853.php?pl=704&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Zombis 
-http://bgtv.site/play/play-853.php?pl=688&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Cine Zombis HD 
-http://bgtv.site/play/play-853.php?pl=917&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Lista 1", Cinecanal 
-http://bgtv.site/play/play-853.php?pl=18&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Lista 1", Cinecanal HD 
-http://bgtv.site/play/play-853.php?pl=479&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Lista 1", Cinemax 
-http://bgtv.site/play/play-853.php?pl=20&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Lista 1", Cinemax HD 
-http://bgtv.site/play/play-853.php?pl=638&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Lista 1", Claro Sports 
-http://bgtv.site/play/play-853.php?pl=328&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Lista 1", CNN en Espa\u00f1ol 
-http://bgtv.site/play/play-853.php?pl=136&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Lista 1", Comedy Central 
-http://bgtv.site/play/play-853.php?pl=135&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Lista 1", Comedy Central (ES) 
-http://bgtv.site/play/play-853.php?pl=719&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Lista 1", Comedy Central HD 
-http://bgtv.site/play/play-853.php?pl=480&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="Lista 1", Coraje el Perro Cobarde 
-http://bgtv.site/play/play-853.php?pl=519&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="Lista 1", Crime Investigation (ES) 
-http://bgtv.site/play/play-853.php?pl=720&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="Lista 1", CSI: Miami 
-http://bgtv.site/play/play-853.php?pl=908&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/daria.png" group-title="Lista 1", Daria 
-http://bgtv.site/play/play-853.php?pl=983&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Lista 1", De Pel\u00edcula 
-http://bgtv.site/play/play-853.php?pl=21&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Lista 1", De Pelicula HD 
-http://bgtv.site/play/play-853.php?pl=481&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Lista 1", DHE 
-http://bgtv.site/play/play-853.php?pl=844&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="Lista 1", Dinosaurios 
-http://bgtv.site/play/play-853.php?pl=670&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvplus.png" group-title="Lista 1", DirecTV Plus 
-http://bgtv.site/play/play-853.php?pl=935&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Lista 1", DirecTV Sports 
-http://bgtv.site/play/play-853.php?pl=259&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DirecTV Sports 2 
-http://bgtv.site/play/play-853.php?pl=667&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DirecTV Sports 2 HD 
-http://bgtv.site/play/play-853.php?pl=975&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Lista 1", DirecTV Sports 2 Sur HD 
-http://bgtv.site/play/play-853.php?pl=978&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Lista 1", DirecTV Sports HD 
-http://bgtv.site/play/play-853.php?pl=974&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Lista 1", Discovery Channel 
-http://bgtv.site/play/play-853.php?pl=22&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Lista 1", Discovery Channel HD 
-http://bgtv.site/play/play-853.php?pl=639&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Lista 1", Discovery Civilization 
-http://bgtv.site/play/play-853.php?pl=23&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Lista 1", Discovery H&H 
-http://bgtv.site/play/play-853.php?pl=24&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Lista 1", Discovery H&H HD 
-http://bgtv.site/play/play-853.php?pl=640&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Lista 1", Discovery Kids 
-http://bgtv.site/play/play-853.php?pl=25&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Lista 1", Discovery Kids HD 
-http://bgtv.site/play/play-853.php?pl=641&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Lista 1", Discovery SCI 
-http://bgtv.site/play/play-853.php?pl=26&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Lista 1", Discovery Theater HD 
-http://bgtv.site/play/play-853.php?pl=27&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Lista 1", Discovery Turbo 
-http://bgtv.site/play/play-853.php?pl=28&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Lista 1", Discovery Turbo HD 
-http://bgtv.site/play/play-853.php?pl=727&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Lista 1", Discovery World 
-http://bgtv.site/play/play-853.php?pl=187&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Lista 1", Disney Channel 
-http://bgtv.site/play/play-853.php?pl=29&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Lista 1", Disney Junior 
-http://bgtv.site/play/play-853.php?pl=30&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Lista 1", Disney Junior HD 
-http://bgtv.site/play/play-853.php?pl=826&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Lista 1", Disney XD 
-http://bgtv.site/play/play-853.php?pl=31&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Lista 1", Disney XD HD 
-http://bgtv.site/play/play-853.php?pl=827&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Lista 1", Distrito Comedia 
-http://bgtv.site/play/play-853.php?pl=32&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="Lista 1", DMax HD 
-http://bgtv.site/play/play-853.php?pl=923&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="Lista 1", Doraemon 
-http://bgtv.site/play/play-853.php?pl=521&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="Lista 1", Dragon Ball (ES) 
-http://bgtv.site/play/play-853.php?pl=984&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="Lista 1", Dragon Ball 
-http://bgtv.site/play/play-853.php?pl=425&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="Lista 1", Dragon Ball GT 
-http://bgtv.site/play/play-853.php?pl=520&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="Lista 1", Dragon Ball Super 
-http://bgtv.site/play/play-853.php?pl=424&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="Lista 1", Dragon Ball Z 
-http://bgtv.site/play/play-853.php?pl=329&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballzkai.png" group-title="Lista 1", Dragon Ball Z Kai 
-http://bgtv.site/play/play-853.php?pl=993&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Lista 1", E! 
-http://bgtv.site/play/play-853.php?pl=33&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Lista 1", E! HD 
-http://bgtv.site/play/play-853.php?pl=483&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Lista 1", Ecuavisa 
-http://bgtv.site/play/play-853.php?pl=319&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Lista 1", El 13 Argentina 
-http://bgtv.site/play/play-853.php?pl=239&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Lista 1", El Canal Del Futbol 
-http://bgtv.site/play/play-853.php?pl=892&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="Lista 1", El Chavo Animado 
-http://bgtv.site/play/play-853.php?pl=790&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="Lista 1", El Chavo del 8 
-http://bgtv.site/play/play-853.php?pl=400&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcondepatula.png" group-title="Lista 1", El Conde Patula 
-http://bgtv.site/play/play-853.php?pl=949&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="Lista 1", El Coyote y el Correcaminos 
-http://bgtv.site/play/play-853.php?pl=429&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Lista 1", El Gallo Claudio 
-http://bgtv.site/play/play-853.php?pl=845&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Lista 1", El Gourmet 
-http://bgtv.site/play/play-853.php?pl=157&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="Lista 1", El Increible Mundo de Gumball 
-http://bgtv.site/play/play-853.php?pl=791&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Lista 1", El Nueve 
-http://bgtv.site/play/play-853.php?pl=772&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="Lista 1", El Pajaro Loco 
-http://bgtv.site/play/play-853.php?pl=525&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="Lista 1", El Principel del Rap 
-http://bgtv.site/play/play-853.php?pl=430&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Lista 1", El Se\u00f1or de los Cielos 
-http://bgtv.site/play/play-853.php?pl=820&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Lista 1", El Trece 
-http://bgtv.site/play/play-853.php?pl=765&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", El Trece 
-http://bgtv.site/play/play-853.php?pl=767&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Lista 1", ESPN 
-http://bgtv.site/play/play-853.php?pl=34&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 
-http://bgtv.site/play/play-853.php?pl=35&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 HD 
-http://bgtv.site/play/play-853.php?pl=484&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Lista 1", ESPN 2 MX 
-http://bgtv.site/play/play-853.php?pl=531&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="Lista 1", ESPN 3 HD 
-http://bgtv.site/play/play-853.php?pl=485&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="Lista 1", ESPN 4 
-http://bgtv.site/play/play-853.php?pl=951&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Lista 1", ESPN HD 
-http://bgtv.site/play/play-853.php?pl=486&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Lista 1", ESPN MX 
-http://bgtv.site/play/play-853.php?pl=530&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Lista 1", ESPN Plus 
-http://bgtv.site/play/play-853.php?pl=37&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Lista 1", ESPN Plus HD 
-http://bgtv.site/play/play-853.php?pl=487&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Lista 1", ESPN Premium 
-http://bgtv.site/play/play-853.php?pl=972&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Lista 1", ESPN Premium HD 
-http://bgtv.site/play/play-853.php?pl=952&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Lista 1", Estrella TV 
-http://bgtv.site/play/play-853.php?pl=177&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="Lista 1", Europa 
-http://bgtv.site/play/play-853.php?pl=957&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Lista 1", Film & Arts HD 
-http://bgtv.site/play/play-853.php?pl=149&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="Lista 1", Film & Arts HD (EN) 
-http://bgtv.site/play/play-853.php?pl=729&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="Lista 1", Food Network 
-http://bgtv.site/play/play-853.php?pl=961&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Lista 1", Formula 1 TV (F1) 
-http://bgtv.site/play/play-853.php?pl=192&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Lista 1", Fox (ES) HD 
-http://bgtv.site/play/play-853.php?pl=926&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png" group-title="Lista 1", Fox News 
-http://bgtv.site/play/play-853.php?pl=960&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports 
-http://bgtv.site/play/play-853.php?pl=52&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Lista 1", Fox Sports 2 
-http://bgtv.site/play/play-853.php?pl=53&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Lista 1", Fox Sports 2 Argentina HD 
-http://bgtv.site/play/play-853.php?pl=770&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Lista 1", Fox Sports 2 HD 
-http://bgtv.site/play/play-853.php?pl=494&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Lista 1", Fox Sports 2 MX 
-http://bgtv.site/play/play-853.php?pl=528&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Lista 1", Fox Sports 3 HD 
-http://bgtv.site/play/play-853.php?pl=839&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Lista 1", Fox Sports 3 MX 
-http://bgtv.site/play/play-853.php?pl=54&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports Argentina HD 
-http://bgtv.site/play/play-853.php?pl=769&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports HD 
-http://bgtv.site/play/play-853.php?pl=493&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports MX 
-http://bgtv.site/play/play-853.php?pl=527&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports MX Op. 2 
-http://bgtv.site/play/play-853.php?pl=998&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Lista 1", Fox Sports Premium 
-http://bgtv.site/play/play-853.php?pl=512&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Lista 1", Fox Sports Premium HD 
-http://bgtv.site/play/play-853.php?pl=658&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Lista 1", Fox Sports Sur 
-http://bgtv.site/play/play-853.php?pl=402&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Lista 1", Fox Sports Sur 2 
-http://bgtv.site/play/play-853.php?pl=410&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Lista 1", Fox Sports Sur 3 
-http://bgtv.site/play/play-853.php?pl=511&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png" group-title="Lista 1", FS1 USA HD 
-http://bgtv.site/play/play-853.php?pl=936&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs2.png" group-title="Lista 1", FS2 USA HD 
-http://bgtv.site/play/play-853.php?pl=937&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Futurama http://bgtv.site/play/play-853.php?pl=793&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Lista 1", FX 
-http://bgtv.site/play/play-853.php?pl=42&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Lista 1", FX HD 
-http://bgtv.site/play/play-853.php?pl=495&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Lista 1", FXM 
-http://bgtv.site/play/play-853.php?pl=43&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Lista 1", FXM HD 
-http://bgtv.site/play/play-853.php?pl=488&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Lista 1", Gala TV 
-http://bgtv.site/play/play-853.php?pl=56&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Lista 1", Gala TV HD 
-http://bgtv.site/play/play-853.php?pl=651&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Lista 1", Gamavision 
-http://bgtv.site/play/play-853.php?pl=891&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="Lista 1", Game of Thrones 
-http://bgtv.site/play/play-853.php?pl=515&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/garagetv.png" group-title="Lista 1", Garage TV HD 
-http://bgtv.site/play/play-853.php?pl=156&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", Garfield
-http://bgtv.site/play/play-853.php?pl=812&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Lista 1", Glitz 
-http://bgtv.site/play/play-853.php?pl=158&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Lista 1", Gol Peru 
-http://bgtv.site/play/play-853.php?pl=686&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Lista 1", Gol TV 
-http://bgtv.site/play/play-853.php?pl=287&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Lista 1", Gol TV HD 
-http://bgtv.site/play/play-853.php?pl=514&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Lista 1", Golden 
-http://bgtv.site/play/play-853.php?pl=57&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Lista 1", Golden Edge 
-http://bgtv.site/play/play-853.php?pl=58&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Lista 1", Golden HD 
-http://bgtv.site/play/play-853.php?pl=496&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png" group-title="Lista 1", Golf Channel HD 
-http://bgtv.site/play/play-853.php?pl=964&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Lista 1", H2 
-http://bgtv.site/play/play-853.php?pl=61&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/happytreefriends.png" group-title="Lista 1", Happy Tree Friends 
-http://bgtv.site/play/play-853.php?pl=992&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Lista 1", HBO 
-http://bgtv.site/play/play-853.php?pl=62&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Lista 1", HBO (EN) 
-http://bgtv.site/play/play-853.php?pl=723&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 
-http://bgtv.site/play/play-853.php?pl=300&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 (EN) 
-http://bgtv.site/play/play-853.php?pl=724&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 HD 
-http://bgtv.site/play/play-853.php?pl=732&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Lista 1", HBO 2 HD (EN) 
-http://bgtv.site/play/play-853.php?pl=733&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Lista 1", HBO Family 
-http://bgtv.site/play/play-853.php?pl=63&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Lista 1", HBO Family HD 
-http://bgtv.site/play/play-853.php?pl=968&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Lista 1", HBO HD 
-http://bgtv.site/play/play-853.php?pl=654&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png" group-title="Lista 1", HBO Mundi HD 
-http://bgtv.site/play/play-853.php?pl=841&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Lista 1", HBO Plus 
-http://bgtv.site/play/play-853.php?pl=64&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Lista 1", HBO Plus (EN) 
-http://bgtv.site/play/play-853.php?pl=722&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Lista 1", HBO Plus HD 
-http://bgtv.site/play/play-853.php?pl=655&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Lista 1", HBO Plus Oeste HD 
-http://bgtv.site/play/play-853.php?pl=728&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png" group-title="Lista 1", HBO Pop 
-http://bgtv.site/play/play-853.php?pl=977&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Lista 1", HBO Xtreme 
-http://bgtv.site/play/play-853.php?pl=814&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Lista 1", HBO Xtreme HD 
-http://bgtv.site/play/play-853.php?pl=971&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Lista 1", HCH 
-http://bgtv.site/play/play-853.php?pl=779&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heman.png" group-title="Lista 1", He-Man 
-http://bgtv.site/play/play-853.php?pl=996&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="Lista 1", Hey Arnold 
-http://bgtv.site/play/play-853.php?pl=522&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Lista 1", Historia (ES) 
-http://bgtv.site/play/play-853.php?pl=718&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Lista 1", History Channel 
-http://bgtv.site/play/play-853.php?pl=67&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Lista 1", History Channel HD 
-http://bgtv.site/play/play-853.php?pl=642&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Lista 1", Hola TV 
-http://bgtv.site/play/play-853.php?pl=189&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Lista 1", HTV 
-http://bgtv.site/play/play-853.php?pl=66&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Lista 1", I.Sat 
-http://bgtv.site/play/play-853.php?pl=153&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Lista 1", Imagen Television 
-http://bgtv.site/play/play-853.php?pl=341&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Lista 1", Imagen Televisi\u00f3n HD 
-http://bgtv.site/play/play-853.php?pl=643&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Lista 1", Investigation Discovery 
-http://bgtv.site/play/play-853.php?pl=68&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Lista 1", Investigation Discovery HD 
-http://bgtv.site/play/play-853.php?pl=825&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ironman.png" group-title="Lista 1", Ironman 
-http://bgtv.site/play/play-853.php?pl=948&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="Lista 1", Johnny Bravo 
-http://bgtv.site/play/play-853.php?pl=786&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="Lista 1", Jorge el Curioso 
-http://bgtv.site/play/play-853.php?pl=909&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la1.png" group-title="Lista 1", La 1 HD 
-http://bgtv.site/play/play-853.php?pl=927&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/la2hd.png" group-title="Lista 1", La 2 HD 
-http://bgtv.site/play/play-853.php?pl=967&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png" group-title="Lista 1", La Familia Monster 
-http://bgtv.site/play/play-853.php?pl=910&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", La Familia PeLuche 
-
-http://bgtv.site/play/play-853.php?pl=811&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="Lista 1", La Hora Pico 
-http://bgtv.site/play/play-853.php?pl=887&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="Lista 1", La Pantera Rosa 
-http://bgtv.site/play/play-853.php?pl=671&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="Lista 1", La Peque\u00f1a Lulu 
-http://bgtv.site/play/play-853.php?pl=792&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="Lista 1", La Rosa de Guadalupe 
-http://bgtv.site/play/play-853.php?pl=886&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="Lista 1", La Sexta HD 
-http://bgtv.site/play/play-853.php?pl=928&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Lista 1", La Vaca y ElPollito 
-http://bgtv.site/play/play-853.php?pl=809&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Lista 1", Latina TV 
-http://bgtv.site/play/play-853.php?pl=782&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="Lista 1", Le Temes a la Oscuridad 
-http://bgtv.site/play/play-853.php?pl=888&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Lista 1", Lifetime 
-http://bgtv.site/play/play-853.php?pl=152&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Lista 1", Liga de Campeones 
-http://bgtv.site/play/play-853.php?pl=890&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Lista 1", Liga de Campeones 2 
-http://bgtv.site/play/play-853.php?pl=893&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="Lista 1", Looney Tunes 
-http://bgtv.site/play/play-853.php?pl=524&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="Lista 1", Los 3 Chiflados 
-http://bgtv.site/play/play-853.php?pl=423&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Lista 1", Los A\u00f1os Maravillosos 
-http://bgtv.site/play/play-853.php?pl=810&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Lista 1", Los Padrinos Magicos 
-http://bgtv.site/play/play-853.php?pl=813&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="Lista 1", Los Picapiedra 
-http://bgtv.site/play/play-853.php?pl=669&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="Lista 1", Los Pinguinos de Madagascar 
-http://bgtv.site/play/play-853.php?pl=794&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="Lista 1", Los Pitufos 
-http://bgtv.site/play/play-853.php?pl=795&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="Lista 1", Los Reyes de la Colina 
-http://bgtv.site/play/play-853.php?pl=796&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 1-5) 
-http://bgtv.site/play/play-853.php?pl=894&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 12-17) 
-http://bgtv.site/play/play-853.php?pl=896&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 18-21) 
-http://bgtv.site/play/play-853.php?pl=897&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 22-26) 
-http://bgtv.site/play/play-853.php?pl=898&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 27-30) 
-http://bgtv.site/play/play-853.php?pl=899&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson (Temporadas 6-11) 
-http://bgtv.site/play/play-853.php?pl=895&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="Lista 1", Los Simpson 
-http://bgtv.site/play/play-853.php?pl=357&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="Lista 1", Los Supersonicos 
-http://bgtv.site/play/play-853.php?pl=797&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Lista 1", Los Vengadores Unidos 
-http://bgtv.site/play/play-853.php?pl=818&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="Lista 1", Malcolm 
-http://bgtv.site/play/play-853.php?pl=911&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="Lista 1", Malcolm HD 
-http://bgtv.site/play/play-853.php?pl=798&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Lista 1", M\u00e1s chic 
-http://bgtv.site/play/play-853.php?pl=180&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Max Prime HD 
-http://bgtv.site/play/play-853.php?pl=730&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Lista 1", Max Steel 
-http://bgtv.site/play/play-853.php?pl=880&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Max Up HD 
-http://bgtv.site/play/play-853.php?pl=659&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Lista 1", Mega 
-http://bgtv.site/play/play-853.php?pl=766&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Lista 1", Mega 
-http://bgtv.site/play/play-853.php?pl=784&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Lista 1", Mega ES HD 
-http://bgtv.site/play/play-853.php?pl=929&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", MegaCine HD 
-http://bgtv.site/play/play-853.php?pl=517&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Lista 1", MLB Network 
-http://bgtv.site/play/play-853.php?pl=293&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/morbidotv.png" group-title="Lista 1", Morbido TV 
-http://bgtv.site/play/play-853.php?pl=966&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Lista 1", Movie Max 
-http://bgtv.site/play/play-853.php?pl=678&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="Lista 1", Movistar Accion HD 
-http://bgtv.site/play/play-853.php?pl=364&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="Lista 1", Movistar Cine \u00d1 
-http://bgtv.site/play/play-853.php?pl=371&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="Lista 1", Movistar Comedia 
-http://bgtv.site/play/play-853.php?pl=370&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Lista 1", Movistar Deportes 2 HD 
-http://bgtv.site/play/play-853.php?pl=367&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Lista 1", Movistar Deportes HD 
-http://bgtv.site/play/play-853.php?pl=925&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Lista 1", Movistar Deportes Sur 
-http://bgtv.site/play/play-853.php?pl=366&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="Lista 1", Movistar Estrenos HD 
-http://bgtv.site/play/play-853.php?pl=976&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="Lista 1", Movistar LaLiga HD 
-http://bgtv.site/play/play-853.php?pl=916&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="Lista 1", Movistar Series HD 
-http://bgtv.site/play/play-853.php?pl=924&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="Lista 1", Mr. Bean 
-http://bgtv.site/play/play-853.php?pl=431&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV 
-http://bgtv.site/play/play-853.php?pl=69&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV (ES) 
-http://bgtv.site/play/play-853.php?pl=803&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV 00s 
-http://bgtv.site/play/play-853.php?pl=953&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV 90s 
-http://bgtv.site/play/play-853.php?pl=955&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV HD 
-http://bgtv.site/play/play-853.php?pl=828&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Lista 1", MTV Live 
-http://bgtv.site/play/play-853.php?pl=70&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV Sur 
-http://bgtv.site/play/play-853.php?pl=823&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Lista 1", MTV WW 
-http://bgtv.site/play/play-853.php?pl=954&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchmusic.png" group-title="Lista 1", Much Music 
-http://bgtv.site/play/play-853.php?pl=950&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png" group-title="Lista 1", Mucha Lucha 
-http://bgtv.site/play/play-853.php?pl=994&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/muchalucha.png" group-title="Lista 1", Mucha Lucha HD 
-http://bgtv.site/play/play-853.php?pl=995&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Lista 1", Multimedios 
-http://bgtv.site/play/play-853.php?pl=155&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Lista 1", Multimedios (Monterrey) 
-http://bgtv.site/play/play-853.php?pl=979&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Lista 1", Multimedios (Monterrey) HD 
-http://bgtv.site/play/play-853.php?pl=980&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Lista 1", Multimedios HD 
-http://bgtv.site/play/play-853.php?pl=943&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Lista 1", Multimedios Plus 
-http://bgtv.site/play/play-853.php?pl=325&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Lista 1", MultiPremier 
-http://bgtv.site/play/play-853.php?pl=294&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Music Now 
-http://bgtv.site/play/play-853.php?pl=690&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Lista 1", Music Top 
-http://bgtv.site/play/play-853.php?pl=691&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="Lista 1", Naruto 
-http://bgtv.site/play/play-853.php?pl=523&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Lista 1", Nat Geo 
-http://bgtv.site/play/play-853.php?pl=76&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Lista 1", Nat Geo HD 
-http://bgtv.site/play/play-853.php?pl=644&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Lista 1", Nat Geo Kids 
-http://bgtv.site/play/play-853.php?pl=412&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Lista 1", Nat Geo Wild 
-http://bgtv.site/play/play-853.php?pl=77&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Lista 1", Nat Geo Wild HD 
-http://bgtv.site/play/play-853.php?pl=497&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Lista 1", NBA 
-http://bgtv.site/play/play-853.php?pl=838&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcgolf.png" group-title="Lista 1", NBC Golf 
-http://bgtv.site/play/play-853.php?pl=947&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png" group-title="Lista 1", NBC HD 
-http://bgtv.site/play/play-853.php?pl=933&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="Lista 1", Neox (ES) 
-http://bgtv.site/play/play-853.php?pl=353&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Lista 1", NFL Network 
-http://bgtv.site/play/play-853.php?pl=204&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Lista 1", Nick 
-http://bgtv.site/play/play-853.php?pl=78&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="Lista 1", Nick 2 HD 
-http://bgtv.site/play/play-853.php?pl=646&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Lista 1", Nick HD 
-http://bgtv.site/play/play-853.php?pl=645&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Lista 1", Nick JR 
-http://bgtv.site/play/play-853.php?pl=79&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Lista 1", Nick JR HD 
-http://bgtv.site/play/play-853.php?pl=829&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Lista 1", Nick Toons 
-http://bgtv.site/play/play-853.php?pl=80&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Lista 1", Nickelodeon 
-http://bgtv.site/play/play-853.php?pl=184&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="Lista 1", Nova (ES) 
-http://bgtv.site/play/play-853.php?pl=717&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="Lista 1", One Punch Man 
-http://bgtv.site/play/play-853.php?pl=661&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pac12.png" group-title="Lista 1", PAC12 HD 
-http://bgtv.site/play/play-853.php?pl=934&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="Lista 1", Padre de Familia 
-http://bgtv.site/play/play-853.php?pl=416&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pakapaka.png" group-title="Lista 1", PakaPaka 
-http://bgtv.site/play/play-853.php?pl=959&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Lista 1", Paramount 
-http://bgtv.site/play/play-853.php?pl=200&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Lista 1", Paramount HD 
-http://bgtv.site/play/play-853.php?pl=647&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Lista 1", Paramount HD (ES) 
-http://bgtv.site/play/play-853.php?pl=970&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="Lista 1", Pasiones HD 
-http://bgtv.site/play/play-853.php?pl=755&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Lista 1", Patoaventuras 
-http://bgtv.site/play/play-853.php?pl=819&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Lista 1", Patrulla Canina 
-http://bgtv.site/play/play-853.php?pl=807&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="Lista 1", Peppa Pig 
-http://bgtv.site/play/play-853.php?pl=787&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Lista 1", PERU: Latina 
-http://bgtv.site/play/play-853.php?pl=317&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="Lista 1", Pinky y Cerebro 
-http://bgtv.site/play/play-853.php?pl=721&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="Lista 1", Pocoyo 
-http://bgtv.site/play/play-853.php?pl=799&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="Lista 1", Pokemon 
-http://bgtv.site/play/play-853.php?pl=420&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 01 
-http://bgtv.site/play/play-853.php?pl=847&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 02 
-http://bgtv.site/play/play-853.php?pl=848&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 03 
-http://bgtv.site/play/play-853.php?pl=849&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 04 
-http://bgtv.site/play/play-853.php?pl=850&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 05 
-http://bgtv.site/play/play-853.php?pl=851&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 06 
-http://bgtv.site/play/play-853.php?pl=852&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 07 
-http://bgtv.site/play/play-853.php?pl=853&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 08 
-http://bgtv.site/play/play-853.php?pl=854&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 09 
-http://bgtv.site/play/play-853.php?pl=855&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 10 
-http://bgtv.site/play/play-853.php?pl=856&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 11 HD 
-http://bgtv.site/play/play-853.php?pl=868&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 12 HD 
-http://bgtv.site/play/play-853.php?pl=869&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 13 HD 
-http://bgtv.site/play/play-853.php?pl=870&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 14 HD 
-http://bgtv.site/play/play-853.php?pl=871&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 15 HD 
-http://bgtv.site/play/play-853.php?pl=873&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 16 HD 
-http://bgtv.site/play/play-853.php?pl=874&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 17 HD 
-http://bgtv.site/play/play-853.php?pl=876&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 18 HD 
-http://bgtv.site/play/play-853.php?pl=875&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 19 HD 
-http://bgtv.site/play/play-853.php?pl=872&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Lista 1", PPV 20 HD 
-http://bgtv.site/play/play-853.php?pl=867&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/quieromusica.png" group-title="Lista 1", Quiero Musica 
-http://bgtv.site/play/play-853.php?pl=958&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="Lista 1", Ranma 1\/2 
-http://bgtv.site/play/play-853.php?pl=419&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Lista 1", RCN 
-http://bgtv.site/play/play-853.php?pl=390&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Lista 1", Retro Music 
-http://bgtv.site/play/play-853.php?pl=692&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Lista 1", Ritmoson Latino 
-http://bgtv.site/play/play-853.php?pl=154&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Lista 1", RTP 
-http://bgtv.site/play/play-853.php?pl=781&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="Lista 1", Sakura Card Captor 
-http://bgtv.site/play/play-853.php?pl=672&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="Lista 1", Samurai X 
-http://bgtv.site/play/play-853.php?pl=663&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="Lista 1", Scooby Doo 
-http://bgtv.site/play/play-853.php?pl=422&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Lista 1", Series Comedia 
-http://bgtv.site/play/play-853.php?pl=918&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Lista 1", Showtime 
-http://bgtv.site/play/play-853.php?pl=679&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="Lista 1", SKY Sports MX HD 
-http://bgtv.site/play/play-853.php?pl=989&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png" group-title="Lista 1", SKY Sports Premier HD 
-http://bgtv.site/play/play-853.php?pl=900&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="Lista 1", Smallville 
-http://bgtv.site/play/play-853.php?pl=673&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Lista 1", Sony 
-http://bgtv.site/play/play-853.php?pl=145&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Lista 1", Sony HD 
-http://bgtv.site/play/play-853.php?pl=498&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="Lista 1", South Park 
-http://bgtv.site/play/play-853.php?pl=674&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Lista 1", Space 
-http://bgtv.site/play/play-853.php?pl=83&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Lista 1", Space HD 
-http://bgtv.site/play/play-853.php?pl=499&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="Lista 1", Spiderman 
-http://bgtv.site/play/play-853.php?pl=889&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Star 
-http://bgtv.site/play/play-853.php?pl=45&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Lista 1", Star Fun 
-http://bgtv.site/play/play-853.php?pl=49&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Lista 1", Star HD 
-http://bgtv.site/play/play-853.php?pl=489&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Lista 1", Star Hits HD 
-http://bgtv.site/play/play-853.php?pl=491&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Lista 1", Star Life 
-http://bgtv.site/play/play-853.php?pl=50&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Lista 1", Star Life HD 
-http://bgtv.site/play/play-853.php?pl=652&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png" group-title="Lista 1", StarTVE 
-http://bgtv.site/play/play-853.php?pl=944&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Lista 1", Starz Cinema 
-http://bgtv.site/play/play-853.php?pl=680&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Lista 1", Starz Comedy 
-http://bgtv.site/play/play-853.php?pl=681&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Lista 1", Starz Encore Action 
-http://bgtv.site/play/play-853.php?pl=682&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Lista 1", Starz Encore Black 
-http://bgtv.site/play/play-853.php?pl=683&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Lista 1", Starz Encore Family 
-http://bgtv.site/play/play-853.php?pl=684&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" group-title="Lista 1", Starz HD 
-http://bgtv.site/play/play-853.php?pl=685&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Lista 1", Studio Universal 
-http://bgtv.site/play/play-853.php?pl=84&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Lista 1", Studio Universal HD 
-http://bgtv.site/play/play-853.php?pl=830&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="Lista 1", Super Campeones 
-http://bgtv.site/play/play-853.php?pl=432&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 1", SyFy 
-http://bgtv.site/play/play-853.php?pl=151&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 1", SyFy (ES) HD 
-http://bgtv.site/play/play-853.php?pl=969&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Lista 1", SyFy HD 
-http://bgtv.site/play/play-853.php?pl=648&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Lista 1", TBS Very Funny 
-http://bgtv.site/play/play-853.php?pl=171&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Lista 1", TBS Very Funny HD 
-http://bgtv.site/play/play-853.php?pl=831&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Lista 1", TC Ecuador 
-http://bgtv.site/play/play-853.php?pl=885&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Lista 1", TCM 
-http://bgtv.site/play/play-853.php?pl=85&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Lista 1", TeenNick 
-http://bgtv.site/play/play-853.php?pl=882&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Tele 
-http://bgtv.site/play/play-853.php?pl=778&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Lista 1", TeleAmazonas 
-http://bgtv.site/play/play-853.php?pl=320&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telecinco.png" group-title="Lista 1", Telecinco HD 
-http://bgtv.site/play/play-853.php?pl=922&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teledeporte.png" group-title="Lista 1", Teledeporte HD (ES) 
-http://bgtv.site/play/play-853.php?pl=330&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Lista 1", Telefe 
-http://bgtv.site/play/play-853.php?pl=771&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Lista 1", Telehit 
-http://bgtv.site/play/play-853.php?pl=91&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Lista 1", Telehit HD 
-http://bgtv.site/play/play-853.php?pl=649&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemax.png" group-title="Lista 1", Telemax 
-http://bgtv.site/play/play-853.php?pl=963&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Lista 1", Telemundo 
-http://bgtv.site/play/play-853.php?pl=92&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Lista 1", Telemundo HD 
-http://bgtv.site/play/play-853.php?pl=660&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="Lista 1", Televicentro 
-http://bgtv.site/play/play-853.php?pl=776&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="Lista 1", The Big Bang Theory 
-http://bgtv.site/play/play-853.php?pl=676&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="" group-title="Lista 1", The Walking Dead 
-http://bgtv.site/play/play-853.php?pl=800&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Lista 1", TigoSports Bolivia 
-http://bgtv.site/play/play-853.php?pl=764&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Lista 1", TigoSports Paraguay 
-http://bgtv.site/play/play-853.php?pl=843&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Lista 1", Tiin 
-http://bgtv.site/play/play-853.php?pl=93&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Lista 1", TLC 
-http://bgtv.site/play/play-853.php?pl=87&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Lista 1", Tlnovelas 
-http://bgtv.site/play/play-853.php?pl=94&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Lista 1", Tlnovelas HD 
-http://bgtv.site/play/play-853.php?pl=832&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="Lista 1", TLR (Teleritmo) 
-http://bgtv.site/play/play-853.php?pl=299&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleritmo.png" group-title="Lista 1", TLR HD 
-http://bgtv.site/play/play-853.php?pl=942&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Lista 1", TNT 
-http://bgtv.site/play/play-853.php?pl=179&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Lista 1", TNT HD 
-http://bgtv.site/play/play-853.php?pl=500&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Lista 1", TNT HD (ES) 
-http://bgtv.site/play/play-853.php?pl=982&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Lista 1", TNT Series 
-http://bgtv.site/play/play-853.php?pl=90&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Lista 1", TNT Series HD 
-http://bgtv.site/play/play-853.php?pl=650&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Lista 1", TNT Sports 
-http://bgtv.site/play/play-853.php?pl=509&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Lista 1", TNT Sports Chile 
-http://bgtv.site/play/play-853.php?pl=906&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="Lista 1", Tom y Jerry 
-http://bgtv.site/play/play-853.php?pl=421&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Lista 1", Tooncast 
-http://bgtv.site/play/play-853.php?pl=95&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Lista 1", Trece 
-http://bgtv.site/play/play-853.php?pl=774&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="Lista 1", TrollHunters 
-http://bgtv.site/play/play-853.php?pl=662&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Lista 1", TruTV 
-http://bgtv.site/play/play-853.php?pl=96&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Lista 1", TruTv HD 
-http://bgtv.site/play/play-853.php?pl=501&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" group-title="Lista 1", Tu Musica HD 
-http://bgtv.site/play/play-853.php?pl=516&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN 
-http://bgtv.site/play/play-853.php?pl=698&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN (Pocos Datos) 
-http://bgtv.site/play/play-853.php?pl=822&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN HD 
-http://bgtv.site/play/play-853.php?pl=801&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN op. 2 
-http://bgtv.site/play/play-853.php?pl=997&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", TUDN USA HD 
-http://bgtv.site/play/play-853.php?pl=86&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Lista 1", TVC Deportes 
-http://bgtv.site/play/play-853.php?pl=837&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="Lista 1", TVE 
-http://bgtv.site/play/play-853.php?pl=195&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="Lista 1", TVE HD 
-http://bgtv.site/play/play-853.php?pl=930&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="Lista 1", Two And a Half Men 
-http://bgtv.site/play/play-853.php?pl=675&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Lista 1", Tyc Sports 
-http://bgtv.site/play/play-853.php?pl=274&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Lista 1", UFC Network 
-http://bgtv.site/play/play-853.php?pl=97&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Lista 1", Unicable 
-http://bgtv.site/play/play-853.php?pl=98&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Lista 1", Unicable HD 
-http://bgtv.site/play/play-853.php?pl=653&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Lista 1", Universal 
-http://bgtv.site/play/play-853.php?pl=137&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_cinema.png" group-title="Lista 1", Universal Cinema HD 
-http://bgtv.site/play/play-853.php?pl=902&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="Lista 1", Universal Comedy HD 
-http://bgtv.site/play/play-853.php?pl=903&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png" group-title="Lista 1", Universal Crime HD 
-http://bgtv.site/play/play-853.php?pl=904&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Lista 1", Universal HD 
-http://bgtv.site/play/play-853.php?pl=502&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png" group-title="Lista 1", Universal Premiere HD 
-http://bgtv.site/play/play-853.php?pl=901&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="Lista 1", Universal Reality HD 
-http://bgtv.site/play/play-853.php?pl=905&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Lista 1", Univision 
-http://bgtv.site/play/play-853.php?pl=99&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Lista 1", Univisi\u00f3n Deportes 
-http://bgtv.site/play/play-853.php?pl=373&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Univisi\u00f3n TDN 
-http://bgtv.site/play/play-853.php?pl=100&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Univision Tlnovelas 
-http://bgtv.site/play/play-853.php?pl=413&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Lista 1", Uno 
-http://bgtv.site/play/play-853.php?pl=775&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vamos.png" group-title="Lista 1", Vamos HD 
-http://bgtv.site/play/play-853.php?pl=940&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Lista 1", VH1 
-http://bgtv.site/play/play-853.php?pl=101&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Lista 1", VH1 HD 
-http://bgtv.site/play/play-853.php?pl=632&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Lista 1", Video Rola 
-http://bgtv.site/play/play-853.php?pl=359&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Lista 1", VTV Uruaguay 
-http://bgtv.site/play/play-853.php?pl=708&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Lista 1", Wapa PR 
-http://bgtv.site/play/play-853.php?pl=327&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Lista 1", Warner Channel 
-http://bgtv.site/play/play-853.php?pl=102&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Lista 1", Warner Channel HD 
-http://bgtv.site/play/play-853.php?pl=503&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Lista 1", Win Sports 
-http://bgtv.site/play/play-853.php?pl=292&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 1", Win Sports + 
-http://bgtv.site/play/play-853.php?pl=881&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="Lista 1", Win Sports + HD 
-http://bgtv.site/play/play-853.php?pl=802&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Lista 1", Win Sports HD 
-http://bgtv.site/play/play-853.php?pl=754&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Lista 1", WWE Network 
-http://bgtv.site/play/play-853.php?pl=276&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="Lista 1", Yu-Gi-Oh! 
-http://bgtv.site/play/play-853.php?pl=664&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Lista 1", Zona TUDN 
-http://bgtv.site/play/play-853.php?pl=956&token=asdfasdfasdfasdfasdfasdf|user-agent=Lavf/57.71.101
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=Aquí les estaremos dejando nuestro canales actualizados 👇👇👇👇👇👇👇
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,https://t.me/+9Iu2HiQVXGQ4NmVk - BARCO 
+http://127.0.0.1:6878/ace/getstream?id=t.me/+s6HFQxNtjtVjZGY0 - Grupo del Barco
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• La1 
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• La1 UHD 
+http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•La 2 
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Tv Bar 1080 
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 720 
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 2 720 
+http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 6 1080 
+http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 720 
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 2 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 2 720 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 3 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 4 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 5 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 720 
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 2 720 
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 3 
+http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 4 
+http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 5 
+http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 6 
+http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 7 
+http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 8 
+http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.Plus 1080 
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Vamos 1080 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Vamos 720 
+http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Ellas 1080 
+http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,M. Deportes 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 6 720 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•M. deportes 7 1080 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 2 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 3 720 
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 4 SD 
+http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 5 SD 
+http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 6 SD 
+http://127.0.0.1:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 7 SD 
+http://127.0.0.1:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 8 SD 
+http://127.0.0.1:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 9 SD 
+http://127.0.0.1:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 10 SD 
+http://127.0.0.1:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 11 SD 
+http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 12 SD 
+http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Golf 1080 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•M. Golf mex. 
+http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 1 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 2 720 
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 720 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• EuroSport 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• EuroSport 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• GOL TV 1080 
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• tdp 1080 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• CUATRO 1080 
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• BeMad 1080 
+http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Telecinco 1080 
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• beIN SPORTS ñ 
+http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Barça 720 
+http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Real Madrid TV 1080 
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Real Madrid TV 720 
+http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN EXTRA COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN 2 COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN 3 COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•FOX SPORTS 
+http://127.0.0.1:6878/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•Mundo Toro HD 
+http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•WRC+ [ESP] by Álex 
+http://127.0.0.1:6878/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Formula 1 1080 By Álex 
+http://127.0.0.1:6878/ace/getstream?id=aff9ef05a35642dbad7c0eee8c315768942e417e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #0 de Movistar 1080 
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• SETANTA SPORTS 1080 
+http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,NBA USA 1 
+http://127.0.0.1:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,NBA USA 2 
+http://127.0.0.1:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN USA 
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN 2 USA 
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX SPORTS USA 
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX SPORTS 2 USA 
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 1 UK 
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 2 UK 
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 3 UK 
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 4 UK 
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Arena UK 
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports PREMIER LEAGUE UK 
+http://127.0.0.1:6878/ace/getstream?id=8d976b2a90dce3b57ed094bd8a6152335c66bbc9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Football UK 
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Main Event UK 
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Plus UK 
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Premier Sports 1 UK 
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Premier Sports 2 UK 
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 1 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 2 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 3 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 4 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 5 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 6 [DE] 
+http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eurosport 1 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eurosport 2 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BeIN Sports 1 BE 
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BeIN Sports 2 BE 
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BeIN Sports 3 BE 
+http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 1 PT 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 2 PT 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 3 PT 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 4 PT 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 5 PT 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 6 PT 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Setanta Sports 
+http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Setanta Sports 1 
+http://127.0.0.1:6878/ace/getstream?id=b99278331ad806f1463fcd3bf53befa5530d86da
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Setanta Sports 1 
+http://127.0.0.1:6878/ace/getstream?id=8b70ef2d42e2adac57e90f68847eadfc356c04d2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Setanta Sports 2 
+http://127.0.0.1:6878/ace/getstream?id=9b8feebaf07ced9351ad88da77ef617f82626c4b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Setanta Sports 2 
+http://127.0.0.1:6878/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! HD[RU] 
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! HD[RU] 
+http://127.0.0.1:6878/ace/getstream?id=45d300749e85fcbc10a4b8333100d1eb4c96da1b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! Football HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! Football 2 HD[RU] 
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! Football 3 HD[RU] 
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! Prime HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,MATCH! Prime HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Матч! Боец [RU] 
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Матч! Арена HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Матч! Наш Спорт HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=7b4362cb04a3df40bdfa3800af0cc78309a60771
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Матч! Игра HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Матч! Игра HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=69e012e143b7c086f0f15bda9d1b6dd389fd41de
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
+http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
+http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
+http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
+http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
+http://127.0.0.1:6878/ace/getstream?id=8b8f8dde3e3de6206c4023011525546bf081f09d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,CTAPT [RU] 
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,KHL [RU] 
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,KHL Prime [RU] 
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,VIASAT Sport HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Футбол HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX Life HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,EuroSport 1 HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,EuroSport 2 HD [RU] 
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Qazsport HD [KZ] 
+http://127.0.0.1:6878/ace/getstream?id=c9014901637b29cad1c39519f0952453c20ce27b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SETANTA Sports 1 [UA] 
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SETANTA Sports 1 [UA] 
+http://127.0.0.1:6878/ace/getstream?id=75594806667040420dee6ed57926101d702566e8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SETANTA Sports 1 [UA] 
+http://127.0.0.1:6878/ace/getstream?id=94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SETANTA Sports 2 [UA] 
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SETANTA Sports +HD[UA] 
+http://127.0.0.1:6878/ace/getstream?id=0528a1cecd81efd3ec72f49bd32fa847bc924abf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,TVP Sport HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 1 HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 2 HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 3 HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 4 HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Extreme Sports[PL] 
+http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,TVP 1 Poland HD 
+http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport Klub HD[PL] 
+http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Polsat Sport Premium 1[PL] 
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Polsat Sport Premium 2[PL] 
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Polsat Sport[PL] 
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Polsat Sport Extra[PL] 
+http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canal+ Sports [PL] 
+http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canal+ Sports 2 [PL] 
+http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canal+ Sports 3 [PL] 
+http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canal+ Sports 5 [PL] 
+http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX Comedy [PL] 
+http://127.0.0.1:6878/ace/getstream?id=8fb7f8107213a9020f298c8d0068ea86d0713d01
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX HD [PL] 
+http://127.0.0.1:6878/ace/getstream?id=ade7437d52002e864f851c4de016923dcd6d2548
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,DAZN 1 Bar [DE] 
+http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,DAZN 2 Bar [DE] 
+http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ZDF HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ATV HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=7d50d90895f44e97039eca21ae6bc17172acc9ef
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ORF 1 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ORF 2 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ORF 3 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=41ac7892b8fde95d5110d83d7324044145c7f86a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ORF Sport+ HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,SkySport F1 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport Digital [DE] 
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport1+HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Servus TV HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 1 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 2 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 3 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 4 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 5 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 6 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 7 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 8 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 9 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 10 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Magenta Sport 11 HD [DE] 
+http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BBC ONE [UK] 
+http://127.0.0.1:6878/ace/getstream?id=243eaccd38b9a0c43b800b6c7a30b1ad2cadc1f1
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports F1[UK] 
+http://127.0.0.1:6878/ace/getstream?id=468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Main Event [UK] 
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Premier League[UK] 
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports[UK] 
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports[UK] 
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sports Arena[UK] 
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sky Sport Cricket [UK] 
+http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 1 [UK] 
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 2 [UK] 
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 3 [UK] 
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,BT Sport 4 [UK] 
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,F1 TV 1080p 
+http://127.0.0.1:6878/ace/getstream?id=77cb36936f3341264f010d39a1758f4672e308b0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,F1 TV 1080p 
+http://127.0.0.1:6878/ace/getstream?id=22c184381158087c2b522e1aacbc1bca7c67dc74
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven TR Sport [IT] 
+http://127.0.0.1:6878/ace/getstream?id=154d111a97b7b18d1f64e9ae697c33c479d01e32
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,TeleSud Trapani [IT] 
+http://127.0.0.1:6878/ace/getstream?id=8ec948677da521da7bb238c0b1968a899edb797d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,La7 .it [IT] 
+http://127.0.0.1:6878/ace/getstream?id=48e0f30ccda711ff2894cbc52c6df89ffd05fe22
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,La7d .it [IT] 
+http://127.0.0.1:6878/ace/getstream?id=f910f4c0374a08379c464c1db49028308557c0eb
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ReteVeneta [IT] 
+http://127.0.0.1:6878/ace/getstream?id=70ba597a6e0f4c6a5868331b11cea6e459ac9f22
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ReteVeneta [IT] 
+http://127.0.0.1:6878/ace/getstream?id=d2e92dfad22b8258187f622b834b9acedc1e443f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ReteVeneta [IT] 
+http://127.0.0.1:6878/ace/getstream?id=8f3c2fcd4a6f8c78e3148f871fccaceced5a478e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Videolina [IT] 
+http://127.0.0.1:6878/ace/getstream?id=277503b17daeb2bbea26bfe27dc9ffc33c0cb251
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,RTC TeleCalabria [IT] 
+http://127.0.0.1:6878/ace/getstream?id=735d268177573df80bcadf0a4defebae9811db2f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,San Marino RTV Sport [IT] 
+http://127.0.0.1:6878/ace/getstream?id=753f25945102655dd6fcf856f32695005c912d69
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,San Marino RTV HD [IT] 
+http://127.0.0.1:6878/ace/getstream?id=2016e4b3d77149097b6d842df07b7a364c823b9b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,teleMonteneve [IT] 
+http://127.0.0.1:6878/ace/getstream?id=af8ea343635dcf9eca32567d32faacc76023a847
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Italia 2 TV [IT] 
+http://127.0.0.1:6878/ace/getstream?id=3bf85216745a2a4577f2226628301fded74287bf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canale 2 [IT] 
+http://127.0.0.1:6878/ace/getstream?id=b65af5e182be8ac7bdf3e1c548e4b7f91e69bf77
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Canale 7 [IT] 
+http://127.0.0.1:6878/ace/getstream?id=8ebf8cded98f3e4c2e3ea83244e7ef3481091c3b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Milano Pavia TV [IT] 
+http://127.0.0.1:6878/ace/getstream?id=0969a38e2b12d718f09e88e0925aed88f24a957b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,UniNettuno University TV [IT] 
+http://127.0.0.1:6878/ace/getstream?id=4e17bac6b2decc70fd7bd704ce7013072fefd1f0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN HD[US] 
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN 2 HD[US] 
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX Sports 1 HD [US] 
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,FOX Sports 2 HD [US] 
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports Xtra Ñ 
+http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN [CO] 
+http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN 2 [CO] 
+http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN 3 [CO] 
+http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN EXTRA [CO] 
+http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 1 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 2 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 3 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 4 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 5 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Eleven Sports 6 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport Tv 1 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport Tv 2 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Sport Tv 3 [PT] 
+http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 1 [FR] 
+http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 2 [FR] 
+http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 3 [FR] 
+http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 1[RM] 
+http://127.0.0.1:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 1[RM] 
+http://127.0.0.1:6878/ace/getstream?id=83671b11f6dc071feb5769f6646cfc439c18989d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 2[RM] 
+http://127.0.0.1:6878/ace/getstream?id=b7db2c0404f90f99b01a8875713c047cd07595f7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 3[RM] 
+http://127.0.0.1:6878/ace/getstream?id=b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 3[RM] 
+http://127.0.0.1:6878/ace/getstream?id=257be6b709b3c62e171f5ca9dbdf7428dfc97040
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Digi Sport 4[RM] 
+http://127.0.0.1:6878/ace/getstream?id=7090ab27689444b127b3cb8707e0334d409e0cc6
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,ESPN [NL] 
+http://127.0.0.1:6878/ace/getstream?id=e2044fd44478794ebfe721deb060d149507f1348
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Ziggo Sport Select[NL] 
+http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal[NL] 
+http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Ziggo Sport Racing[NL] 
+http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Ziggo Sport Golf[NL] 
+http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,Diema Sport 2[BG] 
+http://127.0.0.1:6878/ace/getstream?id=15cc58b8ca2928ad68bc285df2a37f653eebd35a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports HABER [TR] 
+http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 1 HD[TR] 
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 2 HD[TR] 
+http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 3 HD[TR] 
+http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,beIN Sports 4 HD[TR] 
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,00.55h FC Cincinnati - Inter Miami 1080 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=00.55h FC Cincinnati - Inter Miami 1080 opc2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,00.55h FC Cincinnati - Inter Miami 1080 opc2 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,00.55h FC Cincinnati - Inter Miami 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=03.25h Houston Dynamo - Real Salt Lake 1080
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,03.25h Houston Dynamo - Real Salt Lake 1080 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=03.25h Houston Dynamo - Real Salt Lake 1080 opc2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,03.25h Houston Dynamo - Real Salt Lake 1080 opc2 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=03.25h Houston Dynamo - Real Salt Lake 720
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,03.25h Houston Dynamo - Real Salt Lake 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,20:30 Osasuna - Club Brugge 
+http://127.0.0.1:6878/ace/getstream?id=2bac673f7fc25abda5f902850ce9f8c04a2b2056
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=01.05h Stars of the Open Exhibition Match 1080
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,01.05h Stars of the Open Exhibition Match 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=01.05h Stars of the Open Exhibition Match 720
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,01.05h Stars of the Open Exhibition Match 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=ATLETISMO - MUNDIAL DE ATLETISMO AL AIRE LIBRE
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,06.55h Día 6 - Sesión 1 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,18.30h Día 6 - Sesión 2 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,18.50h Sesión vespertina 24 agosto 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=19.00h (World Feed V.O) Jornada 1. Parte 1
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,19.00h (World Feed V.O) Jornada 1. Parte 1 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,20.00h (World Feed) Jornada 1. Parte 2 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=GOLF - DP WORLD TOUR D+D REAL CZECH MASTERS
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=13.00h (World Feed V.O) Jornada 1. Parte 1
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,13.00h (World Feed V.O) Jornada 1. Parte 1 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,15.00h (World Feed) Jornada 1. Parte 2 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,15.15h Etapa 2: Sluis - Sluis (CRI) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,17.00h Etapa 2: Vikersund - Norefjell 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,20.00h Presentación de Equipos 
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" , 
+http://127.0.0.1:6878/ace/getstream?id=HOCKEY HIERBA - EUROPEO FEMENINO DE HOCKEY HIERBA
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,14.45h España - Irlanda 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,16.55h Países Bajos - Inglaterra 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,15.30h Cuarta ronda (1) 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,20.00h Cuarta ronda 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• La1 
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• La1 UHD 
+http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•La 2 
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Tv Bar 1080 
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 720 
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 2 720 
+http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. LaLiga 6 1080 
+http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 720 
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 2 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 2 720 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 3 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 4 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN LaLiga 5 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 720 
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 2 720 
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 3 
+http://127.0.0.1:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 4 
+http://127.0.0.1:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 5 
+http://127.0.0.1:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 6 
+http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 7 
+http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• LaLiga Smartbank 8 
+http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.Plus 1080 
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Vamos 1080 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Vamos 720 
+http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #Ellas 1080 
+http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,M. Deportes 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Deportes 6 720 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•M. deportes 7 1080 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 MultiAudio 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 2 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 3 720 
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 4 SD 
+http://127.0.0.1:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 5 SD 
+http://127.0.0.1:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 6 SD 
+http://127.0.0.1:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 7 SD 
+http://127.0.0.1:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 8 SD 
+http://127.0.0.1:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 9 SD 
+http://127.0.0.1:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 10 SD 
+http://127.0.0.1:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 11 SD 
+http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M.L. Campeones 12 SD 
+http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Golf 1080 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• M. Golf2 1080 
+http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 1 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 2 720 
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• DAZN F1 720 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• EuroSport 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• EuroSport 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• GOL TV 1080 
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• tdp 1080 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• CUATRO 1080 
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• BeMad 1080 
+http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Telecinco 1080 
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Sport Tv 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• beIN SPORTS ñ 
+http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Barça 720 
+http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Real Madrid TV 1080 
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• Real Madrid TV 720 
+http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN EXTRA COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN 2 COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• ESPN 3 COLOMBIA 
+http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•FOX SPORTS 
+http://127.0.0.1:6878/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•Wimbledon UHD 
+http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•Mundo Toro HD 
+http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,•NBA 
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• #0 de Movistar 1080 
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 group-title="", tvg-id="" tvg-logo="" ,• SETANTA SPORTS 1080 
+http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
