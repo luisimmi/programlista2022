@@ -1,65 +1,61 @@
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,20.54h Young Boys - Maccabi Haifa 1080 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,20.54h Young Boys - Maccabi Haifa 720 
-http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21.00h Panathinaikos - SC Braga 1080 
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21.00h Panathinaikos - SC Braga 1080 opc2 
-http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21.00h Panathinaikos - SC Braga 720 
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21.00h Galatasaray - Molde 1080 
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21.00h Galatasaray - Molde 720 
-http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20.45h Fulham - Tottenham 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20.45h Fulham - Tottenham 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - MUNDOBASKET" tvg-id="" tvg-logo="" ,09.00h Alemania - Finlandia 
+#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,15:30 Irán - España 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONCESTO - MUNDOBASKET" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 1 
+#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 1 
 http://127.0.0.1:6878/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="BALONCESTO - MUNDOBASKET" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 2 
+#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 2 
 http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="BALONCESTO - MUNDOBASKET" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 3 
+#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 3 
 http://127.0.0.1:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="BALONCESTO - MUNDOBASKET" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 4 
+#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,BALONCESTO Mundial 4 
 http://127.0.0.1:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
-#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.30h Etapa 4 - Andorra La Vella - Tarragona 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.00h Petra Kvitova - Cristina Bucsa 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.00h Petra Kvitova - Cristina Bucsa opc2 
-http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.30h Kayla Day - Sorana Cirstea 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.30h Soonwo Kwon - Christopher Eubanks 
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 PSV Eindhoven - Rangers FC 1080 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 PSV Eindhoven - Rangers FC 1080 opc2 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 PSV Eindhoven - Rangers FC 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 AEK FC - Antwerp 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 AEK FC - Antwerp 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague - Rakow Czestochowa 1080 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague - Rakow Czestochowa 720 
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="FUTBOL - AMISTOSO LEYENDAS" tvg-id="" tvg-logo="" ,21:00 Celta - World Team 
+http://127.0.0.1:6878/ace/getstream?id=597c07bd56b65779a55b08878b236d8deab6297b
+#EXTINF:-1 group-title="FUTBOL - PRETEMPORADA FUTBOL FEMENINO" tvg-id="" tvg-logo="" ,04:00 Tigres Femenil - Real Madrid 1080 
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 group-title="FUTBOL - PRETEMPORADA FUTBOL FEMENINO" tvg-id="" tvg-logo="" ,04:00 Tigres Femenil - Real Madrid 1080 
+http://127.0.0.1:6878/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00:00 R. Montgomery - E. Lys 
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.30h Felix Auger-Aliassime - Mackenzie McDonald 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00.30h Bernabé Zapata - Ethan Quinn 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00:04 T. Daniel - G. Monfils 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00:08 S. Vickery - D. Vekic 
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h Stefanos Tsitsipas - Milos Raonic 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,00:30 A. Bogdan - S. Kenin 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,1:00 Y. Hanfmann - J. Sinner 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h Laura Siegemund - Coco Gauff 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,1:00 US OpenG. Minnen - V. Williams 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h Laura Siegemund - Coco Gauff 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,1:00 US OpenG. Minnen - V. Williams 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alexandre Muller - Novak Djokovic 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,2:30 C. Alcaraz - D. Koepfer 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alexandre Muller - Novak Djokovic 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,2:30 C. Alcaraz - D. Koepfer 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.30h Tatiana Prozorova - Caroline Wozniacki 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,3:00 M. Zanevska - A. Sabalenka 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h D. Medvedev - A. Balazs 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,17:00 Ronda 2 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h D. Medvedev - A. Balazs 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,17:00 Ronda 2 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.00h C. Giorgi - J. Pegula 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.00h C. Giorgi - J. Pegula 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="CICLISMO - VUELTA A ESPAÑA" tvg-id="" tvg-logo="" ,14:30 Etapa 5 - Morella - Burriana 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="CICLISMO - VUELTA A ESPAÑA" tvg-id="" tvg-logo="" ,14:30 Etapa 5 opc2 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 UHD 
