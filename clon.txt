@@ -1,37 +1,33 @@
-#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.30h Etapa 11 - Lerma - La Laguna Negra 
+#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.30h Etapa 12 - Ólvega - Zaragoza 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.40h Salida Etapa 11 - Lerma - La Laguna Negra 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h zheng VS sabalenka 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h M. Vondrousova - M. Keys 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h zheng VS sabalenka 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h M. Vondrousova - M. Keys 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h medvedev VS rublev 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h C. Alcaraz - A. Zverev 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h medvedev VS rublev 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h C. Alcaraz - A. Zverev 4 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h S. Cirstea - K. Muchova 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h S. Cirstea - K. Muchova 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h F. Tiafoe - B. Shelton 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h F. Tiafoe - B. Shelton 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alcaraz VS zverev 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alcaraz VS zverev 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,14.30hCanadá - Eslovenia 
-http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,16.25h Países Bajos - Croacia 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,9:45 Letonia - República Checa 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,16.55h Serbia - Austria 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,10:15 Italia - España 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONMANO - DIVISIÓN DE HONOR DE BALONMANO (F)" tvg-id="" tvg-logo="" ,20.25h Granollers - Lobas Oviedo 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,16:50 Femenino-Semifinales 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FUTBOL SALA - EUROCOPA SUB-19 DE FUTBOL SALA (M)" tvg-id="" tvg-logo="" ,17.55h España - Francia 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,19:25 Femenino-Final 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,17:25 Semifinales 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,17:50 Semifinales 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,19:50 Final 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="GOLF - DP WORLD TOUR HORIZON IRISH OPEN" tvg-id="" tvg-logo="" ,14.00h (Word Feed V.O) Jornada 1. Parte 1 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - DP WORLD TOUR HORIZON IRISH OPEN" tvg-id="" tvg-logo="" ,16.00h (Word Feed) Jornada 1. Parte 2 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - ASIAN TOUR THE 39TH SHINHAN DONGHAE OPEN" tvg-id="" tvg-logo="" ,06.00h (V.O) Jornada 1 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 UHD 
