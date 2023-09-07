@@ -2,6 +2,14 @@
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.40h Salida Etapa 11 - Lerma - La Laguna Negra 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h zheng VS sabalenka 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h zheng VS sabalenka 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h medvedev VS rublev 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h medvedev VS rublev 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h S. Cirstea - K. Muchova 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,01.00h S. Cirstea - K. Muchova 720 
@@ -10,13 +18,9 @@ http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h F. Tiafoe - B. Shelton 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h Cuarto de final femenino 3 1080 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alcaraz VS zverev 1080 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,18.00h Cuarto de final femenino 3 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h Cuarto de final masculino 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,20.15h Cuarto de final masculino 3 720 
+#EXTINF:-1 group-title="TENIS - US OPEN" tvg-id="" tvg-logo="" ,03.00h Alcaraz VS zverev 720 
 http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 group-title="BALONCESTO - FIBA COPA MUNDIAL" tvg-id="" tvg-logo="" ,14.30hCanadá - Eslovenia 
 http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
