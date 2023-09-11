@@ -1,51 +1,11 @@
-#EXTINF:-1 group-title="LA VUELTA" tvg-id="" tvg-logo="" ,14:30 - 16:00 Vuelta ciclista 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="BALONCESTO - MUNDIAL BASKET" tvg-id="" tvg-logo="" ,10:30 estados unidos VS Canadá 
-http://127.0.0.1:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="BALONCESTO - MUNDIAL BASKET" tvg-id="" tvg-logo="" ,14:40 Alemania VS serbia 
-http://127.0.0.1:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,11:00 Moto 3 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,11:00 superbikes 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,12:15 Moto 2 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,12:30 Supersport 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,13:45 Supersport 300 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,14:00 Moto GP 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,15:15 Superbikes carrera 2 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,13:30 Dtm carrera 2 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="MOTOR" tvg-id="" tvg-logo="" ,21:15  Indycar 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="RUGBY" tvg-id="" tvg-logo="" ,13:00 Japón VS chile 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="RUGBY" tvg-id="" tvg-logo="" ,17:45 Sudáfrica VS escocia 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="RUGBY" tvg-id="" tvg-logo="" ,21:00 gales VS fiyi 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="TENIS - FINAL US OPEN" tvg-id="" tvg-logo="" ,22:00 medvedev VS Djokovic 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="GOLF - IRISH OPEN" tvg-id="" tvg-logo="" ,13:30 irish 
+#EXTINF:-1 group-title="FUTBOL - LALIGA SEGUNDA DIVISION" tvg-id="" tvg-logo="" ,21:00 Eldense - Alcorcon 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="FUTBOL - LALIGA SEGUNDA DIVISION" tvg-id="" tvg-logo="" ,21:00 Eldense - Alcorcon 720 
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="FUTBOL - EUROPEO SUB-21" tvg-id="" tvg-logo="" ,21:00 España - Escocia 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="GOLF - PGA TOUR FORTINET CHAMPIONSHIP" tvg-id="" tvg-logo="" ,00:00 Jornada 3 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,16:15 Ferrol VS Villarreal b 
-http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,16:15 Racing VS Amorebieta 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,16:15 Racing VS Amorebieta 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,18:30 Cartagena VS Zaragoza 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,16:30 Cartagena VS Zaragoza 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,18:30 mirandés VS andorra 
-http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,21:00 Valladolid VS elche 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 UHD 
