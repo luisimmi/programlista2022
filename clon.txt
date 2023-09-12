@@ -1,11 +1,39 @@
-#EXTINF:-1 group-title="FUTBOL - LALIGA SEGUNDA DIVISION" tvg-id="" tvg-logo="" ,21:00 Eldense - Alcorcon 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FUTBOL - LALIGA SEGUNDA DIVISION" tvg-id="" tvg-logo="" ,21:00 Eldense - Alcorcon 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FUTBOL - EUROPEO SUB-21" tvg-id="" tvg-logo="" ,21:00 España - Escocia 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="GOLF - PGA TOUR FORTINET CHAMPIONSHIP" tvg-id="" tvg-logo="" ,00:00 Jornada 3 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="FÚTBOL - CLASIFICACIÓN EUROCOPA" tvg-id="" tvg-logo="" ,20.30h España - Chipre 
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.15h Etapa 16 - Liencres Playa - Bejes 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,02.15h New York Jets - Buffalo Bills 1080 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,02.15h New York Jets - Buffalo Bills 720 
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,14.05h Francia - Suiza. Individual 1 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Serbia - Corea Individual 1 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Suecia- Chile. Individual 1 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Países Bajos - Finlandia Individual 1 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,16.00h Francia - Suiza. Individual 2 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Suecia- Chile. Individual 2 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Serbia - Corea del Sur Finals 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Países Bajos - Finlandia Individual 2 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,18.00h Francia - Suiza. Dobles 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Países Bajos - Finlandia Dobles 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Serbia - Corea del Sur Finals 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Suecia- Chile. Dobles 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="MASTERS DE SHANGHÁI DE SNOOKER" tvg-id="" tvg-logo="" ,08.30h Segunda ronda 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="MASTERS DE SHANGHÁI DE SNOOKER" tvg-id="" tvg-logo="" ,13.30h Segunda ronda 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 UHD 
