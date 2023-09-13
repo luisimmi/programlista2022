@@ -1,38 +1,42 @@
-#EXTINF:-1 group-title="FÚTBOL - CLASIFICACIÓN EUROCOPA" tvg-id="" tvg-logo="" ,20.30h España - Chipre 
-http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.15h Etapa 16 - Liencres Playa - Bejes 
+#EXTINF:-1 group-title="BALONMANO - LIGA DE CAMPEONES DE BALONMANO" tvg-id="" tvg-logo="" ,20.30h Montpellier HB - Barcelona 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="BALONMANO - LIGA DE CAMPEONES DE BALONMANO" tvg-id="" tvg-logo="" ,20.30h Montpellier HB - Barcelona 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.30h Etapa 17 - Ribadesella - Altu de L'Angliru 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,02.15h New York Jets - Buffalo Bills 1080 
+#EXTINF:-1 group-title="CICLISMO - VUELTA CICLISTA A ESPAÑA" tvg-id="" tvg-logo="" ,14.40h Salida Etapa 17 - Ribadesella - Alto de L'Angliru 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Canadá - Italia. Individual 1 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Canadá - Italia. Individual 2 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Canadá - Italia. Dobles 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h España - República Checa. Individual 1 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,02.15h New York Jets - Buffalo Bills 720 
-http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,14.05h Francia - Suiza. Individual 1 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h España - República Checa. Individual 2 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Serbia - Corea Individual 1 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Suecia- Chile. Individual 1 
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Países Bajos - Finlandia Individual 1 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h España - República Checa. Dobles 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Países Bajos - Estados Unidos Dobles 
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,16.00h Francia - Suiza. Individual 2 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Suecia- Chile. Individual 2 
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Serbia - Corea del Sur Finals 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Países Bajos - Finlandia Individual 2 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,15.00h Croacia - Estados Unidos Individual 1 
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,18.00h Francia - Suiza. Dobles 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Países Bajos - Finlandia Dobles 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,17.00h Croacia - Estados Unidos Individual 2 
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Serbia - Corea del Sur Finals 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,19.00h Suecia- Chile. Dobles 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,14.00h Australia- Gran Bretaña Individual 1 
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="MASTERS DE SHANGHÁI DE SNOOKER" tvg-id="" tvg-logo="" ,08.30h Segunda ronda 
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,16.00h Australia- Gran Bretaña Individual 2 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="TENIS - DAVIS CUP FASE DE GRUPOS" tvg-id="" tvg-logo="" ,18.00h Australia- Gran Bretaña Dobles 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="TENIS - WTA: SAN DIEGO" tvg-id="" tvg-logo="" ,02.30h Stephens - Mertens 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - WTA: SAN DIEGO" tvg-id="" tvg-logo="" ,20.30h Segunda ronda (1) 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="SNOOKER - MASTERS DE SHANGHAI DE SNOOKER" tvg-id="" tvg-logo="" ,08.00h Segunda ronda - Sesión 3 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="MASTERS DE SHANGHÁI DE SNOOKER" tvg-id="" tvg-logo="" ,13.30h Segunda ronda 
+#EXTINF:-1 group-title="SNOOKER - MASTERS DE SHANGHAI DE SNOOKER" tvg-id="" tvg-logo="" ,13.30h Segunda ronda - Sesión 4 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
