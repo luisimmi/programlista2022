@@ -10,45 +10,45 @@ http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="CICLISMO - CAMPEONATO DE EUROPA" tvg-id="" tvg-logo="" ,16:15 contrarreloj masculina 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="FUTBOL - YOUTH LEAGUE" tvg-id="" tvg-logo="" ,14:00 real Madrid VS Berlin 
+#EXTINF:-1 group-title="FUTBOL - YOUTH LEAGUE" tvg-id="" tvg-logo="" ,14:00 Real Madrid VS Berlin 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="FUTBOL - YOUTH LEAGUE" tvg-id="" tvg-logo="" ,14:00 Sevilla VS lens 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 group-title="FUTBOL - YOUTH LEAGUE" tvg-id="" tvg-logo="" ,16:00 Bayern VS Man.United 
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 galatasaray VS kavenhawn 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Galatasaray VS Kavenhawn 
 http://127.0.0.1:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 real Madrid VS Berlín 720 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Madrid VS Berlín 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 real Madrid VS Berlín 1080 multiaudio 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Madrid VS Berlín 1080 multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 real Madrid VS Berlín 1080 multiaudio 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Madrid VS Berlín 1080 multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 real Madrid VS Berlín 1080 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Madrid VS Berlín 1080 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 arsenal VS psv 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Arsenal VS PSV 
 http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Bayern VS united 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Bayern VS Man.United 
 http://127.0.0.1:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 braga VS Napoles 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Braga VS Napoles 
 http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 benfica VS red bull 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Benfica VS Red bull 
 http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 real sociedad VS Inter 1080 multiaudio 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real sociedad VS Inter 1080 multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 real sociedad VS Inter 1080 multiaudio 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real sociedad VS Inter 1080 multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 real sociedad VS Inter 1080 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real sociedad VS Inter 1080 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 real sociedad VS Inter 720 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real sociedad VS Inter 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS lens 720 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS Lens 720 
 http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS lens 1080 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS Lens 1080 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS lens 1080 
+#EXTINF:-1 group-title="FUTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sevilla VS Lens 1080 
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 norwich VS Leicester 
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 Norwich VS Leicester 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,16:30 Lille - NK Olimpija 1080 
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
