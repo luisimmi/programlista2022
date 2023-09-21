@@ -1,614 +1,614 @@
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 21/09 – TELEGRAPH" tvg-logo="" ,AGENDA DEPORTIVA 21/09 – TELEGRAPH
+#EXTINF:-1 tvg-id="Agenda Deportiva 21/09 – Telegraph" tvg-logo="" ,Agenda Deportiva 21/09 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="1D79A7543D691666135669F89F3541F54E2DD0A9" tvg-id="" tvg-logo="" ,18:30 LEVERKUSEN VS HACKEN 
-http://127.0.0.1:6878/ace/getstream?id=1D79A7543D691666135669F89F3541F54E2DD0A9
-#EXTINF:-1 group-title="1B48D5881337C87B89E1EDEFFF6688FE2271D222" tvg-id="" tvg-logo="" ,18:30 LASK VS LIVERPOOL 
-http://127.0.0.1:6878/ace/getstream?id=1B48D5881337C87B89E1EDEFFF6688FE2271D222
-#EXTINF:-1 group-title="A0978A100DE9A307C12D395D9B2F4142DB6AB52D" tvg-id="" tvg-logo="" ,18:30 RENNES VS MACCAVI 
-http://127.0.0.1:6878/ace/getstream?id=A0978A100DE9A307C12D395D9B2F4142DB6AB52D
-#EXTINF:-1 group-title="1A4B41C02E116ED19A505551A9CAA79F54C027F7" tvg-id="" tvg-logo="" ,18:30 SERVETTE VD SALVIA 
-http://127.0.0.1:6878/ace/getstream?id=1A4B41C02E116ED19A505551A9CAA79F54C027F7
-#EXTINF:-1 group-title="5C21C181156F200D5E628EF2C62CD06BF5F97EB7" tvg-id="" tvg-logo="" ,18:30 SHERIFF VS ROMA 
-http://127.0.0.1:6878/ace/getstream?id=5C21C181156F200D5E628EF2C62CD06BF5F97EB7
-#EXTINF:-1 group-title="5932623D2FD7ED16B01787251B418E4F59A01CDA" tvg-id="" tvg-logo="" ,18:30 UNIÓN VS TOULOUSE 
-http://127.0.0.1:6878/ace/getstream?id=5932623D2FD7ED16B01787251B418E4F59A01CDA
-#EXTINF:-1 group-title="1D79A7543D691666135669F89F3541F54E2DD0A9" tvg-id="" tvg-logo="" ,20:55 AJAX VS OLIMPIC 
-http://127.0.0.1:6878/ace/getstream?id=1D79A7543D691666135669F89F3541F54E2DD0A9
-#EXTINF:-1 group-title="A0978A100DE9A307C12D395D9B2F4142DB6AB52D" tvg-id="" tvg-logo="" ,20:55 ATALANTA VS RAKOW 
-http://127.0.0.1:6878/ace/getstream?id=A0978A100DE9A307C12D395D9B2F4142DB6AB52D
-#EXTINF:-1 group-title="1B48D5881337C87B89E1EDEFFF6688FE2271D222" tvg-id="" tvg-logo="" ,20:55 BRIGHTON VS AEK 
-http://127.0.0.1:6878/ace/getstream?id=1B48D5881337C87B89E1EDEFFF6688FE2271D222
-#EXTINF:-1 group-title="5C21C181156F200D5E628EF2C62CD06BF5F97EB7" tvg-id="" tvg-logo="" ,20:55 OLÍMPIACOS VS FRIBURGO 
-http://127.0.0.1:6878/ace/getstream?id=5C21C181156F200D5E628EF2C62CD06BF5F97EB7
-#EXTINF:-1 group-title="1A4B41C02E116ED19A505551A9CAA79F54C027F7" tvg-id="" tvg-logo="" ,20:55 STURM VS SPORTING 
-http://127.0.0.1:6878/ace/getstream?id=1A4B41C02E116ED19A505551A9CAA79F54C027F7
-#EXTINF:-1 group-title="5932623D2FD7ED16B01787251B418E4F59A01CDA" tvg-id="" tvg-logo="" ,20:55 WEST HAN VS BACKA 
-http://127.0.0.1:6878/ace/getstream?id=5932623D2FD7ED16B01787251B418E4F59A01CDA
-#EXTINF:-1 group-title="AD372CBA73AA0ECE207A79532B3E30B731136BB2" tvg-id="" tvg-logo="" ,18 :45 20:55 MULTI EUROPA LEAGUE 
-http://127.0.0.1:6878/ace/getstream?id=AD372CBA73AA0ECE207A79532B3E30B731136BB2
-#EXTINF:-1 group-title="DF67AFE5C5F5E82A3AE629D126727B006B65E676" tvg-id="" tvg-logo="" ,18:45 LEGIA WARSZAWA - ASTON VILLA 
-http://127.0.0.1:6878/ace/getstream?id=DF67AFE5C5F5E82A3AE629D126727B006B65E676
-#EXTINF:-1 group-title="57E284A3C13100BAEFF7A88DC50949585C9F1277" tvg-id="" tvg-logo="" ,18:45 GENK - FIORENTINA 
-http://127.0.0.1:6878/ace/getstream?id=57E284A3C13100BAEFF7A88DC50949585C9F1277
-#EXTINF:-1 group-title="33369549C635DABDB78B95C478C21FCC9E4EE854" tvg-id="" tvg-logo="" ,18:45 EINTRACHT FRANKFURT - ABERDEEN 
-http://127.0.0.1:6878/ace/getstream?id=33369549C635DABDB78B95C478C21FCC9E4EE854
-#EXTINF:-1 group-title="33369549C635DABDB78B95C478C21FCC9E4EE854" tvg-id="" tvg-logo="" ,21:00 MACCABI TEL AVIV FC - BREIDABLIK UBK 
-http://127.0.0.1:6878/ace/getstream?id=33369549C635DABDB78B95C478C21FCC9E4EE854
-#EXTINF:-1 group-title="57E284A3C13100BAEFF7A88DC50949585C9F1277" tvg-id="" tvg-logo="" ,21:00 GNK DINAMO ZAGREB - ASTANA 
-http://127.0.0.1:6878/ace/getstream?id=57E284A3C13100BAEFF7A88DC50949585C9F1277
-#EXTINF:-1 group-title="DF67AFE5C5F5E82A3AE629D126727B006B65E676" tvg-id="" tvg-logo="" ,21:00 CLUB BRUGGE - BESIKTAS 
-http://127.0.0.1:6878/ace/getstream?id=DF67AFE5C5F5E82A3AE629D126727B006B65E676
-#EXTINF:-1 group-title="8CA07071B39185431F8E940EC98D1ADD9E561639" tvg-id="" tvg-logo="" ,20:45 BARÇA BM - SC MAGDEBURG 1080 
-http://127.0.0.1:6878/ace/getstream?id=8CA07071B39185431F8E940EC98D1ADD9E561639
-#EXTINF:-1 group-title="EAFF9293C76A324C750EF5094C2A4E2C96518D1F" tvg-id="" tvg-logo="" ,20:45 BARÇA BM - SC MAGDEBURG 720 
-http://127.0.0.1:6878/ace/getstream?id=EAFF9293C76A324C750EF5094C2A4E2C96518D1F
-#EXTINF:-1 group-title="5E4CD48C79F991FCBEE2DE8B9D30C4B16DE3B952" tvg-id="" tvg-logo="" ,15:30 CONTRARRELOJ MIXTA 
-http://127.0.0.1:6878/ace/getstream?id=5E4CD48C79F991FCBEE2DE8B9D30C4B16DE3B952
-#EXTINF:-1 group-title="5E4CD48C79F991FCBEE2DE8B9D30C4B16DE3B952" tvg-id="" tvg-logo="" ,13:25  ETAPA 2 
-http://127.0.0.1:6878/ace/getstream?id=5E4CD48C79F991FCBEE2DE8B9D30C4B16DE3B952
-#EXTINF:-1 group-title="9A4F3AE6563668B7709DAC509DEDC709441B3FD9" tvg-id="" tvg-logo="" ,13:30 - 15:30 JORNADA 1 
-http://127.0.0.1:6878/ace/getstream?id=9A4F3AE6563668B7709DAC509DEDC709441B3FD9
-#EXTINF:-1 group-title="D00223931B1854163E24C5C22475015D7D45C112" tvg-id="" tvg-logo="" ,21:00 FRANCIA - NAMIBIA 
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Leverkusen Vs Hacken 
+http://127.0.0.1:6878/ace/getstream?id=1D79A7543D691666135669F89F3541F54E2Dd0A9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Lask Vs Liverpool 
+http://127.0.0.1:6878/ace/getstream?id=1B48D5881337C87B89E1Edefff6688Fe2271D222
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Rennes Vs Maccavi 
+http://127.0.0.1:6878/ace/getstream?id=A0978A100De9A307C12D395D9B2F4142Db6Ab52D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Servette Vd Salvia 
+http://127.0.0.1:6878/ace/getstream?id=1A4B41C02E116Ed19A505551A9Caa79F54C027F7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Sheriff Vs Roma 
+http://127.0.0.1:6878/ace/getstream?id=5C21C181156F200D5E628Ef2C62Cd06Bf5F97Eb7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:30 Unión Vs Toulouse 
+http://127.0.0.1:6878/ace/getstream?id=5932623D2Fd7Ed16B01787251B418E4F59A01Cda
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 Ajax Vs Olimpic 
+http://127.0.0.1:6878/ace/getstream?id=1D79A7543D691666135669F89F3541F54E2Dd0A9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 Atalanta Vs Rakow 
+http://127.0.0.1:6878/ace/getstream?id=A0978A100De9A307C12D395D9B2F4142Db6Ab52D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 Brighton Vs Aek 
+http://127.0.0.1:6878/ace/getstream?id=1B48D5881337C87B89E1Edefff6688Fe2271D222
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 Olímpiacos Vs Friburgo 
+http://127.0.0.1:6878/ace/getstream?id=5C21C181156F200D5E628Ef2C62Cd06Bf5F97Eb7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 Sturm Vs Sporting 
+http://127.0.0.1:6878/ace/getstream?id=1A4B41C02E116Ed19A505551A9Caa79F54C027F7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:55 West Han Vs Backa 
+http://127.0.0.1:6878/ace/getstream?id=5932623D2Fd7Ed16B01787251B418E4F59A01Cda
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18 :45 20:55 Multi Europa League 
+http://127.0.0.1:6878/ace/getstream?id=Ad372Cba73Aa0Ece207A79532B3E30B731136Bb2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:45 Legia Warszawa - Aston Villa 
+http://127.0.0.1:6878/ace/getstream?id=Df67Afe5C5F5E82A3Ae629D126727B006B65E676
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:45 Genk - Fiorentina 
+http://127.0.0.1:6878/ace/getstream?id=57E284A3C13100Baeff7A88Dc50949585C9F1277
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,18:45 Eintracht Frankfurt - Aberdeen 
+http://127.0.0.1:6878/ace/getstream?id=33369549C635Dabdb78B95C478C21Fcc9E4Ee854
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,21:00 Maccabi Tel Aviv Fc - Breidablik Ubk 
+http://127.0.0.1:6878/ace/getstream?id=33369549C635Dabdb78B95C478C21Fcc9E4Ee854
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,21:00 Gnk Dinamo Zagreb - Astana 
+http://127.0.0.1:6878/ace/getstream?id=57E284A3C13100Baeff7A88Dc50949585C9F1277
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,21:00 Club Brugge - Besiktas 
+http://127.0.0.1:6878/ace/getstream?id=Df67Afe5C5F5E82A3Ae629D126727B006B65E676
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:45 Barça Bm - Sc Magdeburg 1080 
+http://127.0.0.1:6878/ace/getstream?id=8Ca07071B39185431F8E940Ec98D1Add9E561639
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,20:45 Barça Bm - Sc Magdeburg 720 
+http://127.0.0.1:6878/ace/getstream?id=Eaff9293C76A324C750Ef5094C2A4E2C96518D1F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,15:30 Contrarreloj Mixta 
+http://127.0.0.1:6878/ace/getstream?id=5E4Cd48C79F991Fcbee2De8B9D30C4B16De3B952
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,13:25  Etapa 2 
+http://127.0.0.1:6878/ace/getstream?id=5E4Cd48C79F991Fcbee2De8B9D30C4B16De3B952
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,13:30 - 15:30 Jornada 1 
+http://127.0.0.1:6878/ace/getstream?id=9A4F3Ae6563668B7709Dac509Dedc709441B3Fd9
+#EXTINF:-1 group-title="D00223931B1854163E24C5C22475015D7D45C112" tvg-id="" tvg-logo="" ,21:00 Francia - Namibia 
 http://127.0.0.1:6878/ace/getstream?id=D00223931B1854163E24C5C22475015D7D45C112
-#EXTINF:-1 group-title="E2395D28AD19423212FD3AA0E81F387DB3E8BB9F" tvg-id="" tvg-logo="" ,21:00 1/4 DE FINAL 
-http://127.0.0.1:6878/ace/getstream?id=E2395D28AD19423212FD3AA0E81F387DB3E8BB9F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•NBA 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E72D03FB9694164317260F684470BE9AB781ED95
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #0 DE MOVISTAR 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://864FC1BE34BDEDC4BC2C7BB92098C61DF8E9C7C2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• SETANTA SPORTS 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://72066549FBFD3F755853FE9467586B7DEBF01F60
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,NBA USA 1 
-http://127.0.0.1:6878/ace/getstream?id=39DB49BC89DCC3C8797566231F869DCA57F1A47E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,NBA USA 2 
-http://127.0.0.1:6878/ace/getstream?id=F1C84EC8EA0C0BFFF8A24272B66C64354A522110
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN USA 
-http://127.0.0.1:6878/ace/getstream?id=4B4907DE51EC11087D4BED5876F2A0C68264F442
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN 2 USA 
-http://127.0.0.1:6878/ace/getstream?id=664EB5FE460B96941AED633959A845B185CD8394
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX SPORTS USA 
-http://127.0.0.1:6878/ace/getstream?id=C9C062941FBECB16CE29437F346EA7177D720898
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX SPORTS 2 USA 
-http://127.0.0.1:6878/ace/getstream?id=CBA8D369EAC629B577750EDB90370CD1C5FB03B7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 1 UK 
-http://127.0.0.1:6878/ace/getstream?id=EFC60CFE5E3A349BAA02BCC49F6647C21A9C3C5B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 2 UK 
-http://127.0.0.1:6878/ace/getstream?id=D63D8A57CF471394BFA9F619BBD68B01AE27A801
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 3 UK 
-http://127.0.0.1:6878/ace/getstream?id=5F966C123759DE46DFF29C379266B7A403452033
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 4 UK 
-http://127.0.0.1:6878/ace/getstream?id=FC5089D8E1519872FDF951779CCBCA913ACC9BCE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS ARENA UK 
-http://127.0.0.1:6878/ace/getstream?id=D317A003E8047DA2C36A2A2BB2289578C9A3B79C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS PREMIER LEAGUE UK 
-http://127.0.0.1:6878/ace/getstream?id=8D976B2A90DCE3B57ED094BD8A6152335C66BBC9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS FOOTBALL UK 
-http://127.0.0.1:6878/ace/getstream?id=8DBE2D515E9131FA311353537736F8C94BE9B26D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS MAIN EVENT UK 
-http://127.0.0.1:6878/ace/getstream?id=EAB7AEEF0218CE8B0752E596E4792B69EDA4DF5E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS PLUS UK 
-http://127.0.0.1:6878/ace/getstream?id=EC5EABE0144CCFFFC337E1D6708E2AFB81D0638E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PREMIER SPORTS 1 UK 
-http://127.0.0.1:6878/ace/getstream?id=75A56863B6FE0407AD4305B4D7EE5643C3923565
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PREMIER SPORTS 2 UK 
-http://127.0.0.1:6878/ace/getstream?id=4903CA695EDB64BC72AE29EB85A5333BA0139537
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 1 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=A7319EBD54CB1DB9A9DB1574929CA8D305A323D3
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 2 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=E360A96FB4BBE1CB8A7862A6514C4C284EEEC466
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 3 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=8B3C5F9EC938C3D3950BC4C989428D266BD4BD5B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 4 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=784DA1CED871F6D3F6BF25F29664BFD39F6130A6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 5 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=81284E9A279EE23CBC4A7400BD9531F127D20FE5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTL+ SPORT EVENT 6 [DE] 
-http://127.0.0.1:6878/ace/getstream?id=C065AB169F75CED1D34FBCAB6B84A5FA4CA73E30
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,EUROSPORT 1 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=B8CAD4710B1C3B2B84A82C1ECE40C08517B8F766
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,EUROSPORT 2 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=AC675C82D6DFD4A201532C18B42E48DACB7C32C6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 1 BE 
-http://127.0.0.1:6878/ace/getstream?id=BBA1905FCD1C4975AEC544047BF8E4CD23CE3FE0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 2 BE 
-http://127.0.0.1:6878/ace/getstream?id=EDB507E38394D614C9FF55805C9D354AE13210BC
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 3 BE 
-http://127.0.0.1:6878/ace/getstream?id=731BD3336EC0986FF9100EFE40DBAF1473A22CF8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 1 PT 
-http://127.0.0.1:6878/ace/getstream?id=36CAD67FED5A739757A9DB844A551AA845A8D51B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 2 PT 
-http://127.0.0.1:6878/ace/getstream?id=D08013DF6E437A1FDF1E0C34F573FDF6A40C7FCE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 3 PT 
-http://127.0.0.1:6878/ace/getstream?id=DAE7D1251F069516CC0A9C8F15F6639D2A17DF1E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 4 PT 
-http://127.0.0.1:6878/ace/getstream?id=0F32C0131A2D9444996410801F4E18B04384DB98
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 5 PT 
-http://127.0.0.1:6878/ace/getstream?id=4DBE63B44FC4F439F5B634C0D2AA7E0CCCAD808A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 6 PT 
-http://127.0.0.1:6878/ace/getstream?id=50B6D2B5FD59FEFB9F4FD2176994D418F2B94A80
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 
-http://127.0.0.1:6878/ace/getstream?id=72066549FBFD3F755853FE9467586B7DEBF01F60
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1 
-http://127.0.0.1:6878/ace/getstream?id=B99278331AD806F1463FCD3BF53BEFA5530D86DA
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1 
-http://127.0.0.1:6878/ace/getstream?id=8B70EF2D42E2ADAC57E90F68847EADFC356C04D2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 2 
-http://127.0.0.1:6878/ace/getstream?id=9B8FEEBAF07CED9351AD88DA77EF617F82626C4B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 2 
-http://127.0.0.1:6878/ace/getstream?id=02AB7A40891A8CC1AA7E29E0EFF279ABC4A4188E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! HD[RU] 
-http://127.0.0.1:6878/ace/getstream?id=A203F6B935A8AD8659C4C76C1D9C13AFA6368EF2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! HD[RU] 
-http://127.0.0.1:6878/ace/getstream?id=45D300749E85FCBC10A4B8333100D1EB4C96DA1B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! FOOTBALL HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=B28DB77C5084DA7993395D77DF96C30BB134F0A9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! FOOTBALL 2 HD[RU] 
-http://127.0.0.1:6878/ace/getstream?id=FFBF8C687C788D9A1A7C651E24802EE773FF3F04
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! FOOTBALL 3 HD[RU] 
-http://127.0.0.1:6878/ace/getstream?id=B6BAA046075D82DA300FC1B16DE96067A8B9540E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! PRIME HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=77FD6E894EBA1957177C0F8FAA48FF851B3FFBD5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MATCH! PRIME HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=4B7C5F21B435D79C823E47572655A9C157A3BA12
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,МАТЧ! БОЕЦ [RU] 
-http://127.0.0.1:6878/ace/getstream?id=822654B2C0DB24D1DE149CB21FDD44A3B968FBFA
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,МАТЧ! АРЕНА HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=A1D67CB505881B2B5BC58CE2AF367E5E6D26CAB5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,МАТЧ! НАШ СПОРТ HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=7B4362CB04A3DF40BDFA3800AF0CC78309A60771
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,МАТЧ! ИГРА HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=762E1D11F7D07029F316C6F61B8EF73289C6673C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,МАТЧ! ИГРА HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=69E012E143B7C086F0F15BDA9D1B6DD389FD41DE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
-http://127.0.0.1:6878/ace/getstream?id=11B6AA16E978A409504B9E3E9C3B29C56F392BDF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
-http://127.0.0.1:6878/ace/getstream?id=955BC653F090C238B8D933B41D8A66FEE1BF7893
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
-http://127.0.0.1:6878/ace/getstream?id=11B6AA16E978A409504B9E3E9C3B29C56F392BDF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
-http://127.0.0.1:6878/ace/getstream?id=CEAA2553D401C294166B8E498F5AAA1EF1AEE8E4
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,PIMPLE TV[RU] 
-http://127.0.0.1:6878/ace/getstream?id=8B8F8DDE3E3DE6206C4023011525546BF081F09D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CTAPT [RU] 
-http://127.0.0.1:6878/ace/getstream?id=4B129146077C1E357E4AB341448B9FB629F939DC
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,KHL [RU] 
-http://127.0.0.1:6878/ace/getstream?id=AA6C193B9DE1E6B6277E3075299FDEEA925E2DC0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,KHL PRIME [RU] 
-http://127.0.0.1:6878/ace/getstream?id=DCDA9DE85F7D662C5C3C2EFD74ECA0FB5C6AAB3B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,VIASAT SPORT HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=DEC96C86080C26DDF667EA90ADFB513A40007A0B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ФУТБОЛ HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=FCE354F24FE26CA527E2C38B14EB7B0C81F756DD
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX LIFE HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=36BD5C1FDF09E5E92AA68CC642AE2D4DB6694526
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=DF94AFD23701839B3FDCDF669C73F2E3D656126E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,EUROSPORT 1 HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=1B0BC4D4DCD609D3C092712E721392B199F50A62
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,EUROSPORT 2 HD [RU] 
-http://127.0.0.1:6878/ace/getstream?id=6176281B9C46A5621A0E88524F8DC621F173B8E0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,QAZSPORT HD [KZ] 
-http://127.0.0.1:6878/ace/getstream?id=C9014901637B29CAD1C39519F0952453C20CE27B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1 [UA] 
-http://127.0.0.1:6878/ace/getstream?id=42FE2CE3EF6B92653A74D85B6E98C2BA0ABEE707
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1 [UA] 
-http://127.0.0.1:6878/ace/getstream?id=75594806667040420DEE6ED57926101D702566E8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 1 [UA] 
-http://127.0.0.1:6878/ace/getstream?id=94ADCDC5A9DE993DD11C6D648275CFEB2BE6715B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS 2 [UA] 
-http://127.0.0.1:6878/ace/getstream?id=F6D68CFA8694F814983F2A5757F4E0C4964B880C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SETANTA SPORTS +HD[UA] 
-http://127.0.0.1:6878/ace/getstream?id=0528A1CECD81EFD3EC72F49BD32FA847BC924ABF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,TVP SPORT HD [PL] 
+#EXTINF:-1 group-title="D00223931B1854163E24C5C22475015D7D45C112" tvg-id="" tvg-logo="" ,21:00 1/4 De Final 
+http://127.0.0.1:6878/ace/getstream?id=E2395D28Ad19423212Fd3Aa0E81F387Db3E8Bb9F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E72D03Fb9694164317260F684470Be9Ab781Ed95
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #0 De Movistar 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://864Fc1Be34Bdedc4Bc2C7Bb92098C61Df8E9C7C2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Setanta Sports 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://72066549Fbfd3F755853Fe9467586B7Debf01F60
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nba Usa 1 
+http://127.0.0.1:6878/ace/getstream?id=39Db49Bc89Dcc3C8797566231F869Dca57F1A47E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Nba Usa 2 
+http://127.0.0.1:6878/ace/getstream?id=F1C84Ec8Ea0C0Bfff8A24272B66C64354A522110
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn Usa 
+http://127.0.0.1:6878/ace/getstream?id=4B4907De51Ec11087D4Bed5876F2A0C68264F442
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn 2 Usa 
+http://127.0.0.1:6878/ace/getstream?id=664Eb5Fe460B96941Aed633959A845B185Cd8394
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Sports Usa 
+http://127.0.0.1:6878/ace/getstream?id=C9C062941Fbecb16Ce29437F346Ea7177D720898
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Sports 2 Usa 
+http://127.0.0.1:6878/ace/getstream?id=Cba8D369Eac629B577750Edb90370Cd1C5Fb03B7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 1 Uk 
+http://127.0.0.1:6878/ace/getstream?id=Efc60Cfe5E3A349Baa02Bcc49F6647C21A9C3C5B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 2 Uk 
+http://127.0.0.1:6878/ace/getstream?id=D63D8A57Cf471394Bfa9F619Bbd68B01Ae27A801
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 3 Uk 
+http://127.0.0.1:6878/ace/getstream?id=5F966C123759De46Dff29C379266B7A403452033
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 4 Uk 
+http://127.0.0.1:6878/ace/getstream?id=Fc5089D8E1519872Fdf951779Ccbca913Acc9Bce
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Arena Uk 
+http://127.0.0.1:6878/ace/getstream?id=D317A003E8047Da2C36A2A2Bb2289578C9A3B79C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Premier League Uk 
+http://127.0.0.1:6878/ace/getstream?id=8D976B2A90Dce3B57Ed094Bd8A6152335C66Bbc9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Football Uk 
+http://127.0.0.1:6878/ace/getstream?id=8Dbe2D515E9131Fa311353537736F8C94Be9B26D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Main Event Uk 
+http://127.0.0.1:6878/ace/getstream?id=Eab7Aeef0218Ce8B0752E596E4792B69Eda4Df5E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Plus Uk 
+http://127.0.0.1:6878/ace/getstream?id=Ec5Eabe0144Ccfffc337E1D6708E2Afb81D0638E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Premier Sports 1 Uk 
+http://127.0.0.1:6878/ace/getstream?id=75A56863B6Fe0407Ad4305B4D7Ee5643C3923565
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Premier Sports 2 Uk 
+http://127.0.0.1:6878/ace/getstream?id=4903Ca695Edb64Bc72Ae29Eb85A5333Ba0139537
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 1 [De] 
+http://127.0.0.1:6878/ace/getstream?id=A7319Ebd54Cb1Db9A9Db1574929Ca8D305A323D3
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 2 [De] 
+http://127.0.0.1:6878/ace/getstream?id=E360A96Fb4Bbe1Cb8A7862A6514C4C284Eeec466
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 3 [De] 
+http://127.0.0.1:6878/ace/getstream?id=8B3C5F9Ec938C3D3950Bc4C989428D266Bd4Bd5B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 4 [De] 
+http://127.0.0.1:6878/ace/getstream?id=784Da1Ced871F6D3F6Bf25F29664Bfd39F6130A6
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 5 [De] 
+http://127.0.0.1:6878/ace/getstream?id=81284E9A279Ee23Cbc4A7400Bd9531F127D20Fe5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtl+ Sport Event 6 [De] 
+http://127.0.0.1:6878/ace/getstream?id=C065Ab169F75Ced1D34Fbcab6B84A5Fa4Ca73E30
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eurosport 1 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=B8Cad4710B1C3B2B84A82C1Ece40C08517B8F766
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eurosport 2 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=Ac675C82D6Dfd4A201532C18B42E48Dacb7C32C6
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 1 Be 
+http://127.0.0.1:6878/ace/getstream?id=Bba1905Fcd1C4975Aec544047Bf8E4Cd23Ce3Fe0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 2 Be 
+http://127.0.0.1:6878/ace/getstream?id=Edb507E38394D614C9Ff55805C9D354Ae13210Bc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 3 Be 
+http://127.0.0.1:6878/ace/getstream?id=731Bd3336Ec0986Ff9100Efe40Dbaf1473A22Cf8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 1 Pt 
+http://127.0.0.1:6878/ace/getstream?id=36Cad67Fed5A739757A9Db844A551Aa845A8D51B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 2 Pt 
+http://127.0.0.1:6878/ace/getstream?id=D08013Df6E437A1Fdf1E0C34F573Fdf6A40C7Fce
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 3 Pt 
+http://127.0.0.1:6878/ace/getstream?id=Dae7D1251F069516Cc0A9C8F15F6639D2A17Df1E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 4 Pt 
+http://127.0.0.1:6878/ace/getstream?id=0F32C0131A2D9444996410801F4E18B04384Db98
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 5 Pt 
+http://127.0.0.1:6878/ace/getstream?id=4Dbe63B44Fc4F439F5B634C0D2Aa7E0Cccad808A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 6 Pt 
+http://127.0.0.1:6878/ace/getstream?id=50B6D2B5Fd59Fefb9F4Fd2176994D418F2B94A80
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 
+http://127.0.0.1:6878/ace/getstream?id=72066549Fbfd3F755853Fe9467586B7Debf01F60
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 1 
+http://127.0.0.1:6878/ace/getstream?id=B99278331Ad806F1463Fcd3Bf53Befa5530D86Da
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 1 
+http://127.0.0.1:6878/ace/getstream?id=8B70Ef2D42E2Adac57E90F68847Eadfc356C04D2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 2 
+http://127.0.0.1:6878/ace/getstream?id=9B8Feebaf07Ced9351Ad88Da77Ef617F82626C4B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 2 
+http://127.0.0.1:6878/ace/getstream?id=02Ab7A40891A8Cc1Aa7E29E0Eff279Abc4A4188E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Hd[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=A203F6B935A8Ad8659C4C76C1D9C13Afa6368Ef2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Hd[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=45D300749E85Fcbc10A4B8333100D1Eb4C96Da1B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Football Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=B28Db77C5084Da7993395D77Df96C30Bb134F0A9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Football 2 Hd[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Ffbf8C687C788D9A1A7C651E24802Ee773Ff3F04
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Football 3 Hd[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=B6Baa046075D82Da300Fc1B16De96067A8B9540E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Prime Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=77Fd6E894Eba1957177C0F8Faa48Ff851B3Ffbd5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Match! Prime Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=4B7C5F21B435D79C823E47572655A9C157A3Ba12
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Матч! Боец [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=822654B2C0Db24D1De149Cb21Fdd44A3B968Fbfa
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Матч! Арена Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=A1D67Cb505881B2B5Bc58Ce2Af367E5E6D26Cab5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Матч! Наш Спорт Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=7B4362Cb04A3Df40Bdfa3800Af0Cc78309A60771
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Матч! Игра Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=762E1D11F7D07029F316C6F61B8Ef73289C6673C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Матч! Игра Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=69E012E143B7C086F0F15Bda9D1B6Dd389Fd41De
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pimple Tv[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=11B6Aa16E978A409504B9E3E9C3B29C56F392Bdf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pimple Tv[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=955Bc653F090C238B8D933B41D8A66Fee1Bf7893
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pimple Tv[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=11B6Aa16E978A409504B9E3E9C3B29C56F392Bdf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pimple Tv[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Ceaa2553D401C294166B8E498F5Aaa1Ef1Aee8E4
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Pimple Tv[Ru] 
+http://127.0.0.1:6878/ace/getstream?id=8B8F8Dde3E3De6206C4023011525546Bf081F09D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Ctapt [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=4B129146077C1E357E4Ab341448B9Fb629F939Dc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Khl [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Aa6C193B9De1E6B6277E3075299Fdeea925E2Dc0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Khl Prime [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Dcda9De85F7D662C5C3C2Efd74Eca0Fb5C6Aab3B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Viasat Sport Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Dec96C86080C26Ddf667Ea90Adfb513A40007A0B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Футбол Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Fce354F24Fe26Ca527E2C38B14Eb7B0C81F756Dd
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Life Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=36Bd5C1Fdf09E5E92Aa68Cc642Ae2D4Db6694526
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=Df94Afd23701839B3Fdcdf669C73F2E3D656126E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eurosport 1 Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=1B0Bc4D4Dcd609D3C092712E721392B199F50A62
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eurosport 2 Hd [Ru] 
+http://127.0.0.1:6878/ace/getstream?id=6176281B9C46A5621A0E88524F8Dc621F173B8E0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Qazsport Hd [Kz] 
+http://127.0.0.1:6878/ace/getstream?id=C9014901637B29Cad1C39519F0952453C20Ce27B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 1 [Ua] 
+http://127.0.0.1:6878/ace/getstream?id=42Fe2Ce3Ef6B92653A74D85B6E98C2Ba0Abee707
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 1 [Ua] 
+http://127.0.0.1:6878/ace/getstream?id=75594806667040420Dee6Ed57926101D702566E8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 1 [Ua] 
+http://127.0.0.1:6878/ace/getstream?id=94Adcdc5A9De993Dd11C6D648275Cfeb2Be6715B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports 2 [Ua] 
+http://127.0.0.1:6878/ace/getstream?id=F6D68Cfa8694F814983F2A5757F4E0C4964B880C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Setanta Sports +Hd[Ua] 
+http://127.0.0.1:6878/ace/getstream?id=0528A1Cecd81Efd3Ec72F49Bd32Fa847Bc924Abf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Tvp Sport Hd [Pl] 
 http://127.0.0.1:6878/ace/getstream?id=D6F0A6377C31F68B1C1C071E0A8F9F105A455867
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 1 HD [PL] 
-http://127.0.0.1:6878/ace/getstream?id=14407B00D454CB7DC0D70AA26E8BBC554F457F00
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 2 HD [PL] 
-http://127.0.0.1:6878/ace/getstream?id=54A4A28882D3CAE1CA19DE5D4B022EBEA40351F9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 3 HD [PL] 
-http://127.0.0.1:6878/ace/getstream?id=B146EE4B6E16C9DF58E27BD02FFD6CEA840FF212
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 4 HD [PL] 
-http://127.0.0.1:6878/ace/getstream?id=458A0DDD7D193F6D2750CD14D03A47F47A808E09
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,EXTREME SPORTS[PL] 
-http://127.0.0.1:6878/ace/getstream?id=73FF07648E367EFEBD94636047B07625F664A082
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,TVP 1 POLAND HD 
-http://127.0.0.1:6878/ace/getstream?id=D31D828052A432246E59E7D0D640BD55A64F1859
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT KLUB HD[PL] 
-http://127.0.0.1:6878/ace/getstream?id=35575A31D76F6C5F5E9E6364DACFDECA3B85F2EE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,POLSAT SPORT PREMIUM 1[PL] 
-http://127.0.0.1:6878/ace/getstream?id=4CE55DB7E578FF52A6E526CF610E477464B8A99F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,POLSAT SPORT PREMIUM 2[PL] 
-http://127.0.0.1:6878/ace/getstream?id=3147C586346AEE00C005D1CAA55204D38678C95F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,POLSAT SPORT[PL] 
-http://127.0.0.1:6878/ace/getstream?id=92B6BA09DAE4BBB8A67A405125D08CA8D15380EE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,POLSAT SPORT EXTRA[PL] 
-http://127.0.0.1:6878/ace/getstream?id=EF2CF11FC83F4F15A33C9A514A7AFD2BCE73122F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANAL+ SPORTS [PL] 
-http://127.0.0.1:6878/ace/getstream?id=CC7B8C39F70AA342248D02C8AB55BAFDB4116ED7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANAL+ SPORTS 2 [PL] 
-http://127.0.0.1:6878/ace/getstream?id=6390B1AB967A25777EA2DDE1D41B7400CC0601D3
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANAL+ SPORTS 3 [PL] 
-http://127.0.0.1:6878/ace/getstream?id=3E87464ED8C42ED14464461EA08860A3040A8944
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANAL+ SPORTS 5 [PL] 
-http://127.0.0.1:6878/ace/getstream?id=5F595B1BBADE5E7C915D99F90645F4C30D4BA540
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX COMEDY [PL] 
-http://127.0.0.1:6878/ace/getstream?id=8FB7F8107213A9020F298C8D0068EA86D0713D01
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX HD [PL] 
-http://127.0.0.1:6878/ace/getstream?id=ADE7437D52002E864F851C4DE016923DCD6D2548
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DAZN 1 BAR [DE] 
-http://127.0.0.1:6878/ace/getstream?id=897E73C9D578848F596585314ECB9AE067C0E229
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DAZN 2 BAR [DE] 
-http://127.0.0.1:6878/ace/getstream?id=12EA555D431DBE51FC8E4CA745AEC09FE22A4865
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ZDF HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=C71FB593810CE837545E8D8B384E50A42C35A316
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ATV HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=7D50D90895F44E97039ECA21AE6BC17172ACC9EF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ORF 1 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=C9D6412050226DE0968CEA19A383B50DC1966363
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ORF 2 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=F5D3EA421C4C067B5C90161A8AE4D93482FB9EDD
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ORF 3 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=41AC7892B8FDE95D5110D83D7324044145C7F86A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ORF SPORT+ HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=0DFA37340CA0300A41F7A78BD3A0F024C3296974
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKYSPORT F1 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=B04372B9543D763BD2DBD2A1842D9723FD080076
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT DIGITAL [DE] 
-http://127.0.0.1:6878/ace/getstream?id=5E94200AE8B1D95CB559FB150E5993D92E15D4E7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT1+HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=E61B6538DF35E5016635DFA2B3073F5B82EE4C2B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SERVUS TV HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=988F4D88D74EC0D2B3584F6C7E067FCBDB501115
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 1 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=501141C649A2B78C4965CBF3257224181CC55072
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 2 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=AB0D54995BDCEA2D8F9F588EF631EBBFB3F5A9AB
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 3 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=D0CA51F6145514EE605C2EF5D5A137E2A08C95B8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 4 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=1FB794B1503C5955B75EA0106EE6360B80D78849
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 5 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=428B92F3C71CD3CBF66EF6193808B39D16A52730
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 6 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=14317C55FADC80EF2B7FB42B3D53E8CCB3B52CD8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 7 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=AC839CDA9709255C21A98AF455731F037E77A9E4
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 8 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=11C5823D4196A90B509F03DF1FE78E13CFBBB175
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 9 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=86495FE134FF065D5217497BABE6BE33F81D37D1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 10 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=6058A4C0F2569BD81C687AA7DFB48B8A9569FB29
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MAGENTA SPORT 11 HD [DE] 
-http://127.0.0.1:6878/ace/getstream?id=C21316AD4B7F44EAF6FCFB2C245C46DE8B746CC6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BBC ONE [UK] 
-http://127.0.0.1:6878/ace/getstream?id=243EACCD38B9A0C43B800B6C7A30B1AD2CADC1F1
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS F1[UK] 
-http://127.0.0.1:6878/ace/getstream?id=468964086EBBD8B067C1A3EC4EBFC4E7A5BC9CC7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS MAIN EVENT [UK] 
-http://127.0.0.1:6878/ace/getstream?id=EAB7AEEF0218CE8B0752E596E4792B69EDA4DF5E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS PREMIER LEAGUE[UK] 
-http://127.0.0.1:6878/ace/getstream?id=EC5EABE0144CCFFFC337E1D6708E2AFB81D0638E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS[UK] 
-http://127.0.0.1:6878/ace/getstream?id=8DBE2D515E9131FA311353537736F8C94BE9B26D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS[UK] 
-http://127.0.0.1:6878/ace/getstream?id=EAB7AEEF0218CE8B0752E596E4792B69EDA4DF5E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORTS ARENA[UK] 
-http://127.0.0.1:6878/ace/getstream?id=D317A003E8047DA2C36A2A2BB2289578C9A3B79C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SKY SPORT CRICKET [UK] 
-http://127.0.0.1:6878/ace/getstream?id=6D95E4B0893E155CC674B84E0763150C445D3DDD
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 1 [UK] 
-http://127.0.0.1:6878/ace/getstream?id=EFC60CFE5E3A349BAA02BCC49F6647C21A9C3C5B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 2 [UK] 
-http://127.0.0.1:6878/ace/getstream?id=D63D8A57CF471394BFA9F619BBD68B01AE27A801
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 3 [UK] 
-http://127.0.0.1:6878/ace/getstream?id=5F966C123759DE46DFF29C379266B7A403452033
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BT SPORT 4 [UK] 
-http://127.0.0.1:6878/ace/getstream?id=FC5089D8E1519872FDF951779CCBCA913ACC9BCE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 TV 1080P 
-http://127.0.0.1:6878/ace/getstream?id=77CB36936F3341264F010D39A1758F4672E308B0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 TV 1080P 
-http://127.0.0.1:6878/ace/getstream?id=22C184381158087C2B522E1AACBC1BCA7C67DC74
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN TR SPORT [IT] 
-http://127.0.0.1:6878/ace/getstream?id=154D111A97B7B18D1F64E9AE697C33C479D01E32
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,TELESUD TRAPANI [IT] 
-http://127.0.0.1:6878/ace/getstream?id=8EC948677DA521DA7BB238C0B1968A899EDB797D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,LA7 .IT [IT] 
-http://127.0.0.1:6878/ace/getstream?id=48E0F30CCDA711FF2894CBC52C6DF89FFD05FE22
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,LA7D .IT [IT] 
-http://127.0.0.1:6878/ace/getstream?id=F910F4C0374A08379C464C1DB49028308557C0EB
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RETEVENETA [IT] 
-http://127.0.0.1:6878/ace/getstream?id=70BA597A6E0F4C6A5868331B11CEA6E459AC9F22
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RETEVENETA [IT] 
-http://127.0.0.1:6878/ace/getstream?id=D2E92DFAD22B8258187F622B834B9ACEDC1E443F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RETEVENETA [IT] 
-http://127.0.0.1:6878/ace/getstream?id=8F3C2FCD4A6F8C78E3148F871FCCACECED5A478E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,VIDEOLINA [IT] 
-http://127.0.0.1:6878/ace/getstream?id=277503B17DAEB2BBEA26BFE27DC9FFC33C0CB251
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,RTC TELECALABRIA [IT] 
-http://127.0.0.1:6878/ace/getstream?id=735D268177573DF80BCADF0A4DEFEBAE9811DB2F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SAN MARINO RTV SPORT [IT] 
-http://127.0.0.1:6878/ace/getstream?id=753F25945102655DD6FCF856F32695005C912D69
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SAN MARINO RTV HD [IT] 
-http://127.0.0.1:6878/ace/getstream?id=2016E4B3D77149097B6D842DF07B7A364C823B9B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,TELEMONTENEVE [IT] 
-http://127.0.0.1:6878/ace/getstream?id=AF8EA343635DCF9ECA32567D32FAACC76023A847
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ITALIA 2 TV [IT] 
-http://127.0.0.1:6878/ace/getstream?id=3BF85216745A2A4577F2226628301FDED74287BF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANALE 2 [IT] 
-http://127.0.0.1:6878/ace/getstream?id=B65AF5E182BE8AC7BDF3E1C548E4B7F91E69BF77
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CANALE 7 [IT] 
-http://127.0.0.1:6878/ace/getstream?id=8EBF8CDED98F3E4C2E3EA83244E7EF3481091C3B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,MILANO PAVIA TV [IT] 
-http://127.0.0.1:6878/ace/getstream?id=0969A38E2B12D718F09E88E0925AED88F24A957B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,UNINETTUNO UNIVERSITY TV [IT] 
-http://127.0.0.1:6878/ace/getstream?id=4E17BAC6B2DECC70FD7BD704CE7013072FEFD1F0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN HD[US] 
-http://127.0.0.1:6878/ace/getstream?id=4B4907DE51EC11087D4BED5876F2A0C68264F442
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN 2 HD[US] 
-http://127.0.0.1:6878/ace/getstream?id=664EB5FE460B96941AED633959A845B185CD8394
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX SPORTS 1 HD [US] 
-http://127.0.0.1:6878/ace/getstream?id=C9C062941FBECB16CE29437F346EA7177D720898
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,FOX SPORTS 2 HD [US] 
-http://127.0.0.1:6878/ace/getstream?id=CBA8D369EAC629B577750EDB90370CD1C5FB03B7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS XTRA Ñ 
-http://127.0.0.1:6878/ace/getstream?id=92A7DCC55392EFC6DD5D012C4FF3878891EB6A6E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN [CO] 
-http://127.0.0.1:6878/ace/getstream?id=2492F8AA7CD7C4800E7B22C4ECBA05E34C18BE00
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN 2 [CO] 
-http://127.0.0.1:6878/ace/getstream?id=E40B29774FDFD953751A71F5695F647726623B9D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN 3 [CO] 
-http://127.0.0.1:6878/ace/getstream?id=B97F5975DBD067655432512D4693B417BC85A714
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN EXTRA [CO] 
-http://127.0.0.1:6878/ace/getstream?id=9C3FEB380CD9BCF9DCB7A9454CA8EB7962201612
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 1 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=36CAD67FED5A739757A9DB844A551AA845A8D51B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 2 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=D08013DF6E437A1FDF1E0C34F573FDF6A40C7FCE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 3 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=DAE7D1251F069516CC0A9C8F15F6639D2A17DF1E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 4 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=0F32C0131A2D9444996410801F4E18B04384DB98
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 5 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=4DBE63B44FC4F439F5B634C0D2AA7E0CCCAD808A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ELEVEN SPORTS 6 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=50B6D2B5FD59FEFB9F4FD2176994D418F2B94A80
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT TV 1 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=C95422BC904378BE0B035EBA721D5E6A004F7D79
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT TV 2 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=A1BD609A2D64D1EE4B81AF32464B36848FE36541
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,SPORT TV 3 [PT] 
-http://127.0.0.1:6878/ace/getstream?id=6C526D4CC3CA77CFBC10C548AA0D49944E56F3FF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 1 [FR] 
-http://127.0.0.1:6878/ace/getstream?id=BBA1905FCD1C4975AEC544047BF8E4CD23CE3FE0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 2 [FR] 
-http://127.0.0.1:6878/ace/getstream?id=EDB507E38394D614C9FF55805C9D354AE13210BC
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 3 [FR] 
-http://127.0.0.1:6878/ace/getstream?id=731BD3336EC0986FF9100EFE40DBAF1473A22CF8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 1[RM] 
-http://127.0.0.1:6878/ace/getstream?id=51CEE9D0B29DBD9104E9A3971FD2569419EAB159
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 1[RM] 
-http://127.0.0.1:6878/ace/getstream?id=83671B11F6DC071FEB5769F6646CFC439C18989D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 2[RM] 
-http://127.0.0.1:6878/ace/getstream?id=B7DB2C0404F90F99B01A8875713C047CD07595F7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 3[RM] 
-http://127.0.0.1:6878/ace/getstream?id=B9DC6FDEACA5A5F4275DB80D68536E023CE4EA06
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 3[RM] 
-http://127.0.0.1:6878/ace/getstream?id=257BE6B709B3C62E171F5CA9DBDF7428DFC97040
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIGI SPORT 4[RM] 
-http://127.0.0.1:6878/ace/getstream?id=7090AB27689444B127B3CB8707E0334D409E0CC6
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ESPN [NL] 
-http://127.0.0.1:6878/ace/getstream?id=E2044FD44478794EBFE721DEB060D149507F1348
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ZIGGO SPORT SELECT[NL] 
-http://127.0.0.1:6878/ace/getstream?id=45EAB0695CE13265687ACE5E5BCEF8D8EE8BC69A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ZIGGO SPORT VOETBAL[NL] 
-http://127.0.0.1:6878/ace/getstream?id=95769F95C6AF45E8EC46526C3BE1104D0A0C7B91
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ZIGGO SPORT RACING[NL] 
-http://127.0.0.1:6878/ace/getstream?id=77800BB07C1D69135024EE2379C97472EB12DD45
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,ZIGGO SPORT GOLF[NL] 
-http://127.0.0.1:6878/ace/getstream?id=035E34B791335962CA817F42FD14300382AF3797
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,DIEMA SPORT 2[BG] 
-http://127.0.0.1:6878/ace/getstream?id=15CC58B8CA2928AD68BC285DF2A37F653EEBD35A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS HABER [TR] 
-http://127.0.0.1:6878/ace/getstream?id=47C1B3A68D03BD190FED521D144AD08FA0F195F3
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 1 HD[TR] 
-http://127.0.0.1:6878/ace/getstream?id=118416583FAA3FB4F03800173429B6B844B43A52
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 2 HD[TR] 
-http://127.0.0.1:6878/ace/getstream?id=48BEE10B883F17C7186D60F1E8022DCA0BA41A05
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 3 HD[TR] 
-http://127.0.0.1:6878/ace/getstream?id=ED81C333815247536EDFCDB2755147E8C4144D62
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,BEIN SPORTS 4 HD[TR] 
-http://127.0.0.1:6878/ace/getstream?id=7683CD0CBACF55FA8B39C363219FFBA1BC47CF9D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,CENTRAL TV (PERÚ) 
-http://127.0.0.1:6878/ace/getstream?id=804B99FF1444B94C6939F939E826088D19838C06
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LA1 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://02B9307C5C97C86914CC5939D6BBEB5B4EC60B47
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LA1 UHD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://6636A5C1055B5913DDCD0E87A5523F7D935350AF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•LA 2 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://60106275D34F995E26BB2CC4A21A42F586C6C555
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 4K 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://DCE1579E3A2E5BD29071FCA8EAE364F1EB3205CF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 1080P 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://AA82E7D4F03061F2144A2F4BE22F2E2210D42280
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://7D8C87E057BE98F00F22E23B23FBF08999E4B02F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://F096A64DD756A6D549AA7B12EE9ACF7EEE27E833
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://F031F5728B32F6089DDA28EDEBE990CF198108D8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://26029F72A4CA831D09DEEFE89534818DB1D105BC
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 2 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://80126B240F3E4E004754FD8F8103E857AB2556A0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://4C4844564313E39A888F593511F299F5BA3CF929
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://AA8F826DA70E27A26B29C7B32402F17E8A67A8B0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 5 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://535394F62A810BC5AEB25BE75EA5FF7D03E070B2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. LALIGA 6 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://C896D37778F9E43549A788FC22206A655895B51B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://1960A9BE8AE9E8C755330218EAC4C5805466290A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://75251BA975132EC9A202806BA5BF606E87280C96
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://A3BCA895C58D3FC7D5E4259D3D5E3CF0291D1914
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 2 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://93D663E92A93845B11C9831885646FA39BA1ED66
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 2 720 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://0950C37FE1EA817FC561C611AE943D58505F7A79
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 3 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://8C71F0E0A5476E10950FC827F9D2A507340ABA74
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 4 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://2792A8A5F4A3F53CD72DEC377A2639CD12A6973E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN LALIGA 5 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://99E544CDDBEE13798E854C1009EE7D1A93FDEDF7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://4C46585214B23B1D802EF2168060C7649A3894CF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://06B367C22394A1358C9CEFA0CB5D0B64B9B2B3F4
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://D81B4F2F3FDE433539C097B2EDC9B587CA47B087
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 2 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://2709D0AB86CB6CE7BA4D3AD188D7FA80668F2924
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 3 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://59BA45B79152E4599144177B234F6491FC19DB53
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 4 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://2CACF21476B036E319BCB7C7E747766E6CCC082E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 5 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://A1146358AA50C99C887108B17F62F9264186A16A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 6 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://7A9BB1B9CCCB759C44ED84F3C1283922E6854670
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 7 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://446E73A22582921393B020ED08B768AD8E14D754
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• LALIGA SMARTBANK 8 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://4D52FC1994FE927702AEB7BC8778E2F23B1260E2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.PLUS 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5A236FBBE6E5BBFEC03DB548C244A7C858D675C0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #VAMOS 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://859BB6295B8D0F224224D3063D9DB7CDECA03122
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #VAMOS 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://3BBA7C95857C2502C7E03CED1A6A9B00EB567FA0
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #ELLAS 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://67654E63B5065CDAA6C8E8D41BB5428B42B32830
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://D00223931B1854163E24C5C22475015D7D45C112
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,M. DEPORTES 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E5FA927D9A017F4523FDB62774A0AEC457985BFA
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E6F06D697F66A8FA606C4D61236C24B0D604D917
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://AEE0A595220E0F1C2FEE725FD1DBC602D7152A9A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://42E83C337ECE0AF9CA7808859F84C7960E9CB6F5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 5 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://B1E5ABC48195B7CA9B2EE1B352E790EB9F7292E3
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. DEPORTES 6 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://8587ED8AC36AC477E1D4176D3159A38BD154D4CE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•M. DEPORTES 7 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://2448F1D084F440EED2FBE847E24F1C02F5659A78
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://931B1984BADCB821DF7B47A66AC0835AC871B51C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 1080 MULTIAUDIO 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://F096A64DD756A6D549AA7B12EE9ACF7EEE27E833
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 1080P 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://1D79A7543D691666135669F89F3541F54E2DD0A9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E2E2ACA792AAE5DA19995AC516B1D620531BD49C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://FC2FE31B0BCE25E2DC7AB4D262BF645E2BE5A393
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 2 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://6753492C1908274C268A1B28E2A054A0FF8F86F9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://AD372CBA73AA0ECE207A79532B3E30B731136BB2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 3 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://D59FE9978EED49F256B312A60671B5BCE43D3F24
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://1B48D5881337C87B89E1EDEFFF6688FE2271D222
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 5 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5C21C181156F200D5E628EF2C62CD06BF5F97EB7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 6 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM:/A0978A100DE9A307C12D395D9B2F4142DB6AB52D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 7 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5932623D2FD7ED16B01787251B418E4F59A01CDA
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 8 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://1A4B41C02E116ED19A505551A9CAA79F54C027F7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 9 SD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://69C95DC47B35DDE559A6EF025C1B91C89646A17F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 10 SD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://DF67AFE5C5F5E82A3AE629D126727B006B65E676
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 11 SD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://57E284A3C13100BAEFF7A88DC50949585C9F1277
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. CAMPEONES 12 SD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://33369549C635DABDB78B95C478C21FCC9E4EE854
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. GOLF 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://4F945B0BA4206FA2676B61E9EAA465AC3DCC8122
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. GOLF2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://9A4F3AE6563668B7709DAC509DEDC709441B3FD9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://8CA07071B39185431F8E940EC98D1ADD9E561639
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 1 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://EAFF9293C76A324C750EF5094C2A4E2C96518D1F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://60DBEEB299EC04BF02BC7426D827547599D3D9FC
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 2 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://7AA402BAB9FFF43258FBCF401881A39475F30AAF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://A8FFDDEF56F082D4BB5C0BE0D3D2FDD8C16DBD97
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN 4 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://2FCDF7A19C0858F686EFDFABD3C8C2B92BF6BCFD
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN F1 UHD (FÓRMULA 1) 
-http://127.0.0.1:6878/ace/getstream?id=6B94479C24898700089E6B87D28A3CCC72DC4041
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN F1 1080 (FÓRMULA 1) 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5789CA155323664EDD293B848606688EDF803F4D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN F1 1080 (FÓRMULA 1) 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://9DAD717D99B29A05672166258A77C25B57713DD5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• DAZN F1 720 (FÓRMULA 1) 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E1FCAD9DE0C782C157FDE6377805C58297AB65C2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• EUROSPORT 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5E4CD48C79F991FCBEE2DE8B9D30C4B16DE3B952
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• EUROSPORT 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://C373DA9E901D414B7384E671112E64D5A2310C29
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• GOL TV 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://D4627F7B6B237A8556819445B3283D866CACECA2
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• TDP 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E2395D28AD19423212FD3AA0E81F387DB3E8BB9F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• TENNIS CHANNEL 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://9292D3B32432EFB56DB4014933CBDEC0A7CF2E36
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• CUATRO 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E8EEC35F4662BE1AF96963245BFA88FB7D0242C4
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• BEMAD 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://5C267A00F264736C1D47C1CC3E754447CA8F770C
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• TELECINCO 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://BB1982AE8D2D409D4CCD7A9F498042684E3532B5
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• SPORT TV 1 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://CE235921DAC95E1DA2DD5E54673C2FECB9E806DE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• SPORT TV 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://396D82CA6F5445ABCD32E6B609D67E332EE12ACE
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• SPORT TV 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://F8CB9D9E3077EB3AE417B2D95A69C5F590760EB9
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• BEIN SPORTS Ñ 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://41AF6926A6010B68BA2540975761436BB077748F
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• BARÇA 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E3362507E7C732B9461BD7BDC74BD054C49B3BA7
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• REAL MADRID TV 1080 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://0EC3F3786318ACD8DCA2588F74C3759CDA76CD11
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• REAL MADRID TV 720 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://0827CF7D290967985892965C6E61244A479D6DCD
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•DAZN LIGA F1 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://D6CDD724A97FCF851E7EF641C28D6BEB8663496E
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•DAZN LIGA F2 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://4AF5952B95D3C2E99FCDC0DE2F528D3FCD73E06B
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•DAZN LIGA F3 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://162942ADC047D0F78EAC056EFFBE5BBEC54A5E51
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•DAZN LIGA F4 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E454681A152A86DA504E63694F17F90D0586867D
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•WIMBLEDON UHD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://78AA81AEDB1E2B6A9BA178398148940857155F6A
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•MUNDO TORO HD 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://F763AB71F6F646E6C993F37E237BE97BAF2143EF
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•NBA 
-http://127.0.0.1:6878/ace/getstream?id=ACESTREAM://E72D03FB9694164317260F684470BE9AB781ED95
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 1 Hd [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=14407B00D454Cb7Dc0D70Aa26E8Bbc554F457F00
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 2 Hd [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=54A4A28882D3Cae1Ca19De5D4B022Ebea40351F9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 3 Hd [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=B146Ee4B6E16C9Df58E27Bd02Ffd6Cea840Ff212
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 4 Hd [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=458A0Ddd7D193F6D2750Cd14D03A47F47A808E09
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Extreme Sports[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=73Ff07648E367Efebd94636047B07625F664A082
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Tvp 1 Poland Hd 
+http://127.0.0.1:6878/ace/getstream?id=D31D828052A432246E59E7D0D640Bd55A64F1859
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport Klub Hd[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=35575A31D76F6C5F5E9E6364Dacfdeca3B85F2Ee
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Polsat Sport Premium 1[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=4Ce55Db7E578Ff52A6E526Cf610E477464B8A99F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Polsat Sport Premium 2[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=3147C586346Aee00C005D1Caa55204D38678C95F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Polsat Sport[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=92B6Ba09Dae4Bbb8A67A405125D08Ca8D15380Ee
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Polsat Sport Extra[Pl] 
+http://127.0.0.1:6878/ace/getstream?id=Ef2Cf11Fc83F4F15A33C9A514A7Afd2Bce73122F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canal+ Sports [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=Cc7B8C39F70Aa342248D02C8Ab55Bafdb4116Ed7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canal+ Sports 2 [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=6390B1Ab967A25777Ea2Dde1D41B7400Cc0601D3
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canal+ Sports 3 [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=3E87464Ed8C42Ed14464461Ea08860A3040A8944
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canal+ Sports 5 [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=5F595B1Bbade5E7C915D99F90645F4C30D4Ba540
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Comedy [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=8Fb7F8107213A9020F298C8D0068Ea86D0713D01
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Hd [Pl] 
+http://127.0.0.1:6878/ace/getstream?id=Ade7437D52002E864F851C4De016923Dcd6D2548
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Dazn 1 Bar [De] 
+http://127.0.0.1:6878/ace/getstream?id=897E73C9D578848F596585314Ecb9Ae067C0E229
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Dazn 2 Bar [De] 
+http://127.0.0.1:6878/ace/getstream?id=12Ea555D431Dbe51Fc8E4Ca745Aec09Fe22A4865
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Zdf Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=C71Fb593810Ce837545E8D8B384E50A42C35A316
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Atv Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=7D50D90895F44E97039Eca21Ae6Bc17172Acc9Ef
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Orf 1 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=C9D6412050226De0968Cea19A383B50Dc1966363
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Orf 2 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=F5D3Ea421C4C067B5C90161A8Ae4D93482Fb9Edd
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Orf 3 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=41Ac7892B8Fde95D5110D83D7324044145C7F86A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Orf Sport+ Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=0Dfa37340Ca0300A41F7A78Bd3A0F024C3296974
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Skysport F1 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=B04372B9543D763Bd2Dbd2A1842D9723Fd080076
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport Digital [De] 
+http://127.0.0.1:6878/ace/getstream?id=5E94200Ae8B1D95Cb559Fb150E5993D92E15D4E7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport1+Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=E61B6538Df35E5016635Dfa2B3073F5B82Ee4C2B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Servus Tv Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=988F4D88D74Ec0D2B3584F6C7E067Fcbdb501115
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 1 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=501141C649A2B78C4965Cbf3257224181Cc55072
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 2 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=Ab0D54995Bdcea2D8F9F588Ef631Ebbfb3F5A9Ab
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 3 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=D0Ca51F6145514Ee605C2Ef5D5A137E2A08C95B8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 4 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=1Fb794B1503C5955B75Ea0106Ee6360B80D78849
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 5 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=428B92F3C71Cd3Cbf66Ef6193808B39D16A52730
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 6 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=14317C55Fadc80Ef2B7Fb42B3D53E8Ccb3B52Cd8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 7 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=Ac839Cda9709255C21A98Af455731F037E77A9E4
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 8 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=11C5823D4196A90B509F03Df1Fe78E13Cfbbb175
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 9 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=86495Fe134Ff065D5217497Babe6Be33F81D37D1
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 10 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=6058A4C0F2569Bd81C687Aa7Dfb48B8A9569Fb29
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Magenta Sport 11 Hd [De] 
+http://127.0.0.1:6878/ace/getstream?id=C21316Ad4B7F44Eaf6Fcfb2C245C46De8B746Cc6
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bbc One [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=243Eaccd38B9A0C43B800B6C7A30B1Ad2Cadc1F1
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports F1[Uk] 
+http://127.0.0.1:6878/ace/getstream?id=468964086Ebbd8B067C1A3Ec4Ebfc4E7A5Bc9Cc7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Main Event [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=Eab7Aeef0218Ce8B0752E596E4792B69Eda4Df5E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Premier League[Uk] 
+http://127.0.0.1:6878/ace/getstream?id=Ec5Eabe0144Ccfffc337E1D6708E2Afb81D0638E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports[Uk] 
+http://127.0.0.1:6878/ace/getstream?id=8Dbe2D515E9131Fa311353537736F8C94Be9B26D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports[Uk] 
+http://127.0.0.1:6878/ace/getstream?id=Eab7Aeef0218Ce8B0752E596E4792B69Eda4Df5E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sports Arena[Uk] 
+http://127.0.0.1:6878/ace/getstream?id=D317A003E8047Da2C36A2A2Bb2289578C9A3B79C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sky Sport Cricket [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=6D95E4B0893E155Cc674B84E0763150C445D3Ddd
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 1 [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=Efc60Cfe5E3A349Baa02Bcc49F6647C21A9C3C5B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 2 [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=D63D8A57Cf471394Bfa9F619Bbd68B01Ae27A801
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 3 [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=5F966C123759De46Dff29C379266B7A403452033
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bt Sport 4 [Uk] 
+http://127.0.0.1:6878/ace/getstream?id=Fc5089D8E1519872Fdf951779Ccbca913Acc9Bce
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 Tv 1080P 
+http://127.0.0.1:6878/ace/getstream?id=77Cb36936F3341264F010D39A1758F4672E308B0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,F1 Tv 1080P 
+http://127.0.0.1:6878/ace/getstream?id=22C184381158087C2B522E1Aacbc1Bca7C67Dc74
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Tr Sport [It] 
+http://127.0.0.1:6878/ace/getstream?id=154D111A97B7B18D1F64E9Ae697C33C479D01E32
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Telesud Trapani [It] 
+http://127.0.0.1:6878/ace/getstream?id=8Ec948677Da521Da7Bb238C0B1968A899Edb797D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La7 .It [It] 
+http://127.0.0.1:6878/ace/getstream?id=48E0F30Ccda711Ff2894Cbc52C6Df89Ffd05Fe22
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,La7D .It [It] 
+http://127.0.0.1:6878/ace/getstream?id=F910F4C0374A08379C464C1Db49028308557C0Eb
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Reteveneta [It] 
+http://127.0.0.1:6878/ace/getstream?id=70Ba597A6E0F4C6A5868331B11Cea6E459Ac9F22
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Reteveneta [It] 
+http://127.0.0.1:6878/ace/getstream?id=D2E92Dfad22B8258187F622B834B9Acedc1E443F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Reteveneta [It] 
+http://127.0.0.1:6878/ace/getstream?id=8F3C2Fcd4A6F8C78E3148F871Fccaceced5A478E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Videolina [It] 
+http://127.0.0.1:6878/ace/getstream?id=277503B17Daeb2Bbea26Bfe27Dc9Ffc33C0Cb251
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Rtc Telecalabria [It] 
+http://127.0.0.1:6878/ace/getstream?id=735D268177573Df80Bcadf0A4Defebae9811Db2F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,San Marino Rtv Sport [It] 
+http://127.0.0.1:6878/ace/getstream?id=753F25945102655Dd6Fcf856F32695005C912D69
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,San Marino Rtv Hd [It] 
+http://127.0.0.1:6878/ace/getstream?id=2016E4B3D77149097B6D842Df07B7A364C823B9B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Telemonteneve [It] 
+http://127.0.0.1:6878/ace/getstream?id=Af8Ea343635Dcf9Eca32567D32Faacc76023A847
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Italia 2 Tv [It] 
+http://127.0.0.1:6878/ace/getstream?id=3Bf85216745A2A4577F2226628301Fded74287Bf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canale 2 [It] 
+http://127.0.0.1:6878/ace/getstream?id=B65Af5E182Be8Ac7Bdf3E1C548E4B7F91E69Bf77
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Canale 7 [It] 
+http://127.0.0.1:6878/ace/getstream?id=8Ebf8Cded98F3E4C2E3Ea83244E7Ef3481091C3B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Milano Pavia Tv [It] 
+http://127.0.0.1:6878/ace/getstream?id=0969A38E2B12D718F09E88E0925Aed88F24A957B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Uninettuno University Tv [It] 
+http://127.0.0.1:6878/ace/getstream?id=4E17Bac6B2Decc70Fd7Bd704Ce7013072Fefd1F0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn Hd[Us] 
+http://127.0.0.1:6878/ace/getstream?id=4B4907De51Ec11087D4Bed5876F2A0C68264F442
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn 2 Hd[Us] 
+http://127.0.0.1:6878/ace/getstream?id=664Eb5Fe460B96941Aed633959A845B185Cd8394
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Sports 1 Hd [Us] 
+http://127.0.0.1:6878/ace/getstream?id=C9C062941Fbecb16Ce29437F346Ea7177D720898
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Fox Sports 2 Hd [Us] 
+http://127.0.0.1:6878/ace/getstream?id=Cba8D369Eac629B577750Edb90370Cd1C5Fb03B7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports Xtra Ñ 
+http://127.0.0.1:6878/ace/getstream?id=92A7Dcc55392Efc6Dd5D012C4Ff3878891Eb6A6E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn [Co] 
+http://127.0.0.1:6878/ace/getstream?id=2492F8Aa7Cd7C4800E7B22C4Ecba05E34C18Be00
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn 2 [Co] 
+http://127.0.0.1:6878/ace/getstream?id=E40B29774Fdfd953751A71F5695F647726623B9D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn 3 [Co] 
+http://127.0.0.1:6878/ace/getstream?id=B97F5975Dbd067655432512D4693B417Bc85A714
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn Extra [Co] 
+http://127.0.0.1:6878/ace/getstream?id=9C3Feb380Cd9Bcf9Dcb7A9454Ca8Eb7962201612
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 1 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=36Cad67Fed5A739757A9Db844A551Aa845A8D51B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 2 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=D08013Df6E437A1Fdf1E0C34F573Fdf6A40C7Fce
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 3 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=Dae7D1251F069516Cc0A9C8F15F6639D2A17Df1E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 4 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=0F32C0131A2D9444996410801F4E18B04384Db98
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 5 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=4Dbe63B44Fc4F439F5B634C0D2Aa7E0Cccad808A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Eleven Sports 6 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=50B6D2B5Fd59Fefb9F4Fd2176994D418F2B94A80
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport Tv 1 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=C95422Bc904378Be0B035Eba721D5E6A004F7D79
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport Tv 2 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=A1Bd609A2D64D1Ee4B81Af32464B36848Fe36541
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Sport Tv 3 [Pt] 
+http://127.0.0.1:6878/ace/getstream?id=6C526D4Cc3Ca77Cfbc10C548Aa0D49944E56F3Ff
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 1 [Fr] 
+http://127.0.0.1:6878/ace/getstream?id=Bba1905Fcd1C4975Aec544047Bf8E4Cd23Ce3Fe0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 2 [Fr] 
+http://127.0.0.1:6878/ace/getstream?id=Edb507E38394D614C9Ff55805C9D354Ae13210Bc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 3 [Fr] 
+http://127.0.0.1:6878/ace/getstream?id=731Bd3336Ec0986Ff9100Efe40Dbaf1473A22Cf8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 1[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=51Cee9D0B29Dbd9104E9A3971Fd2569419Eab159
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 1[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=83671B11F6Dc071Feb5769F6646Cfc439C18989D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 2[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=B7Db2C0404F90F99B01A8875713C047Cd07595F7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 3[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=B9Dc6Fdeaca5A5F4275Db80D68536E023Ce4Ea06
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 3[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=257Be6B709B3C62E171F5Ca9Dbdf7428Dfc97040
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Digi Sport 4[Rm] 
+http://127.0.0.1:6878/ace/getstream?id=7090Ab27689444B127B3Cb8707E0334D409E0Cc6
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Espn [Nl] 
+http://127.0.0.1:6878/ace/getstream?id=E2044Fd44478794Ebfe721Deb060D149507F1348
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Ziggo Sport Select[Nl] 
+http://127.0.0.1:6878/ace/getstream?id=45Eab0695Ce13265687Ace5E5Bcef8D8Ee8Bc69A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Ziggo Sport Voetbal[Nl] 
+http://127.0.0.1:6878/ace/getstream?id=95769F95C6Af45E8Ec46526C3Be1104D0A0C7B91
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Ziggo Sport Racing[Nl] 
+http://127.0.0.1:6878/ace/getstream?id=77800Bb07C1D69135024Ee2379C97472Eb12Dd45
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Ziggo Sport Golf[Nl] 
+http://127.0.0.1:6878/ace/getstream?id=035E34B791335962Ca817F42Fd14300382Af3797
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Diema Sport 2[Bg] 
+http://127.0.0.1:6878/ace/getstream?id=15Cc58B8Ca2928Ad68Bc285Df2A37F653Eebd35A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports Haber [Tr] 
+http://127.0.0.1:6878/ace/getstream?id=47C1B3A68D03Bd190Fed521D144Ad08Fa0F195F3
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 1 Hd[Tr] 
+http://127.0.0.1:6878/ace/getstream?id=118416583Faa3Fb4F03800173429B6B844B43A52
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 2 Hd[Tr] 
+http://127.0.0.1:6878/ace/getstream?id=48Bee10B883F17C7186D60F1E8022Dca0Ba41A05
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 3 Hd[Tr] 
+http://127.0.0.1:6878/ace/getstream?id=Ed81C333815247536Edfcdb2755147E8C4144D62
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Bein Sports 4 Hd[Tr] 
+http://127.0.0.1:6878/ace/getstream?id=7683Cd0Cbacf55Fa8B39C363219Ffba1Bc47Cf9D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,Central Tv (Perú) 
+http://127.0.0.1:6878/ace/getstream?id=804B99Ff1444B94C6939F939E826088D19838C06
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://02B9307C5C97C86914Cc5939D6Bbeb5B4Ec60B47
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://6636A5C1055B5913Ddcd0E87A5523F7D935350Af
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•La 2 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://60106275D34F995E26Bb2Cc4A21A42F586C6C555
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 4K 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Dce1579E3A2E5Bd29071Fca8Eae364F1Eb3205Cf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 1080P 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Aa82E7D4F03061F2144A2F4Be22F2E2210D42280
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://7D8C87E057Be98F00F22E23B23Fbf08999E4B02F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://F096A64Dd756A6D549Aa7B12Ee9Acf7Eee27E833
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://F031F5728B32F6089Dda28Edebe990Cf198108D8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://26029F72A4Ca831D09Deefe89534818Db1D105Bc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 2 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://80126B240F3E4E004754Fd8F8103E857Ab2556A0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://4C4844564313E39A888F593511F299F5Ba3Cf929
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Aa8F826Da70E27A26B29C7B32402F17E8A67A8B0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://535394F62A810Bc5Aeb25Be75Ea5Ff7D03E070B2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Laliga 6 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://C896D37778F9E43549A788Fc22206A655895B51B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://1960A9Be8Ae9E8C755330218Eac4C5805466290A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://75251Ba975132Ec9A202806Ba5Bf606E87280C96
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://A3Bca895C58D3Fc7D5E4259D3D5E3Cf0291D1914
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 2 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://93D663E92A93845B11C9831885646Fa39Ba1Ed66
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 2 720 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://0950C37Fe1Ea817Fc561C611Ae943D58505F7A79
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 3 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://8C71F0E0A5476E10950Fc827F9D2A507340Aba74
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 4 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://2792A8A5F4A3F53Cd72Dec377A2639Cd12A6973E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 5 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://99E544Cddbee13798E854C1009Ee7D1A93Fdedf7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://4C46585214B23B1D802Ef2168060C7649A3894Cf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://06B367C22394A1358C9Cefa0Cb5D0B64B9B2B3F4
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://D81B4F2F3Fde433539C097B2Edc9B587Ca47B087
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 2 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://2709D0Ab86Cb6Ce7Ba4D3Ad188D7Fa80668F2924
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 3 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://59Ba45B79152E4599144177B234F6491Fc19Db53
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 4 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://2Cacf21476B036E319Bcb7C7E747766E6Ccc082E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 5 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://A1146358Aa50C99C887108B17F62F9264186A16A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 6 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://7A9Bb1B9Cccb759C44Ed84F3C1283922E6854670
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 7 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://446E73A22582921393B020Ed08B768Ad8E14D754
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Laliga Smartbank 8 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://4D52Fc1994Fe927702Aeb7Bc8778E2F23B1260E2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.Plus 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5A236Fbbe6E5Bbfec03Db548C244A7C858D675C0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #Vamos 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://859Bb6295B8D0F224224D3063D9Db7Cdeca03122
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #Vamos 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://3Bba7C95857C2502C7E03Ced1A6A9B00Eb567Fa0
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• #Ellas 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://67654E63B5065Cdaa6C8E8D41Bb5428B42B32830
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://D00223931B1854163E24C5C22475015D7D45C112
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,M. Deportes 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E5Fa927D9A017F4523Fdb62774A0Aec457985Bfa
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E6F06D697F66A8Fa606C4D61236C24B0D604D917
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Aee0A595220E0F1C2Fee725Fd1Dbc602D7152A9A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://42E83C337Ece0Af9Ca7808859F84C7960E9Cb6F5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://B1E5Abc48195B7Ca9B2Ee1B352E790Eb9F7292E3
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Deportes 6 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://8587Ed8Ac36Ac477E1D4176D3159A38Bd154D4Ce
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•M. Deportes 7 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://2448F1D084F440Eed2Fbe847E24F1C02F5659A78
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://931B1984Badcb821Df7B47A66Ac0835Ac871B51C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://F096A64Dd756A6D549Aa7B12Ee9Acf7Eee27E833
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 1080P 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://1D79A7543D691666135669F89F3541F54E2Dd0A9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E2E2Aca792Aae5Da19995Ac516B1D620531Bd49C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Fc2Fe31B0Bce25E2Dc7Ab4D262Bf645E2Be5A393
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 2 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://6753492C1908274C268A1B28E2A054A0Ff8F86F9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Ad372Cba73Aa0Ece207A79532B3E30B731136Bb2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 3 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://D59Fe9978Eed49F256B312A60671B5Bce43D3F24
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://1B48D5881337C87B89E1Edefff6688Fe2271D222
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 5 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5C21C181156F200D5E628Ef2C62Cd06Bf5F97Eb7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 6 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream:/A0978A100De9A307C12D395D9B2F4142Db6Ab52D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 7 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5932623D2Fd7Ed16B01787251B418E4F59A01Cda
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 8 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://1A4B41C02E116Ed19A505551A9Caa79F54C027F7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 9 Sd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://69C95Dc47B35Dde559A6Ef025C1B91C89646A17F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 10 Sd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Df67Afe5C5F5E82A3Ae629D126727B006B65E676
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 11 Sd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://57E284A3C13100Baeff7A88Dc50949585C9F1277
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M.L. Campeones 12 Sd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://33369549C635Dabdb78B95C478C21Fcc9E4Ee854
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Golf 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://4F945B0Ba4206Fa2676B61E9Eaa465Ac3Dcc8122
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• M. Golf2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://9A4F3Ae6563668B7709Dac509Dedc709441B3Fd9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://8Ca07071B39185431F8E940Ec98D1Add9E561639
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 1 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Eaff9293C76A324C750Ef5094C2A4E2C96518D1F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://60Dbeeb299Ec04Bf02Bc7426D827547599D3D9Fc
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 2 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://7Aa402Bab9Fff43258Fbcf401881A39475F30Aaf
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://A8Ffddef56F082D4Bb5C0Be0D3D2Fdd8C16Dbd97
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn 4 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://2Fcdf7A19C0858F686Efdfabd3C8C2B92Bf6Bcfd
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn F1 Uhd (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=6B94479C24898700089E6B87D28A3Ccc72Dc4041
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5789Ca155323664Edd293B848606688Edf803F4D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn F1 1080 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://9Dad717D99B29A05672166258A77C25B57713Dd5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn F1 720 (Fórmula 1) 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E1Fcad9De0C782C157Fde6377805C58297Ab65C2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Eurosport 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5E4Cd48C79F991Fcbee2De8B9D30C4B16De3B952
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Eurosport 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://C373Da9E901D414B7384E671112E64D5A2310C29
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Gol Tv 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://D4627F7B6B237A8556819445B3283D866Caceca2
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Tdp 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E2395D28Ad19423212Fd3Aa0E81F387Db3E8Bb9F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://9292D3B32432Efb56Db4014933Cbdec0A7Cf2E36
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Cuatro 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E8Eec35F4662Be1Af96963245Bfa88Fb7D0242C4
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Bemad 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://5C267A00F264736C1D47C1Cc3E754447Ca8F770C
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Telecinco 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Bb1982Ae8D2D409D4Ccd7A9F498042684E3532B5
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Sport Tv 1 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://Ce235921Dac95E1Da2Dd5E54673C2Fecb9E806De
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Sport Tv 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://396D82Ca6F5445Abcd32E6B609D67E332Ee12Ace
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Sport Tv 3 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://F8Cb9D9E3077Eb3Ae417B2D95A69C5F590760Eb9
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Bein Sports Ñ 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://41Af6926A6010B68Ba2540975761436Bb077748F
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Barça 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E3362507E7C732B9461Bd7Bdc74Bd054C49B3Ba7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Real Madrid Tv 1080 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://0Ec3F3786318Acd8Dca2588F74C3759Cda76Cd11
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Real Madrid Tv 720 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://0827Cf7D290967985892965C6E61244A479D6Dcd
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Dazn Liga F1 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://D6Cdd724A97Fcf851E7Ef641C28D6Beb8663496E
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Dazn Liga F2 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://4Af5952B95D3C2E99Fcdc0De2F528D3Fcd73E06B
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Dazn Liga F3 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://162942Adc047D0F78Eac056Effbe5Bbec54A5E51
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Dazn Liga F4 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E454681A152A86Da504E63694F17F90D0586867D
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Wimbledon Uhd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://78Aa81Aedb1E2B6A9Ba178398148940857155F6A
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Mundo Toro Hd 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://F763Ab71F6F646E6C993F37E237Be97Baf2143Ef
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
+http://127.0.0.1:6878/ace/getstream?id=Acestream://E72D03Fb9694164317260F684470Be9Ab781Ed95
