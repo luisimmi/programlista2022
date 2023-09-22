@@ -92,37 +92,37 @@ http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,19:10 Casademont Zaragoza - Spar Girona 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,04:30 Libres 3 1080 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,04:30 Libres 3 1080 
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,04:30 Libres 3 1080 Opc2 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,04:30 Libres 3 1080 Opc2 
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,04:30 Libres 3 720 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,04:30 Libres 3 720 
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,8:00 Clasificación 1080 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,8:00 Clasificación 1080 
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,8:00 Clasificación 1080 Opc2 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,8:00 Clasificación 1080 Opc2 
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,8:00 Clasificación 720 
+#EXTINF:-1 group-title="MOTOR - FÓRMULA 1 (Buddh)" tvg-id="" tvg-logo="" ,8:00 Clasificación 720 
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,05:35 Libres 3 Y Qp Motogp 1080 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,05:35 Libres 3 Y Qp Motogp 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,05:35 Libres 3 Y Qp Motogp 720 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,05:35 Libres 3 Y Qp Motogp 720 
 http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,7:50 Motogp 1080 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,7:50 Motogp 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,7:50 Motogp 720 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,7:50 Motogp 720 
 http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,9:50 Moto3 1080 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,9:50 Moto3 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,9:50 Moto3 720 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,9:50 Moto3 720 
 http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,10:45 Moto2 1080 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,10:45 Moto2 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,10:45 Moto2 720 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,10:45 Moto2 720 
 http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,12:00 Motogp 1080 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,12:00 Motogp 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,12:00 Motogp 720 
+#EXTINF:-1 group-title="MOTOR - MOTOGP G.P. India (Buddh)" tvg-id="" tvg-logo="" ,12:00 Motogp 720 
 http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title="MOTOR - G.P. ESPAÑA (MOTORLAND ARAGÓN)" tvg-id="" tvg-logo="" ,9:45 Supersport 300 1080 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
@@ -148,7 +148,7 @@ http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="MOTOR - G.P. ESPAÑA (MOTORLAND ARAGÓN)" tvg-id="" tvg-logo="" ,15:15 Supersport 720 
 http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="13:30 DTM RED BULL RING" tvg-id="" tvg-logo="" ,13:30 Dtm Red Bull Ring 
+#EXTINF:-1 group-title="DTM" tvg-id="" tvg-logo="" ,13:30 Dtm Red Bull Ring 
 http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="TENIS - MADRID MASTER" tvg-id="" tvg-logo="" ,10:00 A.Sánchez/ P.Josemaría - D.Brea/ B.González 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
