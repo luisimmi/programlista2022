@@ -1,86 +1,60 @@
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 27/09 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 27/09 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 28/09 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 28/09 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Athletic Club - Getafe 
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Villarreal - Girona Multiaudio 1080 
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,18.54H Celta - Alavés 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,18.54H Celta - Alavés 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,18.54H Celta - Alavés 720 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,19.00H Granada - Betis 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Villarreal - Girona 1080 
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,19.00H Granada - Betis 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Villarreal - Girona 720 
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,19.00H Granada - Betis 720 
 http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Real Madrid - Ud Las Palmas 1080 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Real Madrid - Ud Las Palmas Multiaudio 1080 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Real Madrid - Ud Las Palmas Multiaudio 1080 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Real Madrid - Ud Las Palmas 720 
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,19:00 Real Madrid - Ud Las Palmas 4K 
-http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Valencia Cf - Real Sociedad 1080 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Valencia Cf - Real Sociedad 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Valencia Cf - Real Sociedad 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Valencia Cf - Real Sociedad 720 
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Cádiz Cf - Rayo Vallecano 1080 
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21.30H Osasuna - At. Madrid 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21.30H Osasuna - At. Madrid 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FUTBOL - LA LIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:30 Cádiz Cf - Rayo Vallecano 720 
+#EXTINF:-1 group-title="FUTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21.30H Osasuna - At. Madrid 720 
 http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,18:30 Cagliari - Ac Milan Multiaudio 1080 
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,18:30 Cagliari - Ac Milan Multiaudio 1080 
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,18:30 Cagliari - Ac Milan 1080 
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,18:30 Cagliari - Ac Milan 720 
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Inter Milan - Sassuolo 
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Lazio - Torino 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Lazio - Torino 1080 
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Lazio - Torino 720 
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Napoli - Udinese 1080 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - SERIE A ITALIANA" tvg-id="" tvg-logo="" ,20:45 Napoli - Udinese 720 
-http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20:45 Brentford - Arsenal 1080 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20:45 Brentford - Arsenal 720 
-http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20:45 Chelsea - Brighton 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20:45 Liverpool - Leicester City 
-http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,21:00 Newcastle - Manchester City 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FUTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,21:00 Newcastle - Manchester City 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:00 Casademont Zaragoza - Unicaja Málaga 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:30 Ucam Murcia Cb - Baskonia 
+#EXTINF:-1 group-title="FUTBOL - US OPEN CUP" tvg-id="" tvg-logo="" ,2:30 Inter Miami Cf - Houston Dynamo 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
+#EXTINF:-1 group-title="FUTBOL - US OPEN CUP" tvg-id="" tvg-logo="" ,2:30 Inter Miami Cf - Houston Dynamo 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="FUTBOL - US OPEN CUP" tvg-id="" tvg-logo="" ,2:30 Inter Miami Cf - Houston Dynamo 720 
+http://127.0.0.1:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,19.55H Joventut Badalona - Covirán Granada 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20.25H Bàsquet Girona - Dreamland Gran Canaria 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,21:00 Lenovo Tenerife - Valencia Basket 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="RUGBY - COPA MUNDIAL" tvg-id="" tvg-logo="" ,17:45 Uruguay - Namibia 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Etapa 5" tvg-id="" tvg-logo="" ,Etapa 5 
+#EXTINF:-1 group-title="BALONMANO - LIGA DE CAMPEONES" tvg-id="" tvg-logo="" ,18.45H Oporto - Barcelona 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="CICLISMO - UCI PRO SERIES" tvg-id="" tvg-logo="" ,16.45H Circuito Franco-Belga 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="CICLISMO - TOUR DE CROACIA" tvg-id="" tvg-logo="" ,15:00 Etapa 2 
+#EXTINF:-1 group-title="CICLISMO - TOUR DE LANGKAWI" tvg-id="" tvg-logo="" ,07.10H Etapa 6 - Karak - Melaka 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,10:00 I. Swiatek - M. Hontama 
+#EXTINF:-1 group-title="CICLISMO - TOUR DE CROACIA" tvg-id="" tvg-logo="" ,14.45H Etapa 3 - Otocac - Opatija 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="RUGBY - MUNDIAL DE RUGBY" tvg-id="" tvg-logo="" ,20.48H Japón - Samoa 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="TENIS - TORNEO DE PEKÍN" tvg-id="" tvg-logo="" ,6:30 U. Humbert - L. Sonego 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE PEKÍN" tvg-id="" tvg-logo="" ,8:00 L. Harris - Tm. Etcheverry 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE PEKÍN" tvg-id="" tvg-logo="" ,9:30 A. Davidovich - Y. Zhou 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="TENIS - TORNEO DE PEKÍN" tvg-id="" tvg-logo="" ,13:30 A. De Miñaur - A. Murray 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - WTA TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,10:00 M. Doi - M. Sakkari 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="TENIS - TORAY PAN PACIFIC OPEN" tvg-id="" tvg-logo="" ,10:00 Swiatek - Hontama 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="LIGA EUROPEA DE WATERPOLO" tvg-id="" tvg-logo="" ,19:55 Atlètic Barceloneta - Spandau 04 Berlín 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="GOLF - RYDER CUP" tvg-id="" tvg-logo="" ,12.30H All Star Match 
+#EXTINF:-1 group-title="BILLAR - ABIERTO DE GRAN BRETAÑA DE SNOOKER" tvg-id="" tvg-logo="" ,14.00H Tercera Ronda 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="BILLAR - ABIERTO DE GRAN BRETAÑA DE SNOOKER" tvg-id="" tvg-logo="" ,20.00H Cuarta Ronda 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="GOLF - RYDER CUP" tvg-id="" tvg-logo="" ,16.00H Ceremonia Inagural 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - RYDER CUP" tvg-id="" tvg-logo="" ,10.30H Junior Ryder Cup 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
