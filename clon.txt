@@ -1,275 +1,275 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Martes 17 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - Los Angeles Chargers-Dallas Cowboys
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - Los Angeles Chargers-Dallas Cowboys
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ciclismo - TOUR GUANGXI", 07:30 - Guilin-Guil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ciclismo - TOUR GUANGXI", 07:30 - Guilin-Guilin (168.3 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - COPA DEL REY", 13:00 - Sorteo 1ª Eliminatoria
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN EUROPEO SUB-21", 15:30 - Kazajistán-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN EUROPEO SUB-21", 15:30 - Kazajistán-España
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 18:30 - Partizan-Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 18:30 - Partizan-Barcelona
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 18:45 - Bjerringbro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 18:45 - Bjerringbro/Silkeborg-Ciudad de Logroño
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 18:45 - Bjerringbro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 18:45 - Bjerringbro/Silkeborg-Ciudad de Logroño
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 19:45 - Novi Beogra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 19:45 - Novi Beograd-Sabadell
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="F. Sala - PRIMERA DIVISIÓN", 20:00 - ElPozo Murc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="F. Sala - PRIMERA DIVISIÓN", 20:00 - ElPozo Murcia-Barcelona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 20:45 - Ciudad Enca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 20:45 - Ciudad Encantada-Savehof
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 20:45 - Ciudad Enca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - EUROPEAN LEAGUE", 20:45 - Ciudad Encantada-Savehof
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="F. Sala - PRIMERA DIVISIÓN", 21:00 - Manzanares 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="F. Sala - PRIMERA DIVISIÓN", 21:00 - Manzanares FS-Real Betis
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Col
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Col
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argent
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argent
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - COPA DE LA REINA", 13:00 - Sorteo 3ª Eliminatoria
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely-Unicaja
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta-Marsella
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC Wolves
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Za
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Zalgiris Kaunas
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-LensEuro
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Gra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Granada
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Miércoles 18 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Col
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Col
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Bra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argent
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argent
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - COPA DE LA REINA", 13:00 - Sorteo 3ª Eliminatoria
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely-Unicaja
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta-Marsella
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Ba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC Wolves
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Za
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Zalgiris Kaunas
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-LensEuro
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Gra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Granada
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Jueves 19 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Za
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Zalgiris Kaunas
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-LensEuro
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Gra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Granada
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Viernes 20 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 14:00 - Sorteo Fase de Grupos
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-LensEuro
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-I
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Gra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Granada
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Le
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
