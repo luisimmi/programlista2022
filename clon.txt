@@ -1,47 +1,41 @@
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 17/10 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 17/10 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 18/10 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 18/10 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:25 Anadolu Efes - Asvel Villeurbanne 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:15 Fenerbahce - Panathinaikos 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:30 Partizan - Barça 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:25 Baskonia -Bayern Múnich 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:45 Milán - Olympiacos 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:45 Milán - Olympiacos Opc2 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:45: Real Madrid - Zalgiris 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="BALONMANO - EHF EUROPEAN LEAGUE" tvg-id="" tvg-logo="" ,18:45 Bjerringbro-Silkeborg - Bm Logroño La Rioja 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONMANO - EHF EUROPEAN LEAGUE" tvg-id="" tvg-logo="" ,18:45 Bjerringbro-Silkeborg - Bm Logroño La Rioja 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BALONMANO - EHF EUROPEAN LEAGUE" tvg-id="" tvg-logo="" ,20:45 Bm Cuenca - Ik Sävehof 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONMANO - EHF EUROPEAN LEAGUE" tvg-id="" tvg-logo="" ,20:45 Bm Cuenca - Ik Sävehof 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="FUTBOL - EUROPEO SUB-21" tvg-id="" tvg-logo="" ,15:30 Kazajistán - España 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,23:00 Venezuela - Chile 
+#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,0:30 Paraguay - Bolivia 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,1:30 Ecuador - Colombia 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,2:00 Uruguay - Brasil 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,23:00 Venezuela - Chile Opc2 
-http://127.0.0.1:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="FUTBOL SALA - PRIMERA FEDERACIÓN FUTSAL" tvg-id="" tvg-logo="" ,21:00 Manzanares Fs - Real Betis Fs 
+#EXTINF:-1 group-title="FUTBOL - FIFA COPA MUNDIAL 2026" tvg-id="" tvg-logo="" ,4:00 Perú - Argentina 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FUTBOL - COPA DE LA REINA" tvg-id="" tvg-logo="" ,13:00 Sorteo 3ª Eliminatoria 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,4:00 A. De Miñaur - J. Draper 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,5:30 T. Fritz - C. Norrie 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,7:00 B. Shelton - T. Daniel 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,11:00 Y. Watanuki - C. Ruud 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,12:30 A. Karatsev - F. Tiafoe 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="NFL" tvg-id="" tvg-logo="" ,2:15 Los Angeles Chargers - Dallas Cowboys 
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE FEMENINA" tvg-id="" tvg-logo="" ,19:30 Vålerenga Kvinner - Real Madrid 
+http://127.0.0.1:6878/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+#EXTINF:-1 group-title="BALONCESTO - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:00 Falco Szombathely - Unicaja Málaga 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="BALONCESTO - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,20:30 Río Breogán - Frutti Extra Bursaspor 
+http://127.0.0.1:6878/ace/getstream?id=597c07bd56b65779a55b08878b236d8deab6297b
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:00 Crvena Zvezda Mts Belgrade - As Monaco Basket 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Virtus Bologna - Alba Berlin 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Valencia Basket - Maccabi Tel Aviv Bc 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="BALONMANO - EHF CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Rk Celje - Barça Bm 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,4:00 Zh. Zhang - H. Hurkacz 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,5:30 F. Auger-Aliassime - S. Ofner 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,7:00 T. Paul - M. Mcdonald 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,11:00 M. Giron - C. Ruud 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,12:30 B. Shelton - J. Thompson 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="WATERPOLO - LIGA EUROPEA" tvg-id="" tvg-logo="" ,20:00 Atlètic Barceloneta - Cn Marsella 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
