@@ -49,9 +49,9 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.rNSy0sWoVu57u2iig1RagAHaKf?pid=ImgDet&w=127.65957446808511&h=180&c=7" group-title="", Sábado 21 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.6mLSMrmUnOP3H0yB8e_c2AHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - LIGA F", 12:00 - Real Betis-Valencia
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
@@ -207,29 +207,29 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.rNSy0sWoVu57u2iig1RagAHaKf?pid=ImgDet&w=127.65957446808511&h=180&c=7" group-title="", Domingo 22 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 02:00 - Moto3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 02:00 - Moto3
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 02:00 - Moto3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 02:00 - Moto3
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Boxeo - PESO WÉLTER - MASCULINO", 03:00 - Rocha-Santillan
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Boxeo - PESO WÉLTER - MASCULINO", 03:00 - Rocha-Santillan
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 03:15 - Moto2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 03:15 - Moto2
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 03:15 - Moto2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 03:15 - Moto2
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 05:00 - MotoGP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 05:00 - MotoGP
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 05:00 - MotoGP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 05:00 - MotoGP
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.6mLSMrmUnOP3H0yB8e_c2AHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - LIGA F", 12:00 - Athletic Club-Real Sociedad
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
@@ -317,13 +317,13 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.6mLSMrmUnOP3H0yB8e_c2AHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - SERIE A", 20:45 - AC Milan-Juventus
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YJUvPNQprZIxp-1QpgYt8wHaC_?pid=ImgDet&w=143&h=102.14285714285715&c=7" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 21:00 - Austin
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.6mLSMrmUnOP3H0yB8e_c2AHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Barcelona-Athletic Club
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
