@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Jueves 19 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/laliga-logo-campeonato-espanhol-logo/laliga-logo-2" group-title="", Jueves 19 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
@@ -9,7 +9,7 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Viernes 20 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/laliga-logo-campeonato-espanhol-logo/laliga-logo-2" group-title="", Viernes 20 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
@@ -47,7 +47,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Sábado 21 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/laliga-logo-campeonato-espanhol-logo/laliga-logo-2" group-title="", Sábado 21 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -205,7 +205,7 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Real Zaragoza-Eibar
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Domingo 22 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/laliga-logo-campeonato-espanhol-logo/laliga-logo-2" group-title="", Domingo 22 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
