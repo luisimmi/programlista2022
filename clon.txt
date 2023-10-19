@@ -1,41 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Miércoles 18 de Octubre de 2023
-http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - COPA DE LA REINA", 13:00 - Sorteo 3ª Eliminatoria
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely-Unicaja
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta-Marsella
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC Wolves
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Jueves 19 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Jueves 19 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
@@ -45,7 +9,7 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Viernes 20 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Viernes 20 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
 acestream://d00223931b1854163e24c5c22475015d7d45c112
@@ -83,7 +47,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Sábado 21 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Sábado 21 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -241,7 +205,7 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Real Zaragoza-Eibar
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", Domingo 22 de Octubre de 2023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="", Domingo 22 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fórmula 1 - G.P. ESTADOS UNIDOS", 00:00 - Austin (Sprint)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
