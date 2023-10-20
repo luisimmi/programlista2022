@@ -1,42 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.c_uSyIgUeo8H4O9T5leRGAHaHw?pid=ImgDet&w=163&h=163&c=7" group-title="", Viernes 20 de Octubre de 2023
-http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ftxcq13xPKraVkNXfR0AaQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="NFL - LIGA REGULAR", 02:15 - New Orleans Saints-Jacksonville Jaguars
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 13:00 - Sorteo Fase de Grupos
-acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 13:00 - Sorteo Fase de Grupos
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 13:00 - Sorteo Fase de Grupos
-acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 13:00 - Sorteo Fase de Grupos
-acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.hkd2gUMUE7EfjZd4G06_eAHaHZ?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.hkd2gUMUE7EfjZd4G06_eAHaHZ?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.hkd2gUMUE7EfjZd4G06_eAHaHZ?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.aNnr0H8UwDYYqvwnQLbopwAAAA?pid=ImgDet&w=163&h=163&c=7" group-title="F. Sala - PRIMERA DIVISIÓN", 21:00 - FS Valdepeñas-ElPozo Murcia
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.W1ZrbWoGIJwZuCrQcWOvKgHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - LIGUE 1", 21:00 - Le Havre-LensEuro
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONSHIP", 21:00 - Rotherham-Ipswich
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ykJzlxLYJqLqiLDaZr5ODAHaFq?pid=ImgDet&w=143&h=107.25&c=7" group-title="Fútbol - LALIGA EA SPORTS", 21:00 - Osasuna-Granada
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EDCkxK54DuSuFqsaFwT5uwHaEK?pid=ImgDet&w=163&h=88.1986301369863&c=7" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EDCkxK54DuSuFqsaFwT5uwHaEK?pid=ImgDet&w=163&h=88.1986301369863&c=7" group-title="Fútbol - LALIGA HYPERMOTION", 21:00 - Espanyol-Leganés
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.CeavRtQPciLaZxpyOXX8LQAAAA?pid=ImgDet&w=155.02890173410404&h=180&c=7" group-title="Rugby - COPA DEL MUNDO", 21:00 - Argentina-Nueva Zelanda
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.c_uSyIgUeo8H4O9T5leRGAHaHw?pid=ImgDet&w=163&h=163&c=7" group-title="", Sábado 21 de Octubre de 2023
 http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.r1NJZToVIi2ktQygiyiFbQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Motos - G.P. AUSTRALIA", 06:00 - MotoGP (Sprint)
