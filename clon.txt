@@ -9,9 +9,9 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.5o8EPbXSCoZJgEYBthuGFAHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - COPA DEL REY", 13:00 - Sorteo 1ª Eliminatoria
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN EUROPEO SUB-21", 15:30 - Kazajistán-España
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ATEoTjDGm9WppclozjdMEgHaFH?pid=ImgDet&w=146.3456090651558&h=180&c=7" group-title="Fútbol - CLASIFICACIÓN EUROPEO SUB-21", 15:30 - Kazajistán-España
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 18:30 - Partizan-Barcelona
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 18:30 - Partizan-Barcelona
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EhtfE_sxM0rcklZXVeoyvQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Balonmano - EUROPEAN LEAGUE", 18:45 - Bjerringbro/Silkeborg-Ciudad de Logroño
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -21,11 +21,11 @@ acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.aNnr0H8UwDYYqvwnQLbopwAAAA?pid=ImgDet&w=163&h=163&c=7" group-title="F. Sala - PRIMERA DIVISIÓN", 20:00 - ElPozo Murcia-Barcelona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Bayern
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Zalgiris Kaunas
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EhtfE_sxM0rcklZXVeoyvQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Balonmano - EUROPEAN LEAGUE", 20:45 - Ciudad Encantada-Savehof
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -33,35 +33,35 @@ acestream://8ca07071b39185431f8e940ec98d1add9e561639
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.aNnr0H8UwDYYqvwnQLbopwAAAA?pid=ImgDet&w=163&h=163&c=7" group-title="F. Sala - PRIMERA DIVISIÓN", 21:00 - Manzanares FS-Real Betis
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 23:00 - Venezuela-Chile
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.c_uSyIgUeo8H4O9T5leRGAHaHw?pid=ImgDet&w=163&h=163&c=7" group-title="", Miércoles 18 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 00:30 - Paraguay-Bolivia
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 01:30 - Ecuador-Colombia
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 02:00 - Uruguay-Brasil
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.noX5TcKROLyZzAaMZlSNlgHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CLASIFICACIÓN MUNDIAL", 04:00 - Perú-Argentina
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Fútbol - COPA DE LA REINA", 13:00 - Sorteo 3ª Eliminatoria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.Vcv1gjhYe9K7py0vNJXQJwHaJ4?pid=ImgDet&w=135&h=180&c=7" group-title="Fútbol - COPA DE LA REINA", 13:00 - Sorteo 3ª Eliminatoria
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely-Unicaja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - CHAMPIONS LEAGUE", 18:00 - Szombathely-Unicaja
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Balonmano - CHAMPIONS LEAGUE", 18:45 - Celje-Barcelona
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -69,21 +69,21 @@ acestream://8ca07071b39185431f8e940ec98d1add9e561639
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Waterpolo - CHAMPIONS LEAGUE", 20:00 - Barceloneta-Marsella
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Valencia Basket-Maccabi Tel Aviv
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC Wolves
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROCUP", 20:30 - Joventut-BC Wolves
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.c_uSyIgUeo8H4O9T5leRGAHaHw?pid=ImgDet&w=163&h=163&c=7" group-title="", Jueves 19 de Octubre de 2023
 http://
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROCUP FEMENINA", 19:00 - Gorzow-Uni Girona
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Zalgiris Kaunas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Baskonia-Zalgiris Kaunas
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:45 - Real Madrid-Olimpia Milano
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.c_uSyIgUeo8H4O9T5leRGAHaHw?pid=ImgDet&w=163&h=163&c=7" group-title="", Viernes 20 de Octubre de 2023
 http://
@@ -97,9 +97,9 @@ acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.bihzX17sr-y_3mFMyB9QHwHaEo?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - CHAMPIONS LEAGUE FEMENINA", 13:00 - Sorteo Fase de Grupos
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 19:30 - Anadolu Efes-Valencia Basket
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - EUROLIGA", 20:30 - Barcelona-Bayern
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.hkd2gUMUE7EfjZd4G06_eAHaHZ?pid=ImgDet&w=163&h=163&c=7" group-title="Fútbol - BUNDESLIGA", 20:30 - Borussia Dortmund-Werder Bremen
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -217,9 +217,9 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.qsuvuUtx6TLWUqn2W8FIMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - SERIE A", 18:00 - Torino-Inter
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 18:00 - Joventut-MoraBanc Andorra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 18:00 - Joventut-MoraBanc Andorra
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 18:00 - Zunder Palencia-Breogán
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 18:00 - Zunder Palencia-Breogán
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.lFrXwP70f3HpbVWJ_h4zMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - PREMIER LEAGUE", 18:30 - Chelsea-Arsenal
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -247,7 +247,7 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EDCkxK54DuSuFqsaFwT5uwHaEK?pid=ImgDet&w=163&h=88.1986301369863&c=7" group-title="Fútbol - LALIGA HYPERMOTION", 18:30 - Tenerife-Levante
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA FEMENINA", 19:00 - Celta-Estudiantes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA FEMENINA", 19:00 - Celta-Estudiantes
 acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ji0wjWFy-1daBrdT_CT-jQHaEx?pid=ImgDet&w=163&h=163&c=7" group-title="Boxeo - PESO SUPERLIGERO - MASCULINO", 20:00 - Catterall-Linares
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
@@ -259,9 +259,9 @@ acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.qsuvuUtx6TLWUqn2W8FIMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - SERIE A", 20:45 - Sassuolo-Lazio
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 20:45 - Obradoiro-Basquet Girona
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 20:45 - Obradoiro-Basquet Girona
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 20:45 - UCAM Murcia-Gran Canaria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 20:45 - UCAM Murcia-Gran Canaria
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.lFrXwP70f3HpbVWJ_h4zMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - PREMIER LEAGUE", 21:00 - Sheffield Utd-Manchester Utd
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -323,11 +323,11 @@ acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.qsuvuUtx6TLWUqn2W8FIMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - SERIE A", 12:30 - Roma-Monza
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 12:30 - Barcelona-Bilbao Basket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 12:30 - Barcelona-Bilbao Basket
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 13:00 - Lenovo Tenerife-Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 13:00 - Lenovo Tenerife-Real Madrid
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 13:00 - Lenovo Tenerife-Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 13:00 - Lenovo Tenerife-Real Madrid
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ykJzlxLYJqLqiLDaZr5ODAHaFq?pid=ImgDet&w=143&h=107.25&c=7" group-title="Fútbol - LALIGA EA SPORTS", 14:00 - Las Palmas-Rayo Vallecano
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -357,9 +357,9 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EDCkxK54DuSuFqsaFwT5uwHaEK?pid=ImgDet&w=163&h=88.1986301369863&c=7" group-title="Fútbol - LALIGA HYPERMOTION", 16:15 - Huesca-Elche
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 17:00 - Granada-Basket Zaragoza
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 17:00 - Granada-Basket Zaragoza
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 17:00 - Valencia Basket-Manresa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 17:00 - Valencia Basket-Manresa
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.lFrXwP70f3HpbVWJ_h4zMAHaHa?pid=ImgDet&w=143&h=143&c=7" group-title="Fútbol - PREMIER LEAGUE", 17:30 - Aston Villa-West Ham
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -373,7 +373,7 @@ acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.tcYkAaxLi2yh_8xdgbKSAAHaHa?pid=ImgDet&w=143&h=168.90823529411765&c=7" group-title="Fútbol - LIGA F", 18:30 - Real Madrid-Levante
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.YNc_kfgomBoGOqyXp8zGiwHaHk?pid=ImgDet&w=163&h=165.71666666666667&c=7" group-title="Baloncesto - LIGA ENDESA", 18:30 - Baskonia-Unicaja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.q-xi3JFr7XMJSgETnPJlRwHaH_?pid=ImgDet&w=163&h=163&c=7" group-title="Baloncesto - LIGA ENDESA", 18:30 - Baskonia-Unicaja
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ykJzlxLYJqLqiLDaZr5ODAHaFq?pid=ImgDet&w=143&h=107.25&c=7" group-title="Fútbol - LALIGA EA SPORTS", 18:30 - Villarreal-Alavés
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -409,34 +409,52 @@ acestream://75251ba975132ec9a202806ba5bf606e87280c96
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.ftxcq13xPKraVkNXfR0AaQHaHa?pid=ImgDet&w=163&h=163&c=7" group-title="NFL - LIGA REGULAR", 22:25 - Kansas City Chiefs-Los Angeles Chargers
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 19/10 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 19/10 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 20/10 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 20/10 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:45 Fenerbahce Istanbul - Asvel Lyon-Villeurbanne 
+#EXTINF:-1 group-title="FUTBOL - PRIMERA DIVISIÓN" tvg-id="" tvg-logo="" ,21:00 Osasuna Vs Granada 720 
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="FUTBOL - PRIMERA DIVISIÓN" tvg-id="" tvg-logo="" ,21:00 Osasuna Vs Granada 1080 
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="FUTBOL - PRIMERA DIVISIÓN" tvg-id="" tvg-logo="" ,21:00 Osasuna Vs Granada 1080 
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="FUTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,21:00 Espanyol Vs Leganés 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="FUTBOL - FRANCIA LIGUE 1" tvg-id="" tvg-logo="" ,21:00 Havre Vs Lens 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 Rotherham Vs Ipswitch 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FUTBOL - BUNDESLIGA" tvg-id="" tvg-logo="" ,20:30 Alemania Dortmund Vs Bremen 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS FEMENINA" tvg-id="" tvg-logo="" ,13:00 Sorteo 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:00 Mónaco Vs Berlín 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:30 Anadoulo Vs Valencia 
 http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:15 Olympiacos Piraeus - Bc Partizan Beograd 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Baskonia - Zalgiris Kaunas 
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:15 Panatinaikos Vs Macavi 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Barcelona Vs Bayern 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:45 Real Madrid Baloncesto - Ax Olimpia Milano 
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Virtus Vs Crvena 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="FORMULA 1 - G.P. ESTADOS UNIDOS (AUSTIN)" tvg-id="" tvg-logo="" ,23:00 Clasificación 1080 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="FORMULA 1 - G.P. ESTADOS UNIDOS (AUSTIN)" tvg-id="" tvg-logo="" ,23:00 Clasificación 1080 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="FORMULA 1 - G.P. ESTADOS UNIDOS (AUSTIN)" tvg-id="" tvg-logo="" ,23:00 Clasificación 720 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="FORMULA 1 - G.P. ESTADOS UNIDOS (AUSTIN)" tvg-id="" tvg-logo="" ,23:00 Clasificación 4K Uhd 
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,11:00 Minaur Vs Karatsev 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,4:00 C. Garín - A. Popyrin 
+#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,12:30 Mochizuki Vs Popyrin 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,5:30 A. De Miñaur - D. Schwartzman 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,11:00 T. Fritz - S. Mochizuki 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE TOKIO" tvg-id="" tvg-logo="" ,12:30 Zh. Zhang - A. Karatsev 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="GOLF - ZOZO CHAMPIONSHIP" tvg-id="" tvg-logo="" ,5:00 Jornada 1 
+#EXTINF:-1 group-title="TENIS - ATP 250" tvg-id="" tvg-logo="" ,12:30 Atp 250 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="GOLF - ANDALUCÍA MASTERS" tvg-id="" tvg-logo="" ,13:00 Jornada 2 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - ZOZO CHAMPIONSHIP" tvg-id="" tvg-logo="" ,06:00 Jornada 1. Parte 2 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - DP WORLD TOUR N.A. ANDALUCIA MASTERS" tvg-id="" tvg-logo="" ,14:00 Jornada 1. Parte 1 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - DP WORLD TOUR N.A. ANDALUCIA MASTERS" tvg-id="" tvg-logo="" ,15:00 Jornada 1. Parte 2 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - DP WORLD TOUR N.A. ANDALUCIA MASTERS" tvg-id="" tvg-logo="" ,19:00 Post Jornada 1 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="RUGBY - COPA MUNDIAL" tvg-id="" tvg-logo="" ,21:00 Argentina Vs Nueva Zelanda 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
