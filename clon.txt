@@ -1,71 +1,71 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AGENDA DEPORTIVA 25/10 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 25/10 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Feyenoord - Lazio 
+#EXTINF:-1 group-title="18:45 FEYENOORD - LAZIO" tvg-id="" tvg-logo="" ,18:45 Feyenoord - Lazio 
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 Multiaudio 
+#EXTINF:-1 group-title="18:45 FEYENOORD - LAZIO" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 Multiaudio 
+#EXTINF:-1 group-title="18:45 FEYENOORD - LAZIO" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 
+#EXTINF:-1 group-title="18:45 FC BARCELONA - SHAKHTAR DONETSK 1080" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 1080 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 720 
+#EXTINF:-1 group-title="18:45 FC BARCELONA - SHAKHTAR DONETSK 720" tvg-id="" tvg-logo="" ,18:45 Fc Barcelona - Shakhtar Donetsk 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 Multiaudio 
+#EXTINF:-1 group-title="18:45 FC BARCELONA - SHAKHTAR DONETSK 720" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 Multiaudio 
+#EXTINF:-1 group-title="18:45 FC BARCELONA - SHAKHTAR DONETSK 720" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 
+#EXTINF:-1 group-title="21:00 CELTIC - AT. MADRID 1080" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 1080 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 720 
+#EXTINF:-1 group-title="21:00 CELTIC - AT. MADRID 720" tvg-id="" tvg-logo="" ,21:00 Celtic - At. Madrid 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Estrella Roja 
+#EXTINF:-1 group-title="21:00 LEIPZIG - ESTRELLA ROJA" tvg-id="" tvg-logo="" ,21:00 Leipzig - Estrella Roja 
 http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Newcastle - Borussia Dortmund 
+#EXTINF:-1 group-title="21:00 NEWCASTLE - BORUSSIA DORTMUND" tvg-id="" tvg-logo="" ,21:00 Newcastle - Borussia Dortmund 
 http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Psg - Milan 
+#EXTINF:-1 group-title="21:00 PSG - MILAN" tvg-id="" tvg-logo="" ,21:00 Psg - Milan 
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Royal Amberes - Oporto 
+#EXTINF:-1 group-title="21:00 ROYAL AMBERES - OPORTO" tvg-id="" tvg-logo="" ,21:00 Royal Amberes - Oporto 
 http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Young Boys - Manchester City 
+#EXTINF:-1 group-title="21:00 YOUNG BOYS - MANCHESTER CITY" tvg-id="" tvg-logo="" ,21:00 Young Boys - Manchester City 
 http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Multichampions J3 
+#EXTINF:-1 group-title="21:00 MULTICHAMPIONS J3" tvg-id="" tvg-logo="" ,21:00 Multichampions J3 
 http://127.0.0.1:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,22:00 Multichampions J3 
+#EXTINF:-1 group-title="22:00 MULTICHAMPIONS J3" tvg-id="" tvg-logo="" ,22:00 Multichampions J3 
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - EFL CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 Stoke City - Leeds 
+#EXTINF:-1 group-title="21:00 STOKE CITY - LEEDS" tvg-id="" tvg-logo="" ,21:00 Stoke City - Leeds 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FUTBOL - UEFA YOUTH LEAGUE" tvg-id="" tvg-logo="" ,14:00 Fc Barcelona Academy - Shakhtar Academy 
+#EXTINF:-1 group-title="14:00 FC BARCELONA ACADEMY - SHAKHTAR ACADEMY" tvg-id="" tvg-logo="" ,14:00 Fc Barcelona Academy - Shakhtar Academy 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FUTBOL - UEFA YOUTH LEAGUE" tvg-id="" tvg-logo="" ,16:00 Newcastle Academy - B. Dortmund Academy 
+#EXTINF:-1 group-title="16:00 NEWCASTLE ACADEMY - B. DORTMUND ACADEMY" tvg-id="" tvg-logo="" ,16:00 Newcastle Academy - B. Dortmund Academy 
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,1:30 Denver Nuggets - Los Angeles Lakers 
+#EXTINF:-1 group-title="1:30 DENVER NUGGETS - LOS ANGELES LAKERS" tvg-id="" tvg-logo="" ,1:30 Denver Nuggets - Los Angeles Lakers 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,4:00 Golden State Warriors - Phoenix Suns 
+#EXTINF:-1 group-title="4:00 GOLDEN STATE WARRIORS - PHOENIX SUNS" tvg-id="" tvg-logo="" ,4:00 Golden State Warriors - Phoenix Suns 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - WTA ELITE TROPHY" tvg-id="" tvg-logo="" ,9:00 M. Keys - C. García 
+#EXTINF:-1 group-title="9:00 M. KEYS - C. GARCÍA" tvg-id="" tvg-logo="" ,9:00 M. Keys - C. García 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - WTA ELITE TROPHY" tvg-id="" tvg-logo="" ,10:30 B. Krejcikova - D. Kasatkina 
+#EXTINF:-1 group-title="10:30 B. KREJCIKOVA - D. KASATKINA" tvg-id="" tvg-logo="" ,10:30 B. Krejcikova - D. Kasatkina 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - WTA ELITE TROPHY" tvg-id="" tvg-logo="" ,13:00 Q. Zheng - D. Vekic 
+#EXTINF:-1 group-title="13:00 Q. ZHENG - D. VEKIC" tvg-id="" tvg-logo="" ,13:00 Q. Zheng - D. Vekic 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - TORNEO DE VIENA" tvg-id="" tvg-logo="" ,13:00 Ronda 2 
+#EXTINF:-1 group-title="13:00 RONDA 2" tvg-id="" tvg-logo="" ,13:00 Ronda 2 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="TENIS - TORNEO DE BASILEA" tvg-id="" tvg-logo="" ,14:00 T. Fritz - M. Purcell 
+#EXTINF:-1 group-title="14:00 T. FRITZ - M. PURCELL" tvg-id="" tvg-logo="" ,14:00 T. Fritz - M. Purcell 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - TORNEO DE BASILEA" tvg-id="" tvg-logo="" ,15:30 A. Bublik - C. Ruud 
+#EXTINF:-1 group-title="15:30 A. BUBLIK - C. RUUD" tvg-id="" tvg-logo="" ,15:30 A. Bublik - C. Ruud 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE BASILEA" tvg-id="" tvg-logo="" ,18:00 L. Riedi - F. Auger-Aliassime 
+#EXTINF:-1 group-title="18:00 L. RIEDI - F. AUGER-ALIASSIME" tvg-id="" tvg-logo="" ,18:00 L. Riedi - F. Auger-Aliassime 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - TORNEO DE BASILEA" tvg-id="" tvg-logo="" ,20:00 A. Murray - Tm. Etcheverry 
+#EXTINF:-1 group-title="20:00 A. MURRAY - TM. ETCHEVERRY" tvg-id="" tvg-logo="" ,20:00 A. Murray - Tm. Etcheverry 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="CICLISMO - TOUR DE FRANCIA" tvg-id="" tvg-logo="" ,11:30 Gala De Presentación 
+#EXTINF:-1 group-title="11:30 GALA DE PRESENTACIÓN" tvg-id="" tvg-logo="" ,11:30 Gala De Presentación 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="SNOOKER - ABIERTO DE IRLANDA DEL NORTE" tvg-id="" tvg-logo="" ,14:00 Segunda Ronda 
+#EXTINF:-1 group-title="14:00 SEGUNDA RONDA" tvg-id="" tvg-logo="" ,14:00 Segunda Ronda 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="SNOOKER - ABIERTO DE IRLANDA DEL NORTE" tvg-id="" tvg-logo="" ,20:00 Tercera Ronda 
+#EXTINF:-1 group-title="20:00 TERCERA RONDA" tvg-id="" tvg-logo="" ,20:00 Tercera Ronda 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ARTES MARCIALES - IJF GRAND SLAM SERIES" tvg-id="" tvg-logo="" ,15:00 Abu Dabi - Día 2 
+#EXTINF:-1 group-title="15:00 ABU DABI - DÍA 2" tvg-id="" tvg-logo="" ,15:00 Abu Dabi - Día 2 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
