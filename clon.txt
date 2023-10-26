@@ -284,4 +284,82 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Onetoro Hd 
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
-http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 26
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Golf" tvg-id="" tvg-logo="" ,• 10:00 Qatar máster
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 14:00 fritz VS shevchenko
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 14:00 medvedev VS dimitrov
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 15:30 stricker VS ruud
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 15:30 tsisipas VS machac.
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 17:30 sonnego VS sinner
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 7:30 rune VS Báez
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 20:00 tiafoe VS monfils
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:30 Euroliga partizan VS crvena
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 Euroliga Berlín VS milano
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 Euroliga real Madrid VS Barcelona
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 21:00 Euroliga olímpiacos v anadolu
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 21;00 Euroliga Mónaco VS Macavi
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 NBA bucks VS Philadelphia
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Balonmano" tvg-id="" tvg-logo="" ,• 20:45 Telekom VS Barcelona
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 backa VS friburgo
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 molde VS hacken
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 olímpiacos VS west han
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 Marsella VS Atenas
+http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 rakov VS Sporting
+http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 Praga VS Rangers
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 sturm VS atalanta
+http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 leverkusen VS qarabag
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Brighton VS ajax
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Liverpool VS Toulouse
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 panatinaikos VS rennes
+http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 roma VS Praga
+http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 sheriff VS serverte
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 unión VS lask
+http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="Multieuropa" tvg-id="" tvg-logo="" ,• uropa 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 az VS aston Vila
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 fenerbache VS ludogoretz
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:45 lile VS slovan
+http://127.0.0.1:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 aberdeen VS PAOK
+http://127.0.0.1:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 bodo VS besiktas
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Zagreb VS besiktas
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 eintrach VS Helsinki
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 florentina VS cukaricki
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
