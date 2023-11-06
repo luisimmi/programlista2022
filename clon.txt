@@ -207,49 +207,17 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 3
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 6
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Golf" tvg-id="" tvg-logo="" ,• 12:00 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="Golf" tvg-id="" tvg-logo="" ,• 21:30 ohl
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 14:00 hurkackz VS dimitrov
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:00 NBA pacers VS spurs
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 15:30 tsisipas VS kachanov
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 21:00 minaur VS rublev
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 21:30 gauf VS vondrousova
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 23:00 swiatek VS jabeur
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Formula" tvg-id="" tvg-logo="" ,• 19:00 1 720
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="Formula" tvg-id="" tvg-logo="" ,• 19:00 1 1080
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="Formula" tvg-id="" tvg-logo="" ,• 19:00 1 1080
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="Formula" tvg-id="" tvg-logo="" ,• 19:00 1 4k
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 Euroliga Barcelona VS panatimaikos
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 Euroliga baskonia VS partizan
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 Euroliga virtus VS anadolu
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:00 NBA oklahoma VS Warriors
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:45 Italia bolobna VS Lazio
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Championship Leicester VS lees
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 premier Tottenham VS Chelsea
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Francia PSG VS Montpellier
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 segunda división Espanyol VS Eibar
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 segunda división Zaragoza VS Oviedo
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división las palmas VS at Madrid 720
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división las palmas VS at Madrid 1080
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división las palmas VS at Madrid 1080
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Getafe VS Cádiz 720
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Getafe VS Cádiz 1080
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Getafe VS Cádiz 1080
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
