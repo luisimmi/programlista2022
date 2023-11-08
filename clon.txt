@@ -1,16 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 6/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 6/11 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 8/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 8/11 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="NFL - LIGA REGULAR" tvg-id="" tvg-logo="" ,02:20 Cincinnati Bengals-Buffalo Bills 
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Nápoles Vs Berlín 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Sociedad Vs Benfica 1080 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Sociedad Vs Beneficia 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Arsenal Vs Sevilla 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Arsenal Vs Sevilla 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Bayer Vs Galatasaray 
+http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague Vs United 
+http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Psv Vs Lens 
+http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Salzburgo Vs Inter 
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,Multichampions 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 1080 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 1080 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga Multiaudio 1080 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga Multuadio 1080 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,14:00 Arsenal Vs Sevilla 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,16:00 Bayern Vs Galatasaray 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,16:00 Real Madrid Vs Braga 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="BASKET - NBA" tvg-id="" tvg-logo="" ,01:00 Sixers Vs Celtics 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUER" tvg-id="" tvg-logo="" ,21:00 Tottenham-Chelsea 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUER" tvg-id="" tvg-logo="" ,21:00 Tottenham-Chelsea 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:00 Getafe-Cádiz 1080 
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,21:00 Real Zaragoza-Real Oviedo 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
@@ -207,41 +235,43 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 7
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dia 8
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 14:00 league city VS Young boys
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 14:00 league Milan VS PSG
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 16:00 league at Madrid VS Celtic
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 Dortmund VS newcastle
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="" ,• 01:00 sixers VS Celtics
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 14:00 arsenal VS Sevilla
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 shaktar VS Barcelona 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 shaktar VS Barcelona 1080
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 shaktar VS Barcelona 1080
+#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 16:00 Bayern VS galatasaray
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 16:00 real Madrid VS braga
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 Nápoles VS Berlín
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 real sociedad VS benfica
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 at Madrid VS Celtic 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 at Madrid VS Celtic 1080
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 at Madrid VS Celtic 1080
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 Milan VS PSG 1080
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 real sociedad VS beneficia
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 oporto VS amberes 1080
-http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,• pions 
-http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 city VS Young 1080
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 arsenal VS Sevilla
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 arsenal VS Sevilla
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 Bayer VS galatasaray
 http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 Lazio VS feyenord 1080
-http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 estrella roja VS leizpig 1080
-http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 oporto VS amberes 1080
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 Copenhague VS united
 http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="Boxeo" tvg-id="" tvg-logo="" ,• 01:00 herring VS Molina
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 psv VS lens
+http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 Salzburgo VS Inter
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,• ions 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid vs braga 720
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid VS braga 1080
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid VS braga 1080
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid VS braga multiaudio 1080
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid VS braga multuadio 1080
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
