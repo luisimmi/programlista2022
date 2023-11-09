@@ -1,44 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 8/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 8/11 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 9/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 9/11 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Nápoles Vs Berlín 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Sociedad Vs Benfica 1080 
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:45 Real Sociedad Vs Beneficia 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Arsenal Vs Sevilla 
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Arsenal Vs Sevilla 
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Bayer Vs Galatasaray 
+#EXTINF:-1 group-title="FUTBOL - COPA DE LA REINA" tvg-id="" tvg-logo="" ,20:00 Granada - Athletic Bilbao 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Ajax - Brighton 
 http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague Vs United 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Toulouse - Liverpool 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Slavia Praha - As Roma 
 http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Psv Vs Lens 
-http://127.0.0.1:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 group-title="FUTBOL - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Salzburgo Vs Inter 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Servette - Fc Sheriff 
+http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Lask Linz - Saint-Gilloise 
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Rennes - Panathinaikos 
 http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,Multichampions 
-http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 720 
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 1080 
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga 1080 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Maccabi Haifa - Villarreal 1080 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga Multiaudio 1080 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Maccabi Haifa - Villarreal 1080 
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,21:00 Real Madrid Vs Braga Multuadio 1080 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Maccabi Haifa - Villarreal 1080 
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,14:00 Arsenal Vs Sevilla 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,18:45 Qarabag Fk - Bayer Leverkusen 
+http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Atalanta - Sturm Graz 
+http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Sporting Cp - Raków Częstochowa 
+http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Bk Hacken - Molde 
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 West Ham - Olympiacos 
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,16:00 Bayern Vs Galatasaray 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="FUTBOL - YOUNG LEAGUE" tvg-id="" tvg-logo="" ,16:00 Real Madrid Vs Braga 
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Freiburg - Tsc Backa Topola 
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Aek Fc - O. Marseille 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Rangers Fc - Sparta Praha 
+http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real Betis - Aris Limassol 1080 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Real Betis - Aris Limassol 1080 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FUTBOL - EUROPA LEAGUE" tvg-id="" tvg-logo="" ,21:00 Slovan Bratislava - Lille 
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,18:45 Viktoria Plzen - Gnk Dinamo Zagreb 
+http://127.0.0.1:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,18:45 Fk Cukaricki - Fiorentina 
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,18:45 Paok Fc - Aberdeen 
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,18:45 Hjk Helsinki - Eintracht Frankfurt 
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,21:00 Aston Villa - Az Alkmaar 
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,21:00 Pfc Ludogorets - Fenerbache 
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="FUTBOL - EUROPA CONFERENCE LEAGUE" tvg-id="" tvg-logo="" ,16:30 Astana - Kf Ballkani 
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="BASKET - NBA" tvg-id="" tvg-logo="" ,01:00 Sixers Vs Celtics 
+#EXTINF:-1 group-title="BASKET - EUROBASKET FEMENINO" tvg-id="" tvg-logo="" ,18:00 Croacia - España 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,18:15 Olympiacos Piraeus - Baskonia 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,18:30 Anadolu Efes Istanbul - Zalgiris Kaunas 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,20:05 Maccabi Tel Aviv Bc - Fc Bayern Basketball 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Ax Olimpia Milano - Valencia Basket 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Bc Partizan Beograd - Fenerbahce Istanbul 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="BASKET - EUROLIGA" tvg-id="" tvg-logo="" ,20:45 Real Madrid Baloncesto - Virtus Bologna 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="BASKET - NBA" tvg-id="" tvg-logo="" ,1:00 Philadelphia 76Ers - Boston Celtics 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - BILLIE JEAN KING CUP" tvg-id="" tvg-logo="" ,16:00 Canadá - Polonia 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="GOLF - Hong Kong Open" tvg-id="" tvg-logo="" ,5:30 Jornada 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - NEDBANK GOLF CHALLENGE" tvg-id="" tvg-logo="" ,11:30 Jornada 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
