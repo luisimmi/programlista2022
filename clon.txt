@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="AGENDA DEPORTIVA 12/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 12/11 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,16:15 Barcelona-Alavés 1080P 
@@ -879,4 +880,38 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Onetoro Hd 
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
-http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 10
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Pádel" tvg-id="" tvg-logo="" ,• 17:30 13:30. 15:30
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Golf" tvg-id="" tvg-logo="" ,• 19:00 bermuda
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 Euroliga Berlín VS panatinaikos
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 Euroliga Barcelona VS crvena
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 21:00 Euroliga Mónaco VS asvel
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 NBA spurs VS minnesota
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,• 03:50 GP
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,• 05:50 3
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,• 06:45 2
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="MotoGP" tvg-id="" tvg-logo="" ,• 08:00 sprint
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:30 Alemania Borussia VS wolfsburgo
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Francia Montpellier VS nice
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:30 segunda división Leganés VS levante
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Athletic VS celta 720
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Athletic VS celta 1080
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división Athletic VS celta 1080
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
