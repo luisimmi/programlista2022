@@ -315,67 +315,13 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 12
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 13
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Pádel" tvg-id="" tvg-logo="" ,• 12:00 10:00
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 2:30 obradoiro VS baskonia
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 13:00 canarias VS granada
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 17:00 valencia VS Zaragoza
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 17:00 Bilbao VS real Madrid
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:30 Barcelona VS Tenerife
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 14:30 Alcaraz VS zverev
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 21:30 NBA Clippers VS menphis
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 00:00 NBA Philadelphia VS Indiana
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 21:00 medvedev VS rublev
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 12:30 Italia Nápoles VS empoli
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:00 Italia Lazio VS roma
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:30 alemania leverkusen VS Berlín
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:30 Alemania leizpig VS freiburg
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:00 premier Liverpool VS brentford
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:00 premier aston Vila VS fullham
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:00 premier Brighton VS sheffield
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 17:30 premier Chelsea VS city
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 14:00 segunda división burgos VS Alcorcón
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 NBA bucks VS bulls
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 segunda división Oviedo VS Cartagena
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 segunda división andorra VS eldense
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 Huesca VS Espanyol
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 Tenerife VS Villarreal b
-http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Eibar VS Albacete
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 primera división Barcelona VS alavés 720
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 primera división Barcelona VS alavés 1080
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 primera división Barcelona VS alavés 1080
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 primera división Barcelona VS alavés UHD 4k
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 primera división Sevilla VS Betis 720
-http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 primera división Sevilla VS Betis 1080
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 primera división Sevilla VS Betis 1080
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división at Madrid VS Villarreal 720
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división at Madrid VS Villarreal 1080
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división at Madrid VS Villarreal 1080
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
