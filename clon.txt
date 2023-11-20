@@ -1,124 +1,97 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 18/11 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 18/11 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 19/11 – Telegraph" tvg-logo="" ,• AGENDA DEPORTIVA 19/11 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,16:15 Alcorcón - Sporting 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,16:15 Alcorcón - Sporting 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:30 Zaragoza - Huesca 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:30 Zaragoza - Huesca 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:24 Amorebieta - Tenerife 1080 
-http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:24 Amorebieta - Tenerife 720 
-http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,21:00 Espanyol - Elche 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FUTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,21:00 Espanyol - Elche 720 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FUTBOL - LIGA F (POSIBLES CAMBIOS DE CANAL/EMISION)" tvg-id="" tvg-logo="" ,12:00 Udg Tenerife-Levante Liga F 1 
-http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="FUTBOL - LIGA F (POSIBLES CAMBIOS DE CANAL/EMISION)" tvg-id="" tvg-logo="" ,16:00 Real Sociedad-Sevilla Liga F 2 
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title="FUTBOL - LIGA F (POSIBLES CAMBIOS DE CANAL/EMISION)" tvg-id="" tvg-logo="" ,18:30 Eibar-Sporting Huelva Liga F 3 
-http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="FUTBOL - LIGA F (POSIBLES CAMBIOS DE CANAL/EMISION)" tvg-id="" tvg-logo="" ,20:30 Valencia - Athletic Club 
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="FUTBOL - LIGA F (POSIBLES CAMBIOS DE CANAL/EMISION)" tvg-id="" tvg-logo="" ,Liga F 4 
-http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 group-title="FÚTBOL SALA - PRIMERA DIVISIÓN" tvg-id="" tvg-logo="" ,21:05 Betis - Barcelona 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FÚTBOL SALA - PRIMERA DIVISIÓN FEMENINA" tvg-id="" tvg-logo="" ,15:55 Marín Futsal - Les Corts Ae 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FÚTBOL - MUNDIAL SUB-17" tvg-id="" tvg-logo="" ,10:00 Alemania - Venezuela 
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="FÚTBOL - MUNDIAL SUB-17" tvg-id="" tvg-logo="" ,13:00 Estados Unidos - Francia 
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,05:30 Libres 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,05:30 Libres 3 1080 
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,05:30 Libres 3 720 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,09:00 Clasificación 1080 
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,09:00 Clasificación 1080 
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="FÓRMULA 1 - G.P. LAS VEGAS" tvg-id="" tvg-logo="" ,09:00 Clasificación 720 
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="F1 Multicamara" tvg-id="" tvg-logo="" ,F1 Multicamara 
-http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="F1 UHD" tvg-id="" tvg-logo="" ,F1 Uhd 
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 group-title="MOTOCICLISMO - MUNDIAL DE MOTOGP" tvg-id="" tvg-logo="" ,11:25 Libres 2 Y Qp Motogp 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOCICLISMO - MUNDIAL DE MOTOGP" tvg-id="" tvg-logo="" ,11:25 Libres 2 Y Qp Motogp 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="MOTOCICLISMO - MUNDIAL DE MOTOGP" tvg-id="" tvg-logo="" ,15:30 Qp Moto3 Y Moto 2 / Sprint Motogp 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOCICLISMO - MUNDIAL DE MOTOGP" tvg-id="" tvg-logo="" ,15:30 Qp Moto3 Y Moto 2 / Sprint Motogp 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="BASKET - LIGA ENDESA" tvg-id="" tvg-logo="" ,17:55 Casademont Zaragoza - Dreamland Gran Canaria 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BASKET - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Bàsquet Girona - Río Breogán 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BASKET - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Lenovo Tenerife - Zunder Palencia 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BASKET - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Lenovo Tenerife - Zunder Palencia Opc2 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="BASKET - LIGA FEMENINA ENDESA" tvg-id="" tvg-logo="" ,19:10 Estudiantes - Basket Zaragoza 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BASKET - NBA" tvg-id="" tvg-logo="" ,2:00 New Orleans Pelicans - Denver Nuggets 
+#EXTINF:-1 group-title="BASKET - NBA - LIGA REGULAR" tvg-id="" tvg-logo="" ,21:00 Brooklyn Nets-Philadelphia 76Ers 1080 
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,12:00 Granollers/Zeballos - Ebden/Bopanna 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,14:30 J. Sinner - D. Medvedev 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,18:30 Salisbury/Ram - Vasselin/González 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,21:00 C. Alcaraz - N. Djokovic 1080 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,21:00 C. Alcaraz - N. Djokovic 720 
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title="RUGBY - GALLAGHER PREMIERSHIP RUGBY" tvg-id="" tvg-logo="" ,18:25 Harlequins - Saracens 
+#EXTINF:-1 group-title="BASKET - NBA - LIGA REGULAR" tvg-id="" tvg-logo="" ,21:00 Brooklyn Nets-Philadelphia 76Ers 720 
+http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title="BASKET - NBA - LIGA REGULAR" tvg-id="" tvg-logo="" ,02:00 Milwaukee Bucks-Dallas Mavericks 
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="BOXEO - PESO SUPERMEDIO - MASCULINO" tvg-id="" tvg-logo="" ,02:00 Pacheco-Coceres 1080 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="BOXEO - PESO SUPERMEDIO - MASCULINO" tvg-id="" tvg-logo="" ,02:00 Pacheco-Coceres 720 
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="FÓRMULA 1 - G.P. ESTADOS UNIDOS: LAS VEGAS" tvg-id="" tvg-logo="" ,07:00 Multicamara 
+http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title="FÓRMULA 1 - G.P. ESTADOS UNIDOS: LAS VEGAS" tvg-id="" tvg-logo="" ,07:00 Carrera Uhd 
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 group-title="FÓRMULA 1 - G.P. ESTADOS UNIDOS: LAS VEGAS" tvg-id="" tvg-logo="" ,07:00 Carrera 1080 
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="FÓRMULA 1 - G.P. ESTADOS UNIDOS: LAS VEGAS" tvg-id="" tvg-logo="" ,07:00 Carrera 1080 
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="FÓRMULA 1 - G.P. ESTADOS UNIDOS: LAS VEGAS" tvg-id="" tvg-logo="" ,07:00 Carrera 720 
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="GOLF - DP WORLD TOUR CHAMPIONSHIP" tvg-id="" tvg-logo="" ,09:30 Jornada 4 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="FÚTBOL - LIGA F (POSIBLES CAMBIOS EMISION/CANAL)" tvg-id="" tvg-logo="" ,12:00 Barcelona-Real Madrid Liga F 1 
+http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 group-title="FÚTBOL - LIGA F (POSIBLES CAMBIOS EMISION/CANAL)" tvg-id="" tvg-logo="" ,14:00 Granada-Villarreal Liga F 2 
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="FÚTBOL - LIGA F (POSIBLES CAMBIOS EMISION/CANAL)" tvg-id="" tvg-logo="" ,16:00 Madrid Cff-Atlético De Madrid Liga F 3 
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="FÚTBOL - LIGA F (POSIBLES CAMBIOS EMISION/CANAL)" tvg-id="" tvg-logo="" ,18:00 Real Betis-Levante Las Planas Liga F 4 
+http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,12:30 Manresa-Obradoiro 
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="CICLISMO - CICLOCROSS SUPERPRESTIGE" tvg-id="" tvg-logo="" ,13:30 Merksplas - Femenino 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="CICLISMO - CICLOCROSS SUPERPRESTIGE" tvg-id="" tvg-logo="" ,15:00 Merksplas - Masculino 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="UFC FIGHT NIGHT" tvg-id="" tvg-logo="" ,21:00 Allen Vs Craig - Main Card 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="MUNDIAL DE POWERLIFTING" tvg-id="" tvg-logo="" ,16:20 84Kg F Y +120Kg M 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="HOCKEY HIERBA - LIGA MGS" tvg-id="" tvg-logo="" ,12:55 Egara - Cd Terrassa 
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,12:30 Granada-Morabanc Andorra 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,12:30 Real Madrid-Unicaja 
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,17:00 Joventut-Bilbao Basket 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,17:00 Baskonia-Valencia Basket 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,18:30 Ucam Murcia-Barcelona 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,14:00 Racing De Ferrol-Burgos Cf 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,16:15 Eldense-Mirandés 1080 
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,16:15 Eldense-Mirandés 720 
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,16:15 Real Oviedo-Eibar 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:30 Cartagena-Albacete 1080 
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,18:30 Villarreal B-Andorra 
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="FUTBOL - SEGUNDA FEDERACIÓN" tvg-id="" tvg-logo="" ,18:00 Pontevedra - Arandina 
+http://127.0.0.1:6878/ace/getstream?id=597c07bd56b65779a55b08878b236d8deab6297b
+#EXTINF:-1 group-title="FÚTBOL - CLASIFICACIÓN EUROCOPA" tvg-id="" tvg-logo="" ,20:45 España-Georgia 
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="FUTBOL - CAMPEONATO URUGUAYO" tvg-id="" tvg-logo="" ,14:00 Liverpool Fc - Racing Club 
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,15:00 Moto3 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,15:00 Moto3 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,16:15 Moto2 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,16:15 Moto2 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,18:00 Motogp 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="MOTOS - G.P. CATAR" tvg-id="" tvg-logo="" ,18:00 Motogp 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="BALONMANO - LIGA ASOBAL" tvg-id="" tvg-logo="" ,18:00 Atl. Valladolid-Anaitasuna 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="HOCKEY HIERBA - LIGA IBERDROLA" tvg-id="" tvg-logo="" ,10:55: Egara - Cd Terrassa 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="GOLF - INDONESIAN MASTERS" tvg-id="" tvg-logo="" ,5:00 Jornada 3 
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
-#EXTINF:-1 group-title="GOLF - DP WORLD TOUR CHAMPIONSHIP DUBAI" tvg-id="" tvg-logo="" ,08:00 Jornada 3. Parte 1 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - DP WORLD TOUR CHAMPIONSHIP DUBAI" tvg-id="" tvg-logo="" ,10:00 Jornada 3. Parte 2 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - PGA TOUR - THE RSM CLASSIC" tvg-id="" tvg-logo="" ,19:00 Jornada 3 
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,10:30 Gurgl - Eslalon (M) - Primera Manga 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,13:30 Gurgl - Eslalon (M) - Segunda Manga 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,11:30 Zermatt - Cervinia - Descenso 1 (F) 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="PATINAJE ARTÍSTICO - GP DE ESPOO" tvg-id="" tvg-logo="" ,11:30 Masculino - Programa Libre 
+#EXTINF:-1 group-title="CICLISMO - COPA DEL MUNDO DE CICLOCROSS" tvg-id="" tvg-logo="" ,13:30 Troyes - Femenino 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="PATINAJE ARTÍSTICO - GP DE ESPOO" tvg-id="" tvg-logo="" ,16:30 Femenino - Programa Libre 
+#EXTINF:-1 group-title="CICLISMO - COPA DEL MUNDO DE CICLOCROSS" tvg-id="" tvg-logo="" ,15:00 Troyes - Masculino 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,18:00 Final Individual 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="TENIS - NITTO ATP FINALS 2023" tvg-id="" tvg-logo="" ,15:00 Final Dobles 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="CURLING - EUROPEO DE CURLING" tvg-id="" tvg-logo="" ,15:00 Italia - Escocia (F) 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="PATINAJE ARTÍSTICO - GP DE ESPOO" tvg-id="" tvg-logo="" ,18:40 Danza - Programa Libre 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="HÍPICA - GLOBAL CHAMPIONS TOUR" tvg-id="" tvg-logo="" ,20:10 Praga - Final - Sesión 1 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="HÍPICA - GLOBAL CHAMPIONS TOUR" tvg-id="" tvg-logo="" ,22:00 Praga - Final - Sesión 2 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,22:25 Buffalo Bills - New York Jets 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,19:00 Cleveland Browns - Pittsburgh Steelers 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,19:00 Red Zone. Jornada 11 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,19:00 Red Zone. Jornada 11 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
@@ -317,31 +290,31 @@ http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 18
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,• 13:40 GP
+#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,13:40 GP
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Moton3" tvg-id="" tvg-logo="" ,• 15:50 
+#EXTINF:-1 group-title="Moton3" tvg-id="" tvg-logo="" ,15:50 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,• 16:45 2
+#EXTINF:-1 group-title="Moto" tvg-id="" tvg-logo="" ,16:45 2
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 14:30 sinner VS medvedev
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,14:30 sinner VS medvedev
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 21:00 Alcaraz VS Djokovic
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,21:00 Alcaraz VS Djokovic
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:00 Zaragoza VS gran canaria
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,18:00 Zaragoza VS gran canaria
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 Tenerife VS Palencia
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,20:45 Tenerife VS Palencia
 http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 Gerona VS breogan
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,20:45 Gerona VS breogan
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="UFC" tvg-id="" tvg-logo="" ,• 21:00 
+#EXTINF:-1 group-title="UFC" tvg-id="" tvg-logo="" ,21:00 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 NBA bucks VS mavericks
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,02:00 NBA bucks VS mavericks
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 16:15 segunda división Alcorcón VS Sporting
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,16:15 segunda división Alcorcón VS Sporting
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 segunda división Zaragoza VS Huesca
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,18:30 segunda división Zaragoza VS Huesca
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:30 segunda división Amorebieta VS Tenerife
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,18:30 segunda división Amorebieta VS Tenerife
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 segunda división Espanyol VS elche
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,21:00 segunda división Espanyol VS elche
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
