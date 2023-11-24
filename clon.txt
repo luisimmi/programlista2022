@@ -277,9 +277,9 @@ http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="Libres" tvg-id="" tvg-logo="" ,• 14:00 fórmula 1
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="Libres" tvg-id="" tvg-logo="" ,• 10:30 F1 op 2
+#EXTINF:-1 group-title="Libres" tvg-id="" tvg-logo="" ,• 10:30 F1 op2
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="Libres" tvg-id="" tvg-logo="" ,• 14:00 F1 op 2
+#EXTINF:-1 group-title="Libres" tvg-id="" tvg-logo="" ,• 14:00 F1 op2
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 6:00 Finlandia VS Australia
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
