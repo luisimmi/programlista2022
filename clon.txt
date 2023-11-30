@@ -263,35 +263,125 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 28
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 30
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="YouTh" tvg-id="" tvg-logo="" ,• 16:00 league real Madrid vs napoles
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 16:00 league Bayern vs kobenham
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Youth" tvg-id="" tvg-logo="" ,• 16:00 league benéfica vs inter
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 Sevilla vs psv 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 Sevilla vs psv 1080
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 Sevilla vs psv
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 18:45 galatasaray vs united
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 arsenal vs lens
-http://127.0.0.1:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real sociedad vs salzburgo
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,• ions 
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Multichampions" tvg-id="" tvg-logo="" ,• ions 
-http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid vs napoles 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid vs napoles 1080
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 real Madrid vs napoles 1080
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba raptors vs suns
+#EXTINF:-1 group-title="BALONCESTO" tvg-id="" tvg-logo="" ,• GULAR - EUROLIGA LIGA
+http://127.0.0.1:6878/ace/getstream?id=18:45 Fenerbahce Istanbul - Real Madrid Baloncesto
+#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
+http://127.0.0.1:6878/ace/getstream?id=19:00 AS Monaco Basket - Olympiacos Piraeus
+#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
+http://127.0.0.1:6878/ace/getstream?id=20:05 Maccabi Tel Aviv - ALBA Berlin
+#EXTINF:-1 group-title="8587ed8ac36ac477e1d4176d3159a38bd154d4ce" tvg-id="" tvg-logo="" ,• 4d4ce 
+http://127.0.0.1:6878/ace/getstream?id=20:30 AX Olimpia Milano - Zalgiris Kaunas
+#EXTINF:-1 group-title="b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3" tvg-id="" tvg-logo="" ,• 292e3 
+http://127.0.0.1:6878/ace/getstream?id=20:30 FC Bayern Basketball - Virtus Bologna
+#EXTINF:-1 group-title="42e83c337ece0af9ca7808859f84c7960e9cb6f5" tvg-id="" tvg-logo="" ,• b6f5 
+http://127.0.0.1:6878/ace/getstream?id=20:45 BC Partizan Beograd - Panathinaikos BC
+#EXTINF:-1 group-title="e6f06d697f66a8fa606c4d61236c24b0d604d917" tvg-id="" tvg-logo="" ,• 4d917 
+http://127.0.0.1:6878/ace/getstream?id=BALONCESTO - NBA LIGA REGULAR
+#EXTINF:-1 group-title="01:30" tvg-id="" tvg-logo="" ,• Suns Toronto Raptors - Phoenix
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• INALS - NEXT GEN ATP
+http://127.0.0.1:6878/ace/getstream?id=12:00 Round Robin
+#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
+http://127.0.0.1:6878/ace/getstream?id=FUTBOL - EUROPA LEAGUE
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 AEK - FCBrighton
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• n 720 AEK - FCBrighton
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Atalanta - Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Atalanta - Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• P 720 Atalanta - Sporting CP
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Freiburg - Olympiacos
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• s 720 Freiburg - Olympiacos
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Freiburg - Olympiacos
+http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Maccabi Haifa - Rennes
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• s 720 Maccabi Haifa - Rennes
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Maccabi Haifa - Rennes
+http://127.0.0.1:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• Audio Sparta Praha - Real Betis 1080
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• Audio Sparta Praha - Real Betis 1080
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Sparta Praha - Real Betis
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• s 720 Sparta Praha - Real Betis
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Sparta Praha - Real Betis
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• s 720 Sparta Praha - Real Betis
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 Sturm Graz - Rakow Czestochowa
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• a 720 Sturm Graz - Rakow Czestochowa
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• a 720 Sturm Graz - Rakow Czestochowa
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• 1080 TSC Backa Topola - West Ham
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• m 720 TSC Backa Topola - West Ham
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 BK Hacken - Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• n 720 BK Hacken - Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 BK Hacken - Bayer Leverkusen
+http://127.0.0.1:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 FC Sheriff - Slavia Praha
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• a 720 FC Sheriff - Slavia Praha
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Liverpool - LASK Linz
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• z 720 Liverpool - LASK Linz
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Liverpool - LASK Linz
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• z 720 Liverpool - LASK Linz
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Molde - Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• K 720 Molde - Qarabag FK
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 O. Marseille - Ajax
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• x 720 O. Marseille - Ajax
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 O. Marseille - Ajax
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Rangers FC - Aris Limassol
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• l 720 Rangers FC - Aris Limassol
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Rangers FC - Aris Limassol
+http://127.0.0.1:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Servette - AS Roma
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• a 720 Servette - AS Roma
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• a 720 Servette - AS Roma
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="**21:00" tvg-id="" tvg-logo="" ,• 1080 Toulouse - Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• e 720 Toulouse - Saint-Gilloise
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• Audio Villarreal - Panathinaikos 1080
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c**
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• Audio Villarreal - Panathinaikos 1080
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Villarreal - Panathinaikos
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• s 720 Villarreal - Panathinaikos
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Villarreal - Panathinaikos
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• s 720 Villarreal - Panathinaikos
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
