@@ -265,7 +265,7 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 1
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Día 1
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 euroliga crvena vs anadolu
 http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
