@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="AGENDA DEPORTIVA 02/12 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 02/12 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="FÚTBOL - PRIMERA DIVISIÓN" tvg-id="" tvg-logo="" ,14:00 Gerona Vs Valencia 720 
@@ -867,4 +868,16 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Onetoro Hd 
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
-http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 4
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba celtics vs pacers
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:30 segunda división villareal b vs eibar
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división celta vs Cádiz 720
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división celta vs Cádiz 1080
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división celta vs Cádiz 1080
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
