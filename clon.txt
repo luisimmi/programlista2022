@@ -195,41 +195,39 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 19
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 21
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 19:00 euroliga crvena vs real Madrid
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 euroliga Berlín vs Barcelona
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 0:00 euroliga maccavi vs crvena
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 euroliga maccavi vs baskonia
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 euroliga virtus vs olympiakos
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 21:00 euroliga Valencia vs partizan
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 euroliga Valencia vs virtus
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 euroliga real Madrid vs partizan
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 nba bucks vs spurs
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Liga" tvg-id="" tvg-logo="" ,• 20:30 Alemania dortmund vs mainz
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 8:30 Alemania werder vs leizpig
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 segunda división racing vs Andorra
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 segunda división Albacete vs eldense
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 nba bulls vs spurs
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 segunda división Huesca vs Cartagena
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 segunda división espanyol vs Burgos
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 segunda división villareal b vs Oviedo
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 segunda división elche vs mirandes
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 segunda división Valladolid vs ferrol
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 segunda división amorebieta vs alcorcon
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división rayo vs Valencia 720
-http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división rayo vs Valencia 1080
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 primera división at Madrid vs getafe 720
-http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división at madridbvs getafe 1080
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división Granada vs Sevilla 720
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división betis vs Gerona 720
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división Granada vs Sevilla 1080
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división betis vs Gerona 1080
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división Cádiz vs real sociedad 720
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 19:00 primera división Cádiz vs real sociedad 1080
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división Mallorca vs osasuna 720
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división Mallorca cs osasuna 1080
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21;30 primera división alavés vs real Madrid 720
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división alavés vsreal Madrid 1080
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 primera división alavés vs real Madrid 1080
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
