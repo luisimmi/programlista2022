@@ -1,152 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 28/12 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 28/12 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 30/12 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 30/12 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:25 Casademont Zaragoza - Morabanc Andorra 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:25 Covirán Granada - Lenovo Tenerife 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:25 Partizan - Virtus 
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:25 Efes - Fenerbahce 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:55 Zalgiris - Maccabi 
-http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:00 Asvel - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Milan - Baskonia 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Bayern Munich - Valencia 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,01:30 Brooklyn Nets - Milwaukee Bucks 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="CICLISMO - CICLOCROSS SUPERPRESTIGE" tvg-id="" tvg-logo="" ,18:55 Diegem - Femenino 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="CICLISMO - CICLOCROSS SUPERPRESTIGE" tvg-id="" tvg-logo="" ,20:40 Diegem - Masculino 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,09:45 Lienz - Eslalon Gigante (F) - Primera Manga 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,11:15 Bormio - Descenso (M) 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,13:15 Lienz - Eslalon Gigante (F) - Segunda Manga 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="SALTOS DE ESQUÍ - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,16:00 Oberstdorf - Trampolín Largo (M) - Clasificación 
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:00 Sevilla - Las Palmas 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:00 Sevilla - Las Palmas 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:00 Sevilla - Las Palmas 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:00 Sevilla - Las Palmas 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:00 Sevilla - Las Palmas 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:30 Liverpool - Atlético De Madrid 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:30 Liverpool - Atlético De Madrid 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:30 Liverpool - Atlético De Madrid 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:30 Liverpool - Atlético De Madrid 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,11:30 Liverpool - Atlético De Madrid 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:30 Betis - Real Sociedad 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:30 Betis - Real Sociedad 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:30 Betis - Real Sociedad 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:30 Betis - Real Sociedad 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,12:30 Betis - Real Sociedad 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:00 Barcelona - Borussia Dortmund 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:00 Barcelona - Borussia Dortmund 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:00 Barcelona - Borussia Dortmund 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:00 Barcelona - Borussia Dortmund 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:00 Barcelona - Borussia Dortmund 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:30 Olympique De Marsella - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:30 Olympique De Marsella - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:30 Olympique De Marsella - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:30 Olympique De Marsella - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,13:30 Olympique De Marsella - Real Madrid 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:00 Cuartos De Final 1 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:00 Cuartos De Final 1 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:00 Cuartos De Final 1 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:00 Cuartos De Final 1 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:00 Cuartos De Final 1 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:30 Cuartos De Final 2 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:30 Cuartos De Final 2 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:30 Cuartos De Final 2 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:30 Cuartos De Final 2 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,18:30 Cuartos De Final 2 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Juventus - Villarreal 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Cuartos De Final 3 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Cuartos De Final 3 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Cuartos De Final 3 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Cuartos De Final 3 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:00 Cuartos De Final 3 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:30 Cuartos De Final 4 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:30 Cuartos De Final 4 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:30 Cuartos De Final 4 
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:30 Cuartos De Final 4 
-http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="FÚTBOL 7 - TORNEO INTERNACIONAL LALIGA FC FUTURES" tvg-id="" tvg-logo="" ,19:30 Cuartos De Final 4 
-http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,21:05 Arsenal - West Ham 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,20:20 Brighton - Tottenham 
+#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,15:50 Aston Villa - Burnley 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="HÍPICA - HIPÓDROMO DE LA ZARZUELA" tvg-id="" tvg-logo="" ,12:45 Temporada De Invierno Hz.Jornada 43 
+#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,13:20 Luton Town - Chelsea 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,15:50 Manchester City - Sheffield United 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,18:20 Nottingham Forest - Manchester Utd. 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,20:40 Juventus - Roma 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,17:57 Milan - Sassuolo 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,18:00 Zunder Palencia - Surne Bilbao Basket 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Bàsquet Girona - Baskonia 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Dreamland Gran Canaria - Río Breogán 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,23.00 Utah Jazz - Miami Heat 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - LF ENDESA" tvg-id="" tvg-logo="" ,17:25 Barcelona - Basket Zaragoza 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - UNITED CUP" tvg-id="" tvg-logo="" ,11:30 Italia - Alemania 
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="TENIS - UNITED CUP" tvg-id="" tvg-logo="" ,12:00 H. Hurkacz - T. Seyboth-Wild 
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="TENIS - UNITED CUP" tvg-id="" tvg-logo="" ,14:00 Polonia - Brasil 
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#EXTINF:-1 group-title="CICLISMO - COPA DEL MUNDO DE CICLOCROSS" tvg-id="" tvg-logo="" ,13:30 Hulst - Femenino 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="CICLISMO - COPA DEL MUNDO DE CICLOCROSS" tvg-id="" tvg-logo="" ,15:00 Hulst - Masculino 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="RUGBY - GALLAGHER PREMIERSHIP RUGBY" tvg-id="" tvg-logo="" ,18:25 Harlequins - Gloucester 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="SALTOS DE ESQUÍ - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,17:35 Garmisch-Partenkirchen - Trampolín Largo (F) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SKI - ESQUÍ DE FONDO" tvg-id="" tvg-logo="" ,11:45 Toblach - Libre - Esprín - Clasificación 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SKI - ESQUÍ DE FONDO" tvg-id="" tvg-logo="" ,14:15 Toblach - Libre - Esprín 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
@@ -343,27 +237,11 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 30
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 31
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,• 13:30 luton vs chelsea
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,• 16:00 city vs sheffield
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,• 16:00 aston vila vs burnley
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 12:30 real Madrid vs Valencia
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:00 premier totenham vs bournemouth
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,• 16:00 crystal vs brentford
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="Premier" tvg-id="" tvg-logo="" ,• 16:00 wolverhamton vs everton
-http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:00 Palencia vs Bilbao
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 Canarias vs breogan
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 Gerona vs baskonia
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 23:00 nba utah vs miami
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 18:00 Italia Milán vs sassuolo
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:45 Italia juventus vs Roma
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 15:00 premier fulham vs arsenal
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
