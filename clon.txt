@@ -1,51 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 5/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 5/1 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 6/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 6/1 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:55 Alba- Virtus 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Valencia - Panathinaikos 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Fc Barcelona - Baskonia 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:25 Milan - Bayern Munich 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:45 Real Madrid - Efes 
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,01:30 San Antonio Spurs - Milwaukee Bucks 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="FÚTBOL - FA CUP" tvg-id="" tvg-logo="" ,20:50 Tottenham - Burnley 
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,15:50 Lugo - At. Madrid 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,16:50 Espanyol - Getafe 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,17:50 Elche - Girona 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,18:50 Huesca - Rayo 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:50 Alavés - Betis 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,21:25 Arandina - Real Madrid 
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,12:27 Inter - Hellas Verona 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FÚTBOL - FA CUP" tvg-id="" tvg-logo="" ,13:20 Wimbledon - Ipswich Town 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="FÚTBOL - FA CUP" tvg-id="" tvg-logo="" ,13:35 Sunderland - Newcastle 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE AUCKLAND" tvg-id="" tvg-logo="" ,0:00 E. Navarro - P. Martic 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE AUCKLAND" tvg-id="" tvg-logo="" ,1:30 C. Gauff - V. Gracheva 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE AUCKLAND" tvg-id="" tvg-logo="" ,3:30 Xi. Wang - D. Parry 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE AUCKLAND" tvg-id="" tvg-logo="" ,6:30 M. Bouzkova - E. Svitolina 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,2:00 J. Ostapenko - V. Azarenka 
+#EXTINF:-1 group-title="FÚTBOL - FA CUP" tvg-id="" tvg-logo="" ,18:20 Middlesbrough - Aston Villa 
 http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,3:30 A. Potapova - E. Rybakina 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,5:30 L. Noskova - M. Andreeva 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,9:30 A. Sabalenka - D. Kasatkina 
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA FEMENINO" tvg-id="" tvg-logo="" ,16:30 España - Francia 
+#EXTINF:-1 group-title="FÚTBOL - FA CUP" tvg-id="" tvg-logo="" ,18:20 Chelsea - Preston North End 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FUTBOL SALA - SUPERCOPA DE ESPAÑA" tvg-id="" tvg-logo="" ,16:00 Palma Futsal - Jimbee Cartagena Fs 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONMANO - TORNEO INTERNACIONAL ESPAÑA" tvg-id="" tvg-logo="" ,17:45 Polonia - Serbia 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONMANO - TORNEO INTERNACIONAL ESPAÑA" tvg-id="" tvg-logo="" ,20:00 España - Eslovaquia 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="MOTOR - RALLY DAKAR" tvg-id="" tvg-logo="" ,21:00 Prólogo 
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,17:55 Morabanc Andorra - Ucam Murcia 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,19:55 Casademont Zaragoza - Bàsquet Girona 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:45 Lenovo Tenerife - Joventut Badalona 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="BALONCESTO - LIGA ENDESA" tvg-id="" tvg-logo="" ,20:40 Zunder Palencia - Unicaja 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,02:00 New Orleans Pelicans - La Clippers 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="MOTOR - RALLY DAKAR" tvg-id="" tvg-logo="" ,21:00 Etapa 1 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="DEPORTES DE INVIERNO - COPA DEL MUNDO DE BIATLÓN" tvg-id="" tvg-logo="" ,14:10 Oberhof - 7,5Km Esprín (F) 
+#EXTINF:-1 group-title="TENIS - TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,4:00 L. Noskova - E. Rybakina 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="TENIS - TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,06:00 H. Rune - R. Safiullin 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,9:30 A. Sabalenka - V. Azarenka 
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="TENIS - TORNEO DE BRISBANE" tvg-id="" tvg-logo="" ,11:30 J. Thompson - G. Dimitrov 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA" tvg-id="" tvg-logo="" ,17:45 Montenegro - España 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA FEMENINO" tvg-id="" tvg-logo="" ,20:30 España - Israel 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="RUGBY - GALLAGHER PREMIERSHIP RUGBY" tvg-id="" tvg-logo="" ,16:00 Leicester Tigers - Saracens 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="CICLISMO - CICLOCROSS DE GULLEGEM" tvg-id="" tvg-logo="" ,14:55 Prueba Masculina 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="CICLISMO - CICLOCROSS DE GULLEGEM" tvg-id="" tvg-logo="" ,13:40 Prueba Femenina 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="DEPORTES DE INVIERNO - COPA DEL MUNDO DE BIATLÓN" tvg-id="" tvg-logo="" ,14:30 Oberhof - 10Km Persecución (F) 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="SALTOS DE ESQUÍ - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,16:00 Bischofshofen - Trampolín Largo (M) - Clasificación 
+#EXTINF:-1 group-title="DEPORTES DE INVIERNO - COPA DEL MUNDO DE BIATLÓN" tvg-id="" tvg-logo="" ,12:20 Oberhof - 12,5Km Persecución (M) 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ESQUÍ DE FONDO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,11:15 Val Di Fiemme - Clásico - 15Km Salida En Masa (F) 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ESQUÍ DE FONDO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,15:25 Val Di Fiemme - Clásico - 15Km Salida En Masa (M) 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="GOLF - PGA TOUR:THE SENTRY" tvg-id="" tvg-logo="" ,00:00 Jornada 1. Parte 2 
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,09:15 Kranjska Gora - Eslalon Gigante (F) - Primera Manga 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,10:30 Adelboden - Eslalon Gigante (M) - Primera Manga 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,12:15 Kranjska Gora - Eslalon Gigante (F) - Segunda Manga 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,13:30 Adelboden - Eslalon Gigante (M) - Segunda Manga 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SALTOS DE ESQUÍ - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,16:15 Bischofshofen - Trampolín Largo (M) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="GOLF - PGA TOUR: THE SENTRY" tvg-id="" tvg-logo="" ,19:00 The Sentry (Featured Group Vo) Jornada 3. Parte 1 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF - PGA TOUR:THE SENTRY" tvg-id="" tvg-logo="" ,18:45 Jornada 2. Parte 1 
+#EXTINF:-1 group-title="GOLF - PGA TOUR: THE SENTRY" tvg-id="" tvg-logo="" ,22:00 Jornada 3. Parte 2 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - PGA TOUR: THE SENTRY" tvg-id="" tvg-logo="" ,00:00 Jornada 2. Parte 2 
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
