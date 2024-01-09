@@ -1,18 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 8/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 8/1 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 9/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 9/1 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="COPA DEL REY - SORTEO" tvg-id="" tvg-logo="" ,13:00 Sorteo Octavos De Final 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FUTBOL - FA CUP" tvg-id="" tvg-logo="" ,21:15 Wigan - Manchester Utd. 
+#EXTINF:-1 group-title="FÚTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,20:55 Middlesbrough - Chelsea 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="MOTOR - RALLY DAKAR" tvg-id="" tvg-logo="" ,21:00 Etapa 3 
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,18:25 Fenerbahce - Partizan 
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,19:00 Monaco - Baskonia 
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:00 Bayern Munich - Real Madrid 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:10 Panathinaikos - Efes 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:25 Milan - Alba 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:25 Asvel - Estrella Roja 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="BALONCESTO - EUROLIGA" tvg-id="" tvg-logo="" ,20:30 Valencia - Zalgiris 
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,02:00 Milwaukee Bucks - Utah Jazz 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - WTA TORNEO DE ADELAIDA" tvg-id="" tvg-logo="" ,9:00 M. Vondrousova - A. Sasnovich 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="MOTOR - RALLY DAKAR" tvg-id="" tvg-logo="" ,21:00 Etapa 4 
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA" tvg-id="" tvg-logo="" ,17:45 España - Francia 
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA FEMENINO" tvg-id="" tvg-logo="" ,16:00 España - Tbd 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,2:20 Miami Dolphins - Buffalo Bills 
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="TENIS - WTA TORNEO DE ADELAIDA" tvg-id="" tvg-logo="" ,8:00 P. Badosa - B. Pera 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="SNOOKER - MASTERS" tvg-id="" tvg-logo="" ,13:45 Primera Ronda (3) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SNOOKER - MASTERS" tvg-id="" tvg-logo="" ,19:45 Primera Ronda (3) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
