@@ -209,13 +209,23 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día  8
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 9
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Sorteo" tvg-id="" tvg-logo="" ,• 18:30 Copa del rey
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 16:30 unionistas vs villareal
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:15 FA cup wigan vs manchester united
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 02:00 nba bucks vs jazz
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:30 fenerbache vs partizan
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 19:00 Mónaco vs Baskonia
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 bayern vs real Madrid
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:15 panatinaikos vs anadolu
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 olimpia vs alba
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 Valencia vs zalguiris
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basker" tvg-id="" tvg-logo="" ,• 20:30 crvena vs asvel
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:00 nba orlando vs minnesota
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 middelsbrough vs chelsea
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
