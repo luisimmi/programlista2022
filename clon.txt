@@ -1,10 +1,80 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 15/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 15/1 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 16/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 16/1 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FÚTBOL - SEGUNDA DIVISIÓN" tvg-id="" tvg-logo="" ,20:30 Eldense Vs Zaragoza 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="BASKET - NBA" tvg-id="" tvg-logo="" ,00:00 Menphis Vs Warriors 
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:50 Getafe - Sevilla 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:50 Getafe - Sevilla 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,20:50 Athletic - Alavés 1080 
+http://127.0.0.1:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,20:50 Athletic - Alavés 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,20:50 Athletic - Alavés 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,20:50 Athletic - Alavés 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,21:50 Tenerife - Mallorca 1080 
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,21:50 Tenerife - Mallorca 720 
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,20:45 Juventus - Sassuolo 
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="FÚTBOL - SUPERCOPA DE ESPAÑA FEMENINA" tvg-id="" tvg-logo="" ,18:55 Atlético De Madrid - Levante 
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="BALONMANO - EHF EUROPEO" tvg-id="" tvg-logo="" ,18:00 Croacia - Rumanía 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="MOTOR - RALLY DAKAR" tvg-id="" tvg-logo="" ,20:00 Etapa 9 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="CICLISMO - TOUR DOWN UNDER (M)" tvg-id="" tvg-logo="" ,03:30 Etapa 1 - Tanunda - Tanunda 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,01:00 S. Stephens - O. Gadecki 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,02:00 Margaret Court Arena. Día 3 
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,02:00 Rod Laver Arena. Día 3 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,02:00 Ramos - Ruud 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,02:00 Swiatek - Kenin 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,2:30 G. Dimitrov - M. Fucsovics 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,04:00 Rune - Nishioka 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,4:30 Bucsa - Blinkova 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,05:00 Giorgi - Azarenka 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,6:00 S. Ofner - T. Kokkinakis 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,07:00 Primera Ronda - Día 3 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,09:00 Zverev - Koepfer 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,9:00 P. Martic - A. Tomljanovic 
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,09:00 Rybakina - Pliskova 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,10:30 R. Gasquet - C. Alcaraz 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,10:30 R. Gasquet - C. Alcaraz 
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="TENIS - OPEN DE AUSTRALIA" tvg-id="" tvg-logo="" ,11:00 Marino - Pegula 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DE EUROPA" tvg-id="" tvg-logo="" ,20:15 España - Croacia 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,17:45 Flachau - Eslalon (F) - Primera Manga 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,20:30 Flachau - Eslalon (F) - Segunda Manga 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,02:10 Tampa Bay Buccaneers - Philadelphia Eagles 
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="HOCKEY HIERBA - PREOLÍMPICO(F)" tvg-id="" tvg-logo="" ,11:55 España - Canadá 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="SNOOKER - WORLD GRAND PRIX" tvg-id="" tvg-logo="" ,14:30 Primera Ronda (2) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SNOOKER - WORLD GRAND PRIX" tvg-id="" tvg-logo="" ,20:00 Primera Ronda (2) 
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
@@ -207,17 +277,11 @@ http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Supercopa 720 
 http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 16
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 17
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 10:30 gasquet vs alcaraz
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba philadelphia vs denver
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba cleveland vs milwaukee
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 20:00 getafe vs Sevilla
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 21:00 athletic vs alavés
+#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 20:00 Valencia vs celta
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 22:00 Tenerife vs Mallorca
-http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:45 Italia juventus vs sassuolo
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 21:00 osasuna vs real sociedad
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
