@@ -261,11 +261,21 @@ http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Supercopa 720 
 http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 17
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 18
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba cleveland vs milwaukee
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:30 euroliga anadolu vs Barcelona
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 19:00 euroliga crvena vs baskonia
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 20:00 Valencia vs celta
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 21:00 osasuna vs real sociedad
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 euroliga alba vs bayern
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:15 euroliga olimpiakos vs maccavi
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 euroliga virtus vs asvel
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba Toronto vs Chicago
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 19:30 unionistas vs Barcelona
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Suoercopa" tvg-id="" tvg-logo="" ,• 20:00 Italia napoles vs fiorentina
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
