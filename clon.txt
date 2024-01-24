@@ -1,26 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 23/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 23/1 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 24/1 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 24/1 – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,21:30 Celta - Real Sociedad 
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:30 Mallorca - Girona 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:30 Mallorca - Girona 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:30 Mallorca - Girona 1080 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,19:30 Mallorca - Girona 720 
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="FÚTBOL - COPA DEL REY" tvg-id="" tvg-logo="" ,21:30 Athletic Club - Fc Barcelona 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="FÚTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,21:00 Chelsea - Middlesbrough 
+#EXTINF:-1 group-title="FÚTBOL - BUNDESLIGA" tvg-id="" tvg-logo="" ,20:30 Bayern Múnich - Union Berlín 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - BUNDESLIGA" tvg-id="" tvg-logo="" ,20:30 Bayern Múnich - Union Berlín 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="FÚTBOL - LIGA DE CAMPEONES (F)" tvg-id="" tvg-logo="" ,21:00 Chelsea - Real Madrid 1080 
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="BALONCESTO - CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,18:30 Karsiyaka Basket - Lenovo Tenerife 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,03:00 Phoenix Suns - Chicago Bulls 
+#EXTINF:-1 group-title="FÚTBOL - LIGA DE CAMPEONES (F)" tvg-id="" tvg-logo="" ,21:00 Chelsea - Real Madrid 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="FÚTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,21:00 Fulham - Liverpool 1080 
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="FÚTBOL - EFL CARABAO CUP" tvg-id="" tvg-logo="" ,21:00 Fulham - Liverpool 720 
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,02:00 New Orleans Pelicans - Utah Jazz 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,03:00 M. Kostyuk - C. Gauff 
+#EXTINF:-1 group-title="BALONMANO - EHF EUROPEO" tvg-id="" tvg-logo="" ,20:30 Alemania - Croacia 
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="CICLISMO - CHALLENGE CICLISTA MALLORCA MASCULINA" tvg-id="" tvg-logo="" ,15:00 Trofeo Calvià Palmanova 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,02:00 L. Noskova - D. Yastremska 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,04:30 N. Djokovic - T. Fritz 
+#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,03:30 H. Hurkacz - D. Medvedev 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,09:00 B. Krejcikova - A. Sabalenka 
+#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,09:15 A. Kalinskaya - Q. Zheng 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,10:30 J. Sinner - A. Rublev 
+#EXTINF:-1 group-title="TENIS - OPEN AUSTRALIA" tvg-id="" tvg-logo="" ,10:45 A. Zverev - C. Alcaraz 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,17:30 Schladming - Eslalon (M) - Primera Manga 
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,17:30 Schladming - Eslalon Gigante (M) - Primera Manga 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,20:30 Schladming - Eslalon (M) - Segunda Manga 
+#EXTINF:-1 group-title="ESQUÍ ALPINO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,20:30 Schladming - Eslalon Gigante (M) - Segunda Manga 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="GOLF - FARMERS INSURANCE OPEN" tvg-id="" tvg-logo="" ,21:00 Jornada 1. Parte 2 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+#EXTINF:-1 group-title="GOLF - FARMERS INSURANCE OPEN" tvg-id="" tvg-logo="" ,17:45 Jornada 1. Parte 1 
+http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 Uhd 
@@ -60,7 +84,7 @@ http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 2 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 2 720 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 3 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• Dazn Laliga 4 1080 Multiaudio 
