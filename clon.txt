@@ -251,17 +251,27 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 24
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 25
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba miami vs menphis
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 09:30 gauff vs sabalenka
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="Tenis" tvg-id="" tvg-logo="" ,• 11:00 yastremska vs zheng
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 18:45 fenerbache vs virtus
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 20:30 Alemania bayern vs Berlín
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca0312
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 femenina chelsea vs real Madrid
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 alba vs crvena
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:00 maccavi vs panatinaikos
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 bayern vs asvel
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 euroliga real Madrid vs olympiakos
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:00 nba indiana vs philadelphia
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 Champions femenina Barcelona vs eintrach
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 fulham vs liverpool
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 19:30 Mallorca vs Gerona 720
+#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 21:00 at Madrid vs Sevilla 720
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 19:30 Mallorca vs Gerona 1080
+#EXTINF:-1 group-title="Copa" tvg-id="" tvg-logo="" ,• 21:00 at Madrid vs Sevilla 1080
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
