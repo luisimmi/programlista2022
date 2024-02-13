@@ -1,39 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 12/2 – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 12/2 – Telegraph
+#EXTINF:-1 tvg-id="AGENDA DEPORTIVA 13 DE FEBRERO – Telegraph" tvg-logo="" ,AGENDA DEPORTIVA 13 DE FEBRERO – Telegraph
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:00 Almería - Athletic 1080 
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Real Madrid 1080 
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:00 Almería - Athletic 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:00 Almería - Athletic 1080 Multiaudio 
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="FÚTBOL - LALIGA EA SPORTS" tvg-id="" tvg-logo="" ,21:00 Almería - Athletic 720 
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,20:30 Valladolid - Albacete 1080 
-http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="FÚTBOL - LALIGA HYPERMOTION" tvg-id="" tvg-logo="" ,20:30 Valladolid - Albacete 1080 
-http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,21:00 Crystal Palace - Chelsea 1080 
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="FÚTBOL - PREMIER LEAGUE" tvg-id="" tvg-logo="" ,21:00 Crystal Palace - Chelsea 720 
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,20:45 Juventus - Udinese 1080 Multiaudio 
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Real Madrid 1080 
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Real Madrid 1080 Multiaudio 
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FÚTBOL - SERIE A CALCIO" tvg-id="" tvg-logo="" ,20:45 Juventus - Udinese 720 
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Real Madrid 1080 Multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Leipzig - Real Madrid 720 
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,00:30 Kansas City Chiefs - San Francisco 49Ers 1080 
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague - Manchester City 1080 
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE" tvg-id="" tvg-logo="" ,21:00 Copenhague - Manchester City 720 
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="FÚTBOL - EFL CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 Bristol City - Southampton 1080 
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FÚTBOL - EFL CHAMPIONSHIP" tvg-id="" tvg-logo="" ,21:00 Bristol City - Southampton 720 
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="BALONCESTO - NBA" tvg-id="" tvg-logo="" ,02:00 Memphis Grizzlies - New Orleans Pelicans 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="FÚTBOL AMERICANO - NFL" tvg-id="" tvg-logo="" ,00:30 Kansas City Chiefs - San Francisco 49Ers 720 
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,11:00 1ª Ronda 
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,11:00 B. Coric - A. Bublik 
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="CICLISMO - UCI EUROPE TOUR" tvg-id="" tvg-logo="" ,15:00 Clásica Jaén 
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO MUNDO FEMENINO" tvg-id="" tvg-logo="" ,15:30 España - Tbd 
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,13:00 Zh. Zhang - A. Shevchenko 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,14:30 A. De Miñaur - S. Korda 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,19:30 Z. Bergs - A. Rublev 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM" tvg-id="" tvg-logo="" ,21:00 H. Hurkacz - J. Lehecka 
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DEL MUNDO" tvg-id="" tvg-logo="" ,14:00 España - Montenegro 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES" tvg-id="" tvg-logo="" ,13:30 Primera Ronda 
+#EXTINF:-1 group-title="DEPORTES DE INVIERNO - MUNDIAL DE BIATLÓN" tvg-id="" tvg-logo="" ,17:00 Individual (F) 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ESQUÍ DE FONDO - COPA DEL MUNDO" tvg-id="" tvg-logo="" ,19:15 Canmore - Clásico - Esprín 
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES" tvg-id="" tvg-logo="" ,13:30 Segunda Ronda 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES" tvg-id="" tvg-logo="" ,20:00 Primera Ronda 
+#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES" tvg-id="" tvg-logo="" ,20:00 Segunda Ronda 
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
@@ -241,23 +247,45 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 13
+#EXTINF:-1 group-title="", ﻿Día 13
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba nets vs celtics
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:00 championship bristol vs southampton
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 kobenhavn vs city 720
-http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 kobenham vs city 1080
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Leipzig - Real Madrid 1080
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Leipzig - Real Madrid 1080
 http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 kobenhavn vs city 1080
-http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 leizpig vs real Madrid 720
-http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 leizpig vs real Madrid 1080
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Leipzig - Real Madrid 1080 multiaudio
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 leizpig vs real Madrid 1080
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Leipzig - Real Madrid 1080 multiaudio
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="Champions" tvg-id="" tvg-logo="" ,• 21:00 leizpig vs real Madrid 1080
-http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Leipzig - Real Madrid 720
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Copenhague - Manchester City 1080
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="FÚTBOL - UEFA CHAMPIONS LEAGUE",21:00 Copenhague - Manchester City 720
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="FÚTBOL - EFL CHAMPIONSHIP",21:00 Bristol City - Southampton 1080
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="FÚTBOL - EFL CHAMPIONSHIP",21:00 Bristol City - Southampton 720
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="BALONCESTO - NBA",02:00 Memphis Grizzlies - New Orleans Pelicans
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM",11:00 B. Coric - A. Bublik
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM",13:00 Zh. Zhang - A. Shevchenko
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM",14:30 A. De Miñaur - S. Korda
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM",19:30 Z. Bergs - A. Rublev
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="TENIS - TORNEO DE ROTTERDAM",21:00 H. Hurkacz - J. Lehecka
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="WATERPOLO - CAMPEONATO DEL MUNDO",14:00 España - Montenegro
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="DEPORTES DE INVIERNO - MUNDIAL DE BIATLÓN",17:00 Individual (F)
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="ESQUÍ DE FONDO - COPA DEL MUNDO",19:15 Canmore - Clásico - Esprín
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES",13:30 Segunda ronda
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="SNOOKER - ABIERTO DE GALES",20:00 Segunda ronda
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
