@@ -285,105 +285,59 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿FÚTBOL - LALIGA EA SPORTS
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿FÚTBOL - COPA DEL REY
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Real Sociedad - Villarreal
-http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Villarreal 1080
-http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Villarreal 1080
-http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• l 720 Real Sociedad - Villarreal
-http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="" tvg-logo="" ,• OTION - LALIGA
-http://127.0.0.1:6878/ace/getstream?id=20:30 Valladolid - Oviedo 1080
-#EXTINF:-1 group-title="4c46585214b23b1d802ef2168060c7649a3894cf" tvg-id="" tvg-logo="" ,• 894cf 
-http://127.0.0.1:6878/ace/getstream?id=20:30 Valladolid - Oviedo 720
-#EXTINF:-1 group-title="06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4" tvg-id="" tvg-logo="" ,• 2b3f4 
-http://127.0.0.1:6878/ace/getstream?id=FÚTBOL - BUNDESLIGA
-#EXTINF:-1 group-title="20:30" tvg-id="" tvg-logo="" ,• Mainz Bayer Leverkusen -
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="" tvg-logo="" ,• GUE 1 - LIGUE
-http://127.0.0.1:6878/ace/getstream?id=21:00 Metz - Olympique Lyon
-#EXTINF:-1 group-title="c373da9e901d414b7384e671112e64d5a2310c29" tvg-id="" tvg-logo="" ,• 10c29 
-http://127.0.0.1:6878/ace/getstream?id=FÚTBOL - SERIE A CALCIO
-#EXTINF:-1 group-title="20:30" tvg-id="" tvg-logo="" ,• poles Milan -
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="" tvg-logo="" ,• NSHIP - EFL
-http://127.0.0.1:6878/ace/getstream?id=21:00 Leeds - Leicester
-#EXTINF:-1 group-title="8ca07071b39185431f8e940ec98d1add9e561639" tvg-id="" tvg-logo="" ,• 61639 
-http://127.0.0.1:6878/ace/getstream?id=FÚTBOL - UEFA NATIONS LEAGUE (F)
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• Bajos España - Países
+#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• lorca Real Sociedad -
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="SORTEO" tvg-id="" tvg-logo="" ,• EAGUE - EUROPA
-http://127.0.0.1:6878/ace/getstream?id=12:00 Sorteo Octavos de Final
-#EXTINF:-1 group-title="931b1984badcb821df7b47a66ac0835ac871b51c" tvg-id="" tvg-logo="" ,• 1b51c 
-http://127.0.0.1:6878/ace/getstream?id=SORTEO - EUROPA CONFERENCE LEAGUE
-#EXTINF:-1 group-title="13:00" tvg-id="" tvg-logo="" ,• Final Sorteo Octavos de
+#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Mallorca 1080
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="BALONCESTO" tvg-id="" tvg-logo="" ,• - NBA -
-http://127.0.0.1:6878/ace/getstream?id=02:00 Oklahoma City Thunder - Los Angeles Clippers
-#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
-http://127.0.0.1:6878/ace/getstream?id=MOTOR - MUNDIAL DE FÓRMULA 1
-#EXTINF:-1 group-title="08:00" tvg-id="" tvg-logo="" ,• 1080 Test Baréin. Día 3. Mañana
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="08:00" tvg-id="" tvg-logo="" ,• 1080 Test Baréin. Día 3. Mañana
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="08:00" tvg-id="" tvg-logo="" ,• a 720 Test Baréin. Día 3. Mañana
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="13:00" tvg-id="" tvg-logo="" ,• 1080 Test Baréin. Día 3. Tarde
-http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="13:00" tvg-id="" tvg-logo="" ,• 1080 Test Baréin. Día 3. Tarde
-http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="13:00" tvg-id="" tvg-logo="" ,• e 720 Test Baréin. Día 3. Tarde
-http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title="MOTOS" tvg-id="" tvg-logo="" ,• SPORT -
-http://127.0.0.1:6878/ace/getstream?id=04:55 G.P. Australia (Phillip Island) 1080
-#EXTINF:-1 group-title="60dbeeb299ec04bf02bc7426d827547599d3d9fc" tvg-id="" tvg-logo="" ,• 3d9fc 
-http://127.0.0.1:6878/ace/getstream?id=04:55 G.P. Australia (Phillip Island) 720
-#EXTINF:-1 group-title="7aa402bab9fff43258fbcf401881a39475f30aaf" tvg-id="" tvg-logo="" ,• 30aaf 
-http://127.0.0.1:6878/ace/getstream?id=RUGBY - WORLD RUGBY SEVENS SERIES
-#EXTINF:-1 group-title="20:30" tvg-id="" tvg-logo="" ,• ada 1 Vancouver. Jornada
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• DOHA - TORNEO
-http://127.0.0.1:6878/ace/getstream?id=16:00 Semifinal 1
-#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
-http://127.0.0.1:6878/ace/getstream?id=18:00 Semifinal 2
-#EXTINF:-1 group-title="e6f06d697f66a8fa606c4d61236c24b0d604d917" tvg-id="" tvg-logo="" ,• 4d917 
-http://127.0.0.1:6878/ace/getstream?id=TENIS - TORNEO DE RÍO DE JANEIRO
-#EXTINF:-1 group-title="20:00" tvg-id="" tvg-logo="" ,• Final 1/4 de
+#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Mallorca 1080
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="1d79a7543d691666135669f89f3541f54e2dd0a9" tvg-id="" tvg-logo="" ,• dd0a9 
+http://127.0.0.1:6878/ace/getstream?id=21:30 Real Sociedad - Mallorca 720
+#EXTINF:-1 group-title="e2e2aca792aae5da19995ac516b1d620531bd49c" tvg-id="" tvg-logo="" ,• bd49c 
+http://127.0.0.1:6878/ace/getstream?id=FÚTBOL - FA CUP
+#EXTINF:-1 group-title="20:30" tvg-id="" tvg-logo="" ,• 1080 Bournemouth - Leicester City
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="20:45" tvg-id="" tvg-logo="" ,• 1080 Blackburn Rovers - Newcastle United
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="20:45" tvg-id="" tvg-logo="" ,• d 720 Blackburn Rovers - Newcastle United
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Luton Town - Manchester City
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• y 720 Luton Town - Manchester City
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="FÚTBOL" tvg-id="" tvg-logo="" ,• EAGUE - UEFA YOUTH
+http://127.0.0.1:6878/ace/getstream?id=16:00 AZ Alkmaar Academy - FC Porto Academy
+#EXTINF:-1 group-title="931b1984badcb821df7b47a66ac0835ac871b51c" tvg-id="" tvg-logo="" ,• 1b51c 
+http://127.0.0.1:6878/ace/getstream?id=18:00 Mainz - Manchester City 1080
+#EXTINF:-1 group-title="fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393" tvg-id="" tvg-logo="" ,• 5a393 
+http://127.0.0.1:6878/ace/getstream?id=18:00 Mainz - Manchester City 720
+#EXTINF:-1 group-title="6753492c1908274c268a1b28e2a054a0ff8f86f9" tvg-id="" tvg-logo="" ,• f86f9 
+http://127.0.0.1:6878/ace/getstream?id=BALONCESTO - NBA
+#EXTINF:-1 group-title="01:00" tvg-id="" tvg-logo="" ,• ptors Indiana Pacers - Toronto
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="00:30" tvg-id="" tvg-logo="" ,• Garín J. Fonseca - C.
+#EXTINF:-1 group-title="CICLISMO" tvg-id="" tvg-logo="" ,• TOUR - UCI EUROPE
+http://127.0.0.1:6878/ace/getstream?id=15:00 Le Samyn (M)
+#EXTINF:-1 group-title="5e4cd48c79f991fcbee2de8b9d30c4b16de3b952" tvg-id="" tvg-logo="" ,• 3b952 
+http://127.0.0.1:6878/ace/getstream?id=CICLISMO - UCI WOMEN EUROPE TOUR
+#EXTINF:-1 group-title="13:30" tvg-id="" tvg-logo="" ,• n (F) Le Samyn
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• DUBAI - TORNEO DE
+http://127.0.0.1:6878/ace/getstream?id=16:00 D. Medvedev - A. Shevchenko
+#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
+http://127.0.0.1:6878/ace/getstream?id=17:30 S. Nagal - L. Sonego
+#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
+http://127.0.0.1:6878/ace/getstream?id=TENIS - TORNEO DE ACAPULCO
+#EXTINF:-1 group-title="01:05" tvg-id="" tvg-logo="" ,• elton D. Evans - B.
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="02:30" tvg-id="" tvg-logo="" ,• aniel A. De Miñaur - T.
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• DUBAI - WTA
-http://127.0.0.1:6878/ace/getstream?id=16:00 Semifinal 2
-#EXTINF:-1 group-title="60dbeeb299ec04bf02bc7426d827547599d3d9fc" tvg-id="" tvg-logo="" ,• 3d9fc 
-http://127.0.0.1:6878/ace/getstream?id=ATLETISMO - MADRID MEETING
-#EXTINF:-1 group-title="18:45" tvg-id="" tvg-logo="" ,• Gold World Athletics Indoor Tour
+#EXTINF:-1 group-title="04:30" tvg-id="" tvg-logo="" ,• Fritz M. Arnaldi - T.
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• L REY DE MESA - COPA DEL
+http://127.0.0.1:6878/ace/getstream?id=10:00 Final
+#EXTINF:-1 group-title="e2395d28ad19423212fd3aa0e81f387db3e8bb9f" tvg-id="" tvg-logo="" ,• 8bb9f 
+http://127.0.0.1:6878/ace/getstream?id=TENIS DE MESA - COPA DE LA REINA
+#EXTINF:-1 group-title="12:30" tvg-id="" tvg-logo="" ,• Final 
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="CICLISMO" tvg-id="" tvg-logo="" ,• R (M) - UAE TOUR
-http://127.0.0.1:6878/ace/getstream?id=11:50 Etapa 5 - Al Aqah - Umm Al Quwain
-#EXTINF:-1 group-title="c373da9e901d414b7384e671112e64d5a2310c29" tvg-id="" tvg-logo="" ,• 10c29 
-http://127.0.0.1:6878/ace/getstream?id=CICLISMO - O GRAN CAMIÑO
-#EXTINF:-1 group-title="15:30" tvg-id="" tvg-logo="" ,• ntada Etapa 2 - Taboada -
-http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="SNOOKER" tvg-id="" tvg-logo="" ,• NSHIP - PLAYERS
-http://127.0.0.1:6878/ace/getstream?id=14:00 Cuartos de final (3)
-#EXTINF:-1 group-title="5e4cd48c79f991fcbee2de8b9d30c4b16de3b952" tvg-id="" tvg-logo="" ,• 3b952 
-http://127.0.0.1:6878/ace/getstream?id=20:00 Semifinales
-#EXTINF:-1 group-title="5e4cd48c79f991fcbee2de8b9d30c4b16de3b952" tvg-id="" tvg-logo="" ,• 3b952 
-http://127.0.0.1:6878/ace/getstream?id=GOLF - MAGICAL KENYA OPEN
-#EXTINF:-1 group-title="11:00" tvg-id="" tvg-logo="" ,• rte 1 Jornada 2. Parte
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="13:00" tvg-id="" tvg-logo="" ,• rte 2 Jornada 2. Parte
-http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="GOLF" tvg-id="" tvg-logo="" ,• DANTA - MEXICO OPEN AT
-http://127.0.0.1:6878/ace/getstream?id=15:30 Jornada 2
-#EXTINF:-1 group-title="9a4f3ae6563668b7709dac509dedc709441b3fd9" tvg-id="" tvg-logo="" ,• b3fd9 
-http://127.0.0.1:6878/ace/getstream?id=16:00 Jornada 2. Parte 1
-#EXTINF:-1 group-title="4f945b0ba4206fa2676b61e9eaa465ac3dcc8122" tvg-id="" tvg-logo="" ,• c8122 
-http://127.0.0.1:6878/ace/getstream?id=22:00 Jornada 2. Parte 2
-#EXTINF:-1 group-title="4f945b0ba4206fa2676b61e9eaa465ac3dcc8122" tvg-id="" tvg-logo="" ,• c8122 
-http://127.0.0.1:6878/ace/getstream?id=GOLF - INTERNATIONAL SERIES OMAN
-#EXTINF:-1 group-title="10:30" tvg-id="" tvg-logo="" ,• ada 2 Jornada
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
