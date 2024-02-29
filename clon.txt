@@ -253,59 +253,27 @@ http://127.0.0.1:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,•Nba 
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95#EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿FÚTBOL - COPA DEL REY
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" ,• ﻿Día 29
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• lorca Real Sociedad -
-http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Mallorca 1080
-http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="21:30" tvg-id="" tvg-logo="" ,• audio Real Sociedad - Mallorca 1080
-http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="1d79a7543d691666135669f89f3541f54e2dd0a9" tvg-id="" tvg-logo="" ,• dd0a9 
-http://127.0.0.1:6878/ace/getstream?id=21:30 Real Sociedad - Mallorca 720
-#EXTINF:-1 group-title="e2e2aca792aae5da19995ac516b1d620531bd49c" tvg-id="" tvg-logo="" ,• bd49c 
-http://127.0.0.1:6878/ace/getstream?id=FÚTBOL - FA CUP
-#EXTINF:-1 group-title="20:30" tvg-id="" tvg-logo="" ,• 1080 Bournemouth - Leicester City
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title="20:45" tvg-id="" tvg-logo="" ,• 1080 Blackburn Rovers - Newcastle United
-http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="20:45" tvg-id="" tvg-logo="" ,• d 720 Blackburn Rovers - Newcastle United
-http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• 1080 Luton Town - Manchester City
-http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="21:00" tvg-id="" tvg-logo="" ,• y 720 Luton Town - Manchester City
-http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title="FÚTBOL" tvg-id="" tvg-logo="" ,• EAGUE - UEFA YOUTH
-http://127.0.0.1:6878/ace/getstream?id=16:00 AZ Alkmaar Academy - FC Porto Academy
-#EXTINF:-1 group-title="931b1984badcb821df7b47a66ac0835ac871b51c" tvg-id="" tvg-logo="" ,• 1b51c 
-http://127.0.0.1:6878/ace/getstream?id=18:00 Mainz - Manchester City 1080
-#EXTINF:-1 group-title="fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393" tvg-id="" tvg-logo="" ,• 5a393 
-http://127.0.0.1:6878/ace/getstream?id=18:00 Mainz - Manchester City 720
-#EXTINF:-1 group-title="6753492c1908274c268a1b28e2a054a0ff8f86f9" tvg-id="" tvg-logo="" ,• f86f9 
-http://127.0.0.1:6878/ace/getstream?id=BALONCESTO - NBA
-#EXTINF:-1 group-title="01:00" tvg-id="" tvg-logo="" ,• ptors Indiana Pacers - Toronto
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 euroliga partizan vs anadolu
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:30 euroliga virtus vs Valencia
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="CICLISMO" tvg-id="" tvg-logo="" ,• TOUR - UCI EUROPE
-http://127.0.0.1:6878/ace/getstream?id=15:00 Le Samyn (M)
-#EXTINF:-1 group-title="5e4cd48c79f991fcbee2de8b9d30c4b16de3b952" tvg-id="" tvg-logo="" ,• 3b952 
-http://127.0.0.1:6878/ace/getstream?id=CICLISMO - UCI WOMEN EUROPE TOUR
-#EXTINF:-1 group-title="13:30" tvg-id="" tvg-logo="" ,• n (F) Le Samyn
-http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• DUBAI - TORNEO DE
-http://127.0.0.1:6878/ace/getstream?id=16:00 D. Medvedev - A. Shevchenko
-#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
-http://127.0.0.1:6878/ace/getstream?id=17:30 S. Nagal - L. Sonego
-#EXTINF:-1 group-title="d00223931b1854163e24c5c22475015d7d45c112" tvg-id="" tvg-logo="" ,• 5c112 
-http://127.0.0.1:6878/ace/getstream?id=TENIS - TORNEO DE ACAPULCO
-#EXTINF:-1 group-title="01:05" tvg-id="" tvg-logo="" ,• elton D. Evans - B.
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 20:45 euroliga real Madrid vs panatinaikos
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="02:30" tvg-id="" tvg-logo="" ,• aniel A. De Miñaur - T.
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="04:30" tvg-id="" tvg-logo="" ,• Fritz M. Arnaldi - T.
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="TENIS" tvg-id="" tvg-logo="" ,• L REY DE MESA - COPA DEL
-http://127.0.0.1:6878/ace/getstream?id=10:00 Final
-#EXTINF:-1 group-title="e2395d28ad19423212fd3aa0e81f387db3e8bb9f" tvg-id="" tvg-logo="" ,• 8bb9f 
-http://127.0.0.1:6878/ace/getstream?id=TENIS DE MESA - COPA DE LA REINA
-#EXTINF:-1 group-title="12:30" tvg-id="" tvg-logo="" ,• Final 
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Basket" tvg-id="" tvg-logo="" ,• 01:30 nba knicks vs warriors
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Fórmula" tvg-id="" tvg-logo="" ,• 14:00 3
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="Fórmula" tvg-id="" tvg-logo="" ,• 17:30 2
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="Fórmula" tvg-id="" tvg-logo="" ,• 16:00 1 libres 720 12:30
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="Fórmula" tvg-id="" tvg-logo="" ,• 16:00 1 libres 1080 12:30
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="Fórmula" tvg-id="" tvg-logo="" ,• 16:00 1 libres 1080 12:30
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 athletic vs at Madrid 720
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="Fútbol" tvg-id="" tvg-logo="" ,• 21:30 athletic vs at Madrid 1080
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
