@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 17-03-2024
+#EXTINF:-1, EVENTOS DEL 18-03-2024
 acestream://
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 1 - Sant Feliu de GuÃ­xols â€º Sant Feliu de GuÃ­xols (173,9 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 1 - Sant Feliu de GuÃ­xols â€º Sant Feliu de GuÃ­xols (173,9 km)
 https://www.rtve.es/play/videos/directo/deportes/tdp/
 #EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - FC Andorra - Amorebieta
