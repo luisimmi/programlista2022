@@ -1,97 +1,21 @@
 #EXTM3U
 #EXTINF:-1, EVENTOS DEL 17-03-2024
 acestream://
-#EXTINF:-1 group-title='Velada Peso Ligero', 01:00 - W. Zepeda - M. Hughes
+#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Velada Peso Ligero', 01:00 - W. Zepeda - M. Hughes
+#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Los Angeles Lakers - Golden State Warriors
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - BarÃ§a Basket - RÃ­o BreogÃ¡n
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Bilbao Basket - Joventut Badalona
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Sevilla FC - Celta
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Sevilla FC - Celta
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Sevilla FC - Celta
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Sevilla FC - Celta
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Sevilla FC - Celta
-https://www.goltelevision.com/en-directo
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - LeganÃ©s - MirandÃ©s
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - LeganÃ©s - MirandÃ©s
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Trofeo Alfredo Binda', 14:20 - UCI Women's World Tour - Maccagno con Pino e Veddasca â€º Cittiglio (140,5 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Premier League', 15:00 - West Ham - Aston Villa
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Cholet - Pays de la Loire', 15:45 - UCI Europe Tour - DAZN (RegÃ­strate)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - UD Las Palmas - UD AlmerÃ­a
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - UD Las Palmas - UD AlmerÃ­a
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - UD Las Palmas - UD AlmerÃ­a
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - UD Las Palmas - UD AlmerÃ­a
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Valencia CF
+#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Valencia CF
+#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Valencia CF
+#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Ferrol - Real Valladolid
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Ferrol - Real Valladolid
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Basquet Girona - Valencia Basket
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Casademont Zaragoza - Zunder Palencia
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Rayo Vallecano - Real Betis
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Rayo Vallecano - Real Betis
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Rayo Vallecano - Real Betis
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Rayo Vallecano - Real Betis
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Elche - Albacete
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Elche - Albacete
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - Espanyol
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - Espanyol
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - Espanyol
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Unicaja MÃ¡laga - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Indian Wells Final WTA 1000', 20:00 - I. Swiatek - M. Sakkari
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Indian Wells Final WTA 1000', 20:00 - I. Swiatek - M. Sakkari
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Indian Wells Final WTA 1000', 20:00 - I. Swiatek - M. Sakkari
+#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 1 - Sant Feliu de GuÃ­xols â€º Sant Feliu de GuÃ­xols (173,9 km)
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 1 - Sant Feliu de GuÃ­xols â€º Sant Feliu de GuÃ­xols (173,9 km)
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Dallas Mavericks - Denver Nuggets
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Amistoso Femenino', 21:00 - Portugal - EspaÃ±a
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - FC Barcelona
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - FC Barcelona
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - FC Barcelona
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - FC Barcelona
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - FC Barcelona
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title='Masters Indian Wells', 22:00 - Final - ATP Masters 1000
-acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - FC Andorra - Amorebieta
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - FC Andorra - Amorebieta
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
