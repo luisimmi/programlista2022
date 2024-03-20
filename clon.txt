@@ -1,31 +1,37 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 19-03-2024
+#EXTINF:-1, EVENTOS DEL 20-03-2024
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 00:00 - Indiana Pacers - Cleveland Cavaliers
+#EXTINF:-1 group-title='NBA Liga Regular', 00:30 - Brooklyn Nets - New Orleans Pelicans
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
+#EXTINF:-1 group-title='MÃ³naco Masters', 12:00 - 1/8 de final - A1 Padel
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
+#EXTINF:-1 group-title='MÃ³naco Masters', 12:00 - 1/8 de final - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
+#EXTINF:-1 group-title='MÃ³naco Masters', 12:00 - 1/8 de final - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='MÃ³naco Masters', 09:00 - 2Âª Ronda - A1 Padel
+#EXTINF:-1 group-title='MÃ³naco Masters', 12:00 - 1/8 de final - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 2 - MatarÃ³ â€º Vallter 2000 (186,5 km)
+#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 3 - Sant Joan de les Abadesses â€º Port AinÃ© (176,7 km)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 2 - MatarÃ³ â€º Vallter 2000 (186,5 km)
+#EXTINF:-1 group-title='Vuelta a CataluÃ±a', 15:00 - Etapa 3 - Sant Joan de les Abadesses â€º Port AinÃ© (176,7 km)
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Amistoso Femenino', 17:00 - JapÃ³n - EspaÃ±a
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Basketball Champions League Top 16', 18:30 - Peristeri BC - Lenovo Tenerife
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Euroliga Liga Regular', 18:30 - Anadolu Efes Istanbul - Olympiacos Piraeus
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - Zalgiris Kaunas - Virtus Bologna
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:00 - ALBA Berlin - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - ASVEL Lyon-Villeurbanne
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - BC Partizan Beograd - Baskonia
+#EXTINF:-1 group-title='Masters Miami', 16:00 - 1Âª Ronda - ATP Masters 1000
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Masters Miami', 16:00 - 1Âª Ronda - ATP Masters 1000
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='WTA Miami', 16:00 - 1Âª Ronda - WTA 1000
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='ClÃ¡sica Brujas-De Panne', 16:35 - UCI World Tour - Brugge â€º De Panne (201 km)
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Euroliga Liga Regular', 18:45 - Fenerbahce Istanbul - BarÃ§a Basket
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - AS Monaco Basket - AX Olimpia Milano
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:00 - Crvena Zvezda MTS Belgrade - Panathinaikos BC
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Valencia Basket - FC Bayern Basketball
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Valencia Basket - FC Bayern Basketball
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Valencia Basket - FC Bayern Basketball
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
