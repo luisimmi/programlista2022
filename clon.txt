@@ -1,190 +1,62 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 23-03-2024
+#EXTINF:-1, EVENTOS DEL 25-03-2024
 acestream://
-#EXTINF:-1 group-title='México Open', 00:00 - 1/4 de final masculino - Premier Padel
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Minnesota Timberwolves - Cleveland Cavaliers
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='FIA Fórmula 3', 01:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 3', 01:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 3', 01:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 3', 01:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='México Open', 02:00 - 1/4 de final femenino - Premier Padel
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Fórmula 1', 02:30 - G.P. Australia (Albert Park) - Libres 3
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 02:30 - G.P. Australia (Albert Park) - Libres 3
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 02:30 - G.P. Australia (Albert Park) - Libres 3
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 02:30 - G.P. Australia (Albert Park) - Libres 3
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='México Open', 04:00 - 1/4 de final masculino - Premier Padel
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='FIA Fórmula 2', 04:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 2', 04:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 2', 04:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 2', 04:15 - G.P. Australia (Albert Park) - Carrera 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Fórmula 1', 06:00 - G.P. Australia (Albert Park) - Clasificación
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 06:00 - G.P. Australia (Albert Park) - Clasificación
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 06:00 - G.P. Australia (Albert Park) - Clasificación
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 06:00 - G.P. Australia (Albert Park) - Clasificación
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Superbike', 11:00 - G.P. Cataluña (Montmeló) - Superpole
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Superbike', 11:00 - G.P. Cataluña (Montmeló) - Superpole
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='MotoGP', 11:50 - G.P. Portugal (Algarve International) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 11:50 - G.P. Portugal (Algarve International) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Copa de la Reina Semifinales', 12:00 - Valencia Basket - Movistar Estudiantes
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='MotoE', 13:15 - G.P. San Marino (Misano) - Carrera 1
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Moto3', 13:50 - G.P. Portugal (Algarve International) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 13:50 - G.P. Portugal (Algarve International) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Mónaco Masters', 14:00 - Semifinales - A1 Padel
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Mónaco Masters', 14:00 - Semifinales - A1 Padel
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Mónaco Masters', 14:00 - Semifinales - A1 Padel
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Mónaco Masters', 14:00 - Semifinales - A1 Padel
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Superbike', 14:00 - G.P. Cataluña (Montmeló) - Carrera 1
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Superbike', 14:00 - G.P. Cataluña (Montmeló) - Carrera 1
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Vuelta a Cataluña', 14:30 - Etapa 6 - Berga › Queralt (154,7 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Moto2', 14:45 - G.P. Portugal (Algarve International) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 14:45 - G.P. Portugal (Algarve International) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Copa de la Reina Semifinales', 15:00 - Perfumerías Avenida - Casademont Zaragoza
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 16:00 - C. O'Connell - F. Tiafoe
+#EXTINF:-1 group-title='Masters Miami 3ª Ronda', 00:00 - C. Ruud - A. Davidovich
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 16:00 - C. O'Connell - F. Tiafoe
+#EXTINF:-1 group-title='Masters Miami 3ª Ronda', 01:30 - C. Norrie - D. Medvedev
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Masters Miami 3ª Ronda', 01:30 - C. Norrie - D. Medvedev
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 16:00 - T. Paul - M. Damm
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 16:00 - T. Paul - M. Damm
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 16:00 - T. Seyboth-Wild - T. Fritz
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Miami', 16:00 - 2ª Ronda - ATP Masters 1000
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='MotoGP', 16:00 - G.P. Portugal (Algarve International) - Sprint
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 16:00 - G.P. Portugal (Algarve International) - Sprint
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Real Oviedo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Real Oviedo
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Copa de España Semifinales', 17:00 - Barça FS - Palma Futsal
+#EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='WTA Miami', 16:00 - 1/8 de final - WTA 1000
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='MotoE', 17:10 - G.P. San Marino (Misano) - Carrera 2
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 17:30 - A. Murray - TM. Etcheverry
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 17:30 - A. Vavassori - J. Sinner
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 17:30 - D. Shapovalov - S. Tsitsipas
+#EXTINF:-1 group-title='Masters Miami', 17:00 - 3ª Ronda - ATP Masters 1000
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 17:30 - D. Shapovalov - S. Tsitsipas
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Basquet Girona - BAXI Manresa
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Coviran Granada - Unicaja Málaga
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 18:00 - New York Knicks - Brooklyn Nets
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - FC Cartagena - FC Andorra
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - FC Cartagena - FC Andorra
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Leganés
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Leganés
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 19:00 - C. Norrie - F. Cobolli
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 19:00 - C. Norrie - F. Cobolli
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 19:00 - C. Ruud - L. Van Assche
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 19:00 - M. Fucsovics - D. Medvedev
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Miami 2ª Ronda', 19:00 - M. Fucsovics - D. Medvedev
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Copa de España', 19:30 - Semifinales - Teledeporte
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Velada Peso Superligero', 20:00 - D. Smith - J. Zepeda
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Monbus Obradoiro - Río Breogán
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - MoraBanc Andorra - Casademont Zaragoza
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Espanyol - CD Tenerife
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='FIA Fórmula 3', 23:05 - G.P. Australia (Albert Park) - Carrera 2
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 3', 23:05 - G.P. Australia (Albert Park) - Carrera 2
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 3', 23:05 - G.P. Australia (Albert Park) - Carrera 2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 3', 23:05 - G.P. Australia (Albert Park) - Carrera 2
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
