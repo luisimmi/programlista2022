@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1, EVENTOS DEL 25-03-2024
-acestream://
 #EXTINF:-1 group-title='Masters Miami 3ª Ronda', 00:00 - C. Ruud - A. Davidovich
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title='Masters Miami 3ª Ronda', 01:30 - C. Norrie - D. Medvedev
@@ -9,10 +8,6 @@ acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='México Open', 02:00 - Final Masculina - Premier Padel
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title='WTA Miami', 16:00 - 1/8 de final - WTA 1000
 https://www.rtve.es/play/videos/directo/deportes/tdp/
 #EXTINF:-1 group-title='Masters Miami', 17:00 - 3ª Ronda - ATP Masters 1000
@@ -21,64 +16,6 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Albacete - Racing Ferrol
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Los canales de televisión que más veces han retransmitido partidos de este campeonato, han sido los siguientes: LaLiga TV Bar (2583), M+ LaLiga TV (1240), beIN LaLiga (844), M+ LaLiga 1 (446), Mitele Plus (338).', Han sido 3345 partidos televisados, de los cuales, 439 partidos han sido en TV en abierto y 2906 en televisión de pago. - Además, durante este tiempo, el equipo que más cobertura mediática, al reunir mayor número de canales distintos, de todos sus partidos de La Liga EA Sports, ha sido el Real Sociedad con un total de 42 canales, seguido por Real Betis (42), Athletic Club (41), Celta (40), FC Barcelona (39). - DATOS ESTADÍSTICOS DE PARTIDOS TELEVISADOS DE LA LIGA EA SPORTS EN OTROS PAISES
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
