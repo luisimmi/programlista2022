@@ -1,20 +1,22 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 26-03-2024 02:00
+#EXTINF:-1, EVENTOS DEL 27-03-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Masters Miami 3ª Ronda', 00:00 - C. Alcaraz - G. Monfils
+#EXTINF:-1 group-title='Masters Miami 1/8 de final', 00:00 - A. De Miñaur - F. Marozsan
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='NBA Liga Regular', 00:00 - Cleveland Cavaliers - Charlotte Hornets
+#EXTINF:-1 group-title='NBA Liga Regular', 00:30 - Milwaukee Bucks - Los Angeles Lakers
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Miami 1/8 de final', 00:00 - E. Navarro - J. Pegula
+#EXTINF:-1 group-title='Masters Miami 1/8 de final', 01:30 - A. Zverev - K. Khachanov
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='A través de Flandes', 14:15 - UCI World Tour - Roeselare › Waregem (188,6 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Masters Miami', 17:00 - 1/4 de Final - ATP Masters 1000
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='WTA Miami', 19:00 - 1/4 de Final - WTA 1000
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='WTA Miami', 19:00 - 1/4 de Final - WTA 1000
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='WTA Miami', 16:00 - 1/4 de Final - WTA 1000
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Miami', 17:00 - 1/8 de final - ATP Masters 1000
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Maccabi Tel Aviv BC - Valencia Basket
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Eurocup Semifinales Game 1', 19:00 - JL Bourg - Besiktas JK Istanbul
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Eurocup Semifinales Game 1', 20:45 - Paris Basketball - London Lions
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
