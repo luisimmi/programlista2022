@@ -1,30 +1,8 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 28-03-2024 12:30
+#EXTINF:-1, EVENTOS DEL 29-03-2024 02:00
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 00:00 - Orlando Magic - Golden State Warriors
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Miami 1/4 de Final', 00:00 - E. Alexandrova - J. Pegula
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='WTA Miami 1/4 de Final', 00:00 - E. Alexandrova - J. Pegula
+#EXTINF:-1 group-title='WTA Miami Semifinal 2 WTA 1000', 01:30 - E. Alexandrova - D. Collins
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Miami 1/4 de Final', 01:30 - N. Jarry - D. Medvedev
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Miami 1/4 de Final', 18:00 - A. Zverev - F. Marozsan
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - Zalgiris Kaunas - AX Olimpia Milano
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='WTA Miami Semifinal 1', 20:00 - E. Rybakina - V. Azarenka
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='WTA Miami Semifinal 1', 20:00 - E. Rybakina - V. Azarenka
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Baskonia - Anadolu Efes Istanbul
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - BC Partizan Beograd - Olympiacos Piraeus
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - FC Bayern Basketball - Barça Basket
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 21:00 - ASVEL Lyon-Villeurbanne - AS Monaco Basket
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
