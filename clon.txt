@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 30-03-2024 10:00
+#EXTINF:-1, EVENTOS DEL 30-03-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Masters Miami Semifinal 2 ATP Masters 1000', 00:00 - G. Dimitrov - A. Zverev
 acestream://d00223931b1854163e24c5c22475015d7d45c112
@@ -101,14 +101,6 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title='La Liga EA Sports', 21:00 - FC Barcelona - UD Las Palmas
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - FC Barcelona - UD Las Palmas
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - FC Barcelona - UD Las Palmas
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - FC Barcelona - UD Las Palmas
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - FC Barcelona - UD Las Palmas
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title='Premier League', 21:00 - Brentford - Manchester Utd.
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title='Premier League', 21:00 - Brentford - Manchester Utd.
