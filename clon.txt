@@ -1,22 +1,24 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 02-04-2024 02:00
+#EXTINF:-1, EVENTOS DEL 03-04-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 02:00 - New Orleans Pelicans - Phoenix Suns
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Miami Heat - New York Knicks
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Vuelta al País Vasco', 15:00 - Etapa 2 - Irún › Kanbo (160 km)
+#EXTINF:-1 group-title='Vuelta al País Vasco', 15:05 - Etapa 3 - Ezpeleta › Altsasu (190,9 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Premier League', 20:30 - Newcastle - Everton
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Premier League', 20:45 - Bournemouth - Crystal Palace
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 21:15 - West Ham - Tottenham
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 21:15 - West Ham - Tottenham
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Premier League', 21:15 - West Ham - Tottenham
+#EXTINF:-1 group-title='Eurocup Semifinales', 19:30 - JL Bourg - Besiktas JK Istanbul
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Premier League', 20:30 - Arsenal - Luton Town
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 21:15 - West Ham - Tottenham
+#EXTINF:-1 group-title='Premier League', 20:30 - Arsenal - Luton Town
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Premier League', 20:30 - Brentford - Brighton
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='Basketball Champions League 1/4 de Final Game 1', 21:00 - Unicaja Málaga - Promitheas Patras BC
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Premier League', 21:15 - Manchester City - Aston Villa
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 21:15 - Manchester City - Aston Villa
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
