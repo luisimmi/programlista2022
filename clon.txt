@@ -1,90 +1,102 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 06-04-2024 02:00
+#EXTINF:-1, EVENTOS DEL 07-04-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Indiana Pacers - Oklahoma C. Thunder
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NCAA Women Final Four - Semifinales', 01:00 - NC State - South Carolina
+#EXTINF:-1 group-title='NCAA Final Four - Semifinales', 00:09 - NC State - Purdue
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='NCAA Women Final Four - Semifinales', 03:00 - U Connecticut - Iowa
+#EXTINF:-1 group-title='Velada Peso Superligero', 01:00 - R. Hitchins - G. Lemos
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Velada Peso Superligero', 01:00 - R. Hitchins - G. Lemos
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='NBA Liga Regular', 02:00 - Memphis Grizzlies - Philadelphia 76ers
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NCAA Final Four - Semifinales', 02:49 - Alabama Athletics - U Connecticut
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Fórmula 1', 04:30 - G.P. Japón (Suzuka) - Libres 3
+#EXTINF:-1 group-title='Velada Peso Medio', 03:00 - J. Espinosa - A. Hernández
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Fórmula 1', 07:00 - G.P. Japón (Suzuka) - Carrera
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 04:30 - G.P. Japón (Suzuka) - Libres 3
+#EXTINF:-1 group-title='Fórmula 1', 07:00 - G.P. Japón (Suzuka) - Carrera
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 04:30 - G.P. Japón (Suzuka) - Libres 3
+#EXTINF:-1 group-title='Fórmula 1', 07:00 - G.P. Japón (Suzuka) - Carrera
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 04:30 - G.P. Japón (Suzuka) - Libres 3
+#EXTINF:-1 group-title='Fórmula 1', 07:00 - G.P. Japón (Suzuka) - Carrera
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Fórmula 1', 08:00 - G.P. Japón (Suzuka) - Clasificación
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 08:00 - G.P. Japón (Suzuka) - Clasificación
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 08:00 - G.P. Japón (Suzuka) - Clasificación
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 08:00 - G.P. Japón (Suzuka) - Clasificación
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Torneo de Barcelona Semifinal 1 ATP Challenger Tour', 11:00 - L. Giustino - B. Zapata
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='WTA Torneo de La Bisbal Semifinal 1 WTA 125', 11:00 - M. Carle - D. Galfi
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Torneo de La Bisbal Semifinal 2 WTA 125', 12:30 - R. Masarova - O. Danilovic
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Barcelona Semifinal 2 ATP Challenger Tour', 13:00 - N. Hardt - J. Barranco
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Premier League', 13:30 - Crystal Palace - Manchester City
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 13:30 - Crystal Palace - Manchester City
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Vuelta al País Vasco', 14:30 - Etapa 6 - Eibar › Eibar (137,8 km)
+#EXTINF:-1 group-title='París-Roubaix', 10:30 - UCI World Tour - Compiègne › Roubaix (259,9 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Premier League', 16:00 - Aston Villa - Brentford
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 16:00 - Aston Villa - Brentford
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Premier League', 16:00 - Fulham - Newcastle
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Premier League', 16:00 - Luton Town - Bournemouth
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 16:00 - Wolverhampton - West Ham
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 16:00 - Wolverhampton - West Ham
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Torneo de Estoril Semifinal 1 ATP 250', 16:00 - C. Garín - H. Hurkacz
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Eldense - FC Andorra
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Eldense - FC Andorra
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Bilbao Basket - Dreamland Gran Canaria
+#EXTINF:-1 group-title='Torneo de Barcelona Final ATP Challenger Tour', 11:00 - N. Hardt - B. Zapata
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='WTA Torneo de La Bisbal Final WTA 125', 11:00 - R. Masarova - M. Carle
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Casademont Zaragoza - Monbus Obradoiro
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - BAXI Manresa - Unicaja Málaga
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 13:00 - Lenovo Tenerife - Basquet Girona
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Estoril Semifinal 2 ATP 250', 17:30 - C. Ruud - P. Martínez
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='WTA Torneo de Bogotá', 18:00 - Semifinal 1 - WTA 250
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Levante - Real Zaragoza
+#EXTINF:-1 group-title='París-Roubaix', 13:05 - UCI World Tour - Compiègne › Roubaix (259,9 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Huesca - Leganés
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Levante - Real Zaragoza
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Huesca - Leganés
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Premier League', 18:30 - Brighton - Arsenal
+#EXTINF:-1 group-title='París-Roubaix', 14:35 - UCI World Tour - Compiègne › Roubaix (259,9 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='París-Roubaix', 14:35 - UCI World Tour - Compiègne › Roubaix (259,9 km)
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Mirandés - Sporting Gijón
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Mirandés - Sporting Gijón
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Villarreal B - Burgos CF
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Villarreal B - Burgos CF
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='Premier League', 16:30 - Manchester Utd. - Liverpool
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 18:30 - Brighton - Arsenal
+#EXTINF:-1 group-title='Premier League', 16:30 - Manchester Utd. - Liverpool
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 19:30 - Joventut Badalona - UCAM Murcia CB
+#EXTINF:-1 group-title='Torneo de Estoril Final ATP 250', 16:30 - P. Martínez - H. Hurkacz
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 19:30 - Río Breogán - Zunder Palencia
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Torneo de Charleston', 19:30 - Semifinal 1 - WTA 500
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Charleston', 19:30 - Semifinal 1 - WTA 500
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Torneo de Charleston', 21:00 - Semifinal 2 - WTA 500
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Charleston', 21:00 - Semifinal 2 - WTA 500
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Torneo de Bogotá', 23:15 - Semifinal 2 - WTA 250
+#EXTINF:-1 group-title='Torneo de Estoril Final ATP 250', 16:30 - P. Martínez - H. Hurkacz
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - MoraBanc Andorra - Coviran Granada
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Valencia Basket - Baskonia
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='WTA Torneo de Bogotá Final WTA 250', 18:00 - M. Bouzkova - MC. Osorio
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Eibar
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Eibar
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - Albacete
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - Albacete
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Barça Basket - Real Madrid Baloncesto
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Premier League', 18:30 - Sheffield United - Chelsea
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 18:30 - Sheffield United - Chelsea
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Premier League', 19:00 - Tottenham - Nottingham Forest
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 19:00 - Tottenham - Nottingham Forest
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='WTA Torneo de Charleston Final WTA 500', 19:00 - D. Kasatkina - D. Collins
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Torneo de Charleston Final WTA 500', 19:00 - D. Kasatkina - D. Collins
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Real Valladolid
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Real Valladolid
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Real Valladolid
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Real Valladolid
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NCAA Women', 21:00 - Final Four - Final - M+ Deportes 2 (64)
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='NBA Liga Regular', 21:30 - Dallas Mavericks - Houston Rockets
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
