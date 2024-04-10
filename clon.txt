@@ -1,27 +1,47 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 09-04-2024 13:52
+#EXTINF:-1, EVENTOS DEL 10-04-2024 08:20
 acestream://
-#EXTINF:-1 group-title='NCAA Final Four - Final', 03:20 - Purdue - U Connecticut
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Atlanta Hawks - Miami Heat
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title='Masters Montecarlo', 11:00 - 2ª Ronda - ATP Masters 1000
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 1 - Vasto › Pescara (161 km)
+#EXTINF:-1 group-title='Masters Montecarlo', 11:00 - A. Popyrin - A. Rublev
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Montecarlo', 12:30 - S. Korda - J. Sinner
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 2 - Alanno › Magliano de' Marsi (161 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Basketball Champions League 1/4 de Final', 18:30 - Promitheas Patras BC - Unicaja Málaga
+#EXTINF:-1 group-title='Masters Montecarlo', 14:00 - G. Monfils - D. Medvedev
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Montecarlo', 15:30 - H. Rune - S. Nagal
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Flecha Brabanzona', 15:45 - UCI Europe Tour - Leuven › Overijse (195,2 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Basketball Champions League 1/4 de Final Game 2', 18:00 - Tofas Bursa - Lenovo Tenerife
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Basketball Champions League 1/4 de Final', 20:00 - MHP RIESEN Ludwigsburg - UCAM Murcia CB
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Eurocup Final Game 1', 20:30 - Paris Basketball - JL Bourg
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Arsenal - FC Bayern
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Arsenal - FC Bayern
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Real Madrid - Manchester City
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Real Madrid - Manchester City
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Real Madrid - Manchester City
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
