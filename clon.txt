@@ -1,48 +1,68 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 10-04-2024 10:00
+#EXTINF:-1, EVENTOS DEL 11-04-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Atlanta Hawks - Miami Heat
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Miami Heat - Dallas Mavericks
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo', 11:00 - 2ª Ronda - ATP Masters 1000
+#EXTINF:-1 group-title='Masters Montecarlo', 11:00 - 3ª Ronda - ATP Masters 1000
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo', 11:00 - A. Popyrin - A. Rublev
+#EXTINF:-1 group-title='Masters Montecarlo 2ª Ronda', 12:30 - H. Rune - S. Nagal
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo', 12:30 - S. Korda - J. Sinner
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 2 - Alanno › Magliano de' Marsi (161 km)
+#EXTINF:-1 group-title='Masters Montecarlo 2ª Ronda', 12:30 - M. Kecmanovic - G. Dimitrov
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 3 - Pratola Peligna › Prati di Tivo (163 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Masters Montecarlo', 14:00 - G. Monfils - D. Medvedev
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - AS Monaco Basket - FC Bayern Basketball
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - Zalgiris Kaunas - Real Madrid Baloncesto
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo', 15:30 - H. Rune - S. Nagal
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Flecha Brabanzona', 15:45 - UCI Europe Tour - Leuven › Overijse (195,2 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Basketball Champions League 1/4 de Final Game 2', 18:00 - Tofas Bursa - Lenovo Tenerife
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:30 - Anadolu Efes Istanbul - Crvena Zvezda MTS Belgrade
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - AX Olimpia Milano
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Panathinaikos BC - ALBA Berlin
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - At. Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - PSG - FC Barcelona
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
