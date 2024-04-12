@@ -1,68 +1,66 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 11-04-2024 12:30
+#EXTINF:-1, EVENTOS DEL 12-04-2024 08:07
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Miami Heat - Dallas Mavericks
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Boston Celtics - New York Knicks
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo', 11:00 - 3ª Ronda - ATP Masters 1000
+#EXTINF:-1 group-title='Copa de la Reina 1/4 de Final', 11:00 - Torreblanca Melilla - Les Corts AE
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='ITF Torneo de Zaragoza 1/4 de Final', 11:00 - J. Bouzas - M. Trevisan
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo 2ª Ronda', 12:30 - H. Rune - S. Nagal
+#EXTINF:-1 group-title='Masters Montecarlo 1/4 de Final', 11:00 - S. Tsitsipas - K. Khachanov
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Montecarlo 2ª Ronda', 12:30 - M. Kecmanovic - G. Dimitrov
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 3 - Pratola Peligna › Prati di Tivo (163 km)
+#EXTINF:-1 group-title='Open Comunidad de Madrid 1/4 de Final', 11:00 - S. Napolitano - MA. Huesler
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Open Comunidad de Madrid 1/4 de Final', 12:30 - M. Kukushkin - A. Ramos
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='ITF Torneo de Zaragoza 1/4 de Final', 13:00 - I. Burillo - L. Romero
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Montecarlo 1/4 de Final', 13:00 - H. Rune - J. Sinner
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Copa de la Reina 1/4 de Final', 13:30 - Alcorcón FS - FS Móstoles
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Giro d'Abruzzo', 13:50 - Etapa 4 - Montorio al Vomano › L'Aquila (169 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - AS Monaco Basket - FC Bayern Basketball
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - Zalgiris Kaunas - Real Madrid Baloncesto
+#EXTINF:-1 group-title='Masters Montecarlo 1/4 de Final', 15:00 - N. Djokovic - A. De Miñaur
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 19:30 - Anadolu Efes Istanbul - Crvena Zvezda MTS Belgrade
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - AX Olimpia Milano
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Panathinaikos BC - ALBA Berlin
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - AC Milan - AS Roma
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Bayer Leverkusen - West Ham
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+#EXTINF:-1 group-title='Copa de la Reina 1/4 de Final', 16:30 - LBTL Alcantarilla FS - FSF O Castro
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Masters Montecarlo 1/4 de Final', 17:00 - U. Humbert - C. Ruud
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='MotoGP', 17:45 - G.P. Américas (Austin) - Libres 1
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+#EXTINF:-1 group-title='MotoGP', 17:45 - G.P. Américas (Austin) - Libres 1
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
+#EXTINF:-1 group-title='Copa de la Reina 1/4 de Final', 19:00 - At. Navalcarnero FS - Burela FS
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Eurocup Final Game 2', 19:30 - JL Bourg - Paris Basketball
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Olympiacos Piraeus - Fenerbahce Istanbul
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - BC Partizan Beograd - Valencia Basket
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Virtus Bologna - Baskonia
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Benfica - O. Marseille
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League 1/4 de Final', 21:00 - Liverpool - Atalanta
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Leganés - Espanyol
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Leganés - Espanyol
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Euroliga Liga Regular', 21:00 - ASVEL Lyon-Villeurbanne - Barça Basket
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Celta
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Celta
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Celta
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Celta
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Celta
+https://www.goltelevision.com/en-directo
+#EXTINF:-1 group-title='MotoGP', 22:00 - G.P. Américas (Austin) - Libres 2
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 22:00 - G.P. Américas (Austin) - Libres 2
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
