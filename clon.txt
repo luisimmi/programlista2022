@@ -1,118 +1,56 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 14-04-2024 12:30
+#EXTINF:-1, EVENTOS DEL 16-04-2024 10:26
 acestream://
-#EXTINF:-1 group-title='Open Comunidad de Madrid Final ATP Challenger Tour', 11:00 - L. Riedi - S. Napolitano
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='ITF Torneo de Zaragoza Final ITF W100', 11:30 - M. Uchijima - J. Bouzas
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Baskonia - Río Breogán
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 11:00 - H. Grenier - R. Carballés
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - UD Las Palmas - Sevilla FC
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - UD Las Palmas - Sevilla FC
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - UD Las Palmas - Sevilla FC
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - UD Las Palmas - Sevilla FC
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Real Oviedo - Mirandés
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Real Oviedo - Mirandés
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Amstel Gold Race', 14:35 - UCI World Tour - Maastricht › Berg en Terblijt (253,6 km)
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 11:00 - H. Grenier - R. Carballés
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 12:30 - J. Munar - Y. Nishioka
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 12:30 - J. Munar - Y. Nishioka
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Tour de los Alpes', 13:30 - Etapa 2 - Salurn/Salorno › Stans (189,1 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Amstel Gold Race', 14:35 - UCI World Tour - Maastricht › Berg en Terblijt (253,6 km)
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='FIA Fórmula E', 15:00 - Misano Adriático (Italia) - Carrera 2
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Masters Montecarlo Final ATP Masters 1000', 15:00 - C. Ruud - S. Tsitsipas
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Premier League', 15:00 - Liverpool - Crystal Palace
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 15:00 - Liverpool - Crystal Palace
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Premier League', 15:00 - West Ham - Fulham
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Granada CF - Alavés
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Granada CF - Alavés
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Granada CF - Alavés
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Albacete - CD Tenerife
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Albacete - CD Tenerife
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Eibar
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Eibar
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Basquet Girona - Barça Basket
+#EXTINF:-1 group-title='Barcelona Open 2ª Ronda', 14:00 - B. Nakashima - A. Rublev
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Coviran Granada - Valencia Basket
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Coviran Granada - Valencia Basket
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Premier League', 17:30 - Arsenal - Aston Villa
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 17:30 - Arsenal - Aston Villa
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Dreamland Gran Canaria - MoraBanc Andorra
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Moto3', 18:00 - G.P. Américas (Austin) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 18:00 - G.P. Américas (Austin) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Athletic Club - Villarreal
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Athletic Club - Villarreal
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Athletic Club - Villarreal
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Athletic Club - Villarreal
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Racing Santander
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Racing Santander
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - Elche
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - Elche
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Real Madrid Baloncesto - Joventut Badalona
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Real Madrid Baloncesto - Joventut Badalona
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Real Madrid Baloncesto - Joventut Badalona
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Real Madrid Baloncesto - Joventut Badalona
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Moto2', 19:15 - G.P. Américas (Austin) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 19:15 - G.P. Américas (Austin) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Copa de la Reina', 20:00 - Final - Teledeporte
+#EXTINF:-1 group-title='Barcelona Open 2ª Ronda', 14:00 - B. Nakashima - A. Rublev
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Sociedad - UD Almería
+#EXTINF:-1 group-title='Chile Open', 15:00 - 1ª Ronda - A1 Padel
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Chile Open', 15:00 - 1ª Ronda - A1 Padel
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Chile Open', 15:00 - 1ª Ronda - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Sociedad - UD Almería
+#EXTINF:-1 group-title='Chile Open', 15:00 - 1ª Ronda - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Sociedad - UD Almería
+#EXTINF:-1 group-title='Chile Open', 15:00 - 1ª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Racing Ferrol - Huesca
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Racing Ferrol - Huesca
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='MotoGP', 21:00 - G.P. Américas (Austin) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 21:00 - G.P. Américas (Austin) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='NBA Liga Regular', 21:30 - New Orleans Pelicans - Los Angeles Lakers
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 16:00 - F. Cobolli - R. Nadal
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 21:30 - New Orleans Pelicans - Los Angeles Lakers
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 16:00 - F. Cobolli - R. Nadal
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 16:00 - F. Cobolli - R. Nadal
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='NBA Liga Regular', 21:30 - New Orleans Pelicans - Los Angeles Lakers
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 16:00 - F. Cobolli - R. Nadal
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Barcelona Open 1ª Ronda', 16:00 - F. Cobolli - R. Nadal
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Euroliga Play-In', 19:00 - Maccabi Tel Aviv BC - Baskonia
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Euroliga Play-In', 20:00 - Anadolu Efes Istanbul - Virtus Bologna
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Borussia Dortmund - At. Madrid
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - Borussia Dortmund - At. Madrid
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - FC Barcelona - PSG
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - FC Barcelona - PSG
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - FC Barcelona - PSG
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Champions League 1/4 de Final', 21:00 - FC Barcelona - PSG
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
