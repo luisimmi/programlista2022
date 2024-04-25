@@ -1,48 +1,32 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 24-04-2024 12:30
+#EXTINF:-1, EVENTOS DEL 25-04-2024 11:52
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs', 02:30 - Indiana Pacers - Milwaukee Bucks
+#EXTINF:-1 group-title='NBA Playoffs', 01:00 - Miami Heat - Boston Celtics
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid 1ª Ronda', 11:00 - J. Bouzas - P. Badosa
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid 1ª Ronda', 11:00 - J. Bouzas - P. Badosa
+#EXTINF:-1 group-title='WTA Madrid 2ª Ronda', 11:00 - S. Sorribes - E. Svitolina
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='WTA Madrid', 11:00 - 1ª Ronda - WTA 1000
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid', 11:00 - 1ª Ronda - WTA 1000
+#EXTINF:-1 group-title='WTA Madrid 2ª Ronda', 12:30 - J. Ostapenko - J. Bouzas
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 12:30 - D. Altmaier - M. Landaluce
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Tour de Turquía', 13:30 - Etapa 4 - Marmaris › Bodrum (137,9 km)
+#EXTINF:-1 group-title='Tour de Turquía', 13:30 - Etapa 5 - Bodrum › Kusadasi (177,9 km)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 14:00 - L. Darderi - G. Monfils
+#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 14:00 - D. Galán - R. Bautista-Agut
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Tour de Romandía', 15:30 - Etapa 1 - Château d’Oex › Fribourg (165,7 km)
+#EXTINF:-1 group-title='Tour de Romandía', 15:30 - Etapa 2 - Fribourg › Salvan/Les Marécottes (171 km)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='WTA Madrid 1ª Ronda', 17:00 - S. Errani - C. Wozniacki
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid 1ª Ronda', 17:00 - S. Errani - C. Wozniacki
+#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 17:00 - D. Blanch - R. Nadal
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 18:30 - F. Díaz Acosta - D. Shapovalov
+#EXTINF:-1 group-title='Masters Madrid 1ª Ronda', 18:30 - D. Koepfer - R. Carballés
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Euroliga Playoffs', 19:00 - AS Monaco Basket - Fenerbahce Istanbul
+#EXTINF:-1 group-title='WTA Madrid 2ª Ronda', 19:00 - I. Swiatek - Xi. Wang
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Euroliga Playoffs', 20:15 - Panathinaikos BC - Maccabi Tel Aviv BC
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Euroliga Playoffs', 21:00 - Barça Basket - Olympiacos Piraeus
+#EXTINF:-1 group-title='Euroliga Playoffs', 21:00 - Real Madrid Baloncesto - Baskonia
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Playoffs', 21:00 - Barça Basket - Olympiacos Piraeus
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Euroliga Playoffs', 21:00 - Barça Basket - Olympiacos Piraeus
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Premier League', 21:00 - Crystal Palace - Newcastle
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 21:00 - Everton - Liverpool
+#EXTINF:-1 group-title='Premier League', 21:00 - Brighton - Manchester City
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 21:00 - Everton - Liverpool
+#EXTINF:-1 group-title='Premier League', 21:00 - Brighton - Manchester City
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Premier League', 21:00 - Manchester Utd. - Sheffield United
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 21:00 - Manchester Utd. - Sheffield United
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
