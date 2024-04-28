@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 28-04-2024 12:30
+#EXTINF:-1, EVENTOS DEL 28-04-2024 01:00
 acestream://
 #EXTINF:-1 group-title='UFC UFC Fight Night', 01:00 - M. Nicolau - A. Perez
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
