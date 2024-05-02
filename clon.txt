@@ -1,43 +1,55 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 01-05-2024 02:00
+#EXTINF:-1, EVENTOS DEL 02-05-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs', 01:00 - Philadelphia 76ers - New York Knicks
+#EXTINF:-1 group-title='NBA Playoffs', 01:30 - Miami Heat - Boston Celtics
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid 1/4 de Final', 12:00 - Y. Putintseva - E. Rybakina
+#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid 1/4 de Final', 12:00 - Y. Putintseva - E. Rybakina
+#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Madrid 1/4 de Final', 12:00 - Y. Putintseva - E. Rybakina
+#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 16:00 - A. Rublev - C. Alcaraz
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - UCAM Murcia CB - Casademont Zaragoza
+#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Playoffs', 19:45 - Fenerbahce Istanbul - AS Monaco Basket
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='WTA Madrid 1/4 de Final', 20:00 - M. Andreeva - A. Sabalenka
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Madrid 1/4 de Final', 20:00 - M. Andreeva - A. Sabalenka
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Euroliga Playoffs', 20:30 - Baskonia - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Playoffs', 20:30 - Baskonia - Real Madrid Baloncesto
+#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Euroliga Playoffs', 20:30 - Baskonia - Real Madrid Baloncesto
+#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Lenovo Tenerife - Unicaja Málaga
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Champions League Semifinales', 21:00 - Borussia Dortmund - PSG
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Semifinales', 21:00 - Borussia Dortmund - PSG
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Semifinales', 21:00 - Borussia Dortmund - PSG
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Semifinales', 21:00 - Borussia Dortmund - PSG
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 21:30 - T. Fritz - F. Cerúndolo
+#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 20:00 - D. Medvedev - J. Lehecka
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 21:30 - T. Fritz - F. Cerúndolo
+#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 20:00 - D. Medvedev - J. Lehecka
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Premier League', 20:30 - Chelsea - Tottenham
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 20:30 - Chelsea - Tottenham
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Euroliga Playoffs', 20:45 - Maccabi Tel Aviv BC - Panathinaikos BC
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
 https://www.rtve.es/play/videos/directo/deportes/tdp/
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
