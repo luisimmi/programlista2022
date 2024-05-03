@@ -1,56 +1,94 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 02-05-2024 02:00
+#EXTINF:-1, EVENTOS DEL 03-05-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs', 01:30 - Miami Heat - Boston Celtics
+#EXTINF:-1 group-title='NBA Playoffs', 00:30 - Milwaukee Bucks - Indiana Pacers
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
+#EXTINF:-1 group-title='Sevilla Open', 10:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
+#EXTINF:-1 group-title='Sevilla Open', 10:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 12:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 12:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Masters Madrid Semifinal 1', 16:00 - T. Fritz - A. Rublev
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Madrid Semifinal 1', 16:00 - I. Swiatek - M. Keys
+#EXTINF:-1 group-title='Masters Madrid Semifinal 1', 16:00 - T. Fritz - A. Rublev
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Euroliga Playoffs', 18:45 - Olympiacos Piraeus - Barça Basket
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 20:00 - D. Medvedev - J. Lehecka
+#EXTINF:-1 group-title='WTA Torneo de Lleida', 16:00 - 1/4 de Final - WTA 125
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Futsal Champions League Semifinales', 19:00 - Barça FS - Sporting CP FS
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Futsal Champions League Semifinales', 19:00 - Barça FS - Sporting CP FS
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Euroliga Playoffs', 19:45 - Fenerbahce Istanbul - AS Monaco Basket
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Masters Madrid Semifinal 2', 20:00 - F. Auger-Aliassime - J. Lehecka
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Madrid 1/4 de Final', 20:00 - D. Medvedev - J. Lehecka
+#EXTINF:-1 group-title='Masters Madrid Semifinal 2', 20:00 - F. Auger-Aliassime - J. Lehecka
 https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Premier League', 20:30 - Chelsea - Tottenham
+#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Levante
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Levante
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
+https://www.goltelevision.com/en-directo
+#EXTINF:-1 group-title='Premier League', 21:00 - Luton Town - Everton
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 20:30 - Chelsea - Tottenham
+#EXTINF:-1 group-title='Premier League', 21:00 - Luton Town - Everton
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Euroliga Playoffs', 20:45 - Maccabi Tel Aviv BC - Panathinaikos BC
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - AS Roma - Bayer Leverkusen
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Europa League Semifinales', 21:00 - O. Marseille - Atalanta
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Madrid Semifinal 2 WTA 1000', 21:30 - E. Rybakina - A. Sabalenka
-https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
