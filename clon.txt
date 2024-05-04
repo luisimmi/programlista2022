@@ -1,93 +1,127 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 03-05-2024 02:00
+#EXTINF:-1, EVENTOS DEL 04-05-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs', 00:30 - Milwaukee Bucks - Indiana Pacers
+#EXTINF:-1 group-title='NBA Playoffs', 03:30 - Los Angeles Clippers - Dallas Mavericks
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 10:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 10:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 12:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 12:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 14:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Madrid Semifinal 1', 16:00 - T. Fritz - A. Rublev
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Madrid Semifinal 1', 16:00 - T. Fritz - A. Rublev
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
+#EXTINF:-1 group-title='NBA Playoffs', 03:30 - Los Angeles Clippers - Dallas Mavericks
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/4 de final masculino - Premier Padel Tour
+#EXTINF:-1 group-title='NBA Playoffs', 03:30 - Los Angeles Clippers - Dallas Mavericks
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='WTA Torneo de Lleida', 16:00 - 1/4 de Final - WTA 125
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Sevilla Open', 18:00 - 1/4 de final femenino - Premier Padel Tour
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Miami (Miami) - Libres 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Futsal Champions League Semifinales', 19:00 - Barça FS - Sporting CP FS
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Futsal Champions League Semifinales', 19:00 - Barça FS - Sporting CP FS
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Euroliga Playoffs', 19:45 - Fenerbahce Istanbul - AS Monaco Basket
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Masters Madrid Semifinal 2', 20:00 - F. Auger-Aliassime - J. Lehecka
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Madrid Semifinal 2', 20:00 - F. Auger-Aliassime - J. Lehecka
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Sevilla Open', 20:00 - 1/4 de final masculino - Premier Padel Tour
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Levante
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Levante
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Getafe - Athletic Club
-https://www.goltelevision.com/en-directo
-#EXTINF:-1 group-title='Premier League', 21:00 - Luton Town - Everton
+#EXTINF:-1 group-title='Giro de Italia', 13:30 - Etapa 1 - Venaria Reale › Torino (136 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Premier League', 13:30 - Arsenal - Bournemouth
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 21:00 - Luton Town - Everton
+#EXTINF:-1 group-title='Premier League', 13:30 - Arsenal - Bournemouth
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Sociedad - UD Las Palmas
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Sociedad - UD Las Palmas
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Sociedad - UD Las Palmas
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Mirandés - Real Valladolid
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Mirandés - Real Valladolid
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Sevilla Open', 14:00 - Semifinal Masculina - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Giro de Italia', 15:00 - Etapa 1 - Venaria Reale › Torino (136 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Premier League', 16:00 - Brentford - Fulham
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Premier League', 16:00 - Burnley - Newcastle
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 16:00 - Burnley - Newcastle
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Real Madrid - Cádiz CF
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Real Madrid - Cádiz CF
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Real Madrid - Cádiz CF
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Real Madrid - Cádiz CF
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Real Oviedo
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Real Oviedo
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='F1 Academy', 16:25 - G.P. Miami (Miami) - Clasificación
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+#EXTINF:-1 group-title='F1 Academy', 16:25 - G.P. Miami (Miami) - Clasificación
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+#EXTINF:-1 group-title='F1 Academy', 16:25 - G.P. Miami (Miami) - Clasificación
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 22:30 - G.P. Miami (Miami) - Clasificación Sprint
+#EXTINF:-1 group-title='F1 Academy', 16:25 - G.P. Miami (Miami) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Fórmula 1', 18:00 - G.P. Miami (Miami) - Sprint
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 18:00 - G.P. Miami (Miami) - Sprint
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 18:00 - G.P. Miami (Miami) - Sprint
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 18:00 - G.P. Miami (Miami) - Sprint
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Bilbao Basket - Zunder Palencia
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Sevilla Open', 18:00 - Semifinal Masculina - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Girona - FC Barcelona
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Girona - FC Barcelona
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Girona - FC Barcelona
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Girona - FC Barcelona
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Girona - FC Barcelona
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Racing Santander - Elche
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Racing Santander - Elche
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Premier League', 18:30 - Manchester City - Wolverhampton
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 18:30 - Manchester City - Wolverhampton
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='WTA Madrid Final', 18:30 - I. Swiatek - A. Sabalenka
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='WTA Madrid Final', 18:30 - I. Swiatek - A. Sabalenka
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='WTA Madrid Final', 18:30 - I. Swiatek - A. Sabalenka
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='F1 Academy', 20:05 - G.P. Miami (Miami) - Carrera 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='F1 Academy', 20:05 - G.P. Miami (Miami) - Carrera 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='F1 Academy', 20:05 - G.P. Miami (Miami) - Carrera 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='F1 Academy', 20:05 - G.P. Miami (Miami) - Carrera 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Monbus Obradoiro - MoraBanc Andorra
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Valencia Basket - Joventut Badalona
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Mallorca - At. Madrid
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Mallorca - At. Madrid
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Mallorca - At. Madrid
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Mallorca - At. Madrid
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Alcorcón
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - FC Cartagena - Alcorcón
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Primera Federación Futsal', 21:00 - Viña Albali Valdepeñas - Movistar Inter
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Miami (Miami) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Miami (Miami) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Miami (Miami) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Miami (Miami) - Clasificación
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
