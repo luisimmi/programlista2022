@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 06-05-2024 10:00
+#EXTINF:-1, EVENTOS DEL 06-05-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Giro de Italia', 13:00 - Etapa 3 - Novara › Fossano (165 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
