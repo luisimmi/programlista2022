@@ -1,64 +1,124 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 10-05-2024 02:00
+#EXTINF:-1, EVENTOS DEL 11-05-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 01:00 - Cleveland Cavaliers - Boston Celtics
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 01:00 - New York Knicks - Indiana Pacers
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 03:30 - Dallas Mavericks - Oklahoma C. Thunder
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Francia (Le Mans) - Libres 1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Francia (Le Mans) - Libres 1
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Masters Roma 2ª Ronda', 11:00 - N. Borges - A. Bublik
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Roma 2ª Ronda', 11:00 - M. Sakkari - V. Gracheva
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Roma 2ª Ronda', 12:30 - Y. Nishioka - G. Dimitrov
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Giro de Italia', 12:45 - Etapa 7 - Foligno › Perugia (37,2 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='WTA Roma 2ª Ronda', 13:00 - I. Begu - E. Rybakina
-https://www.rtve.es/play/videos/directo/deportes/tdp/
-#EXTINF:-1 group-title='Masters Roma 2ª Ronda', 14:30 - A. Zverev - A. Vukic
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Francia (Le Mans) - Libres 2
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Francia (Le Mans) - Libres 2
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Giro de Italia', 15:15 - Etapa 7 - Foligno › Perugia (37,2 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Masters Roma 2ª Ronda', 15:30 - M. Kecmanovic - C. Ruud
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:15 - Baskonia - UCAM Murcia CB
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 19:00 - Barça Basket - Unicaja Málaga
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 19:00 - Barça Basket - Unicaja Málaga
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 01:00 - New York Knicks - Indiana Pacers
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 19:00 - Barça Basket - Unicaja Málaga
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 01:00 - New York Knicks - Indiana Pacers
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Masters Roma 2ª Ronda', 19:00 - N. Djokovic - C. Moutet
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:00 - Río Breogán - MoraBanc Andorra
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Burgos CF - Eldense
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Burgos CF - Eldense
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:30 - Casademont Zaragoza - Coviran Granada
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Alavés - Girona
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Alavés - Girona
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Alavés - Girona
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 21:00 - Valencia Basket - Real Madrid Baloncesto
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 03:30 - Denver Nuggets - Minnesota Timberwolves
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 21:30 - Dreamland Gran Canaria - Basquet Girona
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='IndyCar', 22:00 - Indianapolis Motor Speedway (Road Course) - Clasificación
-acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Francia (Le Mans) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Francia (Le Mans) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Giro de Italia', 12:15 - Etapa 8 - Spoleto › Prati di Tivo (153 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='MotoE', 12:15 - G.P. Francia (Le Mans) - Carrera 1
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Francia (Le Mans) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Francia (Le Mans) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='6 Horas de Spa-Francorchamps', 13:00 - Campeonato Mundial de Resistencia FIA - Carrera
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='WTA Roma 3ª Ronda', 13:00 - D. Kasatkina - N. Osaka
+https://www.rtve.es/play/videos/directo/deportes/tdp/
+#EXTINF:-1 group-title='Giro de Italia', 13:30 - Etapa 8 - Spoleto › Prati di Tivo (153 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Premier League', 13:30 - Fulham - Manchester City
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 13:30 - Fulham - Manchester City
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Francia (Le Mans) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Francia (Le Mans) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Mallorca - UD Las Palmas
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Mallorca - UD Las Palmas
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Mallorca - UD Las Palmas
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Racing Santander - Mirandés
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Racing Santander - Mirandés
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='FIA Fórmula E', 15:00 - Berlín (Alemania) - Carrera 1
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Francia (Le Mans) - Sprint
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Francia (Le Mans) - Sprint
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Premier League', 16:00 - Newcastle - Brighton
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Premier League', 16:00 - Tottenham - Burnley
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 16:00 - Tottenham - Burnley
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Premier League', 16:00 - West Ham - Luton Town
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='6 Horas de Spa-Francorchamps', 16:15 - Campeonato Mundial de Resistencia FIA - Carrera
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Sevilla FC
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Sevilla FC
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Sevilla FC
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Sevilla FC
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Villarreal - Sevilla FC
+https://www.goltelevision.com/en-directo
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Ferrol - Alcorcón
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Ferrol - Alcorcón
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Sporting Gijón - FC Andorra
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Sporting Gijón - FC Andorra
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Granada CF - Real Madrid
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Granada CF - Real Madrid
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Granada CF - Real Madrid
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Granada CF - Real Madrid
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Granada CF - Real Madrid
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Valladolid - Espanyol
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Valladolid - Espanyol
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Premier League', 18:30 - Nottingham Forest - Chelsea
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 18:30 - Nottingham Forest - Chelsea
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Velada MF &', 19:30 -  DAZN: X Series - N. Bustamante
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Athletic Club - Osasuna
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Athletic Club - Osasuna
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Athletic Club - Osasuna
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Athletic Club - Osasuna
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Levante - Eibar
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Levante - Eibar
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='IndyCar', 21:30 - Indianapolis Motor Speedway (Road Course) - Carrera
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 21:30 - Oklahoma C. Thunder - Dallas Mavericks
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 21:30 - Oklahoma C. Thunder - Dallas Mavericks
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 21:30 - Oklahoma C. Thunder - Dallas Mavericks
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
