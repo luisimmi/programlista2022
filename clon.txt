@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 16-05-2024 10:00
+#EXTINF:-1, EVENTOS DEL 17-05-2024 14:09
 acestream://
-#EXTINF:-1 group-title='WTA Roma Semifinal 2', 20:30 - D. Collins - A. Sabalenka
+#EXTINF:-1 group-title='Preolímpico 3X3 Femenino Fase de grupos', 18:30 - España - Mongolia
 https://www.rtve.es/play/videos/directo/deportes/tdp/
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
