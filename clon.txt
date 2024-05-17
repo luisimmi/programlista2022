@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 17-05-2024 14:09
+#EXTINF:-1, EVENTOS DEL 17-05-2024 15:30
 acestream://
 #EXTINF:-1 group-title='Preolímpico 3X3 Femenino Fase de grupos', 18:30 - España - Mongolia
 https://www.rtve.es/play/videos/directo/deportes/tdp/
