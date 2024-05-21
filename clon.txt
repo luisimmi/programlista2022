@@ -1,24 +1,14 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 20-05-2024 02:00
+#EXTINF:-1, EVENTOS DEL 21-05-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 02:00 - Minnesota Timberwolves - Denver Nuggets
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Playoffs Semifinal Conferencia', 02:00 - Minnesota Timberwolves - Denver Nuggets
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Tour de Limburgo', 15:00 - UCI Europe Tour - Hasselt › Tongeren (195,6 km)
+#EXTINF:-1 group-title='Giro de Italia', 11:15 - Etapa 16 - Livigno › Santa Cristina Valgardena (Monte Pana) (202 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Espanyol - Real Oviedo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Espanyol - Real Oviedo
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Espanyol - Real Oviedo
+#EXTINF:-1 group-title='Giro de Italia', 13:15 - Etapa 16 - Livigno › Santa Cristina Valgardena (Monte Pana) (202 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Liga Endesa Playoffs 1/4 Final', 20:30 - BAXI Manresa - Unicaja Málaga
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Espanyol - Real Oviedo
+#EXTINF:-1 group-title='Liga Endesa Playoffs 1/4 Final', 20:30 - BAXI Manresa - Unicaja Málaga
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Albacete
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Villarreal B - Albacete
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
