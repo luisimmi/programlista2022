@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 01-06-2024 12:30
+#EXTINF:-1, EVENTOS DEL 01-06-2024 02:00
 acestream://
 #EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Italia (Mugello) - Clasificación
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
