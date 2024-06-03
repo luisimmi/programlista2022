@@ -1,182 +1,42 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 02-06-2024 02:00
+#EXTINF:-1, EVENTOS DEL 03-06-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Santiago Open', 01:00 - 1/4 de final masculino - Premier Padel Tour
+#EXTINF:-1 group-title='Santiago Open', 00:00 - Semifinal Masculina - Premier Padel Tour
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Santiago Open', 00:00 - Semifinal Masculina - Premier Padel Tour
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Santiago Open', 00:00 - Semifinal Masculina - Premier Padel Tour
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Santiago Open', 05:00 - 1/4 de final masculino - Premier Padel Tour
+#EXTINF:-1 group-title='Santiago Open', 00:00 - Semifinal Masculina - Premier Padel Tour
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Santiago Open', 00:00 - Semifinal Masculina - Premier Padel Tour
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Santiago Open', 04:00 - Semifinal Masculina - Premier Padel Tour
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Moto3', 11:00 - G.P. Italia (Mugello) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 11:00 - G.P. Italia (Mugello) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Roland Garros', 11:00 - 1/8 de final - Grand Slam
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Philippe Chatrier)', 11:00 - E. Svitolina - E. Rybakina
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Roland Garros', 11:00 - 1/8 de final - Grand Slam
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Suzanne Lenglen)', 11:00 - E. Avanesyan - J. Paolini
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Moto2', 12:15 - G.P. Italia (Mugello) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 12:15 - G.P. Italia (Mugello) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='MotoGP', 14:00 - G.P. Italia (Mugello) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 14:00 - G.P. Italia (Mugello) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Critérium du Dauphiné', 15:00 - Etapa 1 - Saint-Pourçain-sur-Sioule › Saint-Pourçain-sur-Sioule (172,5 km)
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Philippe Chatrier)', 12:30 - E. Navarro - A. Sabalenka
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Suzanne Lenglen)', 12:30 - A. De Miñaur - D. Medvedev
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Suzanne Lenglen)', 14:30 - V. Gracheva - M. Andreeva
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Critérium du Dauphiné', 15:10 - Etapa 2 - Gannat › Col de la Loge (142 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Alcorcón - Burgos CF
-acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Andorra - Racing Ferrol
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Huesca - Levante
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='IndyCar', 18:30 - Detroit Grand Prix - Carrera
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - CD Tenerife - Real Valladolid
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eibar - Real Oviedo
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Eldense - Sporting Gijón
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Espanyol - FC Cartagena
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
-acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Philippe Chatrier)', 16:00 - N. Djokovic - F. Cerúndolo
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Suzanne Lenglen)', 16:30 - T. Fritz - C. Ruud
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Roland Garros 1/8 de final (Philippe Chatrier)', 20:15 - A. Zverev - H. Rune
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Liga Endesa Semifinales', 20:30 - UCAM Murcia CB - Unicaja Málaga
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Leganés - Elche
+#EXTINF:-1 group-title='Liga Endesa Semifinales', 20:30 - UCAM Murcia CB - Unicaja Málaga
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Mirandés - Amorebieta
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Villarreal B - Racing Santander
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Semifinales', 18:30 - Barça Basket - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Semifinales', 18:30 - Barça Basket - Real Madrid Baloncesto
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Real Zaragoza - Albacete
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Primera Federación Futsal Playoff Semifinales', 20:30 - Barça FS - Jimbee Cartagena FS
+https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
