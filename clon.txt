@@ -1,22 +1,34 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 06-06-2024 02:00
+#EXTINF:-1, EVENTOS DEL 07-06-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Roland Garros', 12:00 - Final Dobles Mixtos - Grand Slam
+#EXTINF:-1 group-title='NBA Final', 02:30 - Dallas Mavericks - Boston Celtics
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NBA Final', 02:30 - Dallas Mavericks - Boston Celtics
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Roland Garros Semifinal masculina Grand Slam', 14:30 - C. Alcaraz - J. Sinner
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Critérium du Dauphiné', 12:45 - Etapa 5 - Amplepuis › Saint-Priest (167 km)
+#EXTINF:-1 group-title='Critérium du Dauphiné', 15:25 - Etapa 6 - Hauterives › Le Collet d'Allevard (174,1 km)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Critérium du Dauphiné', 12:45 - Etapa 5 - Amplepuis › Saint-Priest (167 km)
+#EXTINF:-1 group-title='Critérium du Dauphiné', 15:25 - Etapa 6 - Hauterives › Le Collet d'Allevard (174,1 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Roland Garros Semifinal femenina Grand Slam', 15:00 - I. Swiatek - C. Gauff
+#EXTINF:-1 group-title='Roland Garros Semifinal masculina Grand Slam', 17:30 - C. Ruud - A. Zverev
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Critérium du Dauphiné', 15:20 - Etapa 5 - Amplepuis › Saint-Priest (167 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Critérium du Dauphiné', 15:20 - Etapa 5 - Amplepuis › Saint-Priest (167 km)
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Roland Garros Semifinal femenina Grand Slam', 17:00 - J. Paolini - M. Andreeva
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Primera Federación Futsal Playoff Semifinales', 20:30 - Jimbee Cartagena FS - Barça FS
-https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
