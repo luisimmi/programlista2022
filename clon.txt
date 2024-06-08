@@ -1,33 +1,51 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 07-06-2024 02:00
+#EXTINF:-1, EVENTOS DEL 08-06-2024 10:00
 acestream://
-#EXTINF:-1 group-title='NBA Final', 02:30 - Dallas Mavericks - Boston Celtics
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Final', 02:30 - Dallas Mavericks - Boston Celtics
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Roland Garros Semifinal masculina Grand Slam', 14:30 - C. Alcaraz - J. Sinner
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Critérium du Dauphiné', 15:25 - Etapa 6 - Hauterives › Le Collet d'Allevard (174,1 km)
+#EXTINF:-1 group-title='Título Mundial Peso Mínimo', 02:00 - O. Collazo - G. Zapata
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Título Mundial Peso Mínimo', 02:00 - O. Collazo - G. Zapata
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Critérium du Dauphiné', 13:05 - Etapa 7 - Albertville › Samoëns 1600 (155,3 km)
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Critérium du Dauphiné', 15:25 - Etapa 6 - Hauterives › Le Collet d'Allevard (174,1 km)
+#EXTINF:-1 group-title='Critérium du Dauphiné', 13:05 - Etapa 7 - Albertville › Samoëns 1600 (155,3 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Roland Garros Semifinal masculina Grand Slam', 17:30 - C. Ruud - A. Zverev
+#EXTINF:-1 group-title='DTM', 13:30 - Circuit Park Zandvoort - Carrera 1
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='DTM', 13:30 - Circuit Park Zandvoort - Carrera 1
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Critérium du Dauphiné', 15:30 - Etapa 7 - Albertville › Samoëns 1600 (155,3 km)
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Roland Garros', 18:00 - Final Dobles Masculinos - Grand Slam
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 3
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 3
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 3
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 1
+#EXTINF:-1 group-title='Fórmula 1', 18:30 - G.P. Canadá (Gilles-Villeneuve) - Libres 3
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Semi-Final', 18:30 - Real Oviedo - Eibar
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Semi-Final', 18:30 - Real Oviedo - Eibar
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Semi-Final', 18:30 - Real Oviedo - Eibar
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Semi-Final', 18:30 - Real Oviedo - Eibar
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Liga Endesa Final', 20:30 - Real Madrid Baloncesto - UCAM Murcia CB
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Liga Endesa Final', 20:30 - Real Madrid Baloncesto - UCAM Murcia CB
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='IndyCar', 21:15 - Grand Prix at Road America - Clasificación
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Canadá (Gilles-Villeneuve) - Clasificación
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Canadá (Gilles-Villeneuve) - Clasificación
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Canadá (Gilles-Villeneuve) - Clasificación
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. Canadá (Gilles-Villeneuve) - Libres 2
+#EXTINF:-1 group-title='Fórmula 1', 22:00 - G.P. Canadá (Gilles-Villeneuve) - Clasificación
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
