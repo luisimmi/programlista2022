@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 14-06-2024 10:00
+#EXTINF:-1, EVENTOS DEL 14-06-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Burdeos Open', 10:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
