@@ -1,36 +1,118 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 20-06-2024 02:00
+#EXTINF:-1, EVENTOS DEL 21-06-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 12:00 - H. Hurkacz - J. Duckworth
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 12:00 - H. Hurkacz - J. Duckworth
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Queen's 2ª Ronda', 13:00 - A. Tabilo - T. Paul
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 13:30 - J. Sinner - F. Marozsan
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 13:30 - J. Sinner - F. Marozsan
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Queen's 2ª Ronda', 14:30 - C. Alcaraz - J. Draper
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 15:00 - M. Berrettini - M. Giron
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 15:00 - M. Berrettini - M. Giron
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Campeonato de Francia', 15:45 - Contrarreloj Masculina - MAX
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Torneo de Queen's 2ª Ronda', 16:00 - G. Mpetshi Perricard - B. Harris
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 17:30 - JL. Struff - S. Tsitsipas
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 17:30 - JL. Struff - S. Tsitsipas
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 17:30 - JL. Struff - S. Tsitsipas
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Torneo de Halle 2ª Ronda', 17:30 - JL. Struff - S. Tsitsipas
+#EXTINF:-1 group-title='Italia Major', 09:00 - 1/4 de final femenino - Premier Padel Tour
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Torneo de Queen's 2ª Ronda', 17:30 - B. Nakashima - L. Musetti
+#EXTINF:-1 group-title='Italia Major', 11:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Italia Major', 11:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 12:00 - H. Hurkacz - M. Giron
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 12:00 - H. Hurkacz - M. Giron
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Italia Major', 13:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Italia Major', 13:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Torneo de Queen's', 13:00 - 1/4 de Final - ATP 500
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. España (Montmeló) - Libres 1
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 13:30 - A. Fils - A. Zverev
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 13:30 - A. Fils - A. Zverev
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:00 - G.P. España (Montmeló) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:00 - G.P. España (Montmeló) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:00 - G.P. España (Montmeló) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:00 - G.P. España (Montmeló) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 15:00 - J. Sinner - JL. Struff
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 15:00 - J. Sinner - JL. Struff
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='FIA Fórmula 2', 15:55 - G.P. España (Montmeló) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 2', 15:55 - G.P. España (Montmeló) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 2', 15:55 - G.P. España (Montmeló) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 2', 15:55 - G.P. España (Montmeló) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. España (Montmeló) - Libres 2
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Italia Major', 17:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Italia Major', 17:00 - 1/4 de final femenino - Premier Padel Tour
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 17:30 - Zh. Zhang - C. Eubanks
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Halle 1/4 de Final', 17:30 - Zh. Zhang - C. Eubanks
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='F1 Academy', 18:30 - G.P. España (Montmeló) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='F1 Academy', 18:30 - G.P. España (Montmeló) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='F1 Academy', 18:30 - G.P. España (Montmeló) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='F1 Academy', 18:30 - G.P. España (Montmeló) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Italia Major', 19:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Italia Major', 19:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Italia Major', 19:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Italia Major', 19:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Italia Major', 19:00 - 1/4 de final masculino - Premier Padel Tour
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Primera Federación Futsal Playoff Final', 19:00 - Jimbee Cartagena FS - ElPozo Murcia
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Amistoso Femenino', 21:00 - España - Turquía
+https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
