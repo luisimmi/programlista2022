@@ -1,104 +1,96 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 22-06-2024 02:00
+#EXTINF:-1, EVENTOS DEL 23-06-2024 10:00
 acestream://
-#EXTINF:-1 group-title='FIA Fórmula 3', 10:40 - G.P. España (Montmeló) - Carrera 1
+#EXTINF:-1 group-title='F1 Academy', 08:50 - G.P. España (Montmeló) - Carrera 2
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 3', 10:40 - G.P. España (Montmeló) - Carrera 1
+#EXTINF:-1 group-title='F1 Academy', 08:50 - G.P. España (Montmeló) - Carrera 2
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 3', 10:40 - G.P. España (Montmeló) - Carrera 1
+#EXTINF:-1 group-title='F1 Academy', 08:50 - G.P. España (Montmeló) - Carrera 2
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 3', 10:40 - G.P. España (Montmeló) - Carrera 1
+#EXTINF:-1 group-title='F1 Academy', 08:50 - G.P. España (Montmeló) - Carrera 2
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='WTA Torneo de Birmingham Semifinal 1 WTA 250', 12:00 - E. Cocciaretto - Y. Putintseva
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
+#EXTINF:-1 group-title='FIA Fórmula 3', 10:05 - G.P. España (Montmeló) - Carrera 2
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
+#EXTINF:-1 group-title='FIA Fórmula 3', 10:05 - G.P. España (Montmeló) - Carrera 2
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
+#EXTINF:-1 group-title='FIA Fórmula 3', 10:05 - G.P. España (Montmeló) - Carrera 2
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
+#EXTINF:-1 group-title='FIA Fórmula 3', 10:05 - G.P. España (Montmeló) - Carrera 2
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. España (Montmeló) - Libres 3
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Torneo de Halle Semifinal 1 ATP 500', 13:00 - H. Hurkacz - A. Zverev
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle Semifinal 1 ATP 500', 13:00 - H. Hurkacz - A. Zverev
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='WTA Torneo de Berlín Semifinal 1 WTA 500', 13:30 - V. Azarenka - TBD
+#EXTINF:-1 group-title='FIA Fórmula 2', 11:35 - G.P. España (Montmeló) - Carrera 2
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 2', 11:35 - G.P. España (Montmeló) - Carrera 2
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 2', 11:35 - G.P. España (Montmeló) - Carrera 2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 2', 11:35 - G.P. España (Montmeló) - Carrera 2
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Amistoso Femenino', 12:00 - España - China
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='WTA Torneo de Berlín Semifinal 2 WTA 500', 12:00 - C. Gauff - J. Pegula
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Berlín Semifinal 1 WTA 500', 13:30 - V. Azarenka - TBD
+#EXTINF:-1 group-title='WTA Torneo de Berlín Semifinal 2 WTA 500', 12:00 - C. Gauff - J. Pegula
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Torneo de Queen's Semifinal 1 ATP 500', 14:00 - J. Thompson - L. Musetti
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Torneo de Birmingham Semifinal 2 WTA 250', 14:00 - A. Tomljanovic - A. Potapova
+#EXTINF:-1 group-title='Campeonato de España', 12:30 - Carrera Masculina - San Lorenzo de El Escorial › San Lorenzo de El Escorial (201,6 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Torneo de Mallorca 1ª Ronda', 13:00 - N. Borges - A. Michelsen
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='WTA Torneo de Birmingham Final WTA 250', 13:00 - Y. Putintseva - A. Tomljanovic
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. España (Montmeló) - Carrera 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. España (Montmeló) - Carrera 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. España (Montmeló) - Carrera 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. España (Montmeló) - Carrera 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Torneo de Halle Semifinal 2 ATP 500', 15:00 - J. Sinner - Z. Zhang
+#EXTINF:-1 group-title='Torneo de Halle Final ATP 500', 14:00 - J. Sinner - H. Hurkacz
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Halle Semifinal 2 ATP 500', 15:00 - J. Sinner - Z. Zhang
+#EXTINF:-1 group-title='Torneo de Halle Final ATP 500', 14:00 - J. Sinner - H. Hurkacz
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='WTA Torneo de Berlín', 15:00 - Semifinal 2 - WTA 500
+#EXTINF:-1 group-title='WTA Torneo de Berlín Final WTA 500', 14:00 - TBD - A. Kalinskaya
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Berlín', 15:00 - Semifinal 2 - WTA 500
+#EXTINF:-1 group-title='WTA Torneo de Berlín Final WTA 500', 14:00 - TBD - A. Kalinskaya
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. España (Montmeló) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 15:00 - G.P. España (Montmeló) - Carrera
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Torneo de Queen's Semifinal 2 ATP 500', 16:00 - T. Paul - S. Korda
+#EXTINF:-1 group-title='Torneo de Queen's Final ATP 500', 15:00 - T. Paul - L. Musetti
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='F1 Academy', 18:00 - G.P. España (Montmeló) - Carrera 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='F1 Academy', 18:00 - G.P. España (Montmeló) - Carrera 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='F1 Academy', 18:00 - G.P. España (Montmeló) - Carrera 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='F1 Academy', 18:00 - G.P. España (Montmeló) - Carrera 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Italia Major', 18:30 - Semifinal Masculina - Premier Padel Tour
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Título Mundial Peso Medio', 20:00 - T. Denny - F. Cash
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Título Mundial Peso Medio', 20:00 - T. Denny - F. Cash
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Italia Major', 22:30 - Semifinal Masculina - Premier Padel Tour
+#EXTINF:-1 group-title='Campeonato de Francia', 16:00 - Carrera Masculina - Avranches › Saint-Martin-de-Landelles (240,6 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Campeonato de Italia', 16:45 - Carrera Masculina - Firenze › Sesto Fiorentino (228 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Primera Federación Futsal Playoff Final', 18:00 - Jimbee Cartagena FS - ElPozo Murcia
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion Play-Off Final', 18:30 - Espanyol - Real Oviedo
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Italia Major', 20:30 - Final Masculina - Premier Padel Tour
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Italia Major', 22:30 - Semifinal Masculina - Premier Padel Tour
+#EXTINF:-1 group-title='Italia Major', 20:30 - Final Masculina - Premier Padel Tour
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Italia Major', 22:30 - Semifinal Masculina - Premier Padel Tour
+#EXTINF:-1 group-title='Italia Major', 20:30 - Final Masculina - Premier Padel Tour
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Italia Major', 22:30 - Semifinal Masculina - Premier Padel Tour
+#EXTINF:-1 group-title='Italia Major', 20:30 - Final Masculina - Premier Padel Tour
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Italia Major', 22:30 - Semifinal Masculina - Premier Padel Tour
+#EXTINF:-1 group-title='Italia Major', 20:30 - Final Masculina - Premier Padel Tour
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='IndyCar', 23:15 - Grand Prix of Monterey (Laguna Seca) - Clasificación
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
