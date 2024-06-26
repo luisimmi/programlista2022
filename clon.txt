@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 25-06-2024 12:30
+#EXTINF:-1, EVENTOS DEL 25-06-2024 02:00
 acestream://
 #EXTINF:-1 group-title='Pontevedra Open', 09:00 - 1ª Ronda - A1 Padel
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
