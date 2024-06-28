@@ -1,34 +1,84 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 27-06-2024 12:30
+#EXTINF:-1, EVENTOS DEL 28-06-2024 12:30
 acestream://
-#EXTINF:-1 group-title='NBA', 02:00 - Draft 2024 - Round 1
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA', 02:00 - Draft 2024 - Round 1
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='NBA', 02:00 - Draft 2024 - Round 1
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='NBA', 02:00 - Draft 2024 - Round 1
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Torneo de Mallorca 1/4 de Final', 11:30 - J. Mensik - A. Tabilo
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 2ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Velada Peso Supermediano', 03:00 - D. Fulghum - R. Ellis
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 2ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Velada Peso Supermediano', 03:00 - D. Fulghum - R. Ellis
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 2ª Ronda - A1 Padel
+#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Holanda (Assen) - Libres 1
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Holanda (Assen) - Libres 1
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 2ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 2ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Torneo de Mallorca 1/4 de Final', 13:00 - G. Monfils - R. Bautista-Agut
+#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 1 WTA 500', 12:00 - L. Fernández - M. Keys
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 1 WTA 500', 12:00 - L. Fernández - M. Keys
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='WTA Torneo de Bad Homburg Semifinal 1 WTA 500', 13:30 - D. Shnaider - E. Navarro
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 2 WTA 500', 13:30 - J. Paolini - D. Kasatkina
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 2 WTA 500', 13:30 - J. Paolini - D. Kasatkina
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Holanda (Assen) - Libres 2
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Holanda (Assen) - Libres 2
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='WTA Torneo de Bad Homburg Semifinal 2 WTA 500', 15:00 - V. Tomova - D. Vekic
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Torneo de Mallorca Semifinal 1 ATP 250', 15:30 - A. Tabilo - G. Monfils
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Torneo de Mallorca 1/4 de Final', 15:30 - A. Michelsen - S. Ofner
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Tour de Francia', 18:30 - Presentación de Equipos - Edición 2024
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Francia', 18:30 - Presentación de Equipos - Edición 2024
-https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 2 ATP 250', 17:00 - T. Fritz - A. Vukic
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 2 ATP 250', 17:00 - T. Fritz - A. Vukic
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
