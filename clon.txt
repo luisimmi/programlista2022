@@ -1,84 +1,96 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 28-06-2024 12:30
+#EXTINF:-1, EVENTOS DEL 01-07-2024 09:55
 acestream://
-#EXTINF:-1 group-title='Velada Peso Supermediano', 03:00 - D. Fulghum - R. Ellis
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Velada Peso Supermediano', 03:00 - D. Fulghum - R. Ellis
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Holanda (Assen) - Libres 1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 10:45 - G.P. Holanda (Assen) - Libres 1
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Pontevedra Open', 12:00 - 1/4 de Final - A1 Padel
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 1 WTA 500', 12:00 - L. Fernández - M. Keys
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 1 WTA 500', 12:00 - L. Fernández - M. Keys
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Austria (Red Bull Ring) - Libres 1
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='WTA Torneo de Bad Homburg Semifinal 1 WTA 500', 13:30 - D. Shnaider - E. Navarro
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 2 WTA 500', 13:30 - J. Paolini - D. Kasatkina
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Eastbourne Semifinal 2 WTA 500', 13:30 - J. Paolini - D. Kasatkina
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 3', 14:00 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 2', 14:55 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Holanda (Assen) - Libres 2
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Holanda (Assen) - Libres 2
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
+#EXTINF:-1 group-title='Tour de Francia', 11:00 - Etapa 3 - Piacenza › Torino (229 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 12:00 - N. Jarry - D. Shapovalov
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 12:00 - T. Townsend - A. Pavlyuchenkova
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 12:00 - G. Dimitrov - D. Lajovic
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 1 ATP 250', 15:00 - M. Purcell - B. Harris
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='WTA Torneo de Bad Homburg Semifinal 2 WTA 500', 15:00 - V. Tomova - D. Vekic
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Torneo de Mallorca Semifinal 1 ATP 250', 15:30 - A. Tabilo - G. Monfils
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 12:00 - G. Dimitrov - D. Lajovic
+M.
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 12:00 - A. Bolt - C. Ruud
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 12:00 - JL. Struff - F. Marozsan
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Tour de Francia', 12:50 - Etapa 3 - Piacenza › Torino (229 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Tour de Francia', 12:50 - Etapa 3 - Piacenza › Torino (229 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 16:30 - G.P. Austria (Red Bull Ring) - Clasificación Sprint
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 2 ATP 250', 17:00 - T. Fritz - A. Vukic
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 14:00 - A. Kovacevic - D. Medvedev
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Eastbourne Semifinal 2 ATP 250', 17:00 - T. Fritz - A. Vukic
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 14:00 - A. Kovacevic - D. Medvedev
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 14:00 - D. Kasatkina - S. Zhang
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 14:00 - S. Báez - B. Nakashima
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 14:00 - S. Wawrinka - C. Broom
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 14:00 - S. Wawrinka - C. Broom
+M.
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 14:00 - N. Hibino - E. Mertens
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 14:30 - C. Alcaraz - M. Lajal
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 15:30 - K. Pliskova - D. Shnaider
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 15:30 - M. Trevisan - M. Keys
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 15:30 - E. Lys - C. Burel
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 16:00 - E. Bektas - A. Sabalenka
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 16:00 - E. Bektas - A. Sabalenka
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 16:00 - J. Mensik - A. Bublik
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 16:00 - N. Osaka - D. Parry
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 16:00 - N. Osaka - D. Parry
+M.
+#EXTINF:-1 group-title='Tour de Francia', 16:05 - Etapa 3 - Piacenza › Torino (229 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 17:00 - P. Carreño - T. Griekspoor
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 17:00 - T. Paul - P. Martínez
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 17:00 - R. Bautista-Agut - M. Marterer
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 17:30 - J. Sinner - Y. Hanfmann
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 17:30 - J. Sinner - Y. Hanfmann
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 17:30 - V. Azarenka - S. Stephens
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 17:30 - V. Azarenka - S. Stephens
+M.
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
