@@ -1,96 +1,30 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 01-07-2024 10:15
+#EXTINF:-1, EVENTOS DEL 17-07-2024 08:50
 acestream://
-#EXTINF:-1 group-title='Tour de Francia', 11:00 - Etapa 3 - Piacenza › Torino (229 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 12:00 - N. Jarry - D. Shapovalov
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 12:00 - T. Townsend - A. Pavlyuchenkova
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 12:00 - G. Dimitrov - D. Lajovic
+#EXTINF:-1 group-title='Torneo de Hamburgo', 12:00 - L. Darderi - A. Shevchenko
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Hamburgo', 12:00 - L. Darderi - A. Shevchenko
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 12:00 - G. Dimitrov - D. Lajovic
-M.
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 12:00 - A. Bolt - C. Ruud
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 12:00 - JL. Struff - F. Marozsan
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Tour de Francia', 12:50 - Etapa 3 - Piacenza › Torino (229 km)
+#EXTINF:-1 group-title='Tour de Francia', 12:15 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Francia', 12:50 - Etapa 3 - Piacenza › Torino (229 km)
+#EXTINF:-1 group-title='Tour de Francia', 13:50 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Tour de Francia', 13:50 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 14:00 - A. Kovacevic - D. Medvedev
+#EXTINF:-1 group-title='Torneo de Hamburgo', 14:00 - A. Zverev - J. De Jong
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 14:00 - A. Kovacevic - D. Medvedev
+#EXTINF:-1 group-title='Torneo de Hamburgo', 14:00 - A. Zverev - J. De Jong
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 14:00 - D. Kasatkina - S. Zhang
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 14:00 - S. Báez - B. Nakashima
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 14:00 - S. Wawrinka - C. Broom
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 14:00 - S. Wawrinka - C. Broom
-M.
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
+#EXTINF:-1 group-title='Torneo de Hamburgo', 15:30 - F. Cerúndolo - M. Marterer
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
+#EXTINF:-1 group-title='Torneo de Hamburgo', 15:30 - F. Cerúndolo - M. Marterer
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 14:00 - J. Paolini - S. Sorribes
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 14:00 - N. Hibino - E. Mertens
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 14:30 - C. Alcaraz - M. Lajal
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 15:30 - K. Pliskova - D. Shnaider
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 15:30 - M. Trevisan - M. Keys
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 15:30 - E. Lys - C. Burel
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 16:00 - E. Bektas - A. Sabalenka
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 16:00 - E. Bektas - A. Sabalenka
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 16:00 - J. Mensik - A. Bublik
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 16:00 - N. Osaka - D. Parry
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 16:00 - N. Osaka - D. Parry
-M.
-#EXTINF:-1 group-title='Tour de Francia', 16:05 - Etapa 3 - Piacenza › Torino (229 km)
+#EXTINF:-1 group-title='Tour de Francia', 16:05 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
+#EXTINF:-1 group-title='Torneo de Hamburgo', 18:30 - D. Lajovic - S. Báez
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
+#EXTINF:-1 group-title='Torneo de Hamburgo', 18:30 - D. Lajovic - S. Báez
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 16:30 - E. Alexandrova - E. Raducanu
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 14)', 17:00 - P. Carreño - T. Griekspoor
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 3)', 17:00 - T. Paul - P. Martínez
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 8)', 17:00 - R. Bautista-Agut - M. Marterer
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 17:30 - J. Sinner - Y. Hanfmann
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 1)', 17:30 - J. Sinner - Y. Hanfmann
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 17:30 - V. Azarenka - S. Stephens
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 2)', 17:30 - V. Azarenka - S. Stephens
-M.
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista Central)', 18:00 - C. Dolehide - C. Gauff
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Wimbledon 1ª Ronda (Pista 17)', 18:30 - P. Badosa - K. Muchova
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
