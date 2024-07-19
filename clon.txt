@@ -1,30 +1,98 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 17-07-2024 08:50
+#EXTINF:-1, EVENTOS DEL 19-07-2024 11:27
 acestream://
-#EXTINF:-1 group-title='Torneo de Hamburgo', 12:00 - L. Darderi - A. Shevchenko
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 12:00 - L. Darderi - S. Báez
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Hamburgo', 12:00 - L. Darderi - A. Shevchenko
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 12:00 - L. Darderi - S. Báez
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Tour de Francia', 12:15 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
+#EXTINF:-1 group-title='Tour de Francia', 12:00 - Etapa 19 - Embrun › Isola 2000 (145 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Francia', 13:50 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
+#EXTINF:-1 group-title='Torneo de Bastad 1/4 de Final', 13:00 - R. Nadal - M. Navone
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. Hungría (Hungaroring) - Libres 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. Hungría (Hungaroring) - Libres 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. Hungría (Hungaroring) - Libres 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 13:30 - G.P. Hungría (Hungaroring) - Libres 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 13:30 - A. Fils - H. Rune
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 13:30 - A. Fils - H. Rune
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Tour de Francia', 13:35 - Etapa 19 - Embrun › Isola 2000 (145 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Francia', 13:50 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
+#EXTINF:-1 group-title='Tour de Francia', 13:35 - Etapa 19 - Embrun › Isola 2000 (145 km)
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Torneo de Hamburgo', 14:00 - A. Zverev - J. De Jong
+#EXTINF:-1 group-title='Supersport 300', 14:10 - G.P. República Checa (Autodrom Most) - Superpole
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Supersport 300', 14:10 - G.P. República Checa (Autodrom Most) - Superpole
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Torneo de Bastad 1/4 de Final', 14:30 - TA. Tirante - R. Carballés
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Torneo de Gstaad 1/4 de Final', 15:00 - S. Tsitsipas - F. Fognini
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 15:00 - F. Cerúndolo - P. Martínez
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Hamburgo', 14:00 - A. Zverev - J. De Jong
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 15:00 - F. Cerúndolo - P. Martínez
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Hamburgo', 15:30 - F. Cerúndolo - M. Marterer
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Hamburgo', 15:30 - F. Cerúndolo - M. Marterer
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Tour de Francia', 16:05 - Etapa 17 - Saint-Paul-Trois-Châteaux › Superdévoluy (178 km)
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 15:00 - F. Cerúndolo - P. Martínez
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 15:00 - F. Cerúndolo - P. Martínez
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:05 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:05 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:05 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 3', 15:05 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='FIA Fórmula 2', 16:00 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 2', 16:00 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 2', 16:00 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 2', 16:00 - G.P. Hungría (Hungaroring) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Supersport', 16:00 - G.P. República Checa (Autodrom Most) - Superpole
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Supersport', 16:00 - G.P. República Checa (Autodrom Most) - Superpole
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Tour de Francia', 16:05 - Etapa 19 - Embrun › Isola 2000 (145 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Torneo de Hamburgo', 18:30 - D. Lajovic - S. Báez
+#EXTINF:-1 group-title='ITF Torneo de Vitoria-Gasteiz 1/4 de Final', 16:30 - V. Jiménez - L. Fruhvirtova
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Hamburgo', 18:30 - D. Lajovic - S. Báez
+#EXTINF:-1 group-title='ITF Torneo de Vitoria-Gasteiz 1/4 de Final', 16:30 - V. Jiménez - L. Fruhvirtova
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. Hungría (Hungaroring) - Libres 2
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. Hungría (Hungaroring) - Libres 2
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. Hungría (Hungaroring) - Libres 2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 17:00 - G.P. Hungría (Hungaroring) - Libres 2
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Torneo de Gstaad 1/4 de Final', 17:30 - F. Auger-Aliassime - M. Berrettini
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='ITF Torneo de Vitoria-Gasteiz 1/4 de Final', 18:00 - J. Mikulskyte - J. Ponchet
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='ITF Torneo de Vitoria-Gasteiz 1/4 de Final', 18:00 - J. Mikulskyte - J. Ponchet
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 18:30 - A. Zverev - Zh. Zhang
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Hamburgo 1/4 de Final', 18:30 - A. Zverev - Zh. Zhang
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Pozoblanco 1/4 de Final', 19:30 - A. Escoffier - A. Barroso Campos
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='Amistoso', 20:00 - España - Argentina
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Torneo Tenis Playa Luanco Final', 21:15 - P. Cachin - D. Schwartzman
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Torneo de Pozoblanco 1/4 de Final', 21:30 - R. Bertrand - L. Lokoli
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
