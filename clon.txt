@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 22-07-2024 02:00
+#EXTINF:-1, EVENTOS DEL 23-07-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Amistoso Femenino', 20:00 - España - Australia
+#EXTINF:-1 group-title='Amistoso', 20:30 - España - Puerto Rico
 https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
