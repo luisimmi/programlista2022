@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 24-07-2024 10:00
+#EXTINF:-1, EVENTOS DEL 24-07-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Amistoso Femenino', 20:00 - España - Canadá
 https://tdtchannels.com/television/Teledeporte
