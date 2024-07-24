@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 23-07-2024 12:30
+#EXTINF:-1, EVENTOS DEL 23-07-2024 02:00
 acestream://
 #EXTINF:-1 group-title='Amistoso', 20:30 - España - Puerto Rico
 https://tdtchannels.com/television/Teledeporte
