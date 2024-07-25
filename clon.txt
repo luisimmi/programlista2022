@@ -1,8 +1,30 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 24-07-2024 12:30
+#EXTINF:-1, EVENTOS DEL 25-07-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Amistoso Femenino', 20:00 - España - Canadá
-https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='WTA Torneo de Iasi Semifinal 1', 11:00 - M. Andreeva - O. Danilovic
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='WTA Torneo de Praga Semifinal 1', 11:00 - M. Frech - L. Samson
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Torneo de Praga Semifinal 1', 11:00 - M. Frech - L. Samson
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Torneo de Praga Semifinal 2', 12:30 - L. Noskova - M. Linette
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Torneo de Praga Semifinal 2', 12:30 - L. Noskova - M. Linette
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Torneo de Iasi Semifinal 2', 13:00 - TBD - C. Paquet
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Torneo de Kitzbühel 1/4 de Final', 14:00 - P. Martínez - F. Díaz Acosta
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Kitzbühel 1/4 de Final', 14:00 - P. Martínez - F. Díaz Acosta
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Kitzbühel 1/4 de Final', 15:30 - S. Báez - H. Gaston
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Kitzbühel 1/4 de Final', 15:30 - S. Báez - H. Gaston
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Umag 1/4 de Final', 16:30 - F. Cerúndolo - L. Sonego
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Torneo de Umag 1/4 de Final', 18:00 - A. Rublev - F. Marozsan
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
