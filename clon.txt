@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 25-07-2024 10:00
+#EXTINF:-1, EVENTOS DEL 25-07-2024 12:30
 acestream://
 #EXTINF:-1 group-title='WTA Torneo de Iasi Semifinal 1', 11:00 - M. Andreeva - O. Danilovic
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
