@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 26-07-2024 10:00
+#EXTINF:-1, EVENTOS DEL 26-07-2024 12:30
 acestream://
 #EXTINF:-1 group-title='WTA Torneo de Praga Final WTA 250', 11:30 - M. Linette - M. Frech
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
