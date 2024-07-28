@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 27-07-2024 12:30
+#EXTINF:-1, EVENTOS DEL 27-07-2024 02:00
 acestream://
 #EXTINF:-1 group-title='Velada Peso Pluma', 03:00 - JP. Rivera - J. Goodson
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
