@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 29-07-2024 10:00
+#EXTINF:-1, EVENTOS DEL 29-07-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Juegos Olímpicos 2ª Ronda', 12:00 - I. Swiatek - D. Parry
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
