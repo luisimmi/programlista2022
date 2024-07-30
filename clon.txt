@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 29-07-2024 02:00
+#EXTINF:-1, EVENTOS DEL 30-07-2024 10:00
 acestream://
-#EXTINF:-1 group-title='Juegos Olímpicos 2ª Ronda', 12:00 - I. Swiatek - D. Parry
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Juegos Olímpicos 2ª Ronda', 13:30 - N. Djokovic - R. Nadal
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='JJOO Masculinos Fase de grupos', 11:00 - España - Grecia
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title='La Rioja Open', 14:00 - 1ª Ronda - A1 Padel
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title='La Rioja Open', 14:00 - 1ª Ronda - A1 Padel
@@ -15,24 +13,24 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title='La Rioja Open', 14:00 - 1ª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Juegos Olímpicos', 14:10 - Cross Country Masculino - MAX
+#EXTINF:-1 group-title='Juegos Olímpicos 2ª Ronda Dobles', 15:15 - C. Alcaraz | R. Nadal - T. Griekspoor | W. Koolhof
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 17:00 - F. Coria - J. Wolf
+#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 17:00 - J. Wolf - M. Kecmanovic
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 17:00 - F. Coria - J. Wolf
+#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 17:00 - J. Wolf - M. Kecmanovic
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 18:30 - E. Ruusuvuori - B. Coric
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 18:30 - E. Ruusuvuori - B. Coric
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Juegos Olímpicos 2ª Ronda', 19:00 - T. Griekspoor - C. Alcaraz
+#EXTINF:-1 group-title='JJOO 3x3 Femenino Fase de grupos', 18:00 - Australia - Canadá
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 21:00 - D. Shapovalov - R. Bautista-Agut
+#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 18:30 - M. Purcell - T. Kokkinakis
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 21:00 - D. Shapovalov - R. Bautista-Agut
+#EXTINF:-1 group-title='Torneo de Washington 1ª Ronda', 18:30 - M. Purcell - T. Kokkinakis
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='JJOO Masculinos', 21:50 - Sesión Vespertina - MAX
-https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='JJOO 3x3 Masculino Fase de grupos', 18:35 - Lituania - Letonia
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='JJOO 3x3 Femenino Fase de grupos', 21:00 - Azerbaiyán - España
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title='JJOO 3x3 Masculino Fase de grupos', 22:35 - Estados Unidos - Serbia
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
