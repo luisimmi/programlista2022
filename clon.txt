@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 30-07-2024 12:30
+#EXTINF:-1, EVENTOS DEL 30-07-2024 02:00
 acestream://
 #EXTINF:-1 group-title='JJOO Masculinos Fase de grupos', 11:00 - España - Grecia
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
