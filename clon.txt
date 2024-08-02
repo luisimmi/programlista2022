@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 01-08-2024 12:30
+#EXTINF:-1, EVENTOS DEL 01-08-2024 02:00
 acestream://
 #EXTINF:-1 group-title='JJOO 3x3 Femenino Fase de grupos', 09:00 - China - Australia
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
