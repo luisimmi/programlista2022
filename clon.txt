@@ -1,102 +1,110 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 17-08-2024 08:19
+#EXTINF:-1, EVENTOS DEL 18-08-2024 12:33
 acestream://
-#EXTINF:-1 group-title='Masters Cincinnati 3ª Ronda', 01:00 - F. Tiafoe - J. Lehecka
+#EXTINF:-1 group-title='IndyCar', 00:15 - Grand Prix of St. Louis - Carrera
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Cincinnati 3ª Ronda', 01:00 - F. Tiafoe - J. Lehecka
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Masters Cincinnati 3ª Ronda', 01:30 - F. Auger-Aliassime - J. Draper
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Cincinnati 3ª Ronda', 01:30 - F. Auger-Aliassime - J. Draper
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='MotoE', 12:15 - G.P. Austria (Red Bull Ring) - Carrera 1
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='DTM', 13:30 - Nurburgring - Carrera 1
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 13:30 - Ipswich Town - Liverpool
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 13:30 - Ipswich Town - Liverpool
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Tour de Francia Femenino', 13:30 - Etapa 6 - Champagnole › Le Grand-Bornand (167 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Francia Femenino', 13:30 - Etapa 6 - Champagnole › Le Grand-Bornand (167 km)
-EuroSport
-#EXTINF:-1 group-title='Tour de Francia Femenino', 13:30 - Etapa 6 - Champagnole › Le Grand-Bornand (167 km)
-Teledeporte
-#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Austria (Red Bull Ring) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Austria (Red Bull Ring) - Sprint
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Austria (Red Bull Ring) - Sprint
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Premier League', 16:00 - Arsenal - Wolverhampton
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 16:00 - Arsenal - Wolverhampton
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Premier League', 16:00 - Everton - Brighton
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 16:00 - Newcastle - Southampton
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Eibar - CD Castellón
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Eibar - CD Castellón
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Racing Ferrol - Málaga
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Racing Ferrol - Málaga
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Vuelta a España', 17:00 - Etapa 1 - Lisboa › Oeiras (12 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Vuelta a España', 17:00 - Etapa 1 - Lisboa › Oeiras (12 km)
-EuroSport
-#EXTINF:-1 group-title='WTA Cincinnati', 17:00 - 1/4 de Final - WTA 1000
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Marbella Master', 17:30 - Semifinales - A1 Padel
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Marbella Master', 17:30 - Semifinales - A1 Padel
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Marbella Master', 17:30 - Semifinales - A1 Padel
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Marbella Master', 17:30 - Semifinales - A1 Padel
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Premier League', 18:30 - West Ham - Aston Villa
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 18:30 - West Ham - Aston Villa
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Osasuna - Leganés
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Osasuna - Leganés
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Osasuna - Leganés
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Deportivo - Real Oviedo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Deportivo - Real Oviedo
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Deportivo - Real Oviedo
-acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
-#EXTINF:-1 group-title='Masters Cincinnati', 19:00 - 1/4 de Final - ATP Masters 1000
+#EXTINF:-1 group-title='Masters Cincinnati 1/4 de Final', 01:00 - H. Hurkacz - F. Tiafoe
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Europeo Sub-16 Final', 20:00 - España - Francia
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - FC Barcelona
+#EXTINF:-1 group-title='WTA Cincinnati 1/4 de Final', 01:00 - A. Pavlyuchenkova - P. Badosa
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='Masters Cincinnati 1/4 de Final', 02:30 - J. Draper - H. Rune
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Moto3', 11:00 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto3', 11:00 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Moto2', 12:15 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto2', 12:15 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='DTM', 13:30 - Nurburgring - Carrera 2
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='MotoGP', 14:00 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 14:00 - G.P. Austria (Red Bull Ring) - Carrera
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 2 - Cascais › Ourém (191 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 2 - Cascais › Ourém (191 km)
+EuroSport
+#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 2 - Cascais › Ourém (191 km)
+Teledeporte
+#EXTINF:-1 group-title='Premier League', 15:00 - Brentford - Crystal Palace
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 15:00 - Brentford - Crystal Palace
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Tour de Francia Femenino', 16:05 - Etapa 7 - Le Grand-Bornand › Alpe d'Huez (150 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Tour de Francia Femenino', 16:05 - Etapa 7 - Le Grand-Bornand › Alpe d'Huez (150 km)
+EuroSport
+#EXTINF:-1 group-title='Tour de Francia Femenino', 16:05 - Etapa 7 - Le Grand-Bornand › Alpe d'Huez (150 km)
+Teledeporte
+#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 2 - Cascais › Ourém (191 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 2 - Cascais › Ourém (191 km)
+EuroSport
+#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Racing Santander - UD Almería
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Racing Santander - UD Almería
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Sporting Gijón - Levante
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 17:00 - Sporting Gijón - Levante
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='WTA Cincinnati', 17:00 - Semifinal 1 - WTA 1000
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Premier League', 17:30 - Chelsea - Manchester City
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Real Sociedad - Rayo Vallecano
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Real Sociedad - Rayo Vallecano
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Real Sociedad - Rayo Vallecano
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Real Sociedad - Rayo Vallecano
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:30 - Burgos CF - FC Cartagena
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:30 - Burgos CF - FC Cartagena
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:30 - Elche - Huesca
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:30 - Elche - Huesca
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Marbella Master', 19:30 - Final - A1 Padel
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='Marbella Master', 19:30 - Final - A1 Padel
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='Marbella Master', 19:30 - Final - A1 Padel
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='WTA Cincinnati', 20:00 - Semifinal 2 - WTA 1000
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Mallorca - Real Madrid
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Mallorca - Real Madrid
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Mallorca - Real Madrid
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Mallorca - Real Madrid
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Mallorca - Real Madrid
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title='Masters Cincinnati', 23:00 - Semifinal 1 - ATP Masters 1000
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
