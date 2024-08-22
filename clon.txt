@@ -1,34 +1,16 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 20-08-2024 09:43
+#EXTINF:-1, EVENTOS DEL 22-08-2024 13:54
 acestream://
-#EXTINF:-1 group-title='Masters Cincinnati Final ATP Masters 1000', 00:00 - J. Sinner - F. Tiafoe
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 4 - Plasencia › Pico Villuercas (167 km)
+#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 6 - Jerez de la Frontera › Yunquera (181 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 4 - Plasencia › Pico Villuercas (167 km)
+#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 6 - Jerez de la Frontera › Yunquera (181 km)
 EuroSport
-#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 4 - Plasencia › Pico Villuercas (167 km)
-Teledeporte
-#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 4 - Plasencia › Pico Villuercas (167 km)
+#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 6 - Jerez de la Frontera › Yunquera (181 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 4 - Plasencia › Pico Villuercas (167 km)
+#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 6 - Jerez de la Frontera › Yunquera (181 km)
 EuroSport
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Bodø/Glimt - Crvena Zvezda
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Bodø/Glimt - Crvena Zvezda
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - GNK Dinamo Zagreb - Qarabag FK
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - GNK Dinamo Zagreb - Qarabag FK
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Lille - Slavia Praha
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Lille - Slavia Praha
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Lille - Slavia Praha
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Play-Off', 21:00 - Lille - Slavia Praha
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='FIBA Europe Cup 3x3 Femenino Fase de grupos', 21:20 - España - Austria
+https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
