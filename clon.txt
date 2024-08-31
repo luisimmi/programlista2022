@@ -1,64 +1,140 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 29-08-2024 18:41
+#EXTINF:-1, EVENTOS DEL 31-08-2024 10:52
 acestream://
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Grandstand)', 00:05 - C. Ruud - G. Monfils
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 01:00 - T. Maria - C. Gauff
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 01:00 - T. Maria - C. Gauff
+#EXTINF:-1 group-title='US Open 3ª Ronda (Pista Arthur Ashe)', 01:00 - A. Popyrin - N. Djokovic
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Louis Armstrong)', 01:00 - V. Azarenka - C. Burel
+#EXTINF:-1 group-title='US Open 3ª Ronda (Pista Louis Armstrong)', 01:00 - M. Keys - E. Mertens
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista 17)', 01:05 - E. Svitolina - A. Kalinina
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista 5)', 01:20 - P. Stearns - D. Kasatkina
-acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 02:30 - L. Djere - N. Djokovic
+#EXTINF:-1 group-title='US Open 3ª Ronda (Pista Louis Armstrong)', 02:30 - TM. Etcheverry - A. Zverev
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 02:30 - L. Djere - N. Djokovic
+#EXTINF:-1 group-title='US Open 3ª Ronda (Pista Arthur Ashe)', 03:00 - E. Alexandrova - A. Sabalenka
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='US Open 3ª Ronda (Pista Arthur Ashe)', 03:00 - E. Alexandrova - A. Sabalenka
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 02:30 - L. Djere - N. Djokovic
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 02:30 - L. Djere - N. Djokovic
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Louis Armstrong)', 02:30 - M. Berrettini - T. Fritz
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 12 - Ourense Termal › Estación de Montaña de Manzaneda (137 km)
+#EXTINF:-1 group-title='FIA Fórmula 3', 09:30 - G.P. Italia (Monza) - Carrera 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 3', 09:30 - G.P. Italia (Monza) - Carrera 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 3', 09:30 - G.P. Italia (Monza) - Carrera 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 3', 09:30 - G.P. Italia (Monza) - Carrera 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Aragón (Motorland) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 10:50 - G.P. Aragón (Motorland) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Italia (Monza) - Libres 3
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Italia (Monza) - Libres 3
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Italia (Monza) - Libres 3
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 12:30 - G.P. Italia (Monza) - Libres 3
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Aragón (Motorland) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto3', 12:50 - G.P. Aragón (Motorland) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Premier League', 13:30 - Arsenal - Brighton
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 13:30 - Arsenal - Brighton
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Vuelta a España', 13:30 - Etapa 14 - Villafranco del Bierzo › Villablino (199 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Vuelta a España', 14:30 - Etapa 12 - Ourense Termal › Estación de Montaña de Manzaneda (137 km)
+#EXTINF:-1 group-title='Vuelta a España', 13:30 - Etapa 14 - Villafranco del Bierzo › Villablino (199 km)
 EuroSport
-#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 12 - Ourense Termal › Estación de Montaña de Manzaneda (137 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Vuelta a España', 16:05 - Etapa 12 - Ourense Termal › Estación de Montaña de Manzaneda (137 km)
-EuroSport
-#EXTINF:-1 group-title='Champions League', 18:00 - Sorteo de Fase Liga - UEFA TV
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League', 18:00 - Sorteo de Fase Liga - UEFA TV
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League', 18:00 - Sorteo de Fase Liga - UEFA TV
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League', 18:00 - Sorteo de Fase Liga - UEFA TV
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 18:00 - J. Sinner - A. Michelsen
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Girona - Osasuna
+#EXTINF:-1 group-title='Vuelta a España', 13:30 - Etapa 14 - Villafranco del Bierzo › Villablino (199 km)
+Teledeporte
+#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Aragón (Motorland) - Clasificación
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto2', 13:45 - G.P. Aragón (Motorland) - Clasificación
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. Italia (Monza) - Carrera 1
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. Italia (Monza) - Carrera 1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. Italia (Monza) - Carrera 1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='FIA Fórmula 2', 14:15 - G.P. Italia (Monza) - Carrera 1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Aragón (Motorland) - Sprint
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 15:00 - G.P. Aragón (Motorland) - Sprint
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. Italia (Monza) - Clasificación
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. Italia (Monza) - Clasificación
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. Italia (Monza) - Clasificación
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title='Fórmula 1', 16:00 - G.P. Italia (Monza) - Clasificación
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='Premier League', 16:00 - Everton - Bournemouth
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Premier League', 16:00 - Leicester City - Aston Villa
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League', 16:00 - Leicester City - Aston Villa
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Premier League', 16:00 - Nottingham Forest - Wolverhampton
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='La Liga EA Sports', 17:00 - FC Barcelona - Real Valladolid
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Girona - Osasuna
+#EXTINF:-1 group-title='La Liga EA Sports', 17:00 - FC Barcelona - Real Valladolid
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Girona - Osasuna
+#EXTINF:-1 group-title='La Liga EA Sports', 17:00 - FC Barcelona - Real Valladolid
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Girona - Osasuna
+#EXTINF:-1 group-title='La Liga EA Sports', 17:00 - FC Barcelona - Real Valladolid
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='US Open 2ª Ronda (Pista Arthur Ashe)', 20:00 - I. Swiatek - E. Shibahara
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - UD Las Palmas - Real Madrid
+#EXTINF:-1 group-title='Rafa Nadal Open Semifinal 1', 17:00 - M. Gigante - J. Kym
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='US Open', 17:00 - 3ª Ronda - Grand Slam
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Premier League', 18:30 - West Ham - Manchester City
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League', 18:30 - West Ham - Manchester City
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Rafa Nadal Open Semifinal 2', 18:30 - K. Sultanov - D. Ajdukovic
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Athletic Club - At. Madrid
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Athletic Club - At. Madrid
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 19:00 - Athletic Club - At. Madrid
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Cádiz CF - CD Tenerife
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Cádiz CF - CD Tenerife
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='La Liga EA Sports', 19:15 - Espanyol - Rayo Vallecano
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - UD Las Palmas - Real Madrid
+#EXTINF:-1 group-title='La Liga EA Sports', 19:15 - Espanyol - Rayo Vallecano
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - UD Las Palmas - Real Madrid
+#EXTINF:-1 group-title='La Liga EA Sports', 19:15 - Espanyol - Rayo Vallecano
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - UD Las Palmas - Real Madrid
+#EXTINF:-1 group-title='La Liga EA Sports', 19:15 - Espanyol - Rayo Vallecano
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Leganés - Mallorca
+acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Leganés - Mallorca
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - Villarreal
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - Villarreal
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - Villarreal
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports', 21:30 - Valencia CF - Villarreal
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:30 - Málaga - Albacete
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:30 - Málaga - Albacete
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:30 - UD Almería - Sporting Gijón
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:30 - UD Almería - Sporting Gijón
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='IndyCar', 23:45 - Grand Prix of Milwaukee - Carrera 1
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
