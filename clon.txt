@@ -1,14 +1,48 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 09-09-2024 02:00
+#EXTINF:-1, EVENTOS DEL 10-09-2024 10:00
 acestream://
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Albacete - Eibar
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Albacete - Eibar
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - CD Castellón - Cádiz CF
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - CD Castellón - Cádiz CF
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 08:00 - Alemania - Eslovaquia
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 10:00 - Alemania - Eslovaquia
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 12:00 - Alemania - Eslovaquia
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 14:00 - Canadá - Argentina
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 15:00 - Holanda - Bélgica
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 16:00 - Australia - Francia
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 16:00 - Australia - Francia
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 16:00 - Australia - Francia
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 16:00 - Australia - Francia
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 16:00 - Canadá - Argentina
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 17:00 - Holanda - Bélgica
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 18:00 - Australia - Francia
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 18:00 - Australia - Francia
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 18:00 - Australia - Francia
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 18:00 - Australia - Francia
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 18:00 - Canadá - Argentina
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 19:00 - Holanda - Bélgica
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 20:00 - Australia - Francia
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 20:00 - Australia - Francia
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 20:00 - Australia - Francia
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 20:00 - Australia - Francia
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
