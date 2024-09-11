@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 11-09-2024 10:00
+#EXTINF:-1, EVENTOS DEL 11-09-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 05:00 - Estados Unidos - Chile
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
