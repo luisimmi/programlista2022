@@ -1,156 +1,24 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 15-09-2024 02:00
+#EXTINF:-1, EVENTOS DEL 16-09-2024 10:00
 acestream://
-#EXTINF:-1 group-title='WTA Torneo de Guadalajara Semifinal 1', 01:00 - MC. Osorio - O. Gadecki
+#EXTINF:-1 group-title='WTA Torneo de Guadalajara Final', 01:30 - M. Frech - O. Gadecki
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Guadalajara Semifinal 1', 01:00 - MC. Osorio - O. Gadecki
+#EXTINF:-1 group-title='WTA Torneo de Guadalajara Final', 01:30 - M. Frech - O. Gadecki
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Torneo de Guadalajara Semifinal 2', 03:00 - M. Frech - C. García
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Guadalajara Semifinal 2', 03:00 - M. Frech - C. García
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='6 Horas de Fuji', 04:00 - Campeonato Mundial de Resistencia FIA - Carrera
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='6 Horas de Fuji', 04:00 - Campeonato Mundial de Resistencia FIA - Carrera
-EuroSport
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 05:00 - Eslovaquia - Chile
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 07:00 - Eslovaquia - Chile
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 09:00 - Eslovaquia - Chile
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='FIA Fórmula 2', 09:35 - G.P. Azerbaiyán (Bakú) - Carrera 2
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='FIA Fórmula 2', 09:35 - G.P. Azerbaiyán (Bakú) - Carrera 2
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='FIA Fórmula 2', 09:35 - G.P. Azerbaiyán (Bakú) - Carrera 2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='FIA Fórmula 2', 09:35 - G.P. Azerbaiyán (Bakú) - Carrera 2
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 11:00 - Australia - España
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Campeonato de Europa', 12:20 - Carrera Masculina Ruta - Heusden-Zolder › Hasselt (220 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Campeonato de Europa', 12:20 - Carrera Masculina Ruta - Heusden-Zolder › Hasselt (220 km)
-EuroSport
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 13:00 - Australia - España
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Fórmula 1', 13:00 - G.P. Azerbaiyán (Bakú) - Carrera
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 13:00 - G.P. Azerbaiyán (Bakú) - Carrera
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 13:00 - G.P. Azerbaiyán (Bakú) - Carrera
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 13:00 - G.P. Azerbaiyán (Bakú) - Carrera
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 14:00 - Canadá - Gran Bretaña
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Real Valladolid
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Real Valladolid
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Real Valladolid
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Real Valladolid
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Mirandés - Albacete
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - UD Almería - CD Castellón
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Mirandés - Albacete
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - UD Almería - CD Castellón
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='FIFA Copa Mundial Futsal Fase de grupos', 14:30 - España - Kazajistán
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 1', 15:00 - Italia - Holanda
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 15:00 - Australia - España
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Premier League', 15:00 - Tottenham - Arsenal
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='WTA Torneo de Monastir', 15:00 - Final - WTA 250
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 16:00 - Canadá - Gran Bretaña
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Girona - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - Osasuna
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Girona - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - Osasuna
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Girona - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - Osasuna
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Girona - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - Osasuna
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Real Oviedo - FC Cartagena
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Real Oviedo - FC Cartagena
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 2', 17:00 - Italia - Holanda
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Rotterdam Open', 17:00 - Final Masculina - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Rotterdam Open', 17:00 - Final Masculina - Premier Padel Tour
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Rotterdam Open', 17:00 - Final Masculina - Premier Padel Tour
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Premier League', 17:30 - Wolverhampton - Newcastle
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 17:30 - Wolverhampton - Newcastle
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 18:00 - Canadá - Gran Bretaña
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='GP Montreal', 18:05 - UCI World Tour - Montreal › Montreal (209,1 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='GP Montreal', 18:05 - UCI World Tour - Montreal › Montreal (209,1 km)
-EuroSport
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Athletic Club
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Athletic Club
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Athletic Club
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Athletic Club
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Real Zaragoza
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Real Zaragoza
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Cádiz CF - Racing Ferrol
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Cádiz CF - Racing Ferrol
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='Davis Cup Finals Fase de grupos Partido 3 (Dobles)', 19:00 - Italia - Holanda
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - Valencia CF
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - Valencia CF
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - Valencia CF
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - At. Madrid - Valencia CF
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Elche - Granada CF
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Elche - Granada CF
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='IndyCar', 21:30 - Nashville Grand Prix - Carrera
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='IndyCar', 21:30 - Nashville Grand Prix - Carrera
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='IndyCar', 21:30 - Nashville Grand Prix - Carrera
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='IndyCar', 21:30 - Nashville Grand Prix - Carrera
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - Osasuna
+https://www.goltelevision.com/en-directo
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
