@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 22-09-2024 10:00
+#EXTINF:-1, EVENTOS DEL 22-09-2024 10:02
 acestream://
 #EXTINF:-1 group-title='WTA Torneo de Seúl Final WTA 500', 09:00 - D. Kasatkina - B. Haddad Maia
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
