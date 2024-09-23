@@ -1,148 +1,34 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 22-09-2024 02:00
+#EXTINF:-1, EVENTOS DEL 23-09-2024 09:10
 acestream://
-#EXTINF:-1 group-title='WTA Torneo de Seúl Final WTA 500', 09:00 - D. Kasatkina - B. Haddad Maia
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Seúl Final WTA 500', 09:00 - D. Kasatkina - B. Haddad Maia
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='F1 Academy', 09:35 - G.P. Singapur (Singapur) - Carrera 2
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='F1 Academy', 09:35 - G.P. Singapur (Singapur) - Carrera 2
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='F1 Academy', 09:35 - G.P. Singapur (Singapur) - Carrera 2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='F1 Academy', 09:35 - G.P. Singapur (Singapur) - Carrera 2
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Moto3', 10:00 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 10:00 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Superbike', 11:00 - G.P. Italia (Cremona) - Superpole Race
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Superbike', 11:00 - G.P. Italia (Cremona) - Superpole Race
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Moto2', 11:15 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 11:15 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Laver Cup', 12:00 - Partido 9 (Dobles) - MAX
+#EXTINF:-1 group-title='Madrid Open', 09:00 - 1ª Ronda - A1 Padel
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='Madrid Open', 09:00 - 1ª Ronda - A1 Padel
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='Madrid Open', 09:00 - 1ª Ronda - A1 Padel
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 09:15 - Contrarreloj Junior Masculina - Zürich › Zürich (24,9 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Laver Cup', 12:00 - Partido 9 (Dobles) - MAX
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 09:15 - Contrarreloj Junior Masculina - Zürich › Zürich (24,9 km)
 EuroSport
-#EXTINF:-1 group-title='WorldWCR', 12:45 - G.P. Italia (Cremona) - Carrera 2
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='MotoGP', 13:00 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 13:00 - G.P. Emilia Romagna (Misano) - Carrera
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Valladolid Open', 13:30 - Final Masculina - Premier Padel Tour
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Valladolid Open', 13:30 - Final Masculina - Premier Padel Tour
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Valladolid Open', 13:30 - Final Masculina - Premier Padel Tour
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Valladolid Open', 13:30 - Final Masculina - Premier Padel Tour
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Fórmula 1', 14:00 - G.P. Singapur (Singapur) - Carrera
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 14:00 - G.P. Singapur (Singapur) - Carrera
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 14:00 - G.P. Singapur (Singapur) - Carrera
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 14:00 - G.P. Singapur (Singapur) - Carrera
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Getafe - Leganés
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Getafe - Leganés
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Getafe - Leganés
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Getafe - Leganés
-https://www.goltelevision.com/en-directo
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - CD Tenerife - Sporting Gijón
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - CD Tenerife - Sporting Gijón
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Superbike', 14:00 - G.P. Italia (Cremona) - Carrera 2
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Superbike', 14:00 - G.P. Italia (Cremona) - Carrera 2
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:35 - Contrarreloj Masculina - Zürich › Zürich (46,1 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:35 - Contrarreloj Masculina - Zürich › Zürich (46,1 km)
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Contrarreloj Sub-23 Masculina - Gossau › Zürich (29,9 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Contrarreloj Sub-23 Masculina - Gossau › Zürich (29,9 km)
 EuroSport
-#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:35 - Contrarreloj Masculina - Zürich › Zürich (46,1 km)
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Contrarreloj Sub-23 Masculina - Gossau › Zürich (29,9 km)
 Teledeporte
-#EXTINF:-1 group-title='Premier League', 15:00 - Brighton - Nottingham Forest
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 15:00 - Brighton - Nottingham Forest
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Supersport', 15:15 - G.P. Italia (Cremona) - Carrera 2
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Athletic Club - Celta
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Huesca - Córdoba
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Huesca - Córdoba
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Mallorca
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Athletic Club - Celta
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Mallorca
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Athletic Club - Celta
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Mallorca
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Athletic Club - Celta
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Betis - Mallorca
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - CD Castellón - Racing Santander
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - CD Castellón - Racing Santander
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Cartagena - Cádiz CF
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - FC Cartagena - Cádiz CF
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Premier League', 17:30 - Manchester City - Arsenal
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Villarreal - FC Barcelona
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Villarreal - FC Barcelona
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Villarreal - FC Barcelona
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Villarreal - FC Barcelona
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - Villarreal - FC Barcelona
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Elche - Mirandés
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Elche - Mirandés
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Supercopa Endesa', 20:00 - Final - M+ Vamos (8 y 53)
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Supercopa Endesa', 20:00 - Final - M+ Vamos (8 y 53)
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Supercopa Endesa', 20:00 - Final - M+ Vamos (8 y 53)
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - At. Madrid
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - At. Madrid
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - At. Madrid
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Rayo Vallecano - At. Madrid
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - UD Almería - Eibar
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - UD Almería - Eibar
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
