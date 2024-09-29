@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 29-09-2024 05:24
+#EXTINF:-1, EVENTOS DEL 29-09-2024 00:14
 acestream://
-#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 05:00 - Y. Bu - L. Musetti
+#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 05:10 - Y. Bu - L. Musetti
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Pekín 2ª Ronda', 05:00 - P. Badosa - R. Sramkova
+#EXTINF:-1 group-title='WTA Pekín 2ª Ronda', 05:10 - P. Badosa - R. Sramkova
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 06:30 - K. Khachanov - F. Cerúndolo
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 06:30 - T. Machac - A. Michelsen
+#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 06:40 - T. Machac - A. Michelsen
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='WTA Pekín 2ª Ronda', 07:00 - V. Kudermetova - J. Pegula
+#EXTINF:-1 group-title='WTA Pekín 2ª Ronda', 07:05 - V. Kudermetova - J. Pegula
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 08:00 - A. Rublev - A. Davidovich
+#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 07:15 - K. Khachanov - F. Cerúndolo
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 08:00 - U. Humbert - J. Draper
+#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 09:05 - U. Humbert - J. Draper
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 10:15 - Carrera Masculina - Winterthur › Zürich (273,9 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -23,7 +21,7 @@ EuroSport
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title='Superbike', 11:00 - G.P. Aragón (Motorland) - Superpole Race
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 11:00 - K. Nishikori - H. Rune
+#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 11:10 - K. Nishikori - H. Rune
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='Madrid Open', 11:30 - Final - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -37,18 +35,18 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Casademont Zaragoza - Força Lleida
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 12:30 - A. Fils - B. Shelton
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='Supersport 300', 12:45 - G.P. Aragón (Motorland) - Carrera 2
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title='Supersport 300', 12:45 - G.P. Aragón (Motorland) - Carrera 2
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title='Liga Endesa Liga Regular', 13:00 - La Laguna Tenerife - Baskonia
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 13:00 - T. Griekspoor - C. Alcaraz
+#EXTINF:-1 group-title='Torneo de Pekín 2ª Ronda', 13:10 - T. Griekspoor - C. Alcaraz
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title='DTM', 13:30 - Red Bull Ring - Carrera 2
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title='Torneo de Tokio 1/4 de Final', 13:45 - A. Fils - B. Shelton
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Girona
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Celta - Girona
@@ -68,6 +66,12 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title='Superbike', 14:00 - G.P. Aragón (Motorland) - Carrera 2
 EuroSport
 #EXTINF:-1 group-title='Superbike', 14:00 - G.P. Aragón (Motorland) - Carrera 2
+Teledeporte
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Carrera Masculina - Winterthur › Zürich (273,9 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Carrera Masculina - Winterthur › Zürich (273,9 km)
+EuroSport
+#EXTINF:-1 group-title='Mundial de Ciclismo en Ruta', 14:45 - Carrera Masculina - Winterthur › Zürich (273,9 km)
 Teledeporte
 #EXTINF:-1 group-title='Premier League', 15:00 - Ipswich Town - Aston Villa
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
