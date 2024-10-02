@@ -1,80 +1,112 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 01-10-2024 12:30
+#EXTINF:-1, EVENTOS DEL 01-10-2024 02:00
 acestream://
-#EXTINF:-1 group-title='WTA Pekín 1/8 de final', 05:00 - P. Badosa - J. Pegula
+#EXTINF:-1 group-title='WTA Pekín 1/8 de final', 06:00 - A. Sabalenka - M. Keys
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='WTA Pekín 1/8 de final', 06:30 - S. Zhang - M. Frech
-https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Tour de Langkawi', 08:30 - Etapa 3 - Taiping › Cameron Highlands (170,3 km)
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Langkawi', 08:30 - Etapa 3 - Taiping › Cameron Highlands (170,3 km)
-EuroSport
-#EXTINF:-1 group-title='Torneo de Pekín Semifinal 1', 10:00 - D. Medvedev - C. Alcaraz
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Tokio Final', 12:00 - A. Fils - U. Humbert
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:30 - P. Carreño - B. Van de Zandschulp
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Torneo de Tokio Final', 12:00 - A. Fils - U. Humbert
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:30 - P. Carreño - B. Van de Zandschulp
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Torneo de Tokio Final', 12:00 - A. Fils - U. Humbert
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Torneo de Tokio Final', 12:00 - A. Fils - U. Humbert
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Torneo de Pekín Semifinal 2', 13:00 - J. Sinner - Y. Bu
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:30 - Y. Wu - S. Nagal
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - G. Monfils - D. Dzumhur
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - M. Cilic - A. Cazaux
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - M. Cilic - A. Cazaux
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Tour de Langkawi', 08:15 - Etapa 4 - Kuala Kubu Bharu › Bentong (131,2 km)
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title='Tour de Langkawi', 08:15 - Etapa 4 - Kuala Kubu Bharu › Bentong (131,2 km)
+EuroSport
+#EXTINF:-1 group-title='WTA Pekín 1/8 de final', 08:30 - C. Bucsa - K. Muchova
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 09:30 - L. Sonego - D. Shapovalov
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 09:30 - L. Sonego - D. Shapovalov
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 11:00 - A. Davidovich - G. Diallo
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 11:00 - A. Davidovich - G. Diallo
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Torneo de Pekín Final', 11:00 - J. Sinner - C. Alcaraz
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Tour de Croacia', 13:30 - Etapa 1 - MAX
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 12:30 - J. Shang - C. Wong
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 14:00 - K. Nishikori - M. Navone
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Tour de Croacia', 15:00 - Etapa 2 - MAX
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tour de Croacia', 13:30 - Etapa 1 - MAX
+#EXTINF:-1 group-title='Tour de Croacia', 15:00 - Etapa 2 - MAX
 EuroSport
-#EXTINF:-1 group-title='Binche–Chimay–Binche', 15:30 - UCI Europe Tour - MAX
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Binche–Chimay–Binche', 15:30 - UCI Europe Tour - MAX
-EuroSport
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Red Bull Salzburg - Stade Brestois
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Red Bull Salzburg - Stade Brestois
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Stuttgart - Sparta Praha
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Stuttgart - Sparta Praha
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Arsenal - PSG
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Arsenal - PSG
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Arsenal - PSG
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bayer Leverkusen - AC Milan
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bayer Leverkusen - AC Milan
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bayer Leverkusen - AC Milan
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Borussia Dortmund - Celtic FC
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Borussia Dortmund - Celtic FC
-acestream:/64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Young Boys
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Girona - Feyenoord
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Young Boys
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Girona - Feyenoord
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Young Boys
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Girona - Feyenoord
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Young Boys
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Girona - Feyenoord
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Young Boys
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Girona - Feyenoord
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - Crvena Zvezda
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Shakhtar Donetsk - Atalanta
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Shakhtar Donetsk - Atalanta
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Shakhtar Donetsk - Atalanta
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - Crvena Zvezda
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Buducnost Voli - Dreamland Gran Canaria
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Buducnost Voli - Dreamland Gran Canaria
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Buducnost Voli - Dreamland Gran Canaria
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Buducnost Voli - Dreamland Gran Canaria
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Buducnost Voli - Dreamland Gran Canaria
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Eurocup Liga Regular', 20:30 - Valencia Basket - Hamburg Towers
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Eurocup Liga Regular', 20:30 - Valencia Basket - Hamburg Towers
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - FC Bayern
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - FC Bayern
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - FC Bayern
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Benfica - At. Madrid
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Benfica - At. Madrid
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Benfica - At. Madrid
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - GNK Dinamo Zagreb - AS Monaco
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - GNK Dinamo Zagreb - AS Monaco
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - Crvena Zvezda
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - GNK Dinamo Zagreb - AS Monaco
 M.L.
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSV Eindhoven - Sporting CP
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Real Madrid
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Real Madrid
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Real Madrid
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Real Madrid
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Real Madrid
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Slovan Bratislava - Manchester City
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Bologna
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Slovan Bratislava - Manchester City
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Bologna
+acestream:/64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - RB Leipzig - Juventus
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - RB Leipzig - Juventus
 acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sturm Graz - Club Brugge
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
