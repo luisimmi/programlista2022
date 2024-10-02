@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 02-10-2024 10:00
+#EXTINF:-1, EVENTOS DEL 02-10-2024 12:30
 acestream://
 #EXTINF:-1 group-title='WTA Pekín 1/8 de final', 06:00 - A. Sabalenka - M. Keys
 https://tdtchannels.com/television/Teledeporte
