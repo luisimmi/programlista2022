@@ -1,32 +1,38 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 03-10-2024 10:00
+#EXTINF:-1, EVENTOS DEL 03-10-2024 12:30
 acestream://
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:30 - M. Kecmanovic - R. Hijikata
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:35 - M. Kecmanovic - R. Hijikata
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:30 - Y. Nishioka - Y. Zhou
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 06:40 - Y. Nishioka - Y. Zhou
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - C. O'Connell - M. Berrettini
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 07:55 - C. O'Connell - M. Berrettini
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - J. Mensik - P. Martínez
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - J. Mensik - P. Martínez
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - J. Mensik - P. Martínez
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - J. Mensik - P. Martínez
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:00 - J. Mensik - P. Martínez
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title='Tour de Langkawi', 08:05 - Etapa 5 - Kuala Lumpur › Melaka (167,3 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title='Tour de Langkawi', 08:05 - Etapa 5 - Kuala Lumpur › Melaka (167,3 km)
 EuroSport
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:10 - J. Mensik - P. Martínez
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:10 - J. Mensik - P. Martínez
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:10 - J. Mensik - P. Martínez
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:10 - J. Mensik - P. Martínez
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 08:10 - J. Mensik - P. Martínez
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Masters Shanghai', 08:20 - T. Griekspoor - F. Díaz Acosta
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title='WTA Pekín 1/4 de Final', 09:00 - S. Zhang - P. Badosa
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 09:30 - P. Kotov - Y. Watanuki
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 09:40 - P. Kotov - Y. Watanuki
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 11:00 - A. Kovacevic - T. Atmane
+#EXTINF:-1 group-title='Masters Shanghai', 09:50 - B. Zhukayev - R. Safiullin
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 11:10 - A. Kovacevic - T. Atmane
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Masters Shanghai', 11:20 - M. Bellucci - B. Harris
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title='WTA Pekín 1/4 de Final', 12:00 - Y. Starodubtseva - C. Gauff
 https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title='Masters Shanghai 1ª Ronda', 12:30 - Zh. Zhang - Z. Bergs
