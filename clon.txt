@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 05-10-2024 12:30
+#EXTINF:-1, EVENTOS DEL 05-10-2024 16:14
 acestream://
 #EXTINF:-1 group-title='MotoGP', 03:50 - G.P. Japón (Motegi) - Clasificación
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -9,34 +9,30 @@ acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title='Moto3', 05:50 - G.P. Japón (Motegi) - Clasificación
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - A. Rublev - J. Mensik
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - A. Shevchenko - F. Cerúndolo
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - C. Alcaraz - J. Shang
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:40 - C. Alcaraz - J. Shang
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - C. Alcaraz - J. Shang
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:40 - C. Alcaraz - J. Shang
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - C. Alcaraz - J. Shang
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:40 - C. Alcaraz - J. Shang
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - C. Alcaraz - J. Shang
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:40 - C. Alcaraz - J. Shang
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:30 - C. Alcaraz - J. Shang
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:40 - C. Alcaraz - J. Shang
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title='Moto2', 06:45 - G.P. Japón (Motegi) - Clasificación
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title='Moto2', 06:45 - G.P. Japón (Motegi) - Clasificación
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 08:00 - J. Sinner - T. Daniel
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 08:00 - T. Fritz - T. Atmane
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 07:05 - A. Rublev - J. Mensik
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 08:00 - Z. Bergs - G. Dimitrov
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 07:10 - A. Shevchenko - F. Cerúndolo
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='MotoGP', 08:00 - G.P. Japón (Motegi) - Sprint
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title='MotoGP', 08:00 - G.P. Japón (Motegi) - Sprint
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 08:15 - J. Sinner - T. Daniel
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title='Tour de Langkawi', 08:50 - Etapa 7 - Miri › Bintulu (199,3 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title='Tour de Langkawi', 08:50 - Etapa 7 - Miri › Bintulu (199,3 km)
@@ -45,13 +41,13 @@ EuroSport
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title='WTA Pekín Semifinal 1 WTA 1000', 09:00 - C. Gauff - P. Badosa
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 09:30 - F. Tiafoe - Y. Zhou
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 09:30 - M. Berrettini - H. Rune
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 09:20 - Z. Bergs - G. Dimitrov
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 11:00 - F. Cobolli - S. Wawrinka
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 09:55 - T. Fritz - T. Atmane
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 11:00 - L. Musetti - D. Goffin
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 11:25 - F. Tiafoe - Y. Zhou
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 11:30 - M. Berrettini - H. Rune
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='Torneo de Villena Semifinal 1 ATP Challenger Tour', 12:00 - N. Moreno De Alboran - J. Kym
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
@@ -61,8 +57,12 @@ EuroSport
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title='WTA Pekín Semifinal 2 WTA 1000', 12:00 - K. Muchova - Q. Zheng
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 12:30 - A. Michelsen - N. Djokovic
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 12:35 - A. Michelsen - N. Djokovic
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 12:55 - F. Cobolli - S. Wawrinka
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 13:00 - L. Musetti - D. Goffin
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title='Tour de Croacia', 13:00 - Etapa 5 - Ozalj › Karlovac (167 km)
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title='Tour de Croacia', 13:00 - Etapa 5 - Ozalj › Karlovac (167 km)
