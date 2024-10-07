@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 07-10-2024 10:00
+#EXTINF:-1, EVENTOS DEL 07-10-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Masters Shanghai 2ª Ronda', 06:00 - T. Fritz - T. Atmane
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
