@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 08-10-2024 02:00
+#EXTINF:-1, EVENTOS DEL 09-10-2024 10:00
 acestream://
 #EXTINF:-1 group-title='Masters Shanghai 1/8 de final', 06:30 - J. Sinner - B. Shelton
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
