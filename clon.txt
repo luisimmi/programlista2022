@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 09-10-2024 02:00
+#EXTINF:-1, EVENTOS DEL 10-10-2024 10:00
 acestream://
 #EXTINF:-1 group-title='WTA Wuhan 3ª Ronda', 05:05 - Q. Zheng - L. Fernández
 https://tdtchannels.com/television/Teledeporte
