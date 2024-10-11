@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 11-10-2024 10:00
+#EXTINF:-1, EVENTOS DEL 11-10-2024 12:30
 acestream://
 #EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 05:00 - C. Gauff - M. Linette
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
