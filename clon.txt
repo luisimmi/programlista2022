@@ -1,10 +1,20 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 10-10-2024 02:00
+#EXTINF:-1, EVENTOS DEL 11-10-2024 10:00
 acestream://
-#EXTINF:-1 group-title='WTA Wuhan', 08:35 - 1/4 de Final - WTA 1000
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 05:00 - C. Gauff - M. Linette
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Wuhan', 08:35 - 1/4 de Final - WTA 1000
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 05:00 - C. Gauff - M. Linette
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 06:30 - E. Alexandrova - X. Wang
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 06:30 - E. Alexandrova - X. Wang
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 08:00 - A. Sabalenka - M. Frech
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 08:00 - A. Sabalenka - M. Frech
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 08:00 - A. Sabalenka - M. Frech
+https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title='Masters Shanghai 1/4 de Final', 09:00 - T. Fritz - D. Goffin
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title='Sevilla Open', 09:00 - 1ª Ronda - A1 Padel
@@ -13,6 +23,12 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title='Sevilla Open', 09:00 - 1ª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 09:30 - Q. Zheng - J. Paolini
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 09:30 - Q. Zheng - J. Paolini
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='WTA Wuhan 1/4 de Final', 09:30 - Q. Zheng - J. Paolini
+https://tdtchannels.com/television/Teledeporte
 #EXTINF:-1 group-title='Masters Shanghai 1/4 de Final', 12:30 - J. Mensik - N. Djokovic
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title='Torneo de Valencia 1/4 de Final ATP Challenger Tour', 13:15 - D. Galán - J. Choinski
