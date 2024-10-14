@@ -1,113 +1,21 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 13-10-2024 12:30
+#EXTINF:-1, EVENTOS DEL 13-10-2024 02:00
 acestream://
-#EXTINF:-1 group-title='UFC UFC Fight Night', 00:00 - B. Royval - T. Taira
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='UFC UFC Fight Night', 00:00 - B. Royval - T. Taira
-EuroSport
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
+#EXTINF:-1 group-title='Sevilla Open', 09:00 - 2ª Ronda - A1 Padel
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Sevilla Open', 09:00 - 2ª Ronda - A1 Padel
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Sevilla Open', 09:00 - 2ª Ronda - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
+#EXTINF:-1 group-title='Sevilla Open', 09:00 - 2ª Ronda - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
+#EXTINF:-1 group-title='Sevilla Open', 09:00 - 2ª Ronda - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-EuroSport
-#EXTINF:-1 group-title='Título Mundial Peso Mosca', 10:00 - S. Iwata - J. Noriega
-Gol
-#EXTINF:-1 group-title='Masters Shanghai Final ATP Masters 1000', 10:30 - J. Sinner - N. Djokovic
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='WTA Wuhan Final WTA 1000', 11:00 - A. Sabalenka - Q. Zheng
+#EXTINF:-1 group-title='WTA Torneo de Ningbo 1ª Ronda', 12:30 - D. Shnaider - P. Badosa
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Sevilla Open', 12:00 - 2ª Ronda - A1 Padel
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Sevilla Open', 12:00 - 2ª Ronda - A1 Padel
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Sevilla Open', 12:00 - 2ª Ronda - A1 Padel
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - BAXI Manresa - Dreamland Gran Canaria
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - BAXI Manresa - Dreamland Gran Canaria
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Bilbao Basket - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Bilbao Basket - Real Madrid Baloncesto
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Bilbao Basket - Real Madrid Baloncesto
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Bilbao Basket - Real Madrid Baloncesto
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='WorldWCR', 13:45 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='WorldWCR', 13:45 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Huesca - Albacete
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Sporting Gijón - CD Castellón
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Huesca - Albacete
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Superbike', 15:00 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Superbike', 15:00 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Simac Ladies Tour', 16:00 - Etapa 6 - Arnhem › Arnhem (145,8 km)
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Simac Ladies Tour', 16:00 - Etapa 6 - Arnhem › Arnhem (145,8 km)
-EuroSport
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Santander - Levante
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Racing Santander - Levante
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Real Oviedo - UD Almería
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Real Oviedo - UD Almería
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Supersport', 16:15 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Supersport', 16:15 - Pirelli Estoril Round (Portugal) - Carrera 2
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Casademont Zaragoza - Joventut Badalona
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Río Breogán - Valencia Basket
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Valencia Final ATP Challenger Tour', 17:00 - P. Martínez - J. Faria
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Torneo de Valencia Final ATP Challenger Tour', 17:00 - P. Martínez - J. Faria
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Torneo de Valencia Final ATP Challenger Tour', 17:00 - P. Martínez - J. Faria
-EuroSport
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Mirandés
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Burgos CF - Mirandés
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Granada CF - Córdoba
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Granada CF - Córdoba
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - La Laguna Tenerife - Barça Basket
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - La Laguna Tenerife - Barça Basket
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Elche - Deportivo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Elche - Deportivo
+#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - Sporting Gijón - CD Castellón
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
