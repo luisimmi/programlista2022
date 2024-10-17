@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 16-10-2024 12:30
+#EXTINF:-1, EVENTOS DEL 16-10-2024 02:00
 acestream://
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 3ª Ronda - A1 Padel
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 3ª Ronda - A1 Padel
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 3ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/8 de final - A1 Padel
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/8 de final - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 3ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/8 de final - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Sevilla Open', 16:00 - 3ª Ronda - A1 Padel
+#EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/8 de final - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title='Campeonato Mundo Pista', 18:30 - Ballerup 2024 - MAX
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -17,17 +15,29 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 EuroSport
 #EXTINF:-1 group-title='Campeonato Mundo Pista', 18:30 - Ballerup 2024 - MAX
 Teledeporte
-#EXTINF:-1 group-title='Six Kings Slam 1/4 de Final', 18:30 - D. Medvedev - J. Sinner
+#EXTINF:-1 group-title='Six Kings Slam Semifinales', 18:30 - N. Djokovic - J. Sinner
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Six Kings Slam 1/4 de Final', 20:00 - H. Rune - C. Alcaraz
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Barça Basket - AS Monaco Basket
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Valencia Basket - Umana Reyer Venice
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Barça Basket - AS Monaco Basket
+#EXTINF:-1 group-title='Eurocup Liga Regular', 19:00 - Valencia Basket - Umana Reyer Venice
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Barça Basket - AS Monaco Basket
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:30 - ALBA Berlin - Fenerbahce Istanbul
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Six Kings Slam Semifinales', 20:00 - R. Nadal - C. Alcaraz
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - BC Partizan Beograd
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Zalgiris Kaunas
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - FC Bayern Basketball - Paris Basketball
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - Real Madrid Baloncesto - Panathinaikos BC
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - Real Madrid Baloncesto - Panathinaikos BC
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - Real Madrid Baloncesto - Panathinaikos BC
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - Barça Basket - AS Monaco Basket
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - Real Madrid Baloncesto - Panathinaikos BC
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
