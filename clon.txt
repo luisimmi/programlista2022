@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 16-10-2024 02:00
+#EXTINF:-1, EVENTOS DEL 17-10-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Sevilla Open', 16:00 - 1/8 de final - A1 Padel
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
