@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 22-10-2024 10:00
+#EXTINF:-1, EVENTOS DEL 22-10-2024 12:30
 acestream://
 #EXTINF:-1 group-title='Cataluña Open', 09:00 - 1ª Ronda - A1 Padel
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
@@ -23,14 +23,14 @@ acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title='Torneo de Viena 1ª Ronda', 18:00 - D. Thiem - L. Darderi
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - AC Milan - Club Brugge
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - AC Milan - Club Brugge
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - AS Monaco - Crvena Zvezda
+#EXTINF:-1 group-title='Champions League Fase Liga Stade Louis-II, Monaco', 18:45 - AS Monaco - Crvena Zvezda
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - AS Monaco - Crvena Zvezda
+#EXTINF:-1 group-title='Champions League Fase Liga Stade Louis-II, Monaco', 18:45 - AS Monaco - Crvena Zvezda
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League Fase Liga Stadio Giuseppe Meazza, Milan', 18:45 - AC Milan - Club Brugge
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Champions League Fase Liga Stadio Giuseppe Meazza, Milan', 18:45 - AC Milan - Club Brugge
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Real Oviedo - Mirandés
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Real Oviedo - Mirandés
@@ -43,48 +43,52 @@ acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title='Torneo de Viena 1ª Ronda', 19:30 - K. Nishikori - J. Draper
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Arsenal - Shakhtar Donetsk
+#EXTINF:-1 group-title='Champions League Fase Liga Emirates Stadium, Londres', 21:00 - Arsenal - Shakhtar Donetsk
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Arsenal - Shakhtar Donetsk
+#EXTINF:-1 group-title='Champions League Fase Liga Emirates Stadium, Londres', 21:00 - Arsenal - Shakhtar Donetsk
 acestream:/64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Bologna
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Bologna
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Bologna
-M.L.
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Girona - Slovan Bratislava
+#EXTINF:-1 group-title='Champions League Fase Liga Estadi Municipal de Montilivi, Girona', 21:00 - Girona - Slovan Bratislava
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Girona - Slovan Bratislava
+#EXTINF:-1 group-title='Champions League Fase Liga Estadi Municipal de Montilivi, Girona', 21:00 - Girona - Slovan Bratislava
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Girona - Slovan Bratislava
+#EXTINF:-1 group-title='Champions League Fase Liga Estadi Municipal de Montilivi, Girona', 21:00 - Girona - Slovan Bratislava
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Juventus - Stuttgart
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Juventus - Stuttgart
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSG - PSV Eindhoven
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSG - PSV Eindhoven
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSG - PSV Eindhoven
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Champions League Fase Liga Estadio Santiago Bernabéu, Madrid', 21:00 - Real Madrid - Borussia Dortmund
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Champions League Fase Liga Estadio Santiago Bernabéu, Madrid', 21:00 - Real Madrid - Borussia Dortmund
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Champions League Fase Liga Estadio Santiago Bernabéu, Madrid', 21:00 - Real Madrid - Borussia Dortmund
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Champions League Fase Liga Estadio Santiago Bernabéu, Madrid', 21:00 - Real Madrid - Borussia Dortmund
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - Borussia Dortmund
+#EXTINF:-1 group-title='Champions League Fase Liga Estadio Santiago Bernabéu, Madrid', 21:00 - Real Madrid - Borussia Dortmund
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sturm Graz - Sporting CP
+#EXTINF:-1 group-title='Champions League Fase Liga Juventus Arena, Turim', 21:00 - Juventus - Stuttgart
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga Juventus Arena, Turim', 21:00 - Juventus - Stuttgart
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title='Champions League Fase Liga Parc des Princes, Paris', 21:00 - PSG - PSV Eindhoven
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Champions League Fase Liga Parc des Princes, Paris', 21:00 - PSG - PSV Eindhoven
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League Fase Liga Parc des Princes, Paris', 21:00 - PSG - PSV Eindhoven
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga UPC-Arena, Graz', 21:00 - Sturm Graz - Sporting CP
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga Villa Park, Birmingham', 21:00 - Aston Villa - Bologna
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga Villa Park, Birmingham', 21:00 - Aston Villa - Bologna
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Champions League Fase Liga Villa Park, Birmingham', 21:00 - Aston Villa - Bologna
+M.L.
 #EXTINF:-1 group-title='Eurocup Liga Regular', 21:00 - Dreamland Gran Canaria - Ratiopharm Ulm
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title='Eurocup Liga Regular', 21:00 - Dreamland Gran Canaria - Ratiopharm Ulm
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Eurocup Liga Regular', 21:00 - Dreamland Gran Canaria - Ratiopharm Ulm
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Eurocup Liga Regular', 21:00 - Dreamland Gran Canaria - Ratiopharm Ulm
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - CD Castellón - Granada CF
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - CD Castellón - Granada CF
