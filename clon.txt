@@ -1,168 +1,170 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 26-10-2024 00:31
+#EXTINF:-1, EVENTOS DEL 27-10-2024 08:57
 acestream://
-#EXTINF:-1 group-title='Fórmula 1', 00:00 - G.P. México (Ciudad de México) - Libres 2
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 00:00 - G.P. México (Ciudad de México) - Libres 2
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 00:00 - G.P. México (Ciudad de México) - Libres 2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 00:00 - G.P. México (Ciudad de México) - Libres 2
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - New York Knicks - Indiana Pacers
+#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Detroit Pistons - Boston Celtics
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - New York Knicks - Indiana Pacers
+#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Detroit Pistons - Boston Celtics
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='WTA Torneo de Tokio Semifinal 1 WTA 500', 05:10 - S. Kenin - K. Boulter
+#EXTINF:-1 group-title='WTA Torneo de Tokio Final WTA 500', 04:00 - Q. Zheng - S. Kenin
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Tokio Semifinal 1 WTA 500', 05:10 - S. Kenin - K. Boulter
+#EXTINF:-1 group-title='WTA Torneo de Tokio Final WTA 500', 04:00 - Q. Zheng - S. Kenin
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='MotoGP', 05:50 - G.P. Tailandia (Chang) - Clasificación
+#EXTINF:-1 group-title='Moto3', 06:00 - G.P. Tailandia (Chang) - Carrera
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 05:50 - G.P. Tailandia (Chang) - Clasificación
+#EXTINF:-1 group-title='Moto3', 06:00 - G.P. Tailandia (Chang) - Carrera
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='WTA Torneo de Tokio Semifinal 2 WTA 500', 07:10 - Q. Zheng - D. Shnaider
+#EXTINF:-1 group-title='Moto2', 07:15 - G.P. Tailandia (Chang) - Carrera
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Moto2', 07:15 - G.P. Tailandia (Chang) - Carrera
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='MotoGP', 09:00 - G.P. Tailandia (Chang) - Carrera
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='MotoGP', 09:00 - G.P. Tailandia (Chang) - Carrera
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='WTA Torneo de Guangzhou Final WTA 250', 10:00 - O. Danilovic - C. Dolehide
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Tokio Semifinal 2 WTA 500', 07:10 - Q. Zheng - D. Shnaider
+#EXTINF:-1 group-title='WTA Torneo de Guangzhou Final WTA 250', 10:00 - O. Danilovic - C. Dolehide
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Moto3', 07:50 - G.P. Tailandia (Chang) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto3', 07:50 - G.P. Tailandia (Chang) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Moto2', 08:45 - G.P. Tailandia (Chang) - Clasificación
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Moto2', 08:45 - G.P. Tailandia (Chang) - Clasificación
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='MotoGP', 10:00 - G.P. Tailandia (Chang) - Sprint
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='MotoGP', 10:00 - G.P. Tailandia (Chang) - Sprint
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='WTA Torneo de Guangzhou Semifinal 1 WTA 250', 10:35 - K. Siniakova - O. Danilovic
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Guangzhou Semifinal 1 WTA 250', 10:35 - K. Siniakova - O. Danilovic
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Cataluña Open', 11:00 - Semifinales - A1 Padel
+#EXTINF:-1 group-title='Cataluña Open', 11:00 - Final - A1 Padel
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Cataluña Open', 11:00 - Semifinales - A1 Padel
+#EXTINF:-1 group-title='Cataluña Open', 11:00 - Final - A1 Padel
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Cataluña Open', 11:00 - Semifinales - A1 Padel
+#EXTINF:-1 group-title='Cataluña Open', 11:00 - Final - A1 Padel
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Cataluña Open', 11:00 - Semifinales - A1 Padel
+#EXTINF:-1 group-title='Cataluña Open', 11:00 - Final - A1 Padel
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='WTA Torneo de Guangzhou Semifinal 2 WTA 250', 12:30 - L. Bronzetti - C. Dolehide
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Torneo de Guangzhou Semifinal 2 WTA 250', 12:30 - L. Bronzetti - C. Dolehide
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Valladolid - Villarreal
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Valladolid - Villarreal
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 14:00 - Real Valladolid - Villarreal
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Torneo de Basilea Semifinal 1 ATP 500', 15:00 - B. Shelton - A. Fils
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='Torneo de Viena Semifinal 1 ATP 500', 15:00 - L. Musetti - J. Draper
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Premier League', 16:00 - Aston Villa - Bournemouth
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Premier League', 16:00 - Aston Villa - Bournemouth
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Premier League', 16:00 - Brentford - Ipswich Town
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 group-title='Premier League', 16:00 - Brighton - Wolverhampton
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 group-title='Premier League', 16:00 - Manchester City - Southampton
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 16:00 - Manchester City - Southampton
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Rayo Vallecano - Alavés
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title='La Liga EA Sports', 16:15 - Rayo Vallecano - Alavés
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
+#EXTINF:-1 group-title='Torneo de Les Franqueses del Vallés', 11:30 - Final - M+ Ellas Vamos (66)
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
+#EXTINF:-1 group-title='Torneo de Les Franqueses del Vallés', 11:30 - Final - M+ Ellas Vamos (66)
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Cádiz CF - Real Oviedo
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Mirandés - FC Cartagena
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Mirandés - FC Cartagena
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='Torneo de Viena Semifinal 2 ATP 500', 16:30 - K. Khachanov - A. De Miñaur
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Torneo de Basilea Semifinal 2 ATP 500', 17:00 - H. Rune - G. Mpetshi Perricard
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title='New Giza Open', 17:30 - Final Masculina - Premier Padel Tour
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Baskonia - Joventut Badalona
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Real Madrid Baloncesto - BAXI Manresa
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Baskonia - Joventut Badalona
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 12:30 - Real Madrid Baloncesto - BAXI Manresa
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:00 - Basquet Girona - UCAM Murcia CB
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 13:00 - La Laguna Tenerife - Dreamland Gran Canaria
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Girona
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Butarque, Leganés', 14:00 - Leganés - Celta
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Girona
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Butarque, Leganés', 14:00 - Leganés - Celta
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Girona
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Butarque, Leganés', 14:00 - Leganés - Celta
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='La Liga EA Sports', 18:30 - UD Las Palmas - Girona
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Butarque, Leganés', 14:00 - Leganés - Celta
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Córdoba - Eldense
-acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Córdoba - Eldense
-acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - CD Castellón
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Real Zaragoza - CD Castellón
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Premier League', 18:30 - Everton - Fulham
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title='Premier League', 18:30 - Everton - Fulham
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. México (Ciudad de México) - Libres 3
-acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. México (Ciudad de México) - Libres 3
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. México (Ciudad de México) - Libres 3
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 19:30 - G.P. México (Ciudad de México) - Libres 3
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 group-title='Velada Peso Superligero', 20:00 - J. Catterall - R. Prograis
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Velada Peso Superligero', 20:00 - J. Catterall - R. Prograis
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Básquet Coruña - Casademont Zaragoza
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - Básquet Coruña - Casademont Zaragoza
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:45 - MoraBanc Andorra - Coviran Granada
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Madrid - FC Barcelona
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='LaLiga Hypermotion', 14:00 - Málaga - Eibar
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Torneo de Viena Final ATP 500', 14:00 - J. Draper - K. Khachanov
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Premier League London Stadium, London', 15:00 - West Ham - Manchester Utd.
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League London Stadium, London', 15:00 - West Ham - Manchester Utd.
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Premier League Selhurst Park, London', 15:00 - Crystal Palace - Tottenham
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title='Premier League Stamford Bridge, Londres', 15:00 - Chelsea - Newcastle
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title='Premier League Stamford Bridge, Londres', 15:00 - Chelsea - Newcastle
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title='Torneo de Basilea Final ATP 500', 15:30 - B. Shelton - G. Mpetshi Perricard
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Torneo de Basilea Final ATP 500', 15:30 - B. Shelton - G. Mpetshi Perricard
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='La Liga EA Sports Coliseo Alfonso Perez, Getafe', 16:15 - Getafe - Valencia CF
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Madrid - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports Coliseo Alfonso Perez, Getafe', 16:15 - Getafe - Valencia CF
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Madrid - FC Barcelona
+#EXTINF:-1 group-title='La Liga EA Sports Coliseo Alfonso Perez, Getafe', 16:15 - Getafe - Valencia CF
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Madrid - FC Barcelona
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Real Madrid - FC Barcelona
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. México (Ciudad de México) - Clasificación
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Deportivo - Racing Santander
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Deportivo - Racing Santander
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Elche - Burgos CF
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 16:15 - Elche - Burgos CF
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Bilbao Basket - Valencia Basket
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 17:00 - Río Breogán - Força Lleida
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Primera Federación Futsal', 17:00 - Industrias Santa Coloma - Barça FS
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Premier League Emirates Stadium, Londres', 17:30 - Arsenal - Liverpool
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Benito Villamarín, Sevilla', 18:30 - Real Betis - At. Madrid
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Benito Villamarín, Sevilla', 18:30 - Real Betis - At. Madrid
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Benito Villamarín, Sevilla', 18:30 - Real Betis - At. Madrid
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Benito Villamarín, Sevilla', 18:30 - Real Betis - At. Madrid
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Albacete - Sporting Gijón
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Albacete - Sporting Gijón
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Huesca - UD Almería
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 18:30 - Huesca - UD Almería
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Unicaja Málaga - Barça Basket
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 18:30 - Unicaja Málaga - Barça Basket
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Primera FEB Liga Regular', 18:30 - Movistar Estudiantes - CB Zamora
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Indiana Pacers - Philadelphia 76ers
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Indiana Pacers - Philadelphia 76ers
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Indiana Pacers - Philadelphia 76ers
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Indiana Pacers - Philadelphia 76ers
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='NBA Liga Regular', 20:30 - Indiana Pacers - Philadelphia 76ers
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Fórmula 1', 21:00 - G.P. México (Ciudad de México) - Carrera
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. México (Ciudad de México) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 21:00 - G.P. México (Ciudad de México) - Carrera
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. México (Ciudad de México) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 21:00 - G.P. México (Ciudad de México) - Carrera
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title='Fórmula 1', 23:00 - G.P. México (Ciudad de México) - Clasificación
+#EXTINF:-1 group-title='Fórmula 1', 21:00 - G.P. México (Ciudad de México) - Carrera
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Anoeta, San Sebastián', 21:00 - Real Sociedad - Osasuna
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Anoeta, San Sebastián', 21:00 - Real Sociedad - Osasuna
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports Estadio Municipal de Anoeta, San Sebastián', 21:00 - Real Sociedad - Osasuna
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Granada CF - Levante
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title='LaLiga Hypermotion', 21:00 - Granada CF - Levante
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
