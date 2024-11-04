@@ -1,66 +1,22 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 31-10-2024 11:34
+#EXTINF:-1, EVENTOS DEL 04-11-2024 10:15
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 00:00 - Cleveland Cavaliers - Los Angeles Lakers
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 00:00 - Cleveland Cavaliers - Los Angeles Lakers
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Lanzarote Open', 11:00 - 1/4 de Final - A1 Padel
+#EXTINF:-1 group-title='WTA Torneo de Mérida Final WTA 250', 01:00 - Z. Sonmez - A. Li
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='Lanzarote Open', 11:00 - 1/4 de Final - A1 Padel
+#EXTINF:-1 group-title='WTA Torneo de Mérida Final WTA 250', 01:00 - Z. Sonmez - A. Li
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='Lanzarote Open', 11:00 - 1/4 de Final - A1 Padel
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title='Lanzarote Open', 11:00 - 1/4 de Final - A1 Padel
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title='Lanzarote Open', 11:00 - 1/4 de Final - A1 Padel
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - San Tirso SD - Espanyol
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - San Tirso SD - Espanyol
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - San Tirso SD - Espanyol
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - San Tirso SD - Espanyol
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - UE Vic - At. Madrid
+#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - E. Rybakina - Q. Zheng
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Masters París 3ª Ronda', 19:00 - U. Humbert - C. Alcaraz
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:00 - ALBA Berlin - Anadolu Efes Istanbul
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - Real Madrid Baloncesto
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:05 - Maccabi Tel Aviv BC - Real Madrid Baloncesto
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Olympiacos Piraeus - Barça Basket
-acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Olympiacos Piraeus - Barça Basket
-acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Olympiacos Piraeus - Barça Basket
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:15 - Olympiacos Piraeus - Barça Basket
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Virtus Bologna
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title='Masters París 3ª Ronda', 20:30 - G. Dimitrov - A. Rinderknech
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Jove Español - Real Sociedad
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Jove Español - Real Sociedad
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Jove Español - Real Sociedad
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Jove Español - Real Sociedad
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Ontiñena CF - UD Las Palmas
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Ontiñena CF - UD Las Palmas
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Ontiñena CF - UD Las Palmas
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 21:00 - Ontiñena CF - UD Las Palmas
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - A. Sabalenka - J. Paolini
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Celta - Getafe
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Celta - Getafe
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Celta - Getafe
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title='La Liga EA Sports', 21:00 - Celta - Getafe
+https://www.goltelevision.com/en-directo
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
