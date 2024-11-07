@@ -1,72 +1,146 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 05-11-2024 09:10
+#EXTINF:-1, EVENTOS DEL 07-11-2024 06:58
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 02:00 - Brooklyn Nets - Memphis Grizzlies
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Boston Celtics - Golden State Warriors
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 02:00 - Brooklyn Nets - Memphis Grizzlies
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Boston Celtics - Golden State Warriors
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - J. Pegula - B. Krejcikova
+#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - I. Swiatek - D. Kasatkina
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - J. Pegula - B. Krejcikova
+#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - I. Swiatek - D. Kasatkina
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - J. Pegula - B. Krejcikova
+#EXTINF:-1 group-title='WTA Finals Round Robin', 13:30 - I. Swiatek - D. Kasatkina
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - I. Swiatek - C. Gauff
+#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - C. Gauff - B. Krejcikova
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - I. Swiatek - C. Gauff
+#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - C. Gauff - B. Krejcikova
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - I. Swiatek - C. Gauff
+#EXTINF:-1 group-title='WTA Finals Round Robin', 16:00 - C. Gauff - B. Krejcikova
 https://tdtchannels.com/television/Teledeporte
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - PSV Eindhoven - Girona
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - PSV Eindhoven - Girona
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - PSV Eindhoven - Girona
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - PSV Eindhoven - Girona
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Slovan Bratislava - GNK Dinamo Zagreb
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Bodø/Glimt - Qarabag FK
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Slovan Bratislava - GNK Dinamo Zagreb
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Bodø/Glimt - Qarabag FK
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bologna - AS Monaco
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Borussia Dortmund - Sturm Graz
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Borussia Dortmund - Sturm Graz
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Borussia Dortmund - Sturm Graz
-M.L.
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Celtic FC - RB Leipzig
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Celtic FC - RB Leipzig
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Eintracht Frankfurt - Slavia Praha
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Eintracht Frankfurt - Slavia Praha
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Eintracht Frankfurt - Slavia Praha
 acestream:/64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Juventus
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Lille - Juventus
-acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Bayer Leverkusen
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Bayer Leverkusen
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Bayer Leverkusen
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - AC Milan
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - AC Milan
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - AC Milan
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - AC Milan
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Real Madrid - AC Milan
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sporting CP - Manchester City
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Elfsborg - SC Braga
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sporting CP - Manchester City
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Elfsborg - SC Braga
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sporting CP - Manchester City
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - FCSB - FC Midtjylland
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - FCSB - FC Midtjylland
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Galatasaray - Tottenham
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Galatasaray - Tottenham
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Galatasaray - Tottenham
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Galatasaray - Tottenham
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Nice - Twente
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Nice - Twente
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Nice - Twente
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Nice - Twente
+M.L.
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Olympiacos - Rangers FC
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Olympiacos - Rangers FC
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Olympiacos - Rangers FC
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - PFC Ludogorets - Athletic Club
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Saint-Gilloise - AS Roma
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Saint-Gilloise - AS Roma
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 18:45 - Saint-Gilloise - AS Roma
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title='Euroliga Liga Regular', 19:00 - Crvena Zvezda MTS Belgrade - ALBA Berlin
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Real Madrid Baloncesto
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Real Madrid Baloncesto
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Real Madrid Baloncesto
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:30 - AX Olimpia Milano - Real Madrid Baloncesto
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:30 - Río Breogán - La Laguna Tenerife
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Liga Endesa Liga Regular', 20:30 - Río Breogán - La Laguna Tenerife
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - FC Bayern Basketball - Zalgiris Kaunas
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title='Euroliga Liga Regular', 20:45 - Paris Basketball - BC Partizan Beograd
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title='Eurobasket Femenino Fase de Clasificación', 21:00 - España - Holanda
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - AZ Alkmaar - Fenerbahçe
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - AZ Alkmaar - Fenerbahçe
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - AZ Alkmaar - Fenerbahçe
+acestream:/64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Ajax - Maccabi Tel Aviv FC
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Ajax - Maccabi Tel Aviv FC
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Dynamo Kyiv - Ferencvaros
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Dynamo Kyiv - Ferencvaros
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Hoffenheim - O. Lyonnais
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Hoffenheim - O. Lyonnais
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Lazio - FC Porto
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Lazio - FC Porto
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Lazio - FC Porto
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Manchester Utd. - PAOK FC
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Manchester Utd. - PAOK FC
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Manchester Utd. - PAOK FC
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - RFS Riga - Anderlecht
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - RFS Riga - Anderlecht
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Europa League Fase Liga', 21:00 - Viktoria Plzen - Real Sociedad
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title= tvg-id= tvg-logo= ,La1 UHD 
