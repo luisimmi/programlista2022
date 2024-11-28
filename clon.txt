@@ -1,76 +1,78 @@
-#EXTM3U
-#EXTINF:-1, EVENTOS DEL 26-11-2024 13:21
+#EXTM3U url-tvg=https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml
+#EXTINF:-1, EVENTOS DEL 27-11-2024 09:02
 acestream://
-#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Indiana Pacers - New Orleans Pelicans
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Miami Heat - Milwaukee Bucks
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title='NBA Liga Regular', 01:00 - Indiana Pacers - New Orleans Pelicans
+#EXTINF:-1 group-title='NBA Liga Regular', 01:30 - Miami Heat - Milwaukee Bucks
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Slovan Bratislava - AC Milan
+#EXTINF:-1 group-title='Copa del Rey', 13:00 - Sorteo 2ª Eliminatoria - RFEF.es
+acestream://d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title='Copa del Rey', 13:00 - Sorteo 2ª Eliminatoria - RFEF.es
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title='Copa del Rey', 13:00 - Sorteo 2ª Eliminatoria - RFEF.es
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title='Copa del Rey', 13:00 - Sorteo 2ª Eliminatoria - RFEF.es
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title='Copa del Rey', 13:00 - Sorteo 2ª Eliminatoria - RFEF.es
+https://tdtchannels.com/television/Teledeporte
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Crvena Zvezda - Stuttgart
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Slovan Bratislava - AC Milan
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Crvena Zvezda - Stuttgart
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sparta Praha - At. Madrid
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sturm Graz - Girona
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sparta Praha - At. Madrid
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sturm Graz - Girona
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sparta Praha - At. Madrid
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sturm Graz - Girona
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sparta Praha - At. Madrid
+#EXTINF:-1 group-title='Champions League Fase Liga', 18:45 - Sturm Graz - Girona
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - Manises CF - Getafe
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - Manises CF - Getafe
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - Manises CF - Getafe
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title='Copa del Rey 1ª Ronda', 19:00 - Manises CF - Getafe
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - UD Almería - Córdoba
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - CD Castellón - Racing Ferrol
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - CD Castellón - Racing Ferrol
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Levante - Málaga
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title='LaLiga Hypermotion', 20:30 - UD Almería - Córdoba
+#EXTINF:-1 group-title='LaLiga Hypermotion', 19:00 - Levante - Málaga
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bayer Leverkusen - Red Bull Salzburg
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - AS Monaco - Benfica
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - AS Monaco - Benfica
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - AS Monaco - Benfica
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bayer Leverkusen - Red Bull Salzburg
-acestream://64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Stade Brestois
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Stade Brestois
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Stade Brestois
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Stade Brestois
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Barcelona - Stade Brestois
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Bayern - PSG
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Juventus
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Bayern - PSG
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Juventus
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - FC Bayern - PSG
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Aston Villa - Juventus
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - RB Leipzig
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Bologna - Lille
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - RB Leipzig
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Inter Milan - RB Leipzig
-M.L.
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Manchester City - Feyenoord
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Manchester City - Feyenoord
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Manchester City - Feyenoord
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Celtic FC - Club Brugge
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sporting CP - Arsenal
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Celtic FC - Club Brugge
+acestream://64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - GNK Dinamo Zagreb - Borussia Dortmund
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Sporting CP - Arsenal
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - GNK Dinamo Zagreb - Borussia Dortmund
 acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Young Boys - Atalanta
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Young Boys - Atalanta
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Young Boys - Atalanta
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Real Madrid
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Real Madrid
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Real Madrid
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Real Madrid
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - Liverpool - Real Madrid
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSV Eindhoven - Shakhtar Donetsk
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSV Eindhoven - Shakhtar Donetsk
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title='Champions League Fase Liga', 21:00 - PSV Eindhoven - Shakhtar Donetsk
+M.L.
 #EXTINF:-1 group-title= tvg-id= tvg-logo= , La1 
  http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 #EXTINF:-1 group-title= tvg-id= tvg-logo= , La1 UHD 
