@@ -1,6 +1,5 @@
 #EXTM3U
 Martes17 de Diciembre de 2024:
-acestream://
 #EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Miami Heat
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Miami Heat
@@ -46,7 +45,6 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Córdoba - Eibar
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 Miércoles18 de Diciembre de 2024:
-acestream://
 #EXTINF:-1 group-title='NBA', 02:30 - - FINAL Oklahoma City Thunder - Milwaukee Bucks
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='Fútbol', 18:00 - INTERCONTINENTAL Real Madrid - Pachuca
@@ -94,7 +92,6 @@ acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Espanyol - Valencia
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 Jueves19 de Diciembre de 2024:
-acestream://
 #EXTINF:-1 group-title='Baloncesto', 18:45 - Panathinaikos - Baskonia
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 group-title='Baloncesto', 18:45 - Panathinaikos - Baskonia
@@ -144,7 +141,6 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Huesca - Tenerife
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 Viernes20 de Diciembre de 2024:
-acestream://
 #EXTINF:-1 group-title='NBA', 02:00 - REGULAR Memphis Grizzlies - Golden State Warriors
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 group-title='NBA', 02:00 - REGULAR Memphis Grizzlies - Golden State Warriors
