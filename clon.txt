@@ -12,8 +12,8 @@ acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='Baloncesto', 17:00 - Bahcesehir - Dreamland Gran Canaria
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Real Madrid - Chelsea M+ Ellas
-V
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Real Madrid - Chelsea
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Albacete - Levante
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Albacete - Levante
@@ -22,8 +22,8 @@ acestream://121f719ebb94193c6086ef92865cf9b197750980
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Granada - Cartagena
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 group-title='Baloncesto', 19:15 - FEMENINA Valencia Basket - Basket Zaragoza Aragón
-TV
+#EXTINF:-1 group-title='Baloncesto', 19:15 - FEMENINA Valencia Basket - Basket Zaragoza
+http://636542304575877069.ofdgo121.xyz:80/live/fe23588/BrdSVgtCkmh/877069.ts
 #EXTINF:-1 group-title='Baloncesto', 20:05 - Maccabi - Baskonia
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title='Baloncesto', 20:30 - París - Real Madrid
@@ -49,8 +49,8 @@ Miércoles18 de Diciembre de 2024:
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='Fútbol', 18:00 - INTERCONTINENTAL Real Madrid - Pachuca
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Barcelona - Manchester City M+ Ellas
-V
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Barcelona - Manchester City
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
