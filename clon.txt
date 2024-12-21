@@ -1,100 +1,4 @@
 #EXTM3U
-Miércoles18 de Diciembre de 2024:
-#EXTINF:-1 group-title='NBA', 02:30 - - FINAL Oklahoma City Thunder - Milwaukee Bucks
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 18:00 - INTERCONTINENTAL Real Madrid - Pachuca
-acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Barcelona - Manchester City
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Racing Ferrol - Almería
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title='Fútbol', 20:30 - F VCF Femenino - Deportivo Abanca
-http://213.176.3.70:8080/FzLhnFupZx/8Ow70dmgk6/16474
-#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Recoletas At. Valladolid-Abanca Ademar León
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Joventut - Trefl Sopot
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Cluj-Napoca
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Cluj-Napoca
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Málaga - Eldense
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Málaga - Eldense
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Mirandés - Sporting
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Mirandés - Sporting
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Villarreal - Rayo
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Villarreal - Rayo
-acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Espanyol - Valencia
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Espanyol - Valencia
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Espanyol - Valencia
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 group-title='Fútbol', 21:30 - EA SPORTS Espanyol - Valencia
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-Jueves19 de Diciembre de 2024:
-#EXTINF:-1 group-title='Baloncesto', 18:45 - Panathinaikos - Baskonia
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 18:45 - Panathinaikos - Baskonia
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Ciclismo', 19:00 - A ESPAÑA Presentación Edición 2025
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Elche - Racing
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Elche - Racing
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Elche - Racing
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Elche - Racing
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Elche - Racing
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Cádiz - Burgos
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Cádiz - Burgos
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FEMENINA Uni Girona - Campobasso
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Monaco
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Monaco
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 21:00 - ITALIA Inter - Udinese
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 group-title='Fútbol', 21:00 - ITALIA Inter - Udinese
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Helsinki
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Helsinki
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Helsinki
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Helsinki
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Helsinki
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Deportivo - Castellón
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Deportivo - Castellón
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Huesca - Tenerife
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title='Fútbol', 21:15 - HYPERMOTION Huesca - Tenerife
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 Viernes20 de Diciembre de 2024:
 #EXTINF:-1 group-title='NBA', 02:00 - REGULAR Memphis Grizzlies - Golden State Warriors
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -133,6 +37,8 @@ Sábado21 de Diciembre de 2024:
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='NBA', 01:00 - REGULAR Philadelphia 76ers - Charlotte Hornets
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='F.', 11:00 - 1ª DIVISIÓN FEMENINA IBERDROLA STV Roldán-LBTL Futsal Alcantarilla
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title='Fútbol', 13:00 - DE LA REINA Costa Adeje Tenerife-Barcelona
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title='Fútbol', 13:30 - LEAGUE Aston Villa - Manchester City
@@ -167,6 +73,10 @@ acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Brentford - Nottingham Forest
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Baloncesto', 16:00 - BSR Amiab Albacete-UCAM Murcia
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='F.', 16:00 - PRIMERA DIVISIÓN FEMENINA AE Les Corts-Rubí FS
+acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Celta - Real Sociedad
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Celta - Real Sociedad
@@ -217,6 +127,8 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Zaragoza - Racing Ferrol
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 group-title='F.', 20:00 - 1ª DIVISIÓN MASCULINA Pescados Rubén Burela-Jimbee Cartagena Costa Cálida
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - UCAM Murcia
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - UCAM Murcia
@@ -238,6 +150,8 @@ Domingo22 de Diciembre de 2024:
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='NBA', 00:00 - REGULAR Sacramento Kings - Los Angeles Lakers
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Rugby', 11:00 - FEMENINA IBERDROLA Simón Verde Magnolia Cocos-CRAT Rialta
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Baskonia - Unicaja
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Baskonia - Unicaja
@@ -268,6 +182,8 @@ acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Burgos - Tenerife
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 14:30 - PSV Eindhoven - Feyenoord
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title='Fútbol', 15:00 - LEAGUE Everton - Chelsea
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 group-title='Fútbol', 15:00 - LEAGUE Everton - Chelsea
