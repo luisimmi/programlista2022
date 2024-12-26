@@ -30,7 +30,7 @@ acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Newcastle - Aston Villa
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Newcastle - Aston Villa
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Nottingham Forest - Tottenham
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Southampton - West Ham
@@ -59,7 +59,7 @@ acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Brighton & Hove Albion - Brentford
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Brighton & Hove Albion - Brentford
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Estrella Roja
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - París
@@ -123,7 +123,7 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Tottenham - Wolverhampton
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Tottenham - Wolverhampton
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Everton - Nottingham Forest
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Fulham - Bournemouth
