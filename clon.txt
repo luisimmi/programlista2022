@@ -1,17 +1,5 @@
 #EXTM3U
 Domingo12 de Enero de 2025:
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-https://D.D.M.@oha.to/play/2881668464/index.m3u8
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-http://D.D.M.@oha.to/play/2981915461/index.m3u8
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-https://D.D.M.@vavoo.to/play/2881668464/index.m3u8
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-https://www.oha.to/play/1980907224/index.m3u8
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-https://www.rbtv77.ws/es/football/supercopa-de-espana-4106787/real-madrid-vs-fc-barcelona.html
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-https://www.rbtv77.ws/es/football/supercopa-de-espana-4106787/real-madrid-vs-fc-barcelona.html
 #EXTINF:-1 group-title='NBA', 02:00 - REGULAR Minnesota Timberwolves - Memphis Grizzlies
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='NFL', 02:00 - Baltimore Ravens - Pittsburgh Steelers
