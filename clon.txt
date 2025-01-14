@@ -1,99 +1,315 @@
 #EXTM3U
-Domingo12 de Enero de 2025:
-#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Minnesota Timberwolves - Memphis Grizzlies
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='NFL', 02:00 - Baltimore Ravens - Pittsburgh Steelers
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title='Tenis', 06:30 - DE AUSTRALIA Badosa - Wang
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tenis', 06:30 - DE AUSTRALIA Badosa - Wang
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Atlético de Madrid - Levante UD
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title='Fútbol', 12:00 - F VCF Femenino - Real Sociedad
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title='Baloncesto', 12:00 - FEMENINA ENDESA Ibaeta - Basket Zaragoza
-http://636542304575877069.ofdgo121.xyz:80/live/fe23588/BrdSVgtCkmh/877069.ts
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Río Breogán - Leyma Coruña
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA UCAM Murcia - Hiopos Lleida
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title='Baloncesto', 13:00 - ENDESA Dreamland Gran Canaria - Barça
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Ciclocross', 13:00 - DE ESPAÑA As Pontes (A Coruña)
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Las Palmas - Getafe
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Las Palmas - Getafe
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Las Palmas - Getafe
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Las Palmas - Getafe
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba - Almería
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba - Almería
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 14:00 - F Betis - Madrid CFF
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 group-title='Fútbol', 14:00 - F Betis - Madrid CFF
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Fútbol', 14:30 - Feyenoord - Utrecht
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title='Fútbol', 16:00 - F Real Madrid - Granada CF
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 group-title='Fútbol', 16:00 - F Real Madrid - Granada CF
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS At. Madrid - Osasuna
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS At. Madrid - Osasuna
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS At. Madrid - Osasuna
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS At. Madrid - Osasuna
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS At. Madrid - Osasuna
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elche - Zaragoza
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elche - Zaragoza
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Cádiz - Levante
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Cádiz - Levante
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 group-title='Rugby', 16:15 - CUP La Rochelle - Leinster
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Real Madrid - La Laguna Tenerife
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Real Madrid - La Laguna Tenerife
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Bàsquet Girona - Baskonia
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title='Balonmano', 18:00 - GUERRERAS IBERDROLA Replasa Beti Onak-Grafometal La Rioja
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Baloncesto', 19:00 - FEB Amics Castelló-HLA Alicante
-Marca.com
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 20:00 - Barcelona-Real Madrid
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 group-title='NBA', 21:00 - REGULAR Dallas Mavericks - Denver Nuggets
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='NBA', 21:00 - REGULAR Dallas Mavericks - Denver Nuggets
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Motor', 21:45 - Etapa 7: Al Duwadimi-Al Duwadimi (745 km.)
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='NFL', 22:25 - Philadelphia Eagles - Green Bay Packers
+Martes14 de Enero de 2025:
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Toronto Raptors - Golden State Warriors
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NFL', 22:25 - Philadelphia Eagles - Green Bay Packers
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Toronto Raptors - Golden State Warriors
 acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='NFL', 02:00 - Los Angeles Rams - Minnesota Vikings
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='NFL', 02:00 - Los Angeles Rams - Minnesota Vikings
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Balonmano', 17:30 - DEL MUNDO Francia-Catar
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Baloncesto', 18:00 - Lietkabelis - Valencia Basket
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 18:00 - Lietkabelis - Valencia Basket
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Brentford - Manchester City
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Brentford - Manchester City
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Chelsea - Bournemouth
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE West Ham - Fulham
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+#EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - Olympiacos
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Maccabi
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Nottingham Forest - Liverpool
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Nottingham Forest - Liverpool
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Ourense-Valencia
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Ourense-Valencia
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Ourense-Valencia
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Ourense-Valencia
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Ourense-Valencia
+acestream://b545ed0de344cfb830721fb961fddb208d39d19a
+#EXTINF:-1 group-title='Baloncesto', 21:00 - EUROPE CUP FC Porto - Basket Zaragoza
+http://636542304575877069.ofdgo121.xyz:80/live/fe23588/BrdSVgtCkmh/877069.ts
+#EXTINF:-1 group-title='Motor', 21:45 - Etapa 9: Riyadh-Haradh (589 km.)
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+Miércoles15 de Enero de 2025:
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Milwaukee Bucks - Sacramento Kings
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Milwaukee Bucks - Sacramento Kings
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='F.', 12:00 - COPA DEL REY Sorteo Cuartos de Final
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Almería-Leganés
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Almería-Leganés
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Almería-Leganés
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Almería-Leganés
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Almería-Leganés
+acestream://b545ed0de344cfb830721fb961fddb208d39d19a
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Pontevedra - Getafe
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Pontevedra - Getafe
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Pontevedra - Getafe
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Pontevedra - Getafe
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Pontevedra - Getafe
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Balonmano', 20:30 - DEL MUNDO Alemania-Polonia
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Panathinaikos
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Panathinaikos
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Everton - Aston Villa
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Everton - Aston Villa
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Newcastle - Wolverhampton
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Leicester - Crystal Palace
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Arsenal - Tottenham
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Arsenal - Tottenham
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Barcelona - Betis
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Barcelona - Betis
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Barcelona - Betis
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Barcelona - Betis
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 21:00 - DEL REY Barcelona - Betis
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Baloncesto', 21:00 - Dreamland Gran Canaria - Joventut Badalona
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 21:00 - Dreamland Gran Canaria - Joventut Badalona
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Elche - At. Madrid
+acestream:///b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Elche - At. Madrid
+acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
+#EXTINF:-1 group-title='Motor', 22:05 - Etapa 10: Haradh-Shubaytah (638 km.)
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+Jueves16 de Enero de 2025:
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR San Antonio Spurs - Memphis Grizzlies
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR San Antonio Spurs - Memphis Grizzlies
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Golf', 08:30 - DUBAI DESERT CLASSIC Jornada 1 M+
+Golf
+#EXTINF:-1 group-title='Fútbol', 16:05 - PRO LEAGUE Al-Hilal-Al Fateh
+Marca.com
+#EXTINF:-1 group-title='Fútbol', 18:00 - PRO LEAGUE Al-Ittihad FC-Al-Raed
+Marca.com
+#EXTINF:-1 group-title='Balonmano', 18:00 - DEL MUNDO España-Chile
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Baloncesto', 19:00 - FEMENINA Reyer Venecia - Basket Zaragoza
+http://636542304575877069.ofdgo121.xyz:80/live/fe23588/BrdSVgtCkmh/877069.ts
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Athletic-Osasuna
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Athletic-Osasuna
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Athletic-Osasuna
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Athletic-Osasuna
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Athletic-Osasuna
+acestream://b545ed0de344cfb830721fb961fddb208d39d19a
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Rayo Vallecano
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Rayo Vallecano
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Rayo Vallecano
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Rayo Vallecano
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Rayo Vallecano
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Baloncesto', 19:30 - FEMENINA Uni GIrona - NKA Universitas Pecs
+acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Ipswich Town - Brighton & Hove Albion
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Ipswich Town - Brighton & Hove Albion
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Olympiacos
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Olympiacos
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Manchester Utd. - Southampton
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Manchester Utd. - Southampton
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Real Madrid - Celta de Vigo
+acestream:///b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Real Madrid - Celta de Vigo
+acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
+#EXTINF:-1 group-title='Motor', 21:45 - Etapa 11: Shubaytah-Shubaytah (506 km.)
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+Viernes17 de Enero de 2025:
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Indiana Pacers
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Indiana Pacers
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Golf', 08:30 - DUBAI DESERT CLASSIC Jornada 2 M+
+Golf
+#EXTINF:-1 group-title='Fútbol', 18:00 - PRO LEAGUE Al-Taawon-Al Nassr Riyadh
+Marca.com
+#EXTINF:-1 group-title='Fútbol', 20:00 - F Deportivo Abanca - Levante UD
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - Panathinaikos
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Cartagena - Real Oviedo
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Cartagena - Real Oviedo
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Fc Barcelona - Efes
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Fc Barcelona - Efes
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Espanyol - Valladolid
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Espanyol - Valladolid
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Espanyol - Valladolid
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Espanyol - Valladolid
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 group-title='Motor', 21:45 - Etapa 12: Shubaytah-Shubaytah
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+Sábado18 de Enero de 2025:
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Oklahoma City Thunder
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Oklahoma City Thunder
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Golf', 08:00 - DUBAI DESERT CLASSIC Jornada 3 M+
+Golf
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Levante Badalona - Atlético de Madrid
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Levante Badalona - Atlético de Madrid
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Costa Adeje Tenerife
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Fútbol', 13:30 - LEAGUE Newcastle - Bournemouth
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 13:30 - LEAGUE Newcastle - Bournemouth
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Girona - Sevilla
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Girona - Sevilla
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Brentford - Liverpool
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Brentford - Liverpool
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE West Ham - Crystal Palace
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Leicester - Fulham
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+#EXTINF:-1 group-title='F.', 16:00 - SUPERCOPA Real Betis-ElPozo Murcia
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Fútbol', 16:15 - F Athletic Club - FC Barcelona
+acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Leganés - Atlético de Madrid
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Leganés - Atlético de Madrid
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Leganés - Atlético de Madrid
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Leganés - Atlético de Madrid
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Eldense - Cádiz
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Eldense - Cádiz
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Rugby', 16:15 - CUP Northampton Saints - Munster
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Baxi Manresa - Joventut Badalona
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Baxi Manresa - Joventut Badalona
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Leyma Coruña - UCAM Murcia
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title='Balonmano', 18:00 - DEL MUNDO España-Japón
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Fútbol', 18:30 - LEAGUE Arsenal - Aston Villa
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 group-title='Fútbol', 18:30 - LEAGUE Arsenal - Aston Villa
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Fútbol', 18:30 - F Madrid CFF - VCF Femenino
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Fútbol', 18:30 - F Madrid CFF - VCF Femenino
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Alavés
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Alavés
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Alavés
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Alavés
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Alavés
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Eibar - Albacete
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Eibar - Albacete
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Sporting - Elche
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Sporting - Elche
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Sporting - Elche
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Sporting - Elche
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Sporting - Elche
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='F.', 20:00 - SUPERCOPA Cartagena-Barcelona
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Boxeo', 20:00 - PACTADO Darren Till vs Anthony Taylor
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - Bàsquet Girona
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - Bàsquet Girona
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Unicaja - Valencia Basket
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Unicaja - Valencia Basket
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe - Barcelona
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe - Barcelona
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe - Barcelona
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe - Barcelona
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe - Barcelona
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Levante - Granada
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Levante - Granada
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='NFL', 22:30 - Kansas City Chiefs - Houston Texans
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, La1 
 http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, La1 UHD 
