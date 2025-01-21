@@ -1,33 +1,4 @@
 #EXTM3U
-Lunes20 de Enero de 2025:
-#EXTINF:-1 group-title='NFL', 00:30 - REGULAR Buffalo Bills - Baltimore Ravens
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Tenis', 03:30 - DE AUSTRALIA Sinner - Rune
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tenis', 03:30 - DE AUSTRALIA Sinner - Rune
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Tenis', 09:00 - DE AUSTRALIA Lys - Swiatek
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title='Tenis', 09:00 - DE AUSTRALIA Lys - Swiatek
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Fútbol', 13:00 - DEL REY Sorteo Cuartos de Final
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Balonmano', 20:30 - DEL MUNDO Suecia-España
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Mirandés - Málaga
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Mirandés - Málaga
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Chelsea - Wolverhampton
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Chelsea - Wolverhampton
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Villarreal - Mallorca
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title='NBA', 23:00 - REGULAR Golden State Warriors - Boston Celtics
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='NBA', 23:00 - REGULAR Golden State Warriors - Boston Celtics
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 Martes21 de Enero de 2025:
 #EXTINF:-1 group-title='NCAA', 01:30 - CHAMPIONS GAME Ohio State - Notre Dame
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
