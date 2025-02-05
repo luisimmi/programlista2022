@@ -720,3 +720,9 @@ http://127.0.0.1:6878/ace/getstream?id=4e62333d37ab424ed0cf30d4adbd293aff729443
  http://127.0.0.1:6878/ace/getstream?id=7b47fd387480989002b93db1fe9a28f5f7b94576
 #EXTINF:-1 group-title= tvg-id= tvg-logo= , M. DEPORTES 2 FHD por Adrian
  http://127.0.0.1:6878/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , COPA DEL REY 1 
+ http://127.0.0.1:6878/ace/getstream?id=33fcd9a17cb791374376f1b77f7247371167245d
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , COPA DEL REY 2 
+ http://127.0.0.1:6878/ace/getstream?id=2542a8b98de5dde269f1f75a0314c97046dd2ecf
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , COPA DEL REY 3 
+ http://127.0.0.1:6878/ace/getstream?id=eb7d8167de122a09bba8a08c6933db2a41744998
