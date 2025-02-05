@@ -708,3 +708,15 @@ http://127.0.0.1:6878/ace/getstream?id=f4a5545ab93ea29144debcbba87204b4f4a7ccf5
 http://127.0.0.1:6878/ace/getstream?id=7802e1c784d8b5d5e1b1534ca085990c8e5e1b67
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, M. ACCION FHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=4e62333d37ab424ed0cf30d4adbd293aff729443
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , DAZN F1 FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=0d7cccccdad350bef0ac65ec37bf55a18d4865a8
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , LA LIGA TV BAR FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=704d3d43e6aa360eb552501eb020793cab93175d
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , DAZN LA LIGA FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=27df9a17762aea1c6e256cf12ec262790deafef7
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , M. DEPORTES FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=fecc9e98396b3bf9e5643003825b7cdd71346d65
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , LA 1 FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=7b47fd387480989002b93db1fe9a28f5f7b94576
+#EXTINF:-1 group-title= tvg-id= tvg-logo= , M. DEPORTES 2 FHD por Adrian
+ http://127.0.0.1:6878/ace/getstream?id=b6c0f2706af6d203dbf15e3363cfbd6b8944afd3
