@@ -1,43 +1,4 @@
 #EXTM3U
-Jueves6 de Febrero de 2025:
-#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Cleveland Cavaliers
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Detroit Pistons - Cleveland Cavaliers
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Esquí', 09:30 - DE EUROPA Slalom Masculino (Baqueira-Beret)
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR (F) Etapa 1: Dubai Police Officer's Club - Dubai Harbour
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR (F) Etapa 1: Dubai Police Officer's Club - Dubai Harbour
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 group-title='Ciclismo', 15:30 - A LA COMUNITAT VALENCIANA Etapa 2 - La Nucía - Benifato
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Golf', 16:15 - RIYADH Jornada 1 M+
-Golf
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Fenerbahce - Real Madrid
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Fenerbahce - Real Madrid
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 19:00 - CAMPEONATO DE EUROPA FEMENINO Austria-España
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Osasuna
-acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
-#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Osasuna
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Osasuna
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Osasuna
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
-#EXTINF:-1 group-title='Fútbol', 19:30 - DEL REY Real Sociedad - Osasuna
-acestream://b545ed0de344cfb830721fb961fddb208d39d19a
-#EXTINF:-1 group-title='Tenis', 19:30 - ROTTERDAM Alcaraz-Vavassori
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title='H.', 20:30 - CHAMPIONS LEAGUE Deportivo Liceo-HC Dinan Quevert Team Cordon TVG
-2
-#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Valencia - Barcelona
-acestream:///b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
-#EXTINF:-1 group-title='Fútbol', 21:30 - DEL REY Valencia - Barcelona
-acestream://4a714c436cb67d53cf197f9038239fddab2d8b20
 Viernes7 de Febrero de 2025:
 #EXTINF:-1 group-title='NBA', 01:30 - REGULAR Boston Celtics - Dallas Mavericks
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -57,6 +18,8 @@ acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 group-title='Golf', 16:15 - RIYADH Jornada 2 M+
 Golf
+#EXTINF:-1 group-title='Tenis', 19:30 - ROTTERDAM Alcaraz-Pedro Martínez
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 group-title='Fútbol', 20:00 - F Atlético de Madrid - Sevilla FC
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - Maccabi
