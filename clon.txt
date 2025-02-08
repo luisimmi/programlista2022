@@ -370,29 +370,29 @@ acestream://008722562de872871b879d9d0cab4fb4b79784b2
 acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 #EXTINF:-1 tvg-id="UFC TV HD" tvg-logo="https://cdn6.aptoide.com/imgs/4/2/7/42758821384c528cef14cd8409c8c482_icon.jpg", UFC TV HD por Tronoss
 acestream://c73e3eefe1f4a90fd7495f8be2d5f772d758713b
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 1
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 1 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=4f416d74e9feb1812f7d10c637e46d40ebab3e2b
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 1 FHD by Adrian 
 http://127.0.0.1:6878/ace/getstream?id=f5a769b1d4d97673dcaae415bf197706a8056428
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 1
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 1 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 2
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. LA LIGA 2 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=83a2be1d789584c6040308d485ab1b29880af100
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, TV BAR
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, TV BAR FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=954b2cb573313690f2a6d6a2e70102fb49ace952
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, DAZN LA LIGA
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, DAZN LA LIGA FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=6af858dff80a87e247c6ad681aa5adf09f988d1e
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. DEPORTES
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. DEPORTES FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=dca9d8b0be1a5d68c929f5cebb61b82a4f62a307
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. DEPORTES 2
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M. DEPORTES 2 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=a54aed5e91e4a99a3582551db44fd472e1addda6
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, DAZN F1
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, DAZN F1 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=0390f35108dd054332097af5fcb53a192d0289bf
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, COPA DEL REY 1 by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=adb8b91f027336eb5091ca5852561202c35f0b6e
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, LA 1
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, LA 1 FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
-#EXTINF:-1 group-title= tvg-id= tvg-logo=, #VAMOS
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, #VAMOS FHD by Adrián 
 http://127.0.0.1:6878/ace/getstream?id=0b7057503d40a24417441484479cfe2d0eceb2fd
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, La1 
 http://127.0.0.1:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
