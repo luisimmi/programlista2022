@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 Sábado8 de Febrero de 2025:
 #EXTINF:-1 group-title='NBA', 00:00 - REGULAR Washington Wizards - Cleveland Cavaliers
