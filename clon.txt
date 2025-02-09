@@ -108,6 +108,8 @@ PLAY
 `acestream://121f719ebb94193c6086ef92865cf9b197750980`
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Racing
 `acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498`
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Racing
+`acestream://a0db1112bde88fe5b1c0096ea7a5e8098fa00f7f`
 #EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Bàsquet Girona - Casademont Zaragoza
 `acestream://77b36b785e84efa9a41d2a1ef90dd9652b8d2916`
 #EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Baskonia - Coviran Granada
@@ -144,6 +146,8 @@ PLAY
 `acestream://121f719ebb94193c6086ef92865cf9b197750980`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Almería
 `acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498`
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Almería
+`acestream://a0db1112bde88fe5b1c0096ea7a5e8098fa00f7f`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cádiz - Cartagena
 `acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cádiz - Cartagena
@@ -499,6 +503,10 @@ http://127.0.0.1:6878/ace/getstream?id=54064ca54e2bebd37851431c3f023aa35ce10ea6
 http://127.0.0.1:6878/ace/getstream?id=0b7057503d40a24417441484479cfe2d0eceb2fd
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, Teledeporte 
 http://127.0.0.1:6878/ace/getstream?id=c5745486f47a7871419a848bca50fd636a743d15
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, M+ LALIGA TV BAR  
+http://127.0.0.1:6878/ace/getstream?id=9ae511cf097e3212be5a9ced17f10f4a5514ce67
+#EXTINF:-1 group-title= tvg-id= tvg-logo=, LALIGA TV HYPERMOTION 
+http://127.0.0.1:6878/ace/getstream?id=a0db1112bde88fe5b1c0096ea7a5e8098fa00f7f
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, M+ LIGA DE CAMPEONES 
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, M+ LIGA DE CAMPEONES 
