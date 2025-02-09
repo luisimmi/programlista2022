@@ -1,121 +1,157 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 Domingo9 de Febrero de 2025:
 #EXTINF:-1 group-title='NBA', 02:00 - REGULAR Memphis Grizzlies - Oklahoma City Thunder
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+`acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a`
 #EXTINF:-1 group-title='Ciclismo', 11:00 - A LA COMUNITAT VALENCIANA FÉMINAS Alfafar-Valencia
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
 #EXTINF:-1 group-title='Squash', 12:00 - DE ESPAÑA Final Femenina (Barcelona)
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Fútbol', 12:00 - F RCD Espanyol - FC Barcelona
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
+#EXTINF:-1 group-title='Fútbol', 12:00 - F RCD Espanyol - FC Barcelona GOL
+PLAY
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Valencia - Costa Adeje Tenerife
-acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+`acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72`
 #EXTINF:-1 group-title='Ciclismo', 12:00 - TOUR (F) Etapa 4 - Abu Dhabi Fatima Bint Mubarak Ladies Academy - Abu Dhabi Breakwater
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title='Ciclismo', 12:00 - TOUR (F) Etapa 4 - Abu Dhabi Fatima Bint Mubarak Ladies Academy - Abu Dhabi Breakwater
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
+`acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652`
 #EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Hiopos Lleida - Real Madrid
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+`acestream://81c467f75aa3e4b02361730bb8973ca2234cf684`
 #EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Hiopos Lleida - Real Madrid
-acestream://3a74d9869b13e763476800740c6625e715a39879
+`acestream://dca9d8b0be1a5d68c929f5cebb61b82a4f62a307`
 #EXTINF:-1 group-title='Balonmano', 13:00 - DE ESPAÑA Barcelona-Torrelavega
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
 #EXTINF:-1 group-title='Baloncesto', 13:00 - ENDESA Dreamland Gran Canaria - Morabanc Andorra
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+`acestream://911b6c35f4802fd358b78b328528af4650eca020`
+#EXTINF:-1 group-title='Baloncesto', 13:00 - ENDESA Dreamland Gran Canaria - Morabanc Andorra
+`acestream://a54aed5e91e4a99a3582551db44fd472e1addda6`
 #EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+`acestream://94d34491106e00394835c8cb68aa94481339b53f`
 #EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+`acestream://d3de78aebe544611a2347f54d5796bd87f16c92d`
 #EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+`acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163`
 #EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+`acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e`
 #EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+`acestream://7fc274f1bccb3d755c8e0760459bd81056eb998f`
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
+`acestream://4f416d74e9feb1812f7d10c637e46d40ebab3e2b`
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
+`acestream://f5a769b1d4d97673dcaae415bf197706a8056428`
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés-Getafe
+`acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1`
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+`acestream://94d34491106e00394835c8cb68aa94481339b53f`
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+`acestream://d3de78aebe544611a2347f54d5796bd87f16c92d`
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+`acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163`
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+`acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e`
 #EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+`acestream://7fc274f1bccb3d755c8e0760459bd81056eb998f`
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
+`acestream://4f416d74e9feb1812f7d10c637e46d40ebab3e2b`
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
+`acestream://f5a769b1d4d97673dcaae415bf197706a8056428`
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elche - Tenerife
+`acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1`
 #EXTINF:-1 group-title='Rugby', 14:30 - CHAMPIONSHIP Suiza-España
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
 #EXTINF:-1 group-title='Tenis', 15:30 - ROTTERDAM Alcaraz-De Miñaur
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+`acestream://911b6c35f4802fd358b78b328528af4650eca020`
+#EXTINF:-1 group-title='Tenis', 15:30 - ROTTERDAM Alcaraz-De Miñaur
+`acestream://a54aed5e91e4a99a3582551db44fd472e1addda6`
 #EXTINF:-1 group-title='Ciclismo', 15:50 - COMUNITAT VALENCIANA Etapa 5 - Alfafar - Valencia
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
 #EXTINF:-1 group-title='Fútbol', 16:00 - F Real Betis Féminas - Athletic Club
-acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 group-title='Fútbol', 16:00 - F Real Betis Féminas - Athletic Club
-acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='H.', 16:00 - OK LIGA Barcelona - Liceo
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+`acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d`
+#EXTINF:-1 group-title='H.', 16:00 - OK LIGA Barcelona - Liceo Esport
+3
 #EXTINF:-1 group-title='Rugby', 16:00 - 6 NACIONES Escocia - Irlanda
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+`acestream://b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe`
 #EXTINF:-1 group-title='Rugby', 16:00 - 6 NACIONES Escocia - Irlanda
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+`acestream://0b7057503d40a24417441484479cfe2d0eceb2fd`
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
-acestream://110d441ddc9713a7452588770d2bc85504672f47
+`acestream://110d441ddc9713a7452588770d2bc85504672f47`
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+`acestream://ec29289b0b14756e686c03a501bae1efa05be70c`
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+`acestream://6de4794cd02f88f14354b5996823413a59a1de0f`
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+`acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb`
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
+`acestream://28c8115681bf6e4565cb5e987530c2f606cc561f`
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
+`acestream://f509888b9c39e8de6e275b19796d6cac5f3fd6cb`
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Valencia - Leganés
+`acestream://6af858dff80a87e247c6ad681aa5adf09f988d1e`
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Córdoba - Huesca
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+`acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d`
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Córdoba - Huesca
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+`acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a`
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Córdoba - Huesca
+`acestream://7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a`
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Racing
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+`acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb`
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Racing
-acestream://121f719ebb94193c6086ef92865cf9b197750980
+`acestream://121f719ebb94193c6086ef92865cf9b197750980`
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Racing
+`acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498`
 #EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Bàsquet Girona - Casademont Zaragoza
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+`acestream://77b36b785e84efa9a41d2a1ef90dd9652b8d2916`
 #EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Baskonia - Coviran Granada
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+`acestream://dba6e81dab3150e40ca49bef03f931a990bb93ea`
 #EXTINF:-1 group-title='Balonmano', 18:00 - LEAGUE FEMENINA Fredrikstad - Bera Bera
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 group-title='Balonmano', 18:00 - LEAGUE FEMENINA Fredrikstad - Bera Bera
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+`acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031`
 #EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Valencia Basket - Barça
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+`acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a`
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+`acestream://94d34491106e00394835c8cb68aa94481339b53f`
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+`acestream://d3de78aebe544611a2347f54d5796bd87f16c92d`
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+`acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163`
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+`acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e`
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+`acestream://7fc274f1bccb3d755c8e0760459bd81056eb998f`
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
+`acestream://4f416d74e9feb1812f7d10c637e46d40ebab3e2b`
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
+`acestream://f5a769b1d4d97673dcaae415bf197706a8056428`
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Real Sociedad-Espanyol
+`acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Almería
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+`acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Almería
-acestream://121f719ebb94193c6086ef92865cf9b197750980
+`acestream://121f719ebb94193c6086ef92865cf9b197750980`
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Almería
+`acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cádiz - Cartagena
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+`acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d`
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cádiz - Cartagena
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+`acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a`
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cádiz - Cartagena
+`acestream://7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a`
 #EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Viveros Herol BM Nava-Helvetia Anaitasuna
-acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+`acestream://c5745486f47a7871419a848bca50fd636a743d15`
 #EXTINF:-1 group-title='NBA', 20:00 - REGULAR Milwaukee Bucks - Philadelphia 76ers
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+`acestream://b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe`
 #EXTINF:-1 group-title='NBA', 20:00 - REGULAR Milwaukee Bucks - Philadelphia 76ers
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+`acestream://0b7057503d40a24417441484479cfe2d0eceb2fd`
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
-acestream://110d441ddc9713a7452588770d2bc85504672f47
+`acestream://110d441ddc9713a7452588770d2bc85504672f47`
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+`acestream://ec29289b0b14756e686c03a501bae1efa05be70c`
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+`acestream://6de4794cd02f88f14354b5996823413a59a1de0f`
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+`acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb`
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
+`acestream://28c8115681bf6e4565cb5e987530c2f606cc561f`
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
+`acestream://f509888b9c39e8de6e275b19796d6cac5f3fd6cb`
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Sevilla - Barcelona
+`acestream://6af858dff80a87e247c6ad681aa5adf09f988d1e`
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", #VAMOS FHD 2 por Tronoss
 acestream://6d949579bc230abff933d5ac242961319bbebc4b
