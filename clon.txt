@@ -1,3 +1,23 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
+Lunes17 de Febrero de 2025:
+#EXTINF:-1 group-title='Baloncesto', 02:00 - All Star Game
+acestream://682579275d24fa95964f99f3778bdd22c211c6b9
+#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 1 - Al Dhafra Walk Madinat Zayed - Liwa
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Ciclismo', 15:15 - Jaén Paraíso Interior
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 group-title='Ciclismo', 15:15 - Jaén Paraíso Interior
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Tenis', 15:30 - DOHA Alcaraz-Cilic
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
+acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Barcelona - Rayo M+ LALIGA
+TV
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
