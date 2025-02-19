@@ -1,74 +1,317 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Lunes17 de Febrero de 2025:
-#EXTINF:-1 group-title='Baloncesto', 02:00 - All Star Game
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 1 - Al Dhafra Walk Madinat Zayed - Liwa
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-#EXTINF:-1 group-title='Ciclismo', 15:15 - Jaén Paraíso Interior
+Miércoles19 de Febrero de 2025:
+#EXTINF:-1 group-title='Hockey', 10:30 - LEAGUE MASCULINA España-Inglaterra
 acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 group-title='Ciclismo', 15:15 - Jaén Paraíso Interior
+#EXTINF:-1 group-title='Hockey', 10:30 - LEAGUE MASCULINA España-Inglaterra
 acestream://61b9b271c16f970aab43cb753c5f8be181dceece
-#EXTINF:-1 group-title='Tenis', 15:30 - DOHA Alcaraz-Cilic
+#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 3 - Al Marjan Island - Jebel Jais
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Ciclismo', 14:00 - A ANDALUCÍA Etapa 1 - Almuñécar - Cádiar
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Hockey', 15:00 - LEAGUE FEMENINA India-España
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 group-title='Hockey', 15:00 - LEAGUE FEMENINA India-España
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Ciclismo', 16:00 - AL ALGARVE Etapa 1 - Portimão - Lagos
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Tenis', 17:00 - DOHA Alcaraz-Nardi
 acestream://ce65932b1113ec32c270050786d7702897150d74
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Almería - Elche
-acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Barcelona - Rayo
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE Borussia Dortmund - Sporting Portugal
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE Borussia Dortmund - Sporting Portugal
+acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE Borussia Dortmund - Sporting Portugal
+acestream://8e4ab34c7fe491831734bc677b7bf91555653eb3
+#EXTINF:-1 group-title='Baloncesto', 20:00 - FEMENINA Uni Girona - ASVEL Lyon Féminin Esport
+3
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Aston Villa - Liverpool
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE Aston Villa - Liverpool
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Madrid - Manchester City
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Barcelona - Rayo
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Madrid - Manchester City
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Barcelona - Rayo
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Madrid - Manchester City
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Barcelona - Rayo
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Madrid - Manchester City
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSG - Stade Brest
+acestream://d1632b993ac2f980f601e1026b3966654a93beee
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSG - Stade Brest
+acestream://061bda6fe2e50c509afd83f63a601e139d75d3a0
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSG - Stade Brest
+acestream://8e4ab34c7fe491831734bc677b7bf91555653eb3
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSV Eindhoven - Juventus
+acestream://e42984ac6529407462f92201af95c01db8988368
+Jueves20 de Febrero de 2025:
+#EXTINF:-1 group-title='NBA', 04:00 - REGULAR Los Angeles Lakers - Charlotte Hornets
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 4 - Dubai Police Officer's Club - Dubai Harbour
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Ciclismo', 14:00 - A ANDALUCÍA Etapa 2 - Vélez-Málaga - Alcaudete
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Ciclismo', 16:00 - AL ALGARVE Etapa 2 - Lagoa - Alto da Foia
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Baloncesto', 18:30 - CAMPEONATO DE EUROPA MASCULINO Letonia-España
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 group-title='Baloncesto', 18:30 - CAMPEONATO DE EUROPA MASCULINO Letonia-España
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Baloncesto', 18:45 - LEAGUE Betis - Gent
+acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1 group-title='Baloncesto', 18:45 - LEAGUE Betis - Gent
+acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
+#EXTINF:-1 group-title='Baloncesto', 18:45 - LEAGUE Betis - Gent
+acestream://04f9f66c3dd1d9226f2d4a500bec97c55ee3256a
+#EXTINF:-1 group-title='Baloncesto', 18:45 - LEAGUE Betis - Gent
+acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
+#EXTINF:-1 group-title='Baloncesto', 18:45 - LEAGUE Betis - Gent
+acestream://be5cf4441685df4540a34938fb3774818fa62310
+#EXTINF:-1 group-title='Voleibol', 20:30 - DEL REY Conectabalear CV Manacor-Pamesa Teruel VB
+acestream://2c5a883ed564be5ff3692705c25556613c395b11
+#EXTINF:-1 group-title='Voleibol', 20:30 - DEL REY Conectabalear CV Manacor-Pamesa Teruel VB
+acestream://61b9b271c16f970aab43cb753c5f8be181dceece
+#EXTINF:-1 group-title='Balonmano', 20:45 - LEAGUE Barcelona - Kielce
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Balonmano', 20:45 - LEAGUE Barcelona - Kielce
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Sociedad - Midtjylland
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Sociedad - Midtjylland
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Sociedad - Midtjylland
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Real Sociedad - Midtjylland
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+Viernes21 de Febrero de 2025:
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Atlanta Hawks - Orlando Magic
+acestream://ce65932b1113ec32c270050786d7702897150d74
+#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Racing Avellaneda - Botafogo
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Racing Avellaneda - Botafogo
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Racing Avellaneda - Botafogo
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Racing Avellaneda - Botafogo
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 5 - Al Aqah - Umm Al Quwain
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Fútbol', 12:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 12:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 12:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 12:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 13:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 13:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 13:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 13:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Ciclismo', 14:00 - A ANDALUCÍA Etapa 3 - Alcaudete - Alcaudete
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Fútbol', 14:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 14:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 14:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 14:00 - LEAGUE Sorteo de octavos, cuartos y semifinales
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 15:20 - PRO LEAGUE Damac-Al Ahli SC
+Marca.com
+#EXTINF:-1 group-title='Ciclismo', 16:00 - AL ALGARVE Etapa 3 - Vila Real Santo António - Tavira
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Fútbol', 18:00 - PRO LEAGUE Al Nassr Riyadh-Al-Ettifaq
+Marca.com
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Málaga - Tenerife
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Málaga - Tenerife
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Málaga - Tenerife
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Leicester - Brentford
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Leicester - Brentford
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Celta - Osasuna
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Celta - Osasuna
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Celta - Osasuna
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Celta - Osasuna
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+Sábado22 de Febrero de 2025:
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Cleveland Cavaliers - New York Knicks
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Cleveland Cavaliers - New York Knicks
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Cleveland Cavaliers - New York Knicks
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Motos', 05:30 - Phillip Island: Australia Round - Carrera 1
+acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1 group-title='Motos', 05:30 - Phillip Island: Australia Round - Carrera 1
+acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
+#EXTINF:-1 group-title='Ciclismo', 11:50 - TOUR Etapa 6 - Louvre Abu Dhabi Museum - Abu Dhabi Breakwater
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Ciclismo', 13:30 - A ANDALUCÍA Etapa 4 - Lucena - Lucena
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Fútbol', 13:30 - LEAGUE Everton - Manchester Utd.
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Fútbol', 13:30 - LEAGUE Everton - Manchester Utd.
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés - Espanyol
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés - Espanyol
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés - Espanyol
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Alavés - Espanyol
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Racing Ferrol - Córdoba
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Racing Ferrol - Córdoba
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Racing Ferrol - Córdoba
+acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
+#EXTINF:-1 group-title='Rugby', 15:15 - 6 NACIONES Gales - Irlanda
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 group-title='Rugby', 15:15 - 6 NACIONES Gales - Irlanda
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 group-title='Rugby', 15:15 - 6 NACIONES Gales - Irlanda
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Arsenal - West Ham
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Arsenal - West Ham
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Ipswich Town - Tottenham
+acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Bournemouth - Wolverhampton
+acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Fulham - Crystal Palace
+acestream://ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
+#EXTINF:-1 group-title='Ciclismo', 16:00 - AL ALGARVE Etapa 4 - Albufeira - Faro
+acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://6af858dff80a87e247c6ad681aa5adf09f988d1e
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Villarreal
+acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Real Oviedo
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Real Oviedo
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Burgos - Real Oviedo
+acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Eibar - Racing
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Eibar - Racing
+acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
+#EXTINF:-1 group-title='Rugby', 17:45 - 6 NACIONES Inglaterra - Escocia
+acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 group-title='Rugby', 17:45 - 6 NACIONES Inglaterra - Escocia
+acestream://0b7057503d40a24417441484479cfe2d0eceb2fd
+#EXTINF:-1 group-title='Rugby', 17:45 - 6 NACIONES Inglaterra - Escocia
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Fútbol', 18:30 - LEAGUE Aston Villa - Chelsea
+acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1 group-title='Fútbol', 18:30 - LEAGUE Aston Villa - Chelsea
+acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Valencia - At. Madrid
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Valencia - At. Madrid
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Valencia - At. Madrid
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Valencia - At. Madrid
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Granada - Zaragoza
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Granada - Zaragoza
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Granada - Zaragoza
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Granada - Zaragoza
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 18:30 - PRO LEAGUE Al-Ittihad FC-Al-Hilal
+Marca.com
+#EXTINF:-1 group-title='F.', 19:00 - PRIMERA DIVISIÓN Barça - Santa Coloma Esport
+3
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Las Palmas - Barcelona
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Las Palmas - Barcelona
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Las Palmas - Barcelona
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Las Palmas - Barcelona
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Sporting - Almería
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Sporting - Almería
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Sporting - Almería
+acestream://c0f89f060d5134c855b6e3cc707c42ed0bf92498
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD por Adrian
-acestream://225d0474bbc09a4355f473ed0a0f8016da7083b9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD por Adrian
-acestream://6713d3a14ffec0e0db5cf118b857f0db878fbaf5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD por Adrian
-acestream://f409a32da912cda2a0071397f552c564540fe101
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD por Adrian
-acestream://1a90eb40257df643aee14cb94a5fb06494dcded1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD --> NEW ERA
+acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
+acestream://ef1e0c8799b331efe144a91317e35b064c54ec0c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA
+acestream://d08f78bd69c9c5cd927c4431632660bb9994727c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD --> NEW ERA
+acestream://a55df9a3db614b4e92ea7f8612a9624e7a9f226d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://ee5ffa2c47cad5f00276904722e9d234def6f14a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", M.L. CAMPEONES 2
-acestream://acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
-acestream://acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES
-acestream://acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M DEPORTES
-acestream://acestream://3a74d9869b13e763476800740c6625e715a39879
+acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M DEPORTES 2
-acestream://acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR", M DEPORTES 3
-acestream://acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR", M DEPORTES 4
-acestream://acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR", M DEPORTES 5
-acestream://acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR", M DEPORTES 6
-acestream://acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", M DEPORTES 7
-acestream://acestream://070f82d6443a52962d6a2ed9954c979b29404932
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
-acestream://acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2
-acestream://acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2
-acestream://acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", M #VAMOS
-acestream://acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", M #VAMOS
-acestream://acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EuroSport
-acestream://acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", Copa del Rey
-acestream://acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
+acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga 1080P
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga 1080 MultiAudio
@@ -87,9 +330,9 @@ acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga TV 4" group-title="LA LIGA", M. LaLiga 4 1080
 acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", La Liga BAR 1080
+#EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", La Liga BAR 1080
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", La Liga BAR 1080
+#EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", La Liga BAR 1080
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga 1080 MultiAudio
 acestream://110d441ddc9713a7452588770d2bc85504672f47
@@ -119,9 +362,9 @@ acestream://d3847e6bd832b62cbae9cd193d1d33f14426c071
 acestream://0f78154a43140b4bbd2171e6cd61cd1550e47493
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD --> NEW ERA
 acestream://9bcf45be21e73b16e95334a5b2c3240dc1ed43ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", DAZN BAR 1 FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN BAR 1 FHD --> NEW ERA
 acestream://8aedbf4be7908834a27afd37b4bce6eb44559bde
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="LaLiga TV BAR 2" group-title="LA LIGA", DAZN BAR 2 BAR FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN BAR 2 FHD --> NEW ERA
 acestream://d67bd4fddb4dfbb7e155770e344a135fc54bd3db
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD (SAT) --> NEW ERA
 acestream://ccc6b9007394375abac733093ce8aeabc1c13b71
@@ -287,7 +530,7 @@ acestream://b04b7e27289df55bd5b0b33a5e5fdd297971a13e
 acestream://aec09c33074b0eecc817c6026f2b43db10829ae6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD (*) --> NEW ERA
 acestream://f38729ebbf5dedd512267ed13a9a1d0cf17a108b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", DAZN 1 BAR FHD (*) --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR FHD (*) --> NEW ERA
 acestream://d9c40027c3b10dac0d3cb68906b7cde37132c76c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD (*) --> NEW ERA
 acestream://c0ad1467149072cc1ca00636acd04223018e04ed
@@ -327,240 +570,65 @@ acestream://7e3eeaa3cd4f0365cd378d2e88a39630aea0ac48
 acestream://5dbfe26d5486f962466eba41c63a3e1a042d83bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD (*) --> NEW ERA
 acestream://e00ab089cca3d60cc789e142fe262943b2c8803f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RALLY TV by CERBERUS
-acestream://acestream://1a9085a7b8aa402f317fb86f7243f3736770b325
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 10:30 The Genesis Invitational -  España - Alemania
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 10:50 FIH Pro League -  Falun - 20km Libre salida en masa M
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 11:45 FIH Pro League -  10km persecución F
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 11:45 FIH Pro League -  10km persecución F
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Athletic Femenino - Real Sociedad Femenino
-acestream://4397faf316e52508dd2f0db6f1d5cbab432f46a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Athletic Femenino - Real Sociedad Femenino
-acestream://03de691c3fea9ea7b6abefdc88a86f3a47b455f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Athletic Femenino - Real Sociedad Femenino
-acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Athletic Femenino - Real Sociedad Femenino
-acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Deportivo Abanca - At. Madrid Femenino
-acestream://f317a4fef0b96caabaaad25cadb5f45303544767
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Deportivo Abanca - At. Madrid Femenino
-acestream://90c50f925b84b6dfd0827861c492ab42c3f1703d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Deportivo Abanca - At. Madrid Femenino
-acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Granada Femenino - Espanyol Femenino
-acestream://3e3f801d03eaf7df527617eaa4c2c5e26dfc9de7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Femenina -  Granada Femenino - Espanyol Femenino
-acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:00 Liga Femenina - Liga Regular Spar Girona - Valencia Basket
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 12:30 Liga Femenina - Liga Regular CB Zamora - Movistar Estudiantes
-acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:00 FIH Pro League -  Eslalon M
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:00 FIH Pro League -  Eslalon M
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://b8370220a0338f9eb4728467111a2bce1033b80b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://63b976bbf9bbd0c37117880b8b33702b95357ef3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://f5fcacb60627d6319b89942391e441d179dbb9d9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV by CERBERUS
+acestream://1a9085a7b8aa402f317fb86f7243f3736770b325
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", LIGA TV by CERBERUS
+acestream://11efea276121f861054d0b1525dda0ff60d5c3d5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M. Deportes HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", M. Golf HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga --> NEW LOOP
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN1 --> NEW LOOP
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN2 --> NEW LOOP
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN3 --> NEW LOOP
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN4 --> NEW LOOP
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
+acestream://f5a5a5bf9903bde0c865e421f126c42e514ff787
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
+acestream://fbc82948dd7c19387a702692bc4590157b376459
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 hd --> NEW LOOP
+acestream://23a4937f1484b435af132dbfb3e8fd3aefc9baad
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="SKYSPORTS", Sky Sports Arena [UK] --> NEW LOOP
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="SKYSPORTS", Sky Sports Cricket [UK] --> NEW LOOP
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="SKYSPORTS", Sky Sports Football [UK] --> NEW LOOP
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="SKYSPORTS", Sky Sports Main Event [UK] --> NEW LOOP
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AutoMotorSport HD --> NEW LOOP
+acestream://6791a2d1587e8c68eac10815f22aed439b0f6c9f
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", Canal Motor (720p) --> NEW LOOP
+acestream://31ef168d43c7cd04e672475f7ec33b99b9fe5a96
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", Motors TV HD --> NEW LOOP
+acestream://8d475e2688519f2c602687b71be54cedbaef9e6b
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" group-title="MOTOR", Motorvision TV --> NEW LOOP
+acestream://fffaa64d41e500250064181762d510d513137410
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", Retrovision Motor --> NEW LOOP
+acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Tennis Channel HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:45 EHF European League -  Limoges Hand 87 - Bidasoa Irún
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off FC Bayern - Celtic FC
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Play-Off FC Bayern - Celtic FC
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Primera -  Espanyol - Athletic Club
-acestream://eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Levante - Sporting Gijón
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Levante - Sporting Gijón
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Levante - Sporting Gijón
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Minicopa Endesa - Final Barça Basket - Real Madrid Baloncesto
-acestream://37d450c61d992cc4f4634cbd51ccda710c126de2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 14:00 Minicopa Endesa - Final Barça Basket - Real Madrid Baloncesto
-acestream://ce65932b1113ec32c270050786d7702897150d74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:15 Abierto de Gales -  Final
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:15 Abierto de Gales -  Final
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 14:30 Torneo de Delray Beach - Final UCI ProSeries Puebla de Vícar › Roquetas de Mar (189 km)
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Liverpool - Wolverhampton
-acestream://4397faf316e52508dd2f0db6f1d5cbab432f46a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Liverpool - Wolverhampton
-acestream://03de691c3fea9ea7b6abefdc88a86f3a47b455f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Liverpool - Wolverhampton
-acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 15:00 Premier -  Liverpool - Wolverhampton
-acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 15:00 FIH Pro League -  India - España
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Marsella - Final H. Medjedovic - U. Humbert
-acestream://472b73d3c63fe53c3a95644f20aab65b31a6e506
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Marsella - Final H. Medjedovic - U. Humbert
-acestream://7628ebd71c7f6b78d5a91a324bde49ef8317a49f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Marsella - Final H. Medjedovic - U. Humbert
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 Torneo de Marsella - Final H. Medjedovic - U. Humbert
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 15:55 Copa del Rey de waterpolo -  Final
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  FC Barcelona Femenino - Madrid CFF
-acestream://f317a4fef0b96caabaaad25cadb5f45303544767
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  FC Barcelona Femenino - Madrid CFF
-acestream://90c50f925b84b6dfd0827861c492ab42c3f1703d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Liga Femenina -  FC Barcelona Femenino - Madrid CFF
-acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 16:00 Tour de la Provenza -  Paris 92 - BM Bera Bera
-acestream://846a1ff238ee87a09785f1c053ccd2e4f57267b1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 16:00 Tour de la Provenza -  Paris 92 - BM Bera Bera
-acestream://ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:00 Copa - Final CN Sabadell - CN At. Barceloneta
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Real Valladolid - Sevilla FC
-acestream://eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Huesca - Granada CF
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Huesca - Granada CF
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Eldense - Deportivo
-acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Eldense - Deportivo
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 16:30 Tour de la Provenza -  UCI Europe Tour Figueira da Foz › Figueira da Foz (191 km)
-acestream://dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://4397faf316e52508dd2f0db6f1d5cbab432f46a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://03de691c3fea9ea7b6abefdc88a86f3a47b455f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://e253307f495a6beeda976d2363d72501f2dc1fe3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://e6121426f7d8007ae9de8e782f05d91e9b27993d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://c9c6e562d63019f283415540827c7bce5704f54d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://769baa913100d8147418bcc4b7d9b6d05f551494
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://ce2b0f2ca503d4fa66ac9325c00e279348551008
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://38d0b187d3cf396695bbb2166a09f57736276e2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://7cdf501671e3a34e56f1686471ccd2f587cade7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 17:30 Premier -  Tottenham - Manchester Utd.
-acestream://4e3302991c482dff2e10de69795fa5aa87a61ae7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Levante Femenino - Real Betis Féminas
-acestream://90c50f925b84b6dfd0827861c492ab42c3f1703d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Levante Femenino - Real Betis Féminas
-acestream://b056dfc53c18de02caeff4435ddb6b36bfb7b031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Real Madrid Femenino - Levante Badalona
-acestream://f317a4fef0b96caabaaad25cadb5f45303544767
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Real Madrid Femenino - Levante Badalona
-acestream://3e3f801d03eaf7df527617eaa4c2c5e26dfc9de7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Femenina -  Real Madrid Femenino - Levante Badalona
-acestream://b11dd020fc6e89b39b69c1f3bef032be72286e72
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://b8370220a0338f9eb4728467111a2bce1033b80b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://63b976bbf9bbd0c37117880b8b33702b95357ef3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://f5fcacb60627d6319b89942391e441d179dbb9d9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Primera -  Mallorca - UD Las Palmas
-acestream://eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Real Zaragoza - Burgos CF
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Real Zaragoza - Burgos CF
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:45 Abierto de Gales -  Final
-acestream://4b26063cd70fc709d63e0410d7603c515da5baf7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:45 Abierto de Gales -  Final
-acestream://b16eeeb12d208029eff3dcc9e73613fd8b052737
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Copa - Final Unicaja Málaga - Real Madrid Baloncesto
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Copa - Final Unicaja Málaga - Real Madrid Baloncesto
-acestream://37d450c61d992cc4f4634cbd51ccda710c126de2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Copa - Final Unicaja Málaga - Real Madrid Baloncesto
-acestream://ce65932b1113ec32c270050786d7702897150d74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:00 Torneo de Buenos Aires - Final F. Cerúndolo - J. Fonseca
-acestream://43931a2672086891ce4f6d6b4128e005e8038959
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:00 Asobal -  Ángel Ximénez Puente Genil - BM Torrelavega
-acestream://2c5a883ed564be5ff3692705c25556613c395b11
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://cf144f2d6c5a267a3dd122ae70dfd34bfbed2ce0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Real Betis - Real Sociedad
-acestream://eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Oviedo - Albacete
-acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Oviedo - Albacete
-acestream://121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Torneo de Delray Beach - Final A. Davidovich - M. Kecmanovic
-acestream://fb27c753c690bf21edcf527f42cd14c5c9e6b53e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 NBA -  All Star Game
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 NBA -  All Star Game
-acestream://37d450c61d992cc4f4634cbd51ccda710c126de2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 02:00 NBA -  All Star Game
-acestream://ce65932b1113ec32c270050786d7702897150d74
