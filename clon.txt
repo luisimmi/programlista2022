@@ -1,235 +1,235 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 Jueves27 de Febrero de 2025:
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Brooklyn Nets - Oklahoma City Thunder
 acestream://092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Brooklyn Nets - Oklahoma City Thunder
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Brooklyn Nets - Oklahoma City Thunder
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Brooklyn Nets - Oklahoma City Thunder
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Fórmula', 08:00 - TEST PRETEMPORADA Elemento no encontrado
+#EXTINF:-1 group-title='Fórmula', 08:00 - TEST PRETEMPORADA Baréin
 acestream://d2952671bfd36490c2c51a5efaefb8b263bc7702
-#EXTINF:-1 group-title='Ciclismo', 15:30 - GRAN CAMIÑO Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 15:30 - GRAN CAMIÑO Etapa 2 - Marín - A Estrada Eurosport
 2
-#EXTINF:-1 group-title='Balonmano', 18:45 - LEAGUE Elemento no encontrado
+#EXTINF:-1 group-title='Balonmano', 18:45 - LEAGUE Pick Szeged - Barcelona
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Balonmano', 18:45 - LEAGUE Elemento no encontrado
+#EXTINF:-1 group-title='Balonmano', 18:45 - LEAGUE Pick Szeged - Barcelona
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Baloncesto', 20:00 - FEMENINA Elemento no encontrado Esport
+#EXTINF:-1 group-title='Baloncesto', 20:00 - FEMENINA ASVEL Lyon Féminin - Uni Girona Esport
 3
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - FC Barcelona
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - FC Barcelona
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - FC Barcelona
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE West Ham - Leicester
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE West Ham - Leicester
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 Viernes28 de Febrero de 2025:
-#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 01:30 - SUDAMERICANA Botafogo - Racing Avellaneda M+ LALIGA
 TV
-#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Charlotte Hornets
 acestream://092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Charlotte Hornets
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Charlotte Hornets
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Charlotte Hornets
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Fórmula', 08:00 - TEST PRETEMPORADA Elemento no encontrado
+#EXTINF:-1 group-title='Fórmula', 08:00 - TEST PRETEMPORADA Baréin
 acestream://d2952671bfd36490c2c51a5efaefb8b263bc7702
-#EXTINF:-1 group-title='Artística', 10:00 - DEL MUNDO Elemento no encontrado
+#EXTINF:-1 group-title='Artística', 10:00 - DEL MUNDO París
 Teledeporte
-#EXTINF:-1 group-title='Ciclismo', 15:30 - GRAN CAMIÑO Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 15:30 - GRAN CAMIÑO Etapa 3 - Ourense - Pereiro de Aguiar Eurosport
 2
-#EXTINF:-1 group-title='Atletismo', 18:45 - EN PISTA CUBIERTA Elemento no encontrado
+#EXTINF:-1 group-title='Atletismo', 18:45 - EN PISTA CUBIERTA Madrid
 Teledeporte
-#EXTINF:-1 group-title='F.', 20:30 - PRIMERA DIVISIÓN Elemento no encontrado Esport
+#EXTINF:-1 group-title='F.', 20:30 - PRIMERA DIVISIÓN Barcelona - Jaén Esport
 3
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:30 - Partizán - Baskonia
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Cartagena - Eibar
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Cartagena - Eibar
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Cartagena - Eibar
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Valladolid - Las Palmas M+ LALIGA
 TV
 Sábado1 de Marzo de 2025:
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Boston Celtics - Cleveland Cavaliers
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Boston Celtics - Cleveland Cavaliers
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Boston Celtics - Cleveland Cavaliers
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA MotoGP (Sprint)
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA MotoGP (Sprint)
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 12:30 - CHINA Elemento no encontrado GOL
+#EXTINF:-1 group-title='Fútbol', 12:30 - CHINA Shanghái Shenhua - Beijing Guoan GOL
 PLAY
-#EXTINF:-1 group-title='Balonmano', 13:00 - GUERRERAS IBERDROLA Elemento no encontrado
+#EXTINF:-1 group-title='Balonmano', 13:00 - GUERRERAS IBERDROLA Costa del Sol Málaga-ATTICGO BM Elche
 Teledeporte
-#EXTINF:-1 group-title='Ciclismo', 13:30 - WORLD TOUR Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 13:30 - WORLD TOUR Omloop Nieuwsblad Eurosport
 2
-#EXTINF:-1 group-title='Fútbol', 14:00 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 14:00 - F Real Betis Féminas - Granada CF
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Fútbol', 14:00 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 14:00 - F Real Betis Féminas - Granada CF
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Girona - Celta M+ LALIGA
 TV
-#EXTINF:-1 group-title='Artística', 15:00 - DEL MUNDO Elemento no encontrado
+#EXTINF:-1 group-title='Artística', 15:00 - DEL MUNDO Dúo Técnico Mixto (París)
 Teledeporte
-#EXTINF:-1 group-title='Ciclismo', 16:00 - GRAN CAMIÑO Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 16:00 - GRAN CAMIÑO Etapa 4 - A Pobra do Brollón - Pedrafita do Cebreiro Eurosport
 2
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Elemento no encontrado GOL
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Sevilla GOL
 PLAY
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Racing Ferrol
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Racing Ferrol
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elemento no encontrado LALIGA TV HYPERMOTION
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Castellón - Burgos LALIGA TV HYPERMOTION
 2
-#EXTINF:-1 group-title='Balonmano', 16:30 - ASOBAL Elemento no encontrado Esport
+#EXTINF:-1 group-title='Balonmano', 16:30 - ASOBAL Barcelona - Torrelavega Esport
 3
-#EXTINF:-1 group-title='Rugby', 16:30 - 14 Elemento no encontrado
+#EXTINF:-1 group-title='Rugby', 16:30 - 14 LOU Rugby - Toulon
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title='Rugby', 16:30 - CHAMPIONSHIP MASCULINO Elemento no encontrado
+#EXTINF:-1 group-title='Rugby', 16:30 - CHAMPIONSHIP MASCULINO Portugal-España
 Teledeporte
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:00 - F VCF Femenino - Levante UD
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:00 - F VCF Femenino - Levante UD
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Casademont Zaragoza - Valencia Basket
 acestream://092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Casademont Zaragoza - Valencia Basket
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Casademont Zaragoza - Valencia Basket
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Casademont Zaragoza - Valencia Basket
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Leyma Coruña - Hiopos Lleida
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Betis - Real Madrid M+ LALIGA
 TV
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Zaragoza - Sporting M+ LALIGA
 TV
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL Elemento no encontrado
+#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL Rebi Balonmano Cuenca-Bidasoa Irún
 Teledeporte
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Coviran Granada - UCAM Murcia
 acestream://092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Coviran Granada - UCAM Murcia
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Coviran Granada - UCAM Murcia
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Coviran Granada - UCAM Murcia
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - Joventut Badalona
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - Joventut Badalona
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA La Laguna Tenerife - Joventut Badalona
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS At. Madrid - Athletic M+ LALIGA
 TV
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Almería - Málaga
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Almería - Málaga
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
-#EXTINF:-1 group-title='F.', 21:00 - LIGA NACIONAL MASCULINA Elemento no encontrado
+#EXTINF:-1 group-title='F.', 21:00 - LIGA NACIONAL MASCULINA Servigroup Peñíscola FS-Movistar Inter
 Teledeporte
 Domingo2 de Marzo de 2025:
-#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Memphis Grizzlies - San Antonio Spurs
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Elemento no encontrado
+#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Sandor Martín-Alberto Puello
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Elemento no encontrado
+#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Sandor Martín-Alberto Puello
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Elemento no encontrado
+#EXTINF:-1 group-title='Boxeo', 03:00 - PESO SUPERLIGERO Sandor Martín-Alberto Puello
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Motos', 06:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 06:00 - TAILANDIA Moto3
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Motos', 06:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 06:00 - TAILANDIA Moto3
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Motos', 07:15 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 07:15 - TAILANDIA Moto2
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Motos', 07:15 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 07:15 - TAILANDIA Moto2
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA MotoGP
 acestream://66a0863d19f7caa2591a36f2bce86b1878a3d0e3
-#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA Elemento no encontrado
+#EXTINF:-1 group-title='Motos', 09:00 - TAILANDIA MotoGP
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Elemento no encontrado M+ Ellas
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Athletic Club - Real Madrid M+ Ellas
 V
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Elemento no encontrado GOL
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Deportivo GOL
 PLAY
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - Baxi Manresa
 acestream://092612609be34a8e9ee61311c5dfc8561c009ccc
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - Baxi Manresa
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - Baxi Manresa
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - Baxi Manresa
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Surne Bilbao Basket - Bàsquet Girona
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title='Fútbol', 13:00 - F Elemento no encontrado DAZN
+#EXTINF:-1 group-title='Fútbol', 13:00 - F Costa Adeje Tenerife - Levante Las Planas DAZN
 3
-#EXTINF:-1 group-title='Ciclismo', 13:30 - GRAN CAMIÑO Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 13:30 - GRAN CAMIÑO Etapa 5 - Betanzos - Santiago de Compostela Eurosport
 2
-#EXTINF:-1 group-title='Fútbol', 14:00 - F Elemento no encontrado M+ Ellas
+#EXTINF:-1 group-title='Fútbol', 14:00 - F Eibar - Barcelona M+ Ellas
 V
-#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Elemento no encontrado M+ LALIGA TV
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Leganés - Getafe M+ LALIGA TV
 2
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba - Granada M+ LALIGA
 TV
-#EXTINF:-1 group-title='Fútbol', 14:30 - Elemento no encontrado GOL
+#EXTINF:-1 group-title='Fútbol', 14:30 - Almere City - Ajax GOL
 PLAY
-#EXTINF:-1 group-title='Ciclismo', 15:15 - PRO SERIES Elemento no encontrado Eurosport
+#EXTINF:-1 group-title='Ciclismo', 15:15 - PRO SERIES Kuurne - Bruselas - Kuurne Eurosport
 2
-#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Barcelona - Real Sociedad M+ LALIGA
 TV
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Oviedo - Deportivo
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Oviedo - Deportivo
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Barcelona-Río Breogán
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Morabanc Andorra - Baskonia
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 group-title='Motor', 18:00 - Elemento no encontrado
+#EXTINF:-1 group-title='Motor', 18:00 - Grand Prix of St Petersburg
 acestream://dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 group-title='Motor', 18:00 - Elemento no encontrado
+#EXTINF:-1 group-title='Motor', 18:00 - Grand Prix of St Petersburg
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Motor', 18:00 - Elemento no encontrado
+#EXTINF:-1 group-title='Motor', 18:00 - Grand Prix of St Petersburg
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Fútbol', 18:30 - F Elemento no encontrado M+ Ellas
+#EXTINF:-1 group-title='Fútbol', 18:30 - F Madrid CFF - At. Madrid M+ Ellas
 V
-#EXTINF:-1 group-title='Fútbol', 18:30 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:30 - F Real Sociedad - Sevilla
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 group-title='Fútbol', 18:30 - F Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:30 - F Real Sociedad - Sevilla
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Elemento no encontrado
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Dreamland Gran Canaria - Real Madrid
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Elemento no encontrado M+ LALIGA TV
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Mallorca - Alavés M+ LALIGA TV
 2
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Albacete - Cádiz
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Albacete - Cádiz
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Elemento no encontrado LALIGA TV HYPERMOTION
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Eldense - Levante LALIGA TV HYPERMOTION
 2
-#EXTINF:-1 group-title='NBA', 19:00 - REGULAR Elemento no encontrado
+#EXTINF:-1 group-title='NBA', 19:00 - REGULAR Boston Celtics - Denver Nuggets
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Elemento no encontrado M+ LALIGA
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Osasuna - Valencia M+ LALIGA
 TV
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Racing - Elche
 acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Elemento no encontrado
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Racing - Elche
 acestream://994c4ab30f6ea98f8199a583fa1049d51ea136af
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
