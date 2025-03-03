@@ -2,517 +2,517 @@
 
 #EXTINF:-1, lunes 03 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - París - Fenerbahce
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Fenerbahce
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - París - Fenerbahce
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Fenerbahce
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h - Villarreal - Espanyol
+#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h Villarreal - Espanyol
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.10h - Relevo mixto
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.10h Relevo mixto
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h - Relevo mixto
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h - Relevo mixto
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h - Relevo mixto
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,13.00h - Open de Tucumán (T2025): Día 1
+#EXTINF:-1 group-title=A1 Padel,13.00h Open de Tucumán (T2025): Día 1
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
 
 #EXTINF:-1, martes 04 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=NBA (T24/25),02.00h - Memphis Grizzlies - Atlanta Hawks
+#EXTINF:-1 group-title=NBA (T24/25),02.00h Memphis Grizzlies - Atlanta Hawks
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),02.00h - Memphis Grizzlies - Atlanta Hawks
+#EXTINF:-1 group-title=NBA (T24/25),02.00h Memphis Grizzlies - Atlanta Hawks
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Basketball Champions League (T24/25),20.50h - La Laguna Tenerife - Petkim Spor
+#EXTINF:-1 group-title=Basketball Champions League (T24/25),20.50h La Laguna Tenerife - Petkim Spor
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h - Benfica - Bidasoa
+#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h Benfica - Bidasoa
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h - Benfica - Bidasoa
+#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h Benfica - Bidasoa
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=UCI Europe Tour (T2025),14.20h - Samyn Classic M
+#EXTINF:-1 group-title=UCI Europe Tour (T2025),14.20h Samyn Classic M
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=UCI Women Europe Tour (T2025),13.00h - Le Samyn F
+#EXTINF:-1 group-title=UCI Women Europe Tour (T2025),13.00h Le Samyn F
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h - 10km Clásico M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h - 10km Clásico M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h - 10km Clásico M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h - 10km Clásico F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h - 10km Clásico F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h - 10km Clásico F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h - Brujas - Aston Villa
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h Brujas - Aston Villa
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h - Real Madrid - At. Madrid
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h Real Madrid - At. Madrid
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - PSV Eindhoven - Arsenal
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h PSV Eindhoven - Arsenal
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - Borussia Dortmund - Lille
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Borussia Dortmund - Lille
 acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - Multichampions (04/03/25)
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Multichampions (04/03/25)
 acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=A1 Padel,13.00h - Open de Tucumán (T2025): Día 2
+#EXTINF:-1 group-title=A1 Padel,13.00h Open de Tucumán (T2025): Día 2
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (1)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (1)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (1)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 
 #EXTINF:-1, miércoles 05 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - París - Monaco
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Monaco
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - París - Monaco
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Monaco
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=NBA (T24/25),01.30h - New York Knicks - Golden State Warriors
+#EXTINF:-1 group-title=NBA (T24/25),01.30h New York Knicks - Golden State Warriors
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.30h - New York Knicks - Golden State Warriors
+#EXTINF:-1 group-title=NBA (T24/25),01.30h New York Knicks - Golden State Warriors
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=LF Endesa (T24/25),20.25h - Joventut - Basket Zaragoza
+#EXTINF:-1 group-title=LF Endesa (T24/25),20.25h Joventut - Basket Zaragoza
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h - Barcelona - Kolstad Handball
+#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h Barcelona - Kolstad Handball
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h - Barcelona - Kolstad Handball
+#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h Barcelona - Kolstad Handball
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=UCI Pro Series (T2025),14.15h - Trofeo Laigueglia
+#EXTINF:-1 group-title=UCI Pro Series (T2025),14.15h Trofeo Laigueglia
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h - Clasificación esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h - Clasificación esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h - Clasificación esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h - Esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h - Esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h - Esprín por equipos
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa de la Reina (T24/25),18.25h - Granada - At. Madrid
+#EXTINF:-1 group-title=Copa de la Reina (T24/25),18.25h Granada - At. Madrid
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - PSG - Liverpool
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h PSG - Liverpool
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h - Feyenoord - Inter
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h Feyenoord - Inter
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - Bayern Múnich - Bayer Leverkusen
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Bayern Múnich - Bayer Leverkusen
 acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h - Benfica - Barcelona
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h Benfica - Barcelona
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Youth League (T24/25),13.55h - Hoffenheim - Manchester City
+#EXTINF:-1 group-title=UEFA Youth League (T24/25),13.55h Hoffenheim - Manchester City
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Youth League (T24/25),16.00h - Bayern Munich - Inter
+#EXTINF:-1 group-title=UEFA Youth League (T24/25),16.00h Bayern Munich - Inter
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h - Multichampions (05/03/25)
+#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Multichampions (05/03/25)
 acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=A1 Padel,18.00h - Open de Tucumán (T2025): Octavos de final - Día 1
+#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Octavos de final - Día 1
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h - Trampolín largo equipo mixto
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h - Trampolín largo equipo mixto
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h - Trampolín largo equipo mixto
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (2)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (2)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Primera ronda (2)
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),19.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),19.00h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),21.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),21.20h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),23.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),23.40h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
 
 #EXTINF:-1, jueves 06 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - Baskonia - Zalgiris
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Baskonia - Zalgiris
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - Baskonia - Zalgiris
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Baskonia - Zalgiris
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.25h - Milán - Fenerbahce VO
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.25h Milán - Fenerbahce VO
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - Bayern Munich - Estrella Roja
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Bayern Munich - Estrella Roja
 acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=NBA (T24/25),01.00h - Cleveland Cavaliers - Miami Heat
+#EXTINF:-1 group-title=NBA (T24/25),01.00h Cleveland Cavaliers - Miami Heat
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.00h - Cleveland Cavaliers - Miami Heat
+#EXTINF:-1 group-title=NBA (T24/25),01.00h Cleveland Cavaliers - Miami Heat
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h - 4x7,5km relevo clásico/libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h - 4x7,5km relevo clásico/libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h - 4x7,5km relevo clásico/libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa de la Reina (T24/25),19.00h - Real Madrid - Barcelona
+#EXTINF:-1 group-title=Copa de la Reina (T24/25),19.00h Real Madrid - Barcelona
 acestream://56d98cef21d9e242a8c32f36259c850c467e9748
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h - Viktoria Plzen - Lazio
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Viktoria Plzen - Lazio
 acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h - Bodo/Glimt - Olympiacos
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Bodo/Glimt - Olympiacos
 acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h - Ajax - Eintracht
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Ajax - Eintracht
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h - AZ Alkmaar - Tottenham
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h AZ Alkmaar - Tottenham
 acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.45h - Real Sociedad - Manchester Utd.
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.45h Real Sociedad - Manchester Utd.
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h - Steaua - Olympique Lyon
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Steaua - Olympique Lyon
 acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h - Fenerbahçe - Rangers
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Fenerbahçe - Rangers
 acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),21.00h - Roma - Athletic
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),21.00h Roma - Athletic
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h - Betis - Vitória Guimaraes
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Betis - Vitória Guimaraes
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h - Panathinaikos - Fiorentina
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Panathinaikos - Fiorentina
 acestream://7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h - Molde - Legia Varsovia
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Molde - Legia Varsovia
 acestream://a792ff171d110e6d890cb1b5db9d6507d1f292b7
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h - Copenhague - Chelsea
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Copenhague - Chelsea
 acestream://67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h - Jagiellonia Bialystok - Círculo de Brujas
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Jagiellonia Bialystok - Círculo de Brujas
 acestream://7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h - NK Celje - Lugano
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h NK Celje - Lugano
 acestream://67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h - Borac Banja Luka - Rapid Viena
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Borac Banja Luka - Rapid Viena
 acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h - Paphos - Djurgardens
+#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Paphos - Djurgardens
 acestream://a792ff171d110e6d890cb1b5db9d6507d1f292b7
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h - Multieuropa + Conf (Tarde) 06/03/25
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Multieuropa + Conf (Tarde) 06/03/25
 acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h - Multieuropa + Conf (Noche) 06/03/25
+#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Multieuropa + Conf (Noche) 06/03/25
 acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h - Joburg Open (World Feed VO) Jornada 1. Parte 1
+#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed VO) Jornada 1. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h - Joburg Open (World Feed) Jornada 1. Parte 2
+#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h Joburg Open (World Feed) Jornada 1. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h - Blue Bay (VO) Jornada 1. Parte 1
+#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h Blue Bay (VO) Jornada 1. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h - Blue Bay. Jornada 1. Parte 2
+#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 1. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 10km esprín M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 10km esprín M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 10km esprín M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h - 4x5km relevo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h - 4x5km relevo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h - 4x5km relevo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h - Esprín
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h - Esprín
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h - Esprín
+#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,18.00h - Open de Tucumán (T2025): Octavos de final - Día 2
+#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Octavos de final - Día 2
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo equipo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h - QUA Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h - QUA Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h - QUA Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Segunda ronda
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Segunda ronda
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Segunda ronda
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h - Segunda ronda
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h Segunda ronda
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),02.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),02.00h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),04.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),04.20h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1, viernes 07 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),18.25h - Efes - Virtus VO
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),18.25h Efes - Virtus VO
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h - ASVEL - Maccabi VO
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h ASVEL - Maccabi VO
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h - ASVEL - Maccabi VO
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h ASVEL - Maccabi VO
 acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.15h - Olympiacos - Partizán
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.15h Olympiacos - Partizán
 acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - ALBA - FC Barcelona
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h ALBA - FC Barcelona
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h - ALBA - FC Barcelona
+#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h ALBA - FC Barcelona
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=NBA (T24/25),01.30h - Brooklyn Nets - Golden State Warriors
+#EXTINF:-1 group-title=NBA (T24/25),01.30h Brooklyn Nets - Golden State Warriors
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.30h - Brooklyn Nets - Golden State Warriors
+#EXTINF:-1 group-title=NBA (T24/25),01.30h Brooklyn Nets - Golden State Warriors
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h - 4x7,5km relevo clásico/libre F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h - 4x7,5km relevo clásico/libre F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h - 4x7,5km relevo clásico/libre F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h - Kvitfjell - Descenso M 1
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h - Kvitfjell - Descenso M 1
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h - Kvitfjell - Descenso M 1
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),21.00h - Deportivo - Córdoba
+#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),21.00h Deportivo - Córdoba
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),19.00h - Eibar - Almería
+#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),19.00h Eibar - Almería
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h - Joburg Open (World Feed VO) Jornada 2. Parte 1
+#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed VO) Jornada 2. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h - Joburg Open (World Feed) Jornada 2. Parte 2
+#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h Joburg Open (World Feed) Jornada 2. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h - Blue Bay (VO) Jornada 2. Parte 1
+#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h Blue Bay (VO) Jornada 2. Parte 1
 acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=LIV Golf (T2025),05.13h - Hong Kong (VO) Jornada 1. Parte 1
+#EXTINF:-1 group-title=LIV Golf (T2025),05.13h Hong Kong (VO) Jornada 1. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=LIV Golf (T2025),06.15h - Hong Kong. Jornada 1. Parte 2
+#EXTINF:-1 group-title=LIV Golf (T2025),06.15h Hong Kong. Jornada 1. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h - Blue Bay. Jornada 2. Parte 2
+#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 2. Parte 2
 acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 7,5km esprín F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 7,5km esprín F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h - Nove Mesto - 7,5km esprín F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,18.00h - Open de Tucumán (T2025): Cuartos de final
+#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Cuartos de final
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h - Trampolín largo F
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h - QUA Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h - QUA Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h - QUA Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Cuartos de final
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Cuartos de final
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Cuartos de final
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h - Cuartos de final
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h Cuartos de final
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.00h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1, sábado 08 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h - Valencia Basket - Surne Bilbao Basket
+#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Valencia Basket - Surne Bilbao Basket
 acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h - Unicaja - Coviran Granada
+#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Unicaja - Coviran Granada
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h - Unicaja - Coviran Granada
+#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Unicaja - Coviran Granada
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h - Bàsquet Girona - Joventut Badalona
+#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Bàsquet Girona - Joventut Badalona
 acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h - Río Breogán - Morabanc Andorra
+#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Río Breogán - Morabanc Andorra
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h - Río Breogán - Morabanc Andorra
+#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Río Breogán - Morabanc Andorra
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Primera FEB (T24/25),18.55h - Club Orense Baloncesto - Movistar Estudiantes
+#EXTINF:-1 group-title=Primera FEB (T24/25),18.55h Club Orense Baloncesto - Movistar Estudiantes
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=UCI World Tour (T2025),14.05h - Strade Bianche M
+#EXTINF:-1 group-title=UCI World Tour (T2025),14.05h Strade Bianche M
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=UCI Women World Tour (T2025),11.45h - Strade Bianche F
+#EXTINF:-1 group-title=UCI Women World Tour (T2025),11.45h Strade Bianche F
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h - 50km salida en masa libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h - 50km salida en masa libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h - 50km salida en masa libre M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h - Are - Eslalon gigante F - 1ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h - Are - Eslalon gigante F - 1ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h - Are - Eslalon gigante F - 1ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h - Are - Eslalon gigante F - 2ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h - Are - Eslalon gigante F - 2ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h - Are - Eslalon gigante F - 2ª manga
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h - Kvitfjell - Descenso M 2
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h - Kvitfjell - Descenso M 2
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h - Kvitfjell - Descenso M 2
+#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),16.15h - Alavés - Villarreal
+#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),16.15h Alavés - Villarreal
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),18.30h - Valencia - Valladolid
+#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),18.30h Valencia - Valladolid
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),14.00h - Celta - Leganés
+#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),14.00h Celta - Leganés
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h - Barcelona - Osasuna
+#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h Barcelona - Osasuna
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=Premier League (T24/25),18.20h - Brentford - Aston Villa
+#EXTINF:-1 group-title=Premier League (T24/25),18.20h Brentford - Aston Villa
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),18.20h - Brentford - Aston Villa
+#EXTINF:-1 group-title=Premier League (T24/25),18.20h Brentford - Aston Villa
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h - Brighton - Fulham
+#EXTINF:-1 group-title=Premier League (T24/25),15.50h Brighton - Fulham
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h - Liverpool - Southampton
+#EXTINF:-1 group-title=Premier League (T24/25),15.50h Liverpool - Southampton
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h - Liverpool - Southampton
+#EXTINF:-1 group-title=Premier League (T24/25),15.50h Liverpool - Southampton
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),13.20h - Nottingham Forest - Manchester City
+#EXTINF:-1 group-title=Premier League (T24/25),13.20h Nottingham Forest - Manchester City
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),13.20h - Nottingham Forest - Manchester City
+#EXTINF:-1 group-title=Premier League (T24/25),13.20h Nottingham Forest - Manchester City
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),20.50h - Wolverhampton - Everton
+#EXTINF:-1 group-title=Premier League (T24/25),20.50h Wolverhampton - Everton
 acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),20.50h - Wolverhampton - Everton
+#EXTINF:-1 group-title=Premier League (T24/25),20.50h Wolverhampton - Everton
 acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=DP World Tour (T24/25),11.30h - Joburg Open (World Feed VO) Jornada 3. Parte 1
+#EXTINF:-1 group-title=DP World Tour (T24/25),11.30h Joburg Open (World Feed VO) Jornada 3. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h - Joburg Open (World Feed) Jornada 3. Parte 2
+#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed) Jornada 3. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h - Australian WPGA Championship (VO) Jornada 3
+#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h Australian WPGA Championship (VO) Jornada 3
 acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=LIV Golf (T2025),05.13h - Hong Kong (VO) Jornada 2. Parte 1
+#EXTINF:-1 group-title=LIV Golf (T2025),05.13h Hong Kong (VO) Jornada 2. Parte 1
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=LIV Golf (T2025),06.15h - Hong Kong. Jornada 2. Parte 2
+#EXTINF:-1 group-title=LIV Golf (T2025),06.15h Hong Kong. Jornada 2. Parte 2
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h - Blue Bay. Jornada 3
+#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 3
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h - Nove Mesto - 10km persecución F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h - Nove Mesto - 10km persecución F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h - Nove Mesto - 10km persecución F
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h - Nove Mesto - 12,5km persecución M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h - Nove Mesto - 12,5km persecución M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h - Nove Mesto - 12,5km persecución M
+#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),09.15h - Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),09.15h Trampolín largo M
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h - 10km Gundersen M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h - 10km Gundersen M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h - 10km Gundersen M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,19.30h - Open de Tucumán (T2025): Semifinales
+#EXTINF:-1 group-title=A1 Padel,19.30h Open de Tucumán (T2025): Semifinales
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h - Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h - Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h - Trampolín largo M
+#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Semifinales
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Semifinales
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h - Semifinales
+#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.30h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.30h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.30h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.30h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
 #EXTINF:-1, domingo 09 de marzo de 2025
 acestream://
-#EXTINF:-1 group-title=NBA (T24/25),02.30h - Boston Celtics - Los Angeles Lakers
+#EXTINF:-1 group-title=NBA (T24/25),02.30h Boston Celtics - Los Angeles Lakers
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),02.30h - Boston Celtics - Los Angeles Lakers
+#EXTINF:-1 group-title=NBA (T24/25),02.30h Boston Celtics - Los Angeles Lakers
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h - Australian WPGA Championship (VO) Jornada 4
+#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h Australian WPGA Championship (VO) Jornada 4
 acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.00h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.00h TBC
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h - TBC
+#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
