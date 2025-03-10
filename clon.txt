@@ -20,9 +20,9 @@ acestream://98784fa0714190de289f42eb5b84e405df7e685a
 acestream://675a8080982cc34b6d3c7ce38e2c121458b68ebd
 #EXTINF:-1 group-title='Ciclismo', 13:05 - Etapa 1 - Lido di Camaiore
 acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 group-title='Ciclismo', 15:15 - 2Ş Etapa: Montesson-Bellegarde
+#EXTINF:-1 group-title='Ciclismo', 15:15 - 2ª Etapa: Montesson-Bellegarde
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Ciclismo', 19:00 - A ESPAŃA FEMENINA Presentación Edición 2025 (Barcelona)
+#EXTINF:-1 group-title='Ciclismo', 19:00 - A ESPAÑA FEMENINA Presentación Edición 2025 (Barcelona)
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Burgos - Albacete
 acestream://4e066df67d118f95b41f850869abdc663c515186
@@ -1230,7 +1230,7 @@ http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, Eleven Sports 3 
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, Esport 3 
-http://127.0.0.1:6878/ace/getstream?id=https://www.ccma.cat/tv3/directe/esport3/
+https://www.ccma.cat/tv3/directe/esport3/
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title= tvg-id= tvg-logo=, Eurosport 1 
