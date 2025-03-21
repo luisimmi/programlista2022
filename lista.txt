@@ -1,518 +1,287 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
+#EXTM3U
 
-#EXTINF:-1, lunes 03 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Fenerbahce
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Fenerbahce
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h Villarreal - Espanyol
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.10h Relevo mixto
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),11.55h Relevo mixto
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,13.00h Open de Tucumán (T2025): Día 1
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
+#EXTINF:-1, Fecha: default_date
+# Fecha: default_date
 
-#EXTINF:-1, martes 04 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=NBA (T24/25),02.00h Memphis Grizzlies - Atlanta Hawks
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),02.00h Memphis Grizzlies - Atlanta Hawks
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Basketball Champions League (T24/25),20.50h La Laguna Tenerife - Petkim Spor
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h Benfica - Bidasoa
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Liga Europea de la EHF (T24/25),20.40h Benfica - Bidasoa
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=UCI Europe Tour (T2025),14.20h Samyn Classic M
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=UCI Women Europe Tour (T2025),13.00h Le Samyn F
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.45h 10km Clásico M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),15.15h 10km Clásico F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h Brujas - Aston Villa
+#EXTINF:-1 group-title=Campeonato Uruguayo,(00:00) Peñarol - Liverpool FC GOL PLAY FHD --> NEW ERA
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS --> ELCANO
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS --> ELCANO
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS FHD --> NEW ERA
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS FHD --> NEW ERA
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS FHD --> NEW ERA
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile MOVISTAR VAMOS FHD --> NEW ERA II
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile LIGA DE CAMPEONES 2 --> ELCANO
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile LIGA DE CAMPEONES 2 FHD --> NEW ERA
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h Real Madrid - At. Madrid
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h PSV Eindhoven - Arsenal
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Borussia Dortmund - Lille
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://0adc3b525508b4a74ce65685870894a77401afb7
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(00:00) Paraguay - Chile LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://f7fa79fdad436e969a82389a062a74564e91b10e
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:10) J. Fonseca - L. Tien MOVISTAR DEPORTES 2 --> ELCANO
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:10) J. Fonseca - L. Tien MOVISTAR DEPORTES 2 FHD --> NEW ERA
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:10) J. Fonseca - L. Tien MOVISTAR DEPORTES 4 FHD --> NEW ERA
+acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:20) R. Bautista-Agut - J. Mensik MOVISTAR PLUS 2 FHD --> NEW ERA
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:20) R. Bautista-Agut - J. Mensik MOVISTAR DEPORTES 2 --> ELCANO
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title=Masters Miami | 1ª Ronda,(00:20) R. Bautista-Agut - J. Mensik MOVISTAR DEPORTES 2 FHD --> NEW ERA
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(00:45) L. Fruhvirtova - B. Haddad Maia TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia MOVISTAR PLUS --> ELCANO
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia MOVISTAR PLUS 2 FHD --> NEW ERA
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia MOVISTAR PLUS FHD --> NEW ERA
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://05057e832dd1530c7d5e8b0857fee6826243a243
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES 3 FHD --> NEW ERA
 acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Multichampions (04/03/25)
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=A1 Padel,13.00h Open de Tucumán (T2025): Día 2
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (1)
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-
-#EXTINF:-1, miércoles 05 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Monaco
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h París - Monaco
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=NBA (T24/25),01.30h New York Knicks - Golden State Warriors
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.30h New York Knicks - Golden State Warriors
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=LF Endesa (T24/25),20.25h Joventut - Basket Zaragoza
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h Barcelona - Kolstad Handball
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Liga de campeones de balonmano (T24/25),20.35h Barcelona - Kolstad Handball
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=UCI Pro Series (T2025),14.15h Trofeo Laigueglia
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),10.45h Clasificación esprín por equipos
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),14.15h Esprín por equipos
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa de la Reina (T24/25),18.25h Granada - At. Madrid
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h PSG - Liverpool
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://4d754e0b6b583d01668de8544c43cad6a1b253da
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(01:45) Brasil - Colombia LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://509e91774b5b2d0af80883c8d4217c3b53235231
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS --> ELCANO
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS --> ELCANO
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS FHD --> NEW ERA
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS FHD --> NEW ERA
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS FHD --> NEW ERA
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia MOVISTAR VAMOS FHD --> NEW ERA II
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia LIGA DE CAMPEONES 2 --> ELCANO
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia LIGA DE CAMPEONES 2 FHD --> NEW ERA
 acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),18.38h Feyenoord - Inter
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Bayern Múnich - Bayer Leverkusen
-acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),21.00h Benfica - Barcelona
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Youth League (T24/25),13.55h Hoffenheim - Manchester City
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Youth League (T24/25),16.00h Bayern Munich - Inter
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Champions League (T24/25),20.53h Multichampions (05/03/25)
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Octavos de final - Día 1
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.45h Trampolín largo equipo mixto
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Primera ronda (2)
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),19.00h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
-acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),21.20h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),23.40h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-
-#EXTINF:-1, jueves 06 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Baskonia - Zalgiris
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Baskonia - Zalgiris
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.25h Milán - Fenerbahce VO
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h Bayern Munich - Estrella Roja
-acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=NBA (T24/25),01.00h Cleveland Cavaliers - Miami Heat
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.00h Cleveland Cavaliers - Miami Heat
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),12.15h 4x7,5km relevo clásico/libre M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa de la Reina (T24/25),19.00h Real Madrid - Barcelona
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://0adc3b525508b4a74ce65685870894a77401afb7
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(02:30) Perú - Bolivia LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://f7fa79fdad436e969a82389a062a74564e91b10e
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(02:55) S. Cirstea - D. Collins TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Cpto. Mundo Pista Cubierta,(03:00) Sesión Matinal Nanjing (China) LA 2 FHD --> NEW ERA
 acestream://56d98cef21d9e242a8c32f36259c850c467e9748
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Viktoria Plzen - Lazio
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Bodo/Glimt - Olympiacos
-acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Ajax - Eintracht
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h AZ Alkmaar - Tottenham
-acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.45h Real Sociedad - Manchester Utd.
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Steaua - Olympique Lyon
-acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Fenerbahçe - Rangers
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),21.00h Roma - Athletic
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Betis - Vitória Guimaraes
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Panathinaikos - Fiorentina
-acestream://7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Molde - Legia Varsovia
-acestream://a792ff171d110e6d890cb1b5db9d6507d1f292b7
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),18.38h Copenhague - Chelsea
-acestream://67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Jagiellonia Bialystok - Círculo de Brujas
-acestream://7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h NK Celje - Lugano
-acestream://67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Borac Banja Luka - Rapid Viena
-acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1 group-title=UEFA Conference League (T24/25),20.53h Paphos - Djurgardens
-acestream://a792ff171d110e6d890cb1b5db9d6507d1f292b7
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),18.38h Multieuropa + Conf (Tarde) 06/03/25
-acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=UEFA Europa League (T24/25),20.53h Multieuropa + Conf (Noche) 06/03/25
-acestream://8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed VO) Jornada 1. Parte 1
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h Joburg Open (World Feed) Jornada 1. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h Blue Bay (VO) Jornada 1. Parte 1
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 1. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 10km esprín M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),10.45h Trampolín largo equipo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),15.00h 4x5km relevo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí de montaña (T2025),14.00h Esprín
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Octavos de final - Día 2
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo equipo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),20.15h QUA Trampolín largo F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Segunda ronda
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h Segunda ronda
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),02.00h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),04.20h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-
-#EXTINF:-1, viernes 07 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),18.25h Efes - Virtus VO
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h ASVEL - Maccabi VO
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),19.55h ASVEL - Maccabi VO
-acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.15h Olympiacos - Partizán
-acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h ALBA - FC Barcelona
+#EXTINF:-1 group-title=Cpto. Mundo Pista Cubierta,(03:00) Sesión Matinal Nanjing (China) TELEDEPORTE FHD --> NEW ERA
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES --> ELCANO
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga de baloncesto (T24/25),20.30h ALBA - FC Barcelona
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES --> ELCANO
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=NBA (T24/25),01.30h Brooklyn Nets - Golden State Warriors
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),01.30h Brooklyn Nets - Golden State Warriors
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),13.45h 4x7,5km relevo clásico/libre F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.15h Kvitfjell - Descenso M 1
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),21.00h Deportivo - Córdoba
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA HYPERMOTION (T24/25),19.00h Eibar - Almería
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed VO) Jornada 2. Parte 1
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
+#EXTINF:-1 group-title=NBA | Liga Regular,(03:00) Golden State Warriors - Toronto Raptors MOVISTAR DEPORTES HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 1080 (Fórmula 1)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 1080 (Fórmula 1)
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 1080 (Fórmula 1)
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 720 (Fórmula 1)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 FHD --> NEW ERA
+acestream://9f04b67904bf5ec6782ab34e8105bca264c10b62
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 FHD --> NEW ERA
+acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 FHD --> NEW ERA
+acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 FHD --> NEW ERA
+acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
+#EXTINF:-1 group-title=Fórmula 1,(04:30) G.P. China (Shangai) Libres 1 DAZN F1 FHD --> NEW ERA II
+acestream://c367738691c63896679e523d4c1c7933729acc7b
+#EXTINF:-1 group-title=Singapore Classic,(06:00) Jornada 2 MOVISTAR GOLF FHD --> NEW ERA
 acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),13.00h Joburg Open (World Feed) Jornada 2. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),05.00h Blue Bay (VO) Jornada 2. Parte 1
+#EXTINF:-1 group-title=Singapore Classic,(06:00) Jornada 2 MOVISTAR GOLF HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title=International Series Macau,(06:30) Jornada 2 MOVISTAR GOLF 2 FHD --> NEW ERA
 acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=LIV Golf (T2025),05.13h Hong Kong (VO) Jornada 1. Parte 1
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=LIV Golf (T2025),06.15h Hong Kong. Jornada 1. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 2. Parte 2
-acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),18.20h Nove Mesto - 7,5km esprín F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,18.00h Open de Tucumán (T2025): Cuartos de final
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 1080 (Fórmula 1)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 1080 (Fórmula 1)
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 1080 (Fórmula 1)
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 720 (Fórmula 1)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 FHD --> NEW ERA
+acestream://9f04b67904bf5ec6782ab34e8105bca264c10b62
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 FHD --> NEW ERA
+acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 FHD --> NEW ERA
+acestream://5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 FHD --> NEW ERA
+acestream://751aa1f2429dfb9484b67a3ede00d859c6212994
+#EXTINF:-1 group-title=F1 Academy,(07:05) G.P. China (Shangai) Clasificación DAZN F1 FHD --> NEW ERA II
+acestream://c367738691c63896679e523d4c1c7933729acc7b
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 --> ELCANO
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 --> ELCANO
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 --> NEW LOOP
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 BAR FHD --> NEW ERA
 acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),16.00h Trampolín largo F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),12.00h QUA Trampolín largo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Cuartos de final
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),12.30h Cuartos de final
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 FHD --> NEW ERA
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel DAZN 2 FHD --> NEW ERA
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
+#EXTINF:-1 group-title=Francia Gran Master,(10:00) 1ª Ronda A1 Padel ELEVEN DAZN 2 --> NEW LOOP
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 group-title=Bredene Koksijde Classic,(14:45) UCI ProSeries Bredene › Koksijde (200,9 km) EUROSPORT 2 FHD --> NEW ERA
 acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.00h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-
-#EXTINF:-1, sábado 08 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Valencia Basket - Surne Bilbao Basket
-acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Unicaja - Coviran Granada
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Liga Endesa (T24/25),17.55h Unicaja - Coviran Granada
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Bàsquet Girona - Joventut Badalona
-acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Río Breogán - Morabanc Andorra
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Liga Endesa (T24/25),20.40h Río Breogán - Morabanc Andorra
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Primera FEB (T24/25),18.55h Club Orense Baloncesto - Movistar Estudiantes
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=UCI World Tour (T2025),14.05h Strade Bianche M
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=UCI Women World Tour (T2025),11.45h Strade Bianche F
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Fondo (T2025),11.30h 50km salida en masa libre M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),09.30h Are - Eslalon gigante F - 1ª manga
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),12.30h Are - Eslalon gigante F - 2ª manga
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de esquí alpino (T24/25),10.30h Kvitfjell - Descenso M 2
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),16.15h Alavés - Villarreal
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),18.30h Valencia - Valladolid
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),14.00h Celta - Leganés
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=LALIGA EA SPORTS (T24/25),21.00h Barcelona - Osasuna
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title=Premier League (T24/25),18.20h Brentford - Aston Villa
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),18.20h Brentford - Aston Villa
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h Brighton - Fulham
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h Liverpool - Southampton
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),15.50h Liverpool - Southampton
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),13.20h Nottingham Forest - Manchester City
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),13.20h Nottingham Forest - Manchester City
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=Premier League (T24/25),20.50h Wolverhampton - Everton
-acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
-#EXTINF:-1 group-title=Premier League (T24/25),20.50h Wolverhampton - Everton
-acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
-#EXTINF:-1 group-title=DP World Tour (T24/25),11.30h Joburg Open (World Feed VO) Jornada 3. Parte 1
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=DP World Tour (T24/25),12.00h Joburg Open (World Feed) Jornada 3. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h Australian WPGA Championship (VO) Jornada 3
-acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=LIV Golf (T2025),05.13h Hong Kong (VO) Jornada 2. Parte 1
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=LIV Golf (T2025),06.15h Hong Kong. Jornada 2. Parte 2
-acestream://7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
-#EXTINF:-1 group-title=Ladies PGA (T2025),07.00h Blue Bay. Jornada 3
+#EXTINF:-1 group-title=Bredene Koksijde Classic,(14:45) UCI ProSeries Bredene › Koksijde (200,9 km) EUROSPORT 2 FHD --> NEW ERA II
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS --> ELCANO
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS --> ELCANO
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS FHD --> NEW ERA
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS FHD --> NEW ERA
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS FHD --> NEW ERA
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR VAMOS FHD --> NEW ERA II
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR ELLAS FHD --> NEW ERA
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),17.40h Nove Mesto - 10km persecución F
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Copa del mundo de biatlón (T24/25),14.55h Nove Mesto - 12,5km persecución M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),09.15h Trampolín largo M
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Combinada (T2025),14.15h 10km Gundersen M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=A1 Padel,19.30h Open de Tucumán (T2025): Semifinales
-acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Mundial de esquí nórdico - Saltos (T2025),15.40h Trampolín largo M
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=World Grand Prix de snooker (T24/25),06.00h Semifinales
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.30h TBC
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR ELLAS FHD --> NEW ERA II
+acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR DEPORTES 4 FHD --> NEW ERA
 acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
+#EXTINF:-1 group-title=Miami Open,(15:00) 1/4 de Final Femenino Premier Padel Tour MOVISTAR DEPORTES 7 --> ELCANO
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(16:00) G. Dimitrov - F. Cina MOVISTAR DEPORTES 6 --> ELCANO
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(16:00) C. Ruud - M. Kecmanovic MOVISTAR DEPORTES 2 --> ELCANO
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(16:00) C. Ruud - M. Kecmanovic MOVISTAR DEPORTES 2 FHD --> NEW ERA
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.30h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(16:00) T. Schoolkate - F. Auger-Aliassime MOVISTAR DEPORTES 3 FHD --> NEW ERA
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(17:00) C. García - I. Swiatek TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(17:30) N. Kyrgios - K. Khachanov MOVISTAR DEPORTES 2 --> ELCANO
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),20.00h TBC
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(17:30) N. Kyrgios - K. Khachanov MOVISTAR DEPORTES 2 FHD --> NEW ERA
 acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),22.20h TBC
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
-
-#EXTINF:-1, domingo 09 de marzo de 2025
-acestream://
-#EXTINF:-1 group-title=NBA (T24/25),02.30h Boston Celtics - Los Angeles Lakers
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(17:30) N. Kyrgios - K. Khachanov MOVISTAR DEPORTES 6 --> ELCANO
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 group-title=Copa de la Reina | 1/4 de Final,(17:30) Perfumerías Avenida - Movistar Estudiantes TELEDEPORTE FHD --> NEW ERA
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(17:30) V. Mboko - P. Badosa TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(18:30) D. Medvedev - J. Munar MOVISTAR DEPORTES 2 --> ELCANO
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(18:30) D. Medvedev - J. Munar MOVISTAR DEPORTES 2 FHD --> NEW ERA
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title=Copa de España | 1/4 de Final,(19:00) Servigroup Peñiscola FS - Jimbee Cartagena FS TELEDEPORTE FHD --> NEW ERA
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(19:00) C. Tseng - S. Tsitsipas MOVISTAR DEPORTES 6 --> ELCANO
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(19:00) B. Pera - J. Pegula TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Amistoso Sub-21,(19:30) España - República Checa LA 2 FHD --> NEW ERA
+acestream://56d98cef21d9e242a8c32f36259c850c467e9748
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(20:00) R. Hijikata - N. Djokovic MOVISTAR DEPORTES 2 --> ELCANO
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(20:00) R. Hijikata - N. Djokovic MOVISTAR DEPORTES 2 FHD --> NEW ERA
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:15) Panathinaikos BC - ALBA Berlin MOVISTAR DEPORTES 5 --> ELCANO
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:15) Panathinaikos BC - ALBA Berlin MOVISTAR DEPORTES 5 HD --> NEW ERA
+acestream://14aa86be2b451cd4f5ee6d12e7479885373ea9b3
+#EXTINF:-1 group-title=WTA Miami | 2ª Ronda,(20:30) V. Kudermetova - M. Andreeva TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=LaLiga Hypermotion,(20:30) Burgos CF - UD Almería LaLiga Smartbank 1080
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title=LaLiga Hypermotion,(20:30) Burgos CF - UD Almería LaLiga Smartbank 720
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title=LaLiga Hypermotion,(20:30) Burgos CF - UD Almería HYPERMOTION FHD --> NEW ERA II
+acestream://4e066df67d118f95b41f850869abdc663c515186
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR PLUS --> ELCANO
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR PLUS 2 FHD --> NEW ERA
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR PLUS FHD --> NEW ERA
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES --> ELCANO
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA (T24/25),02.30h Boston Celtics - Los Angeles Lakers
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES --> ELCANO
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title=Ladies European Tour (T2025),02.00h Australian WPGA Championship (VO) Jornada 4
-acestream://d41f974884746560213e68519e5f6b9d51f37470
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),00.40h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),03.00h TBC
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:30) Barça Basket - Zalgiris Kaunas MOVISTAR DEPORTES HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title=Euroliga | Liga Regular,(20:45) BC Partizan Beograd - Anadolu Efes Istanbul MOVISTAR DEPORTES 3 FHD --> NEW ERA
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 group-title=Copa de España | 1/4 de Final,(21:15) Industrias Santa Coloma - Barça FS TELEDEPORTE FHD --> NEW ERA
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title=Masters Miami | 2ª Ronda,(22:00) S. Korda - E. Spizzirri MOVISTAR DEPORTES 6 --> ELCANO
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.00h TBC
-acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=Torneo de Indian Wells (T2025),05.20h TBC
-acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela MOVISTAR PLUS 2 FHD --> NEW ERA
+acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://05057e832dd1530c7d5e8b0857fee6826243a243
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES 2 --> ELCANO
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://deb8972491e3817ba2335662d7855d2c2c05a900
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://0adc3b525508b4a74ce65685870894a77401afb7
+#EXTINF:-1 group-title=FIFA Copa Mundial 2026 | Eliminatorias Sudamericanas,(22:00) Ecuador - Venezuela LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://f7fa79fdad436e969a82389a062a74564e91b10e
