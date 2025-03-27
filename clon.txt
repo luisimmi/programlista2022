@@ -1,188 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Martes25 de Marzo de 2025:
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Orlando Magic - Los Angeles Lakers
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Ciclismo', 15:10 - CICLISTA A CATALUNYA 2ª Etapa: Banyoles-Figueres
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Bahçesehir Koleji - Dreamland Gran Canaria
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:00 - LEAGUE La Laguna Tenerife-Baxi Manresa
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Hapoel Tel Aviv
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Bayern Munich
-acestream://f409a32da912cda2a0071397f552c564540fe101
-#EXTINF:-1 group-title='Fútbol', 20:30 - SUB-21 Alemania - España
-acestream://56d98cef21d9e242a8c32f36259c850c467e9748
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Milán
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Milán
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Milán
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Milán
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Milán
-acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
-Miércoles26 de Marzo de 2025:
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title='NBA', 00:00 - REGULAR Detroit Pistons - San Antonio Spurs
-acestream://f409a32da912cda2a0071397f552c564540fe101
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Argentina - Brasil
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Argentina - Brasil
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Argentina - Brasil
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Argentina - Brasil
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Argentina - Brasil
-acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Colombia - Paraguay
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Colombia - Paraguay
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Colombia - Paraguay
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Colombia - Paraguay
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Colombia - Paraguay
-acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL Chile - Ecuador
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL Chile - Ecuador
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL Chile - Ecuador
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL Chile - Ecuador
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL Chile - Ecuador
-acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Venezuela - Perú
-acestream://291ef48025291b7241ef370f657d0e47132c6fb0
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Venezuela - Perú
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Venezuela - Perú
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 group-title='Fútbol', 01:00 - MUNDIAL 2026 Venezuela - Perú
-acestream://7a5512d101742eb418dd0e3ffbd2bf6c43c73452
-#EXTINF:-1 group-title='Ciclismo', 15:10 - CICLISTA A CATALUNYA 3ª Etapa: Viladecans The Style Outlets-La Molina
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 group-title='Baloncesto', 18:30 - Efes - Baskonia
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Baloncesto', 20:00 - LEAGUE UCAM Murcia-Era Nymburk
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE FEMENINA Arsenal - Real Madrid
-acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE FEMENINA Arsenal - Real Madrid
-acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE FEMENINA Arsenal - Real Madrid
-acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE FEMENINA Arsenal - Real Madrid
-acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
 Jueves27 de Marzo de 2025:
 #EXTINF:-1 group-title='NBA', 00:30 - REGULAR New York Knicks - Los Angeles Clippers
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
@@ -201,6 +17,24 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 group-title='NBA', 00:30 - REGULAR New York Knicks - Los Angeles Clippers
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title='NBA', 00:30 - REGULAR New York Knicks - Los Angeles Clippers
+acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Tenis', 01:30 - MIAMI Korda - Djokovic
 acestream://f409a32da912cda2a0071397f552c564540fe101
 #EXTINF:-1 group-title='Baloncesto', 14:00 - CAMPEONATO DE EUROPA MASCULINO Riga (Letonia)
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
@@ -271,7 +105,9 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title='NBA', 01:00 - REGULAR Oklahoma City Thunder - Memphis Grizzlies
 acestream://f409a32da912cda2a0071397f552c564540fe101
-#EXTINF:-1 group-title='Ciclismo', 15:10 - CICLISTA A CATALUNYA 5ª Etapa: Paüls-Amposta
+#EXTINF:-1 group-title='Hockey', 11:00 - DE LA REINA CC Villa de Madrid-RC Polo
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Ciclismo', 14:10 - CICLISTA A CATALUNYA 5ª Etapa: Paüls-Amposta
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Ciclismo', 16:00 - WORLD TOUR E3 Saxo Classic
 acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
@@ -291,6 +127,8 @@ acestream://98784fa0714190de289f42eb5b84e405df7e685a
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title='Ciclismo', 16:00 - WORLD TOUR E3 Saxo Classic
 acestream://ef0cc1d80245e969638d0754314243b6040d46c9
+#EXTINF:-1 group-title='Hockey', 17:00 - DEL REY CD Terrassa Hockey-RS Tenis
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Baloncesto', 18:30 - Hapoel Tel Aviv - Valencia Basket
 acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
 #EXTINF:-1 group-title='Baloncesto', 18:45 - Fenerbahce - Baskonia
@@ -382,6 +220,8 @@ acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 acestream://f84b575366a2615f418791a0615ab1f9787b5ee1
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Levante - Eibar
 acestream://fbc21019d049082da084c6d93442cb083b5d45e4
+#EXTINF:-1 group-title='F.', 12:30 - PRIMERA DIVISIÓN FEMENINA CD Burela FS-Futsi Atlético Navalcarnero
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 12:30 - CHINA Beijing Guoan - Chengdu Rongcheng
 acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
 #EXTINF:-1 group-title='Fútbol', 13:00 - F Costa Adeje Tenerife - Espanyol
@@ -446,7 +286,7 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 group-title='Motos', 15:00 - G.P. Portugal (Algarve)
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Ciclismo', 15:10 - CICLISTA A CATALUNYA 6ª Etapa: Berga-Queralt
+#EXTINF:-1 group-title='Ciclismo', 15:10 - CICLISTA A CATALUNYA 6ª Etapa: Berga-Santuario de Queralt
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Espanyol-Atlético Madrid
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
@@ -532,6 +372,8 @@ acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 group-title='F.', 18:00 - PRIMERA DIVISIÓN Burela-Barcelona Esport
 3
+#EXTINF:-1 group-title='Balonmano', 18:30 - GUERRERAS IBERDROLA Elda Prestigio-Atticgo BM Elche
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Alavés - Rayo
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Alavés - Rayo
@@ -566,6 +408,8 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title='Fútbol', 19:00 - F Atlético de Madrid - VCF Femenino
 acestream://bbd251f89bc7716e2bef237906ecfba3c562ecde
+#EXTINF:-1 group-title='Baloncesto', 20:10 - FEMENINA ENDESA Perfumerías Avenida-Hozono Global Jairis
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Casademont Zaragoza - La Laguna Tenerife
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
 #EXTINF:-1 group-title='Baloncesto', 20:45 - ENDESA Casademont Zaragoza - La Laguna Tenerife
@@ -1158,6 +1002,8 @@ acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> NEW LOOP
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" tvg-id="M+ Liga de Campeones 10" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 10 FHD --> NEW ERA
 acestream://acd1991f35379b01cb09b6a7cc4390c34c6e2bf9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" tvg-id="M+ Liga de Campeones 11" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 11 FHD --> NEW ERA
@@ -1304,6 +1150,8 @@ acestream://fc8fdbc7dc812c896cc742f0248c67a7ff44dade
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
 acestream://4922d8414b6d96bcdd36e99483a7077f484b6f71
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
+acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
@@ -1336,16 +1184,10 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] --> NEW LOOP
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 --> NEW LOOP
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="FUTBOL INT", PREMIER SPORTS 2 --> NEW LOOP
-acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL --> NEW LOOP
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="FUTBOL INT", SKY SPORTS MAIN EVENT --> NEW LOOP
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/99.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT --> NEW LOOP
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/474.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 --> NEW LOOP
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 --> NEW LOOP
@@ -1356,8 +1198,6 @@ acestream://610993aea3a2bfd509594334b7461ce96900f54c
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" group-title="MOTOR", MOTORVISION TV --> NEW LOOP
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR --> NEW LOOP
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD --> NEW ERA
@@ -1410,8 +1250,6 @@ acestream://f2dc625a32ba3437100b1261fd0751d83d64ce91
 acestream://6ad33feec75d929de54d77b9becfe767ae83fcb3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV --> NEW ERA
 acestream://c8aac540621d481965791c4442a7e868bcca10ca
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
