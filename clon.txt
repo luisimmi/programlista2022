@@ -1,89 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Martes15 de Abril de 2025:
-#EXTINF:-1 group-title='Tenis', 11:00 - BARCELONA Tsitsipas-Opelka
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Tenis', 13:00 - BARCELONA Galán-Ruud
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
-#EXTINF:-1 group-title='Ciclismo', 13:30 - DE ABRUZO Etapa 1: Scerni › Crecchio (151 km)
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title='Tenis', 16:00 - BARCELONA Alcaraz-Quinn
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='F.', 18:00 - CLASIFICACIÓN EUROCOPA Bosnia Herzegovina-España
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Baloncesto', 20:00 - LEAGUE Pallacanestra Reggiana-Unicaja
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Bayern - Estrella Roja
-acestream://985896872c52d04030c112ca99584046d022a349
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Bayern - Estrella Roja
-acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Bayern - Estrella Roja
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://0adc3b525508b4a74ce65685870894a77401afb7
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://f7fa79fdad436e969a82389a062a74564e91b10e
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://0adc3b525508b4a74ce65685870894a77401afb7
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Aston Villa - PSG
-acestream://f7fa79fdad436e969a82389a062a74564e91b10e
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://05057e832dd1530c7d5e8b0857fee6826243a243
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Borussia Dortmund - Barcelona
-acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
-#EXTINF:-1 group-title='Baloncesto', 21:00 - Real Madrid - París
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Baloncesto', 21:00 - Real Madrid - París
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Baloncesto', 21:00 - Real Madrid - París
-acestream://335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 group-title='Baloncesto', 21:00 - Real Madrid - París
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title='Baloncesto', 21:00 - Real Madrid - París
-acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
 Miércoles16 de Abril de 2025:
 #EXTINF:-1 group-title='NBA', 01:30 - Orlando Magic - Atlanta Hawks
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
@@ -121,6 +36,10 @@ acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title='NBA', 04:00 - Golden State Warriors - Memphis Grizzlies
 acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='Tenis', 11:00 - BARCELONA Pedro Martinez-Arthur Fils
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Tenis', 13:00 - BARCELONA Holger Rune-Sebastian Baez
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Ciclismo', 13:40 - DE ABRUZO Etapa 2: Tocco da Casauria › Penne (138 km)
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title='Ciclismo', 13:40 - DE ABRUZO Etapa 2: Tocco da Casauria › Penne (138 km)
@@ -139,6 +58,10 @@ acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
 #EXTINF:-1 group-title='Ciclismo', 13:40 - DE ABRUZO Etapa 2: Tocco da Casauria › Penne (138 km)
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Tenis', 16:00 - BARCELONA Stefanos Tsitsipas-Sebastian Korda
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Tenis', 18:00 - BARCELONA Hamad Medjedovic-Casper Ruud
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 19:00 - F FC Barcelona - Sevilla FC
 acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
 #EXTINF:-1 group-title='Fútbol', 19:00 - F FC Barcelona - Sevilla FC
@@ -357,6 +280,24 @@ acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
 acestream://af636e7b1747cf868eedf242b96bd98f8fbbed4f
 #EXTINF:-1 group-title='Fútbol', 17:30 - F Atlético de Madrid - Costa Adeje Tenerife
 acestream://e2d26332bf1aa59aec7e3cbe9ed4689df44ae368
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 19:00 - Real Madrid-Bayern
+acestream://f409a32da912cda2a0071397f552c564540fe101
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Sporting - Mirandés
 acestream://121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Sporting - Mirandés
@@ -1380,6 +1321,8 @@ acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
+acestream://878d8983d8d37b5668cf899105bafb95bdecc3cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA II
@@ -1398,8 +1341,6 @@ acestream://ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
 acestream://4922d8414b6d96bcdd36e99483a7077f484b6f71
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
-acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
@@ -1414,6 +1355,8 @@ acestream://5f966c123759de46dff29c379266b7a403452033
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 --> NEW LOOP
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 --> NEW LOOP
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 --> NEW LOOP
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 --> NEW LOOP
