@@ -3,129 +3,145 @@
 #EXTINF:-1, Fecha: default_date
 # Fecha: default_date
 
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES --> ELCANO
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES --> ELCANO
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES --> ELCANO
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES --> ELCANO
 acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES FHD --> NEW ERA
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES FHD --> NEW ERA
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES FHD --> NEW ERA
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES FHD --> NEW ERA II
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES FHD --> NEW ERA II
 acestream://67a33c3f74956eed14b9b400523462fe362e0e66
-#EXTINF:-1 group-title=NBA | Playoffs,(00:00) Indiana Pacers - Milwaukee Bucks MOVISTAR DEPORTES HD --> NEW LOOP
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(01:00) Boston Celtics - New York Knicks MOVISTAR DEPORTES HD --> NEW LOOP
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek MOVISTAR ELLAS --> ELCANO
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek MOVISTAR ELLAS FHD --> NEW ERA
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek MOVISTAR ELLAS FHD --> NEW ERA II
-acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek TELEDEPORTE FHD --> NEW ERA
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES --> ELCANO
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES --> ELCANO
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES FHD --> NEW ERA
+acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES FHD --> NEW ERA II
+acestream://67a33c3f74956eed14b9b400523462fe362e0e66
+#EXTINF:-1 group-title=NBA | Playoffs Semifinal Conferencia,(03:30) Oklahoma C. Thunder - Denver Nuggets MOVISTAR DEPORTES HD --> NEW LOOP
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title=International Series Japan,(06:00) Jornada 1 MOVISTAR GOLF FHD --> NEW ERA
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 group-title=International Series Japan,(06:00) Jornada 1 MOVISTAR GOLF HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(11:00) N. Osaka - P. Badosa TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Turkish Airlines Open,(12:30) Jornada 1 MOVISTAR GOLF FHD --> NEW ERA
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 group-title=Turkish Airlines Open,(12:30) Jornada 1 MOVISTAR GOLF HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(13:00) E. Cocciaretto - I. Swiatek TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(14:30) J. Paolini - L. Sun TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(15:30) E. Svitolina - J. Bouzas TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=La Vuelta Femenina,(15:30) Etapa 5 Golmayo › Lagunas de Neila (120,4 km) TELEDEPORTE FHD --> NEW ERA
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek MOVISTAR DEPORTES 2 --> ELCANO
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(13:10) M. Keys - I. Swiatek MOVISTAR DEPORTES 2 FHD --> NEW ERA
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 group-title=Tour de Turquía,(13:30) Etapa 4 Marmaris › Akyaka (Kiran) (115,4 km) EUROSPORT 2 FHD --> NEW ERA
-acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 group-title=Tour de Turquía,(13:30) Etapa 4 Marmaris › Akyaka (Kiran) (115,4 km) EUROSPORT 2 FHD --> NEW ERA II
-acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 --> ELCANO
-acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 --> ELCANO
-acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 --> NEW LOOP
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 BAR FHD --> NEW ERA
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 FHD --> NEW ERA
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel DAZN 2 FHD --> NEW ERA
-acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 group-title=Toledo Open,(14:00) 2ª Ronda A1 Padel ELEVEN DAZN 2 --> NEW LOOP
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(15:15) M. Andreeva - C. Gauff MOVISTAR ELLAS --> ELCANO
+#EXTINF:-1 group-title=La Vuelta Femenina,(15:30) Etapa 5 Golmayo › Lagunas de Neila (120,4 km) EUROSPORT 1 --> ELCANO
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title=La Vuelta Femenina,(15:30) Etapa 5 Golmayo › Lagunas de Neila (120,4 km) EUROSPORT 1 FHD --> NEW ERA
+acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 group-title=La Vuelta Femenina,(15:30) Etapa 5 Golmayo › Lagunas de Neila (120,4 km) EUROSPORT 1 FHD --> NEW ERA
+acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 group-title=La Vuelta Femenina,(15:30) Etapa 5 Golmayo › Lagunas de Neila (120,4 km) EUROSPORT 1 HD --> NEW LOOP
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(17:00) A. Krueger - J. Pegula TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR GOLF 2 FHD --> NEW ERA
+acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR ELLAS --> ELCANO
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(15:15) M. Andreeva - C. Gauff MOVISTAR ELLAS FHD --> NEW ERA
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR ELLAS FHD --> NEW ERA
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(15:15) M. Andreeva - C. Gauff MOVISTAR ELLAS FHD --> NEW ERA II
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR ELLAS FHD --> NEW ERA II
 acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc
-#EXTINF:-1 group-title=Tour de Romandía,(15:30) Etapa 1 Münchenstein › Fribourg (194,3 km) EUROSPORT 2 FHD --> NEW ERA
-acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 group-title=Tour de Romandía,(15:30) Etapa 1 Münchenstein › Fribourg (194,3 km) EUROSPORT 2 FHD --> NEW ERA II
-acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(16:10) J. Draper - T. Paul TELEDEPORTE FHD --> NEW ERA
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR GOLF FHD --> NEW ERA
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 group-title=LPGA Mizuho Americas Open,(17:00) Jornada 1 MOVISTAR GOLF HD --> NEW LOOP
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title=EHF Europeo | Fase de Clasificación,(18:00) Italia - España TELEDEPORTE FHD --> NEW ERA
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(16:10) J. Draper - T. Paul MOVISTAR DEPORTES 2 --> ELCANO
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(16:10) J. Draper - T. Paul MOVISTAR DEPORTES 2 FHD --> NEW ERA
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(17:05) M. Uchijima - E. Svitolina MOVISTAR ELLAS --> ELCANO
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(17:05) M. Uchijima - E. Svitolina MOVISTAR ELLAS FHD --> NEW ERA
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(17:05) M. Uchijima - E. Svitolina MOVISTAR ELLAS FHD --> NEW ERA II
-acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR PLUS --> ELCANO
+#EXTINF:-1 group-title=WTA Roma | 2ª Ronda,(20:30) L. Bronzetti - K. Muchova TENNIS CHANNEL HD --> NEW LOOP
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS --> ELCANO
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS --> ELCANO
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS FHD --> NEW ERA
+acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS FHD --> NEW ERA
+acestream://2940120bf034db79a7f5849846ccea0255172eae
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS FHD --> NEW ERA
+acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a
+#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:30) Básquet Coruña - Barça Basket MOVISTAR VAMOS FHD --> NEW ERA II
+acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
+#EXTINF:-1 group-title=Liga Femenina Endesa | Final,(20:45) Valencia Basket - Casademont Zaragoza TELEDEPORTE FHD --> NEW ERA
+acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club MOVISTAR PLUS --> ELCANO
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR PLUS 2 FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club MOVISTAR PLUS 2 FHD --> NEW ERA
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR PLUS FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club MOVISTAR PLUS FHD --> NEW ERA
 acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES --> ELCANO
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES --> ELCANO
-acestream://3a74d9869b13e763476800740c6625e715a39879
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES FHD --> NEW ERA
-acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES FHD --> NEW ERA II
-acestream://67a33c3f74956eed14b9b400523462fe362e0e66
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:00) Barça Basket - AS Monaco Basket MOVISTAR DEPORTES HD --> NEW LOOP
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title=Euroliga | Playoffs,(19:45) Anadolu Efes Istanbul - Panathinaikos BC MOVISTAR DEPORTES 4 FHD --> NEW ERA
-acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 group-title=Liga Endesa | Liga Regular,(20:00) Casademont Zaragoza - Básquet Coruña MOVISTAR DEPORTES 3 FHD --> NEW ERA
-acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk MOVISTAR ELLAS --> ELCANO
-acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk MOVISTAR ELLAS FHD --> NEW ERA
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk MOVISTAR ELLAS FHD --> NEW ERA II
-acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk TELEDEPORTE FHD --> NEW ERA
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk MOVISTAR DEPORTES 2 --> ELCANO
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title=WTA Madrid | 1/4 de Final,(20:10) A. Sabalenka - M. Kostyuk MOVISTAR DEPORTES 2 FHD --> NEW ERA
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES 4K --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES 4K --> NEW ERA
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES 4K --> NEW ERA
-acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES --> NEW LOOP
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES --> NEW LOOP
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://a9025d4e168764248d33129c30940502cea0e1c2
-#EXTINF:-1 group-title=Champions League | Semifinales,(21:00) FC Barcelona - Inter Milan LIGA DE CAMPEONES FHD --> NEW ERA
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES FHD --> NEW ERA
 acestream://47223e64a576c21bd61e818a42397a753d34fba5
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(21:30) A. De Miñaur - L. Musetti TELEDEPORTE FHD --> NEW ERA
-acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(21:30) A. De Miñaur - L. Musetti MOVISTAR DEPORTES 2 --> ELCANO
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title=Masters Madrid | 1/8 de final,(21:30) A. De Miñaur - L. Musetti MOVISTAR DEPORTES 2 FHD --> NEW ERA
-acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Manchester Utd. - Athletic Club LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Bodø/Glimt - Tottenham LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Bodø/Glimt - Tottenham LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Bodø/Glimt - Tottenham LIGA DE CAMPEONES 4 FHD --> NEW ERA
+acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29
+#EXTINF:-1 group-title=Europa League | Semifinales,(21:00) Bodø/Glimt - Tottenham LIGA DE CAMPEONES 4 FHD --> NEW ERA
+acestream://f1219582a3059e7fff2db22e69475c45cbc84356
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 2 --> ELCANO
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 2 FHD --> NEW ERA
+acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Fiorentina - Real Betis LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Chelsea - Djurgårdens IF LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Chelsea - Djurgårdens IF LIGA DE CAMPEONES 3 FHD --> NEW ERA
+acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Chelsea - Djurgårdens IF LIGA DE CAMPEONES 5 FHD --> NEW ERA
+acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
+#EXTINF:-1 group-title=Conference League | Semifinales,(21:00) Chelsea - Djurgårdens IF LIGA DE CAMPEONES 5 FHD --> NEW ERA
+acestream://d2cf12b65c8a540a50bd74c3db1ce59ae8d05623
