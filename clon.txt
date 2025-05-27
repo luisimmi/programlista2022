@@ -1,5 +1,62 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Lunes26 de Mayo de 2025:
+Martes27 de Mayo de 2025:
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://98784fa0714190de289f42eb5b84e405df7e685a
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
+acestream://ef0cc1d80245e969638d0754314243b6040d46c9
+Miércoles28 de Mayo de 2025:
 #EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA Indiana Pacers - New York Knicks
 acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA Indiana Pacers - New York Knicks
@@ -10,64 +67,256 @@ acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA Indiana Pacers - New York Knicks
 acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
-#EXTINF:-1 group-title='Fútbol', 12:30 - FINAL NATIONS LEAGUE Rueda de Prensa Luis de la Fuente
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Waterpolo', 19:00 - IBERDROLA Astralpool CN Sabadell - CN Sant Andreu
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title='Tenis', 13:00 - GARROS Zeppieri - Alcaraz
-acestream://ef0cc1d80245e969638d0754314243b6040d46c9
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Balonmano', 20:30 - GUERRERAS IBERDROLA Super Amara Bera Bera - Attigco BM Elche
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Chelsea
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Chelsea
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Chelsea
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Chelsea
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Betis - Chelsea
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+Jueves29 de Mayo de 2025:
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Oklahoma City Thunder - Minnesota Timberwolves
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
-#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Osaka - Badosa
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 18 - Morbegno - Cesano Maderno
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title='Fútbol', 20:00 - PRO LEAGUE Al Fateh - Al Nassr
-Marca.com
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 1
+acestream://3ae4d3bc4981f64d2a8ffc0aa2e3799e783d7939
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 1
+acestream://fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 20:30 - ENDESA Bàsquet Girona - Hiopos Lleida
+acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='F.', 20:30 - PRIMERA DIVISIÓN MASCULINA Movistar Inter - Jimbee Cartagena Costa Cálida
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+Viernes30 de Mayo de 2025:
+#EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA New York Knicks - Indiana Pacers
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA New York Knicks - Indiana Pacers
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA New York Knicks - Indiana Pacers
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA New York Knicks - Indiana Pacers
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA New York Knicks - Indiana Pacers
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
-#EXTINF:-1 group-title='Tenis', 20:30 - GARROS Sinner - Rinderknech
+#EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 19 - Biella - Champoluc
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 2
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 2
+acestream://3ae4d3bc4981f64d2a8ffc0aa2e3799e783d7939
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 2
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 18:00 - WOMEN'S OPEN Jornada 2
+acestream://fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Baloncesto', 19:00 - FEMENINO España - Grecia
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE FEMENINA Bélgica - España
+acestream://56d98cef21d9e242a8c32f36259c850c467e9748
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
+acestream://f409a32da912cda2a0071397f552c564540fe101
+Sábado31 de Mayo de 2025:
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 group-title='Boxeo', 03:00 - SUPERMEDIANO Bektemir Melikuziev vs Darius Fulghum
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
+acestream://3ae4d3bc4981f64d2a8ffc0aa2e3799e783d7939
+#EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
+acestream://fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSG - Inter
+acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
+Domingo1 de Junio de 2025:
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Real Oviedo - Cádiz
+acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cartagena - Mirandés LALIGA TV HYPERMOTION
+4
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=1000
 
@@ -247,6 +496,8 @@ acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
 acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
 acestream://4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA
+acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> ELCANO
 acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP
@@ -331,8 +582,6 @@ acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> ELCANO
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 FHD --> NEW ERA
@@ -383,8 +632,6 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 --> NEW LOOP
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AUTOMOTORSPORT HD --> NEW LOOP
-acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
@@ -453,6 +700,8 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL --> NEW LOOP
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD --> NEW ERA
