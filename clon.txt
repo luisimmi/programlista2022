@@ -1,61 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Martes27 de Mayo de 2025:
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-#EXTINF:-1 group-title='NBA', 02:30 - DE CONFERENCIA Minnesota Timberwolves - Oklahoma City Thunder
-acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
-#EXTINF:-1 group-title='Ciclismo', 11:00 - DE ITALIA Etapa 16 - Piazzola sul Brenta - San Valentino di Brentonico
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://675a8080982cc34b6d3c7ce38e2c121458b68ebd
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://98784fa0714190de289f42eb5b84e405df7e685a
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title='Tenis', 15:00 - GARROS McDonald - Djokovic
-acestream://ef0cc1d80245e969638d0754314243b6040d46c9
 Miércoles28 de Mayo de 2025:
 #EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA Indiana Pacers - New York Knicks
 acestream://335646e7394ea4eda343c95e57852bb70fc4178f
@@ -67,6 +10,24 @@ acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='NBA', 02:00 - DE CONFERENCIA Indiana Pacers - New York Knicks
 acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://0fc05a1e2da78d44b3b5c1ebf6cbcedb8e92c934
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://675a8080982cc34b6d3c7ce38e2c121458b68ebd
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://98784fa0714190de289f42eb5b84e405df7e685a
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title='Tenis', 14:00 - GARROS Marozsan - Alcaraz
+acestream://ef0cc1d80245e969638d0754314243b6040d46c9
 #EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title='Ciclismo', 15:00 - DE ITALIA Etapa 17 - San Michele all'Adige - Bormio
@@ -213,10 +174,46 @@ acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Casademont Zaragoza - Real Madrid
 acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://6375fcdea62577dccee55618a0790a058ea548ec
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://b57b181bf5e70afd78e0938186a3586408e68f4e
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Surne Bilbao Basket - Barça
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Leyma Coruña - Baskonia
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Leyma Coruña - Baskonia
+acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Leyma Coruña - Baskonia
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Coviran Granada - Morabanc Andorra
+acestream://23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Coviran Granada - Morabanc Andorra
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 group-title='Baloncesto', 18:30 - ENDESA Coviran Granada - Morabanc Andorra
+acestream://c0069e0b0672b36fc0b0630b59789d8cb57bf4ce
 #EXTINF:-1 group-title='Baloncesto', 19:00 - FEMENINO España - Grecia
 acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
 #EXTINF:-1 group-title='Fútbol', 20:30 - LEAGUE FEMENINA Bélgica - España
 acestream://56d98cef21d9e242a8c32f36259c850c467e9748
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Castellón - Zaragoza
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Castellón - Zaragoza
+acestream://4e066df67d118f95b41f850869abdc663c515186
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Castellón - Zaragoza
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Castellón - Zaragoza
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION Castellón - Zaragoza
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
@@ -237,6 +234,26 @@ acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
 acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
 #EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Baxi Manresa - La Laguna Tenerife
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://6375fcdea62577dccee55618a0790a058ea548ec
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://b57b181bf5e70afd78e0938186a3586408e68f4e
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Unicaja - Joventut Badalona
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Dreamland Gran Canaria - UCAM Murcia
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Dreamland Gran Canaria - UCAM Murcia
+acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Dreamland Gran Canaria - UCAM Murcia
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
 acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
 #EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Valencia Basket - Río Breogán
@@ -292,6 +309,54 @@ acestream://95120cee8223e9af839994ecc2b96aef05f8a151
 acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
 #EXTINF:-1 group-title='Ciclismo', 10:30 - DE ITALIA Etapa 20 - Verrès - Sestriere
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 16:00 - Bristol Bears - Harlequins
+acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Racing Ferrol - Sporting
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Málaga - Burgos
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Málaga - Burgos
+acestream://4e066df67d118f95b41f850869abdc663c515186
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Málaga - Burgos
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Málaga - Burgos
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Málaga - Burgos
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 group-title='Golf', 19:00 - WOMEN'S OPEN Jornada 3
@@ -303,6 +368,38 @@ acestream://fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE PSG - Inter
 acestream://7225e4b281975f1a36d61dfd9724b669d7747b70
 Domingo1 de Junio de 2025:
+#EXTINF:-1 group-title='F.', 13:00 - PRIMERA DIVISIÓN Jimbee Cartagena Costa Cálida - Movistar Inter
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 14:45 - DE ITALIA Etapa 21 - Roma - Roma
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Fórmula', 15:00 - G.P. ESPAÑA Montmeló
+acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Eldense
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Eldense
+acestream://4e066df67d118f95b41f850869abdc663c515186
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Eldense
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Eldense
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Huesca - Eldense
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
 acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Deportivo - Elche
@@ -317,6 +414,50 @@ acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Cartagena - Mirandés LALIGA TV HYPERMOTION
 4
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Racing - Granada LALIGA TV HYPERMOTION
+5
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Almería - Tenerife LALIGA TV HYPERMOTION
+6
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Levante - Eibar LALIGA TV HYPERMOTION
+7
+#EXTINF:-1 group-title='Golf', 20:00 - WOMEN'S OPEN Jornada 4
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 20:00 - WOMEN'S OPEN Jornada 4
+acestream://3ae4d3bc4981f64d2a8ffc0aa2e3799e783d7939
+#EXTINF:-1 group-title='Golf', 20:00 - WOMEN'S OPEN Jornada 4
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 group-title='Golf', 20:00 - WOMEN'S OPEN Jornada 4
+acestream://fa12e4d1bd80e3599fff58d0e310660e24d2ad4b
+#EXTINF:-1 group-title='Baloncesto', 20:00 - FEMENINO España - Italia
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Toulon - Bordeaux-Bègles
+acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Córdoba - Albacete
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Córdoba - Albacete
+acestream://4e066df67d118f95b41f850869abdc663c515186
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Córdoba - Albacete
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Córdoba - Albacete
+acestream://121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Córdoba - Albacete
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=1000
 
@@ -582,6 +723,8 @@ acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 --> ELCANO
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 FHD --> NEW ERA
@@ -632,6 +775,8 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 --> NEW LOOP
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AUTOMOTORSPORT HD --> NEW LOOP
+acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
@@ -688,6 +833,8 @@ acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db
 acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD --> NEW ERA
 acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD" group-title="OTROS", HOLLYWOOD --> NEW ERA III
+acestream://0efe3e6352b68faf8ba8ea6fe91ad37fac3b1fba
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA NETWORK --> NEW ERA
 acestream://8a0a371e2cda52d162c960400e9f55fffddfd46d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV --> NEW ERA
@@ -712,6 +859,16 @@ acestream://3f23e772f30c5f127609cbef8aa904219b63caef
 acestream://999db87cb68b0a671d61a858da7d79dd97b0c0a4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©COMEDIA©️--> NEW ERA III
+acestream://981002ae3adff1f7d994e267cafd71560dd3138b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©DRAMA©️--> NEW ERA III
+acestream://2f30e21bc0b16214998de4c1d7afb395fd39970b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©ESTRENOS©️--> NEW ERA III
+acestream://31db55dba09dc6804a30d016fc1104f2f0076508
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©HITS©️--> NEW ERA III
+acestream://8eeb24559dcf87c074ec62d23ddcf43d5c70abbc
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©INDIE©️--> NEW ERA III
+acestream://490bbb38d3f47c823a35305ee537d141cd8fe426
 #EXTINF:-1 group-title=TDT tvg-id=Antena 3 HD tvg-logo=https://i.ibb.co/qFgSG92W/antena3.png, ANTENA 3
 http://127.0.0.1:6878/ace/getstream?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5
 #EXTINF:-1 group-title=NEW ERA tvg-id= tvg-logo=, BeIN Sports 1 [BE] 
