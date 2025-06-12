@@ -1,5 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1, Fecha: default_date
-# Fecha: default_date
-
