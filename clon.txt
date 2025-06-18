@@ -1,33 +1,367 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
-Lunes16 de Junio de 2025:
-#EXTINF:-1 group-title='Fútbol', 02:15 - DE ORO Haití - Arabia Saudí
+Miércoles18 de Junio de 2025:
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='NHL', 02:00 - CUP Florida Panthers - Edmonton Oilers
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Fútbol', 02:15 - DE ORO Curazao - El Salvador
 acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://95120cee8223e9af839994ecc2b96aef05f8a151
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
-#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 2 - Aarau - Schwarzsee
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 4 - Heiden - Piuro (Valchiavenna)
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title='Fútbol', 21:00 - DE CLUBES Chelsea - Los Angeles FC
+#EXTINF:-1 group-title='Baloncesto', 16:30 - DE EUROPA FEMENINO Turquía - Francia
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 18:15 - SUB-21 Países Bajos - Ucrania
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 21:00 - SUB-21 Inglaterra - Alemania
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 21:00 - DE CLUBES Real Madrid - Al Hilal
+acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+Jueves19 de Junio de 2025:
+#EXTINF:-1 group-title='Fútbol', 04:00 - DE ORO Surinam - México
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 5 - La Punt - Santa Maria in Calanca
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Baloncesto', 17:15 - DE EUROPA FEMENINO Gran Bretaña - España
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='F.', 19:15 - PRIMERA DIVISIÓN FEMENINA Futsi Atlético Navalcarnero - STV Roldán
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 21:00 - DE CLUBES Inter Miami - Oporto
+acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
+#EXTINF:-1 group-title='F.', 21:30 - PRIMERA DIVISIÓN MASCULINA Barça - Jimbee Cartagena Costa Cálida
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+Viernes20 de Junio de 2025:
+#EXTINF:-1 group-title='NBA', 02:30 - Indiana Pacers - Oklahoma City Thunder
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='NBA', 02:30 - Indiana Pacers - Oklahoma City Thunder
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='NBA', 02:30 - Indiana Pacers - Oklahoma City Thunder
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='NBA', 02:30 - Indiana Pacers - Oklahoma City Thunder
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='NBA', 02:30 - Indiana Pacers - Oklahoma City Thunder
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Fútbol', 03:15 - DE ORO Arabia Saudita - Estados Unidos
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 14:50 - A SUIZA Etapa 6 - Chur - Neuhausen am Rheinfall
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='F.', 17:00 - 1ª DIVISIÓN FEMENINA CD Fun And Learning - Pozoalbense
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='F.', 18:15 - 1ª DIVISIÓN MASCULINA Club Deportivo de Fútbol Fran Mejías - Gestión y Calor Córdoba
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 20:00 - DE CLUBES Flamengo - Chelsea
+acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
+#EXTINF:-1 group-title='Baloncesto', 20:00 - DE EUROPA FEMENINO España - Alemania
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Stade Toulousain - Aviron Bayonnais
+acestream://985896872c52d04030c112ca99584046d022a349
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Stade Toulousain - Aviron Bayonnais
+acestream://17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Stade Toulousain - Aviron Bayonnais
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://a1660d711184fa701bf1c88395e3b2d43ddca83f
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://5f593876293d0a5c3c138e904c54526cc2da3c5b
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
+#EXTINF:-1 group-title='Atletismo', 21:00 - LEAGUE Meeting: París
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Baloncesto', 21:15 - ENDESA Real Madrid - Valencia Basket
+acestream://f409a32da912cda2a0071397f552c564540fe101
+Sábado21 de Junio de 2025:
+#EXTINF:-1 group-title='Fútbol', 04:00 - DE ORO Guatemala - Panamá
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 09:00 - RUGBY Crusaders - Chiefs
+acestream://f409a32da912cda2a0071397f552c564540fe101
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 15:00 - ITALIA MotoGP (Sprint)
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 7 - Neuhausen am Rheinfall - Emmetten
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://57e38ef7eaab5596559415bdf96926ee4115c5ce
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://ddb69a119ab5faf7eeec3cef77e3d591a8242816
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://f86e821848931eaa55bcb779e74f62d6a59f41c0
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 group-title='Boxeo', 20:00 - MOSCA Galai Yafai vs F. Rodriguez Jr
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 20:30 - A SEGUNDA Ponferradina - Andorra Esport
+3
+#EXTINF:-1 group-title='Fútbol', 21:00 - A PRIMERA Real Oviedo - Mirandés
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 21:00 - A PRIMERA Real Oviedo - Mirandés
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 21:00 - A PRIMERA Real Oviedo - Mirandés
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 group-title='Fútbol', 21:00 - A PRIMERA Real Oviedo - Mirandés
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title='Fútbol', 21:00 - A PRIMERA Real Oviedo - Mirandés
+acestream://a357cb0f77e39380844dbf93ec647156d7f2ded1
+#EXTINF:-1 group-title='Fútbol', 21:00 - DE CLUBES Inter - Urawa Reds
+acestream://da60cf19fab0b9e23aab83bb37d61e8b8c3b7655
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://0f771c30336a0506c74f4aa86762edcb94d21fac
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://3a74d9869b13e763476800740c6625e715a39879
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 group-title='Rugby', 21:00 - 14 Bordeaux-Bègles - Toulon
+acestream://f409a32da912cda2a0071397f552c564540fe101
+Domingo22 de Junio de 2025:
+#EXTINF:-1 group-title='Fútbol', 04:00 - DE ORO Honduras - El Salvador
+acestream://3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 11:00 - ITALIA Moto3
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 12:15 - ITALIA Moto2
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://71a65780b9c542a8c9e4084ae5aefdd9286da51e
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://a7e083d922be14a0496d65aad2ff8ea9c8011bd0
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://e6a00cb2912609dceeeee88d3f66a2de9718b421
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://ec10963a4408f96d2089a29af8b7a8ac4b23dd3c
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 group-title='Motos', 14:00 - ITALIA MotoGP
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://95120cee8223e9af839994ecc2b96aef05f8a151
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://9d40122f58b904afc78b971aa287a31c1003cd7d
+#EXTINF:-1 group-title='Ciclismo', 15:00 - A SUIZA Etapa 8 - Beckenried - Stockhütte
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 group-title='Baloncesto', 15:15 - DE EUROPA FEMENINO Suecia - España
+acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+#EXTINF:-1 group-title='Fútbol', 20:00 - A SEGUNDA Real Sociedad B - Gimnàstic Esport
+3
+#EXTINF:-1 group-title='Fútbol', 21:00 - DE CLUBES Real Madrid - Pachuca
 acestream://154c6f876ddf1d9c87880eae0d0442335ec156bf
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clsicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD --> NEW ERA
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clsicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
@@ -127,6 +461,10 @@ acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES SD --> ELCANO
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> NEW LOOP
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 --> ELCANO
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> ELCANO
@@ -219,6 +557,8 @@ acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 SD --> ELCANO
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
@@ -239,8 +579,6 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 acestream://ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> NEW LOOP
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ --> NEW LOOP
-acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> NEW LOOP
@@ -257,6 +595,8 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] --> NEW LOOP
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] --> NEW LOOP
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] --> NEW LOOP
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 --> NEW LOOP
@@ -273,14 +613,10 @@ acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 --> NEW LOOP
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AUTOMOTORSPORT HD --> NEW LOOP
-acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR --> NEW LOOP
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD --> NEW LOOP
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" group-title="MOTOR", MOTORVISION TV --> NEW LOOP
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV --> NEW ERA III
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR --> NEW LOOP
@@ -289,6 +625,8 @@ acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> ELCANO
+acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", GOL PLAY FHD --> NEW ERA
 acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
@@ -335,14 +673,8 @@ acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ONETORO (solo eventos)--> NEW ERA III
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
-acestream://ffa09e597804001f634dd1829f031823411a2595
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA --> NEW LOOP
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET --> NEW LOOP
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL --> NEW LOOP
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
