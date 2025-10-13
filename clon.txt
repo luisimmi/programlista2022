@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, EVENTOS DEL 26-07-2025 22:07
+#EXTINF:-1, EVENTOS DEL 26-07-2025 22:11
 acestream://
 #EXTINF:-1 group-title='
 src="https://static.futbolenlatv.com/img/32/20130727120523-EEUU.webp"
