@@ -191,6 +191,18 @@ acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 group-title='NBA', 04:00 - REGULAR Denver Nuggets - Los Angeles Lakers
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1 group-title='Tenis', 04:00 - DE AUSTRALIA Alcaraz - Hanfmann
+acestream://547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Damac - Al Nassr
 acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Damac - Al Nassr
