@@ -649,18 +649,6 @@ acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 group-title='Baloncesto', 20:00 - DE ESPAÑA FEB Cloud.Gal. Ourense - Movistar Estudiantes
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Boxeo', 20:00 - PESADO Itauma vs Franklin
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Villarreal - Real Madrid
 acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Villarreal - Real Madrid
@@ -729,6 +717,18 @@ acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 group-title='NBA', 02:30 - REGULAR Dallas Mavericks - Los Angeles Lakers
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Boxeo', 03:00 - LIGERO Raymond Muratalla vs Andy Cruz.
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - SD Eibar
 acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - SD Eibar
