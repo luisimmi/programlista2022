@@ -311,6 +311,12 @@ acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 group-title='NBA', 03:30 - REGULAR Milwaukee Bucks - Oklahoma City Thunder
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Balonmano', 18:00 - MASCULINO España - Noruega
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='Balonmano', 18:00 - MASCULINO España - Noruega
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='Balonmano', 18:00 - MASCULINO España - Noruega
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Al Qadsiah - Al Ittihad M+ Vamos
 2
 #EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE PAOK - Betis
