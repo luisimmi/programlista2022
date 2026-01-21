@@ -92,6 +92,8 @@ acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Bayern Múnich - Union Saint-Gilloise M+ Liga de Campeones
 7
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Atalanta - Athletic
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Atalanta - Athletic
 acestream://4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Atalanta - Athletic
 acestream://ea03cc51980996ba6f2da49e30eee1de8a66ae54
@@ -109,6 +111,16 @@ acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Olympique de Marsella - Liverpool
 acestream://5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
+acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
+acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slavia Praga - Barcelona
@@ -239,6 +251,16 @@ acestream://0e5d8c9724fa9163f49096b70484e315251eb785
 acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
 #EXTINF:-1 group-title='Baloncesto', 20:45 - Real Madrid - Mónaco
 acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
+acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
+acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celta - Lille
@@ -853,6 +875,16 @@ acestream://9afc89481b721ce6c326c85e47148676077b8e62
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 group-title='NFL', 21:00 - Denver Broncos - New England Patriots
 acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
+#EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
+acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25
+#EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
+acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 group-title='Fútbol', 22:30 - APERTURA Boca Juniors - Deportivo Riestra
