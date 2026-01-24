@@ -521,8 +521,8 @@ acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
 acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
 #EXTINF:-1 group-title='Baloncesto', 13:00 - ENDESA Gran Canaria - Valencia Basket
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
-#EXTINF:-1 group-title='Baloncesto', 13:00 - FEMENINA ENDESA Basket Zaragoza - Jairis Aragón
-TV
+#EXTINF:-1 group-title='Baloncesto', 13:00 - FEMENINA ENDESA Basket Zaragoza - Jairis
+acestream://ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 group-title='Balonmano', 13:00 - GUERRERAS IBERDROLA Zonzamas Plus Car Lanzarote - Elda Prestigio
 acestream://2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 group-title='Balonmano', 13:00 - GUERRERAS IBERDROLA Zonzamas Plus Car Lanzarote - Elda Prestigio
