@@ -323,6 +323,12 @@ acestream://2d997da301573c5aba78f969d0d37eb6107941b2
 acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 group-title='Waterpolo', 13:15 - FEMENINO Rumanía - España
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Ciclismo', 14:30 - MALLORCA MASCULINA Trofeo Ses Salines - Colonia de Sant Jordi
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='Ciclismo', 14:30 - MALLORCA MASCULINA Trofeo Ses Salines - Colonia de Sant Jordi
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='Ciclismo', 14:30 - MALLORCA MASCULINA Trofeo Ses Salines - Colonia de Sant Jordi
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='F.', 17:30 - EUROCOPA MASCULINA España - Bélgica
 acestream://2d997da301573c5aba78f969d0d37eb6107941b2
 #EXTINF:-1 group-title='F.', 17:30 - EUROCOPA MASCULINA España - Bélgica
@@ -345,6 +351,12 @@ acestream://0e5d8c9724fa9163f49096b70484e315251eb785
 acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
 #EXTINF:-1 group-title='Baloncesto', 20:15 - Olympiacos - Barcelona
 acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
+#EXTINF:-1 group-title='F.', 20:30 - CAMPEONATO DE EUROPA MASCULINO Italia - Hungría
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='F.', 20:30 - CAMPEONATO DE EUROPA MASCULINO Italia - Hungría
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='F.', 20:30 - CAMPEONATO DE EUROPA MASCULINO Italia - Hungría
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Baloncesto', 20:45 - Valencia - Maccabi
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 group-title='Baloncesto', 20:45 - Valencia - Maccabi
