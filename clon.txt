@@ -1070,9 +1070,9 @@ acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) --> SPORT TV
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Mantenimiento --> ELCANO
-acestream://456cc2aa7c2e7c3f98681c6b2da2efb465108665
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Mantenimiento --> ELCANO
 acestream://625d75abc29638bff3861c0451d787bd6848cf8b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Mantenimiento --> ELCANO
+acestream://456cc2aa7c2e7c3f98681c6b2da2efb465108665
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED TV 2 (solo eventos) --> NEW ERA III
 acestream://aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED+ (solo eventos) --> NEW ERA III
