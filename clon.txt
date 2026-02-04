@@ -533,6 +533,14 @@ acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 group-title='Boxeo', 03:00 - GALLO Christian Medina vs Adrían Curiel
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 group-title='Motos', 12:00 - MUNDIAL MOTOGP Kuala Lumpur
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 group-title='Motos', 12:00 - MUNDIAL MOTOGP Kuala Lumpur
@@ -859,6 +867,14 @@ acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 #EXTINF:-1 group-title='NBA', 02:30 - REGULAR Los Angeles Lakers - Golden State Warriors
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 group-title='Rugby', 03:30 - SERIES Perth
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 group-title='Baloncesto', 11:30 - FEB Movistar Estudiantes - Palencia Baloncesto
 acestream://58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 group-title='Baloncesto', 11:30 - FEB Movistar Estudiantes - Palencia Baloncesto
@@ -1147,6 +1163,8 @@ acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 
 # FUENTE EXTERNA: http://bit.ly/eventospeticiones
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:00 WTA Torneo de Abu Dhabi - 2ª Ronda D. Yastremska - E. Alexandrova
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:20 Eurocopa - Semifinales Descenso M - Entrenamiento 1
 acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:20 Eurocopa - Semifinales Descenso M - Entrenamiento 1
@@ -1155,6 +1173,14 @@ acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:20 Eurocopa - Semifinales Descenso M - Entrenamiento 1
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 WTA Torneo de Abu Dhabi - 2ª Ronda S. Bejlek - J. Ostapenko
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:55 Eurocopa - Semifinales Jornada 2
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:55 Eurocopa - Semifinales Jornada 2
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:55 Eurocopa - Semifinales Jornada 2
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:30 World Grand Prix -  Primera ronda - Sesión 4
 acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:30 World Grand Prix -  Primera ronda - Sesión 4
@@ -1163,6 +1189,10 @@ acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:30 World Grand Prix -  Primera ronda - Sesión 4
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 WTA Torneo de Abu Dhabi - 2ª Ronda B. Bencic - S. Kartal
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:30 WTA Torneo de Abu Dhabi - 2ª Ronda A. Sasnovich - A. Eala
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - 1/16 de Final HJK Helsinki Academy - Man City Academy
 acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:00 Youth League - 1/16 de Final HJK Helsinki Academy - Man City Academy
