@@ -449,8 +449,12 @@ acestream://d65257bb934b73647374224fd62d836815804be2
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="TR | beIN SPORTS 1" group-title="FUTBOL INT", beIN SPORTS HD 1 (TR) --> SPORT TV
 acestream://118416583faa3fb4f03800173429b6b844b43a52
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 --> ELCANO
+acestream://d96bb710c4e50323e773ce0270567d99837a89fb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 --> SPORT TV
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> ELCANO
+acestream://229419659a062e80a088bb049137dafa9c9952fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 --> SPORT TV
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] --> SPORT TV
@@ -548,9 +552,9 @@ acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 FHD --> NEW ERA
 acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
-acestream://2c01306506e268ba726f5c30222923b6168a5404
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
 acestream://b45cfe568e106a7df65c950805d6f123c989ce84
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> ELCANO
+acestream://2c01306506e268ba726f5c30222923b6168a5404
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 --> SPORT TV
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 FHD --> NEW ERA
@@ -833,6 +837,8 @@ acestream://8faa686a99697b99261346e479ead172b1d9d5d2
 acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 03 SDp --> ELCANO
 acestream://119087e842ea8857124b9405b10bb6cfffd2900c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Bein Sports TR FHDp --> ELCANO
+acestream://e7ddca738693a902ce34fb80788b220676c15801
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX SD --> NEW ERA
 acestream://648b6c7d1b1800b6d224f22e26694f4d59ad217d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN MX 3 HD --> NEW ERA
@@ -1107,6 +1113,12 @@ acestream://48a589dbeab3544662fafd79888aada7d834cfe9
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:20 WM Phoenix Open -  Descenso F
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 13:30 Vuelta Comunidad Valenciana -  Recoletas At. Valladolid - Barça BM
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 13:30 Vuelta Comunidad Valenciana -  Recoletas At. Valladolid - Barça BM
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 13:30 Vuelta Comunidad Valenciana -  Recoletas At. Valladolid - Barça BM
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 WM Phoenix Open -  Esquiatlón 10km + 10km F
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 WM Phoenix Open -  Esquiatlón 10km + 10km F
@@ -1197,13 +1209,13 @@ acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Copa Davis - Fase de Clasificación Hungría - Estados Unidos
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier -  Final ATP 250
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier - Final F. Auger-Aliassime - A. Mannarino
 acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier -  Final ATP 250
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier - Final F. Auger-Aliassime - A. Mannarino
 acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier -  Final ATP 250
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier - Final F. Auger-Aliassime - A. Mannarino
 acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier -  Final ATP 250
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 15:00 Torneo de Montpellier - Final F. Auger-Aliassime - A. Mannarino
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:45 Vuelta Comunidad Valenciana -  Etapa 5 Bétera › Valencia (93,8 km)
 acestream://f5908690485ae2facecf3074446ba4315f07a193
@@ -1266,11 +1278,13 @@ acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
 acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+acestream://001a809c577ef916a57340151c6112ebcb7a894f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
-acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+acestream://9b461120d04b7651990c3b54a0821c60c3b94146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
-acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+acestream://9934906503661142f97a044ae1509a294057c2ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
+acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Sevilla FC - Girona
 acestream://d58f619d860d29cd47720055b9bb842199971da1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Primera -  Athletic Club - Levante
