@@ -95,6 +95,24 @@ acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 group-title='NBA', 04:00 - REGULAR Oklahoma City Thunder - Los Angeles Lakers
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='JJ.OO.', 09:10 - DE FONDO Sprint Classic Calificación (Tesero)
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='JJ.OO.', 09:10 - DE FONDO Sprint Classic Calificación (Tesero)
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='JJ.OO.', 09:10 - DE FONDO Sprint Classic Calificación (Tesero)
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='JJ.OO.', 10:45 - ALPINO Combinada Equipos Femenina (Cortina D'Ampezzo)
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='JJ.OO.', 10:45 - ALPINO Combinada Equipos Femenina (Cortina D'Ampezzo)
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='JJ.OO.', 10:45 - ALPINO Combinada Equipos Femenina (Cortina D'Ampezzo)
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='JJ.OO.', 18:30 - ARTÍSTICO Programa Corto Masculino (Milán)
+acestream://2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 group-title='JJ.OO.', 18:30 - ARTÍSTICO Programa Corto Masculino (Milán)
+acestream://7d910d9480e023608d1fe77eaf47c2ed34592155
+#EXTINF:-1 group-title='JJ.OO.', 18:30 - ARTÍSTICO Programa Corto Masculino (Milán)
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Baloncesto', 20:00 - LEAGUE Elan Chalon - Joventut
 acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 group-title='Baloncesto', 20:00 - LEAGUE Elan Chalon - Joventut
@@ -875,6 +893,38 @@ acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 acestream://217e5f172d4c704c5eec739fed672a53521e8f98
 #EXTINF:-1 group-title='NBA', 23:00 - STAR GAME Concursos de mates, triples y habilidades
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+
+# --- Domingo15 de Febrero de 2026 ---
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://8c30b600cc48899991b452805df48b68d998e61c
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Oviedo - Athletic Club
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://4955867fad3bc92e5b4c36045699fc277800fb18
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Atlético de Madrid
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
 
 # FUENTE EXTERNA: https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u
