@@ -1,171 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
-# --- Martes18 de Agosto de 2026 ---
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://5d3f582738467aaf213e408601aca5cc13fa9359
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Tenis', 01:00 - CINCINNATI Zverev - Atmane
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO MASCULINO España - Australia
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO MASCULINO España - Australia
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO MASCULINO España - Australia
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO MASCULINO España - Australia
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Tenis', 18:30 - CINCINNATI Fritz - Merida
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Tenis', 18:30 - CINCINNATI Fritz - Merida
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Tenis', 18:30 - CINCINNATI Fritz - Merida
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='Hockey', 20:30 - DEL MUNDO FEMENINO España - Bélgica
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Hockey', 20:30 - DEL MUNDO FEMENINO España - Bélgica
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Hockey', 20:30 - DEL MUNDO FEMENINO España - Bélgica
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Hockey', 20:30 - DEL MUNDO FEMENINO España - Bélgica
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Fenerbahçe - Olympique Lyon
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Levski Sofia - AEK Atenas
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Levski Sofia - AEK Atenas
-acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Dinamo Zagreb - Viking
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Dinamo Zagreb - Viking
-acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
-
-# --- Miércoles19 de Agosto de 2026 ---
-#EXTINF:-1 group-title='Fútbol', 00:00 - SUDAMERICANA Deportivo Recoleta - Boca Juniors
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Fútbol', 00:00 - SUDAMERICANA Deportivo Recoleta - Boca Juniors
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Fútbol', 00:00 - SUDAMERICANA Deportivo Recoleta - Boca Juniors
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Fútbol', 20:00 - JOAN GAMPER FC Barcelona - Al - Ahly
-TV3
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS At. Madrid - Málaga
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS At. Madrid - Málaga
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS At. Madrid - Málaga
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE NEC - Bodo/Glimt
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celtic - LASK
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Celtic - LASK
-acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slovan Bratislava - Celje
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Slovan Bratislava - Celje
-acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Hapoel Beer-Sheva - Sabah
-acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 group-title='Fútbol', 21:00 - LEAGUE Hapoel Beer-Sheva - Sabah
-acestream://91ac4585368992720ec17ffa5b4389368c6dcac1
-
-# --- Jueves20 de Agosto de 2026 ---
-#EXTINF:-1 group-title='Fútbol', 00:00 - LIBERTADORES Cerro Porteño - Palmeiras
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Fútbol', 00:00 - LIBERTADORES Cerro Porteño - Palmeiras
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Fútbol', 00:00 - LIBERTADORES Cerro Porteño - Palmeiras
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
-#EXTINF:-1 group-title='Fútbol', 02:30 - SUDAMERICANA Santa Fe - River Plate
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO FEMENINO Nueva Zelanda - España
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO FEMENINO Nueva Zelanda - España
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO FEMENINO Nueva Zelanda - España
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Hockey', 14:00 - DEL MUNDO FEMENINO Nueva Zelanda - España
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Hockey', 17:00 - DEL MUNDO MASCULINO Irlanda - España
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Hockey', 17:00 - DEL MUNDO MASCULINO Irlanda - España
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Hockey', 17:00 - DEL MUNDO MASCULINO Irlanda - España
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Hockey', 17:00 - DEL MUNDO MASCULINO Irlanda - España
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Golf', 19:00 - INDIANÁPOLIS Jornada 1
-acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Fayha - Al Hilal
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://385abcf801b787eec6ed6624908758bb165c0a55
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://4955867fad3bc92e5b4c36045699fc277800fb18
-#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Rayo - Alavés
-acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
 # --- Viernes21 de Agosto de 2026 ---
 #EXTINF:-1 group-title='Fútbol', 02:30 - LIBERTADORES Corinthians - CA Rosario Central
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
@@ -179,6 +13,20 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 group-title='Fútbol', 02:30 - LIBERTADORES Corinthians - CA Rosario Central
 acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 group-title='Tenis', 02:30 - CINCINNATI Tirante - Fils
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 02:30 - CINCINNATI Tirante - Fils
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 02:30 - CINCINNATI Tirante - Fils
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 group-title='Hockey', 17:05 - DEL MUNDO MASCULINO Alemania - España
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Hockey', 17:05 - DEL MUNDO MASCULINO Alemania - España
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Hockey', 17:05 - DEL MUNDO MASCULINO Alemania - España
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Hockey', 17:05 - DEL MUNDO MASCULINO Alemania - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Fútbol', 18:00 - SAUDÍ Al Riyadh - Al Nasser
 acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
 #EXTINF:-1 group-title='Fútbol', 18:00 - SAUDÍ Al Riyadh - Al Nasser
@@ -193,6 +41,14 @@ acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 group-title='Golf', 18:00 - INDIANÁPOLIS Jornada 2
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
+#EXTINF:-1 group-title='Artística', 18:45 - DE EUROPA MASCULINO Final por Aparatos (Zagreb)
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Artística', 18:45 - DE EUROPA MASCULINO Final por Aparatos (Zagreb)
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Artística', 18:45 - DE EUROPA MASCULINO Final por Aparatos (Zagreb)
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Artística', 18:45 - DE EUROPA MASCULINO Final por Aparatos (Zagreb)
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Fútbol', 20:00 - SAUDÍ Al Qadisiyah - Al Ittihad M+ Vamos
 3
 #EXTINF:-1 group-title='Atletismo', 20:00 - LEAGUE Meeting: Lausanne
@@ -201,6 +57,24 @@ acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 group-title='Atletismo', 20:00 - LEAGUE Meeting: Lausanne
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 20:45 - DE ALEMANIA Hansa Rostock - Stuttgart
+acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
+#EXTINF:-1 group-title='Fútbol', 20:45 - DE ALEMANIA Hansa Rostock - Stuttgart
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+#EXTINF:-1 group-title='Tenis', 21:00 - CINCINNATI Fritz - Nakashima
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 21:00 - CINCINNATI Fritz - Nakashima
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 21:00 - CINCINNATI Fritz - Nakashima
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 group-title='Baloncesto', 21:00 - INTERNACIONAL FEMENINO DE TENERIFE España - Nigeria
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Baloncesto', 21:00 - INTERNACIONAL FEMENINO DE TENERIFE España - Nigeria
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Baloncesto', 21:00 - INTERNACIONAL FEMENINO DE TENERIFE España - Nigeria
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Baloncesto', 21:00 - INTERNACIONAL FEMENINO DE TENERIFE España - Nigeria
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Betis - R. Sociedad
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Betis - R. Sociedad
@@ -237,6 +111,12 @@ acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
 
 # --- Sábado22 de Agosto de 2026 ---
+#EXTINF:-1 group-title='Tenis', 01:05 - CINCINNATI Musetti - Tiafoe
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 01:05 - CINCINNATI Musetti - Tiafoe
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 01:05 - CINCINNATI Musetti - Tiafoe
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 group-title='Fórmula', 12:00 - G.P. PAÍSES BAJOS Zandvoort (Sprint)
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 group-title='Fórmula', 12:00 - G.P. PAÍSES BAJOS Zandvoort (Sprint)
@@ -301,6 +181,20 @@ acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
 #EXTINF:-1 group-title='Vela', 14:00 - GP Alemania (Jornada 1)
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://547ab7146a86d6119c9332c011669544720124e3
+#EXTINF:-1 group-title='Ciclismo', 16:00 - A ESPAÑA Etapa 1: Mónaco - Mónaco
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Everton - Crystal Palace
 acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Everton - Crystal Palace
@@ -573,6 +467,10 @@ acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 group-title='Fútbol', 17:30 - LEAGUE Newcastle - Liverpool
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Fútbol', 18:00 - DE ALEMANIA Fortuna Dusseldorf - Friburgo
+acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
+#EXTINF:-1 group-title='Fútbol', 18:00 - DE ALEMANIA Fortuna Dusseldorf - Friburgo
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Sporting - Burgos
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 group-title='Fútbol', 19:00 - HYPERMOTION Sporting - Burgos
@@ -597,6 +495,10 @@ acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 group-title='Fútbol', 19:30 - EA SPORTS Getafe - Racing
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 group-title='Fútbol', 20:15 - POLACA Pogon Szczecin - Wisla Cracovia
+acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
+#EXTINF:-1 group-title='Fútbol', 20:15 - POLACA Pogon Szczecin - Wisla Cracovia
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 group-title='Fútbol', 21:00 - Palmeiras - Vasco de Gama
 acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
 #EXTINF:-1 group-title='Fútbol', 21:00 - Palmeiras - Vasco de Gama
@@ -627,282 +529,210 @@ acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 
 # FUENTE EXTERNA: https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 14:00 FIH Copa Mundial Masculina -  España - Australia
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 14:00 FIH Copa Mundial Masculina -  España - Australia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 WTA Cincinnati - 3ª Ronda K. Siniakova - M. Keys
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 Trofeo Ciudad de Granollers Femenino -  BM Granollers - GC Amicitia Zürich
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 Trofeo Ciudad de Granollers Femenino -  BM Granollers - GC Amicitia Zürich
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 WTA Cincinnati - 3ª Ronda J. Tjen - M. Andreeva
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 Trofeo Ciudad de Granollers -  BM Granollers - Wacker Thun
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 Trofeo Ciudad de Granollers -  BM Granollers - Wacker Thun
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 FIH Copa Mundial Femenina -  España - Bélgica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 FIH Copa Mundial Femenina -  España - Bélgica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://a9d68301596739a6659873bed3f55802cf744ce8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 WTA Cincinnati - 3ª Ronda C. Gauff - A. Li
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 WTA Cincinnati - 1/4 de Final A. Anisimova - J. Pegula
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:00 LIV Golf -  No disponible
+acestream://597cca4ef375529aaca0608b43187d99d26ca714
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:00 LIV Golf -  No disponible
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Amistoso -  RM Castilla - Zamora
+acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Rayo Vallecano - Alavés
+acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 WTA Cincinnati - 3ª Ronda A. Sabalenka - X. Wang
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 WTA Cincinnati - 1/4 de Final I. Swiatek - E. Rybakina
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 WTA Cincinnati - 3ª Ronda M. Bouzkova - I. Jovic
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
 
 
 # FUENTE EXTERNA: http://bit.ly/eventospeticiones
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 14:00 FIH Copa Mundial Masculina -  España - Australia
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 14:00 FIH Copa Mundial Masculina -  España - Australia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 13:30 Nexo Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 Masters Cincinnati - 3ª Ronda A. Rublev - N. Borges
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 17:00 WTA Cincinnati - 3ª Ronda K. Siniakova - M. Keys
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 Trofeo Ciudad de Granollers Femenino -  BM Granollers - GC Amicitia Zürich
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:00 Trofeo Ciudad de Granollers Femenino -  BM Granollers - GC Amicitia Zürich
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda T. Fritz - D. Mérida
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 Masters Cincinnati - 3ª Ronda M. Zheng - L. Musetti
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 18:30 WTA Cincinnati - 3ª Ronda J. Tjen - M. Andreeva
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 Masters Cincinnati - 3ª Ronda B. Nakashima - D. Medvedev
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 Trofeo Ciudad de Granollers -  BM Granollers - Wacker Thun
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 Trofeo Ciudad de Granollers -  BM Granollers - Wacker Thun
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 FIH Copa Mundial Femenina -  España - Bélgica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 20:30 FIH Copa Mundial Femenina -  España - Bélgica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 14:00 FIH Copa Mundial Femenina -  Nueva Zelanda - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:30 Tour del Benelux -  Etapa 2 - Blankenberge › Ardooie (173,9 km)
+acestream://314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 16:15 BMW Championship -  Jornada 1
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Fenerbahçe - O. Lyonnais
-acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs GNK Dinamo Zagreb - Viking FK
-acestream://a9d68301596739a6659873bed3f55802cf744ce8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Champions - Playoffs Levski Sofia - AEK FC
-acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 WTA Cincinnati - 3ª Ronda C. Gauff - A. Li
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 17:00 FIH Copa Mundial Masculina -  Irlanda - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 19:00 WTA Cincinnati - 1/4 de Final A. Anisimova - J. Pegula
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 19:00 Tour del Benelux -  Presentación de Equipos - Edición 2026
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:00 LIV Golf -  No disponible
+acestream://597cca4ef375529aaca0608b43187d99d26ca714
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 19:00 LIV Golf -  No disponible
+acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:00 Amistoso -  RM Castilla - Zamora
+acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Primera -  Rayo Vallecano - Alavés
+acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 00:00 Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors
-acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 Masters Cincinnati - 3ª Ronda JM. Cerúndolo - F. Auger-Aliassime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 21:00 Masters Cincinnati - 1/4 de Final T. Paul - F. Cobolli
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 WTA Cincinnati - 3ª Ronda A. Sabalenka - X. Wang
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 01:00 WTA Cincinnati - 1/4 de Final I. Swiatek - E. Rybakina
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 3ª Ronda L. Tien - F. Tiafoe
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 WTA Cincinnati - 3ª Ronda M. Bouzkova - I. Jovic
-acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:30 Copa Libertadores - 1/8 de final Corinthians - Rosario Central
+acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 02:30 Masters Cincinnati - 1/4 de Final TA. Tirante - A. Fils
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:20 F1 Academy - G.P. Holanda (Zandvoort) Clasificación
+acestream://d65257bb934b73647374224fd62d836815804be2
 
 
 # FUENTE EXTERNA: https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes_acestream.m3u
@@ -922,14 +752,14 @@ acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTGRP: group-title="RFEF TV" group-logo="https://rfef.es/themes/custom/rfef/img/rfef-share.png"
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p *
-acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 1080p *
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p *
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.adriaeco.eu/wp-content/uploads/2021/08/DAZN.png" group-title="DAZN",DAZN 1 Italia 1080p *
+acestream://9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 720p **
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p **
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p *
 acestream://1f75d92098580443857caa95a719103cb83781b0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p **
@@ -938,93 +768,53 @@ acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p **
 acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 720p **
-acestream://385abcf801b787eec6ed6624908758bb165c0a55
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p *
 acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
 acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p *
-acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA",DAZN LaLiga 1080p **
+acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 720p **
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 720p **
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p *
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 1080p **
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 720p **
 acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p *
-acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
 acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
 acestream://bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 720p **
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p *
-acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p **
 acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 1080p *
-acestream://91ac4585368992720ec17ffa5b4389368c6dcac1
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4 1080p **
-acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="MOVISTAR",MOVISTAR PLUS 1080p *
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="MOVISTAR",MOVISTAR PLUS 1080p **
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 1080p *
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 1080p **
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 720p *
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p *
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 1080p **
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="MOVISTAR DEPORTES",M+ Deportes 720p *
+acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 720p *
 acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 720p **
 acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p *
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="MOVISTAR DEPORTES",M+ Deportes 3 1080p **
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p **
-acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" group-title="MOVISTAR DEPORTES",M+ Golf 2 1080p *
-acestream://597cca4ef375529aaca0608b43187d99d26ca714
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/irjqp71744196637.png" group-title="MOVISTAR DEPORTES",M+ Golf 2 1080p **
-acestream://882074140fca664e119a43294afa2fb4a64917ef
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://www.vhv.rs/dpng/d/424-4244985_file-movistar-golf-svg-logo-movistar-golf-hd.png" group-title="MOVISTAR DEPORTES",M+ Golf 1080p *
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 720p **
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p *
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="MOVISTAR DEPORTES",M+ Vamos 1080p **
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 720p **
 acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 1080p *
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="DEPORTES",Esport3 1080p **
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Real%20Madrid%20TV.png" group-title="DEPORTES",Real Madrid TV 1080p *
+acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 720p **
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p *
 acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",Teledeporte 1080p **
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1951065414118539266/9Go2oZlV_400x400.jpg" group-title="TENNIS",Sky Sport Tennis 1080p *
-acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1951065414118539266/9Go2oZlV_400x400.jpg" group-title="TENNIS",Sky Sport Tennis 1080p **
-acestream://b523277cc0d5d64be260dbf24df1ada1c0097507
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p **
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
