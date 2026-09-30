@@ -1,65 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
-# --- Martes29 de Septiembre de 2026 ---
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='NFL', 02:15 - 3 Chicago Bears - Philadelphia Eagles
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Fútbol', 12:30 - ESPAÑOLA FEMENINA Rueda de Prensa Sonia Bermúdez
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Fútbol', 12:30 - ESPAÑOLA FEMENINA Rueda de Prensa Sonia Bermúdez
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Fútbol', 12:30 - ESPAÑOLA FEMENINA Rueda de Prensa Sonia Bermúdez
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Fútbol', 12:30 - ESPAÑOLA FEMENINA Rueda de Prensa Sonia Bermúdez
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Tenis', 13:00 - CHENGDU Davidovich - Hurkacz
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Tenis', 13:00 - CHENGDU Davidovich - Hurkacz
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Tenis', 13:00 - CHENGDU Davidovich - Hurkacz
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='Tenis', 13:35 - HANGZHOU Medvedev - Rublev
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 group-title='Tenis', 13:35 - HANGZHOU Medvedev - Rublev
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 group-title='Tenis', 13:35 - HANGZHOU Medvedev - Rublev
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 group-title='Balonmano', 14:30 - DE CLUBES Barcelona - Montada
-acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
-#EXTINF:-1 group-title='Balonmano', 14:30 - DE CLUBES Barcelona - Montada
-acestream://21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Dubai - FC Barcelona
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Dubai - FC Barcelona
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Baloncesto', 18:00 - Dubai - FC Barcelona
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Baloncesto', 19:00 - Efes - Real Madrid M+
-Baloncesto
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Baskonia
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Baskonia
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Baloncesto', 20:30 - Valencia Basket - Baskonia
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Croacia
-acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Croacia
-acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Croacia
-acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Croacia
-acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
-
 # --- Miércoles30 de Septiembre de 2026 ---
 #EXTINF:-1 group-title='WNBA', 02:30 - OFF Minnesota Lynx - New York Liberty
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
@@ -69,6 +9,12 @@ acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
 #EXTINF:-1 group-title='WNBA', 02:30 - OFF Minnesota Lynx - New York Liberty
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Tenis', 13:00 - PEKÍN Borges - Djokovic
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Tenis', 13:00 - PEKÍN Borges - Djokovic
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Tenis', 13:00 - PEKÍN Borges - Djokovic
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 group-title='Baloncesto', 18:30 - PAOK - Kids & Us Manresa
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 group-title='Baloncesto', 18:30 - PAOK - Kids & Us Manresa
@@ -81,22 +27,68 @@ TV3
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 group-title='Balonmano', 18:45 - LEAGUE Flensburg - Granollers
 acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 group-title='Fútbol', 19:00 - CUP FEMENINA Real Sociedad - Hearts
+etb1
+#EXTINF:-1 group-title='Waterpolo', 19:30 - EUROPEA MASCULINA CN AT. Barceloneta - CN Marsella
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Waterpolo', 19:30 - EUROPEA MASCULINA CN AT. Barceloneta - CN Marsella
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Waterpolo', 19:30 - EUROPEA MASCULINA CN AT. Barceloneta - CN Marsella
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Waterpolo', 19:30 - EUROPEA MASCULINA CN AT. Barceloneta - CN Marsella
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Baloncesto', 20:15 - FEMENINA Bàsquet Girona - Emlak Konut
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 group-title='Baloncesto', 20:15 - FEMENINA Bàsquet Girona - Emlak Konut
 acestream://21bc11d195f5753c396e390c215952d21541d04d
 #EXTINF:-1 group-title='Baloncesto', 20:30 - Burgos - Cedevita M+ Baloncesto
 2
+#EXTINF:-1 group-title='Fútbol', 20:40 - SELECCIÓN SUB-20 España - México
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Fútbol', 20:40 - SELECCIÓN SUB-20 España - México
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Fútbol', 20:40 - SELECCIÓN SUB-20 España - México
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Fútbol', 20:40 - SELECCIÓN SUB-20 España - México
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Baloncesto', 21:00 - La Laguna Tenerife - Turk Telekom M+
 Baloncesto
 
 # --- Jueves1 de Octubre de 2026 ---
+#EXTINF:-1 group-title='WNBA', 01:00 - OFF Atlanta Dream - Washington Mystics
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='WNBA', 01:00 - OFF Atlanta Dream - Washington Mystics
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='WNBA', 01:00 - OFF Atlanta Dream - Washington Mystics
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='WNBA', 01:00 - OFF Atlanta Dream - Washington Mystics
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Fútbol', 02:00 - INTERNACIONAL Argentina – Bolivia
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title='Fútbol', 02:00 - INTERNACIONAL Argentina – Bolivia
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 group-title='Fútbol', 02:00 - INTERNACIONAL Argentina – Bolivia
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Tenis', 09:05 - TOKIO Alcaraz - Michelsen
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Tenis', 09:05 - TOKIO Alcaraz - Michelsen
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Tenis', 09:05 - TOKIO Alcaraz - Michelsen
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Tenis', 11:05 - TOKIO Vallejo - Jodar
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 11:05 - TOKIO Vallejo - Jodar
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 11:05 - TOKIO Vallejo - Jodar
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 group-title='Natación', 17:00 - DEL MUNDO Sesión Vespertina (Bakú)
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Natación', 17:00 - DEL MUNDO Sesión Vespertina (Bakú)
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Natación', 17:00 - DEL MUNDO Sesión Vespertina (Bakú)
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Natación', 17:00 - DEL MUNDO Sesión Vespertina (Bakú)
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Baloncesto', 18:00 - Hapoel Tel Aviv - Real Madrid
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 group-title='Baloncesto', 18:00 - Hapoel Tel Aviv - Real Madrid
@@ -129,6 +121,14 @@ acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 group-title='NFL', 02:15 - 4 Cleveland Browns - Pittsburgh Steelers
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='WNBA', 03:00 - OFF Indiana Fever - Las Vegas Aces
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='WNBA', 03:00 - OFF Indiana Fever - Las Vegas Aces
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='WNBA', 03:00 - OFF Indiana Fever - Las Vegas Aces
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='WNBA', 03:00 - OFF Indiana Fever - Las Vegas Aces
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 #EXTINF:-1 group-title='Padel', 10:30 - PADEL Rotterdam (Cuartos de Final)
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 #EXTINF:-1 group-title='Padel', 10:30 - PADEL Rotterdam (Cuartos de Final)
@@ -153,6 +153,22 @@ acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - Milan
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://2773b39926d15dd3d9495d94c4050604792d7031
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Ademar León
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION CD Eldense - Real Oviedo
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION CD Eldense - Real Oviedo
@@ -287,6 +303,26 @@ acestream://6dc4ac4eeae18e9daec433b01db82435cf84c57c
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 group-title='Rugby', 14:30 - 14 Bourdeaux Begles - Lyon Ou
 acestream://3230cdca852a10325222e3c546e499e31d547a90
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Fútbol', 16:00 - F Deportivo - Atlético de Madrid
+acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
+#EXTINF:-1 group-title='Fútbol', 16:00 - INTERNACIONAL India - Brasil
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 16:00 - INTERNACIONAL India - Brasil
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 16:00 - INTERNACIONAL India - Brasil
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION UD Almería - Burgos
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION UD Almería - Burgos
@@ -353,6 +389,20 @@ acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 #EXTINF:-1 group-title='Baloncesto', 19:30 - ENDESA Unicaja - La Laguna Tenerife
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Boxeo', 20:00 - SEMIPESADO Robert Whittaker vs Luke Wallace
+acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
 #EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - República Checa
 acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - República Checa
@@ -461,6 +511,20 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 group-title='Fórmula', 09:00 - G.P. BAHREIN Sepang
 acestream://27d11bbeb3026231d52de16b1fac48da7a099247
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Costa Adeje Tenerife - Logroño United
+acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Eibar
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Eibar
@@ -665,175 +729,347 @@ acestream://8677d339ecddd75165c0015025f598b6215974cf
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Zaragoza - Teruel
 acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Fútbol', 22:00 - CLAUSURA Talleres - Belgrano
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 22:00 - CLAUSURA Talleres - Belgrano
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 22:00 - CLAUSURA Talleres - Belgrano
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 group-title='NFL', 22:25 - 4 San Francisco 49ers - Denver Broncos
+acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
 
 
 # FUENTE EXTERNA: https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://7bede102385c65a545db531af476ef18c31f6258
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://2a5d90651e212106434edea5bfbba1a843b7b97c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 Euroliga - Liga Regular Panathinaikos BC - ASVEL Lyon-Villeurbanne
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Eurocup - Liga Regular San Pablo Burgos - Olimpija Ljubljana
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 05:05 WRC Rally - Rally de Cerdeña 1ª Ronda - WTA 1000
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 05:05 WRC Rally - Rally de Cerdeña 1ª Ronda - WTA 1000
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://d60b8c154828cb990b7bb1570764b215bd979e74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1
+acestream://12404b00d2787995d639ccf71a80da5d39d153f9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1
+acestream://64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
 
 
 # FUENTE EXTERNA: http://bit.ly/eventospeticiones
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:00 UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:30 Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 10:30 Torneo de Tokio - 1ª Ronda M. Arnaldi - R. Sakamoto
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 10:53 Las Carreras -  Hipódromo de San Sebastián 30/09/2026
 acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://7bede102385c65a545db531af476ef18c31f6258
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 11:15 Torneo de Tokio - 1ª Ronda Zh. Zhang - A. Gea
+acestream://2a5d90651e212106434edea5bfbba1a843b7b97c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda N. Borges - N. Djokovic
+acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:15 Torneo de Tokio - 1ª Ronda E. Jacquemot - M. Frech
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:30 Torneo de Tokio - 1ª Ronda A. Bondar - R. Zarazúa
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 18:45 EHF European League -  Flensburg-Handewitt - BM Granollers
+acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://7a053fc56fc93f42ec656382408e647055110e3e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 19:00 Eurocup - Liga Regular PAOK Salónica - Kids&Us Manresa
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:00 Euroliga Fem - Fase de Clasificación Spar Girona - Emlak Konut SK
+acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:15 Euroliga - Liga Regular Panathinaikos BC - ASVEL Lyon-Villeurbanne
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Amistoso -  España - México
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Eurocup - Liga Regular San Pablo Burgos - Olimpija Ljubljana
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 Eurocup - Liga Regular La Laguna Tenerife - Türk Telekom Ankara
+acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 01:00 WNBA - Playoffs Washington Mystics - Atlanta Dream
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 02:00 Amistoso -  Argentina - Bolivia
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 05:05 WRC Rally - Rally de Cerdeña 1ª Ronda - WTA 1000
+acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 05:05 WRC Rally - Rally de Cerdeña 1ª Ronda - WTA 1000
+acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:30 Abierto de Shenzhen -  Día 1 - Ronda 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 08:00 Abierto de Shenzhen -  Ronda 4
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://60952921b847a9c560741b0d8048a2d8ad194a7f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Segunda -  Leganés - CD Castellón
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://d60b8c154828cb990b7bb1570764b215bd979e74
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 02:15 NFL - Liga Regular Chicago Bears - Philadelphia Eagles
-acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 08:00 Abierto de Shenzhen -  Día 2 - Ronda 2
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1
+acestream://12404b00d2787995d639ccf71a80da5d39d153f9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwVCsyW/sport-car.png", 09:00 WRC Rally - Rally de Cerdeña Shakedown › SS1
+acestream://64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
