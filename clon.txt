@@ -1,617 +1,905 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
-# --- Sábado14 de Noviembre de 2026 ---
-#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Uruguay
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Uruguay
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Uruguay
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://ef2abf419586d9876370be127ad592dbb41b126a
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Femenino (Levi)
-acestream://547ab7146a86d6119c9332c011669544720124e3
-#EXTINF:-1 group-title='Golf', 10:00 - DUBAI Jornada 3
-acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 group-title='Golf', 10:00 - DUBAI Jornada 3
-acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
-#EXTINF:-1 group-title='Golf', 10:00 - DUBAI Jornada 3
-acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
-#EXTINF:-1 group-title='Golf', 10:00 - DUBAI Jornada 3
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 group-title='F.', 11:00 - PRIMERA DIVISIÓN FEMENINA STV Roldán FS - Poio Pescamar FS
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='F.', 11:00 - PRIMERA DIVISIÓN FEMENINA STV Roldán FS - Poio Pescamar FS
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='F.', 11:00 - PRIMERA DIVISIÓN FEMENINA STV Roldán FS - Poio Pescamar FS
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='F.', 11:00 - PRIMERA DIVISIÓN FEMENINA STV Roldán FS - Poio Pescamar FS
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
-#EXTINF:-1 group-title='Fútbol', 11:15 - Japón - Brasil
-acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Espanyol - Costa Adeje Tenerife
-acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
-#EXTINF:-1 group-title='Baloncesto', 12:00 - U Valencia Basket - Real Madrid
-acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-#EXTINF:-1 group-title='Baloncesto', 12:00 - U Valencia Basket - Real Madrid
-acestream://217e5f172d4c704c5eec739fed672a53521e8f98
-#EXTINF:-1 group-title='Fútbol', 13:00 - RFEF Bilbao Athletic - Racing Ferrol
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 13:00 - RFEF Bilbao Athletic - Racing Ferrol
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 13:00 - RFEF Bilbao Athletic - Racing Ferrol
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 13:00 - RFEF Bilbao Athletic - Racing Ferrol
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) ElPozo Murcia Costa Cálida - Barça
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) ElPozo Murcia Costa Cálida - Barça
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) ElPozo Murcia Costa Cálida - Barça
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) ElPozo Murcia Costa Cálida - Barça
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Tenis', 13:00 - ESTOCOLMO Tirante - Fritz
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 group-title='Tenis', 13:00 - ESTOCOLMO Tirante - Fritz
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 group-title='Tenis', 13:00 - ESTOCOLMO Tirante - Fritz
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 group-title='Padel', 13:00 - PADEL Dubai (Semifinales)
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Padel', 13:00 - PADEL Dubai (Semifinales)
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Padel', 13:00 - PADEL Dubai (Semifinales)
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Real Valladolid CF - CD Castellón
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Real Valladolid CF - CD Castellón
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Real Valladolid CF - CD Castellón
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Real Valladolid CF - CD Castellón
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Real Sporting
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Real Sporting
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Real Sporting
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Real Sporting
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Real Unión - Cultural
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Real Unión - Cultural
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Real Unión - Cultural
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Real Unión - Cultural
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Chile
-acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Chile
-acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Chile
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Alavés - SD Eibar M+ Vamos
-3
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Río Breogán - Recoletas Salud
-acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Río Breogán - Recoletas Salud
-acestream://217e5f172d4c704c5eec739fed672a53521e8f98
-#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROPEO FEMENINO Bulgaria - España
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROPEO FEMENINO Bulgaria - España
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROPEO FEMENINO Bulgaria - España
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROPEO FEMENINO Bulgaria - España
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RCD Mallorca - Córdoba CF
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RCD Mallorca - Córdoba CF
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RCD Mallorca - Córdoba CF
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RCD Mallorca - Córdoba CF
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION UD Almería - FC Andorra
-acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION UD Almería - FC Andorra
-acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Hércules - Villarreal B
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Hércules - Villarreal B
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Hércules - Villarreal B
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Hércules - Villarreal B
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 group-title='Balonmano', 19:00 - ASOBAL La Rioja - Granollers
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title='Baloncesto', 19:30 - ENDESA Morabanc Andorra - La Laguna Tenerife
-acestream://965b249321adbf3a1459f94c17f624022889fb8d
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+# --- Martes17 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Boxeo', 20:00 - CRUCERO Viddal Riley vs Seydi Coupe
+#EXTINF:-1 group-title='NFL', 02:15 - 10 Los Angeles Chargers - Baltimore Ravens
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Fútbol', 20:30 - F Real Madrid - FC Badalona Women
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Fútbol', 20:30 - F Real Madrid - FC Badalona Women
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Fútbol', 20:30 - F Real Madrid - FC Badalona Women
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Fútbol', 20:30 - F Real Madrid - FC Badalona Women
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Real Oviedo - Girona FC
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Real Oviedo - Girona FC
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Real Oviedo - Girona FC
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Real Oviedo - Girona FC
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Jaén - Zaragoza
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Jaén - Zaragoza
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Jaén - Zaragoza
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Jaén - Zaragoza
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Joventut - Basket Zaragoza
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Fils - Jódar
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Joventut - Basket Zaragoza
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Fils - Jódar
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA Joventut - Basket Zaragoza
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Fils - Jódar
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Baloncesto', 17:30 - Turk Telekom - La Laguna Tenerife M+
+Baloncesto
+#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROBASKET FEMENINO Croacia - España
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROBASKET FEMENINO Croacia - España
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROBASKET FEMENINO Croacia - España
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Baloncesto', 18:00 - EUROBASKET FEMENINO Croacia - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Fútbol', 20:00 - SUB 21 Albania - España
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Fútbol', 20:00 - SUB 21 Albania - España
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Fútbol', 20:00 - SUB 21 Albania - España
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Fútbol', 20:00 - SUB 21 Albania - España
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Zverev - Shelton
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Zverev - Shelton
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Zverev - Shelton
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - París
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - París
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - París
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Baloncesto', 20:30 - Baskonia - Hapoel Tel Aviv M+ Baloncesto
+2
+#EXTINF:-1 group-title='Baloncesto', 20:45 - Partizan - Valencia Basket M+
+Baloncesto
+#EXTINF:-1 group-title='Baloncesto', 21:00 - LEAGUE Asisa Joventut - Porto
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Baloncesto', 21:00 - LEAGUE Asisa Joventut - Porto
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Baloncesto', 21:00 - LEAGUE Asisa Joventut - Porto
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Baloncesto', 21:00 - LEAGUE Asisa Joventut - Porto
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 
-# --- Domingo15 de Noviembre de 2026 ---
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Dallas Mavericks @ Cleveland Cavaliers
-acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-#EXTINF:-1 group-title='NBA', 01:30 - REGULAR Dallas Mavericks @ Cleveland Cavaliers
-acestream://217e5f172d4c704c5eec739fed672a53521e8f98
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Boxeo', 02:00 - SUPERMEDIO Diego Pacheco vs Darius Fulghum
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 group-title='Ciclismo', 06:40 - Saitama
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title='Golf', 09:30 - DUBAI Jornada 4
-acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 group-title='Golf', 09:30 - DUBAI Jornada 4
-acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
-#EXTINF:-1 group-title='Golf', 09:30 - DUBAI Jornada 4
-acestream://9ed46050217ee6ed8236a64b72d7992f7b3b37f2
-#EXTINF:-1 group-title='Golf', 09:30 - DUBAI Jornada 4
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://48a589dbeab3544662fafd79888aada7d834cfe9
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://ef2abf419586d9876370be127ad592dbb41b126a
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
-#EXTINF:-1 group-title='Esquí', 09:45 - DEL MUNDO Eslalon Masculino (Levi)
-acestream://547ab7146a86d6119c9332c011669544720124e3
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Madrid CFF - Logroño United M+ Vamos
-3
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Athletic Bilbao
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Athletic Bilbao
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Athletic Bilbao
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Athletic Bilbao
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Extremadura - Pontevedra
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Extremadura - Pontevedra
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Extremadura - Pontevedra
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Extremadura - Pontevedra
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Baloncesto', 12:00 - ENDESA Valencia Basket - Leyma Coruña
-acestream://965b249321adbf3a1459f94c17f624022889fb8d
-#EXTINF:-1 group-title='Baloncesto', 12:00 - ENDESA iLERNA Lleida - Kids&Us Manresa
-acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - FIATC Girona
-acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
-#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Unicaja - FIATC Girona
-acestream://217e5f172d4c704c5eec739fed672a53521e8f98
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CD Tenerife - Ceuta FC
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CD Tenerife - Ceuta FC
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CD Tenerife - Ceuta FC
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CD Tenerife - Ceuta FC
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Zverev - Jodar
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Zverev - Jodar
-acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Zverev - Jodar
-acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='Cross', 14:00 - A TRAVÉS Internacional Carrera Masculina (Soria)
-acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
-#EXTINF:-1 group-title='Cross', 14:00 - A TRAVÉS Internacional Carrera Masculina (Soria)
-acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
-#EXTINF:-1 group-title='Cross', 14:00 - A TRAVÉS Internacional Carrera Masculina (Soria)
-acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 group-title='Cross', 14:00 - A TRAVÉS Internacional Carrera Masculina (Soria)
-acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
-#EXTINF:-1 group-title='Fútbol', 14:15 - RFEF Zamora - Avilés
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 14:15 - RFEF Zamora - Avilés
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 14:15 - RFEF Zamora - Avilés
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 14:15 - RFEF Zamora - Avilés
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Padel', 15:00 - PADEL Dubai (Finales)
+# --- Miércoles18 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Costa Rica
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
-#EXTINF:-1 group-title='Padel', 15:00 - PADEL Dubai (Finales)
+#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Costa Rica
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
-#EXTINF:-1 group-title='Padel', 15:00 - PADEL Dubai (Finales)
+#EXTINF:-1 group-title='Fútbol', 00:00 - Argentina - Costa Rica
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
-#EXTINF:-1 group-title='NFL', 15:30 - 10 Detroit Lions - New England Patriots
-acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 group-title='NFL', 15:30 - 10 Detroit Lions - New England Patriots
-acestream://8a86cd6152154a25ad4b76523160552a40313b28
-#EXTINF:-1 group-title='NFL', 15:30 - 10 Detroit Lions - New England Patriots
-acestream://4e401fdceebffdf1f09aef954844d09f6c62f460
-#EXTINF:-1 group-title='NFL', 15:30 - 10 Detroit Lions - New England Patriots
-acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1
-#EXTINF:-1 group-title='NFL', 15:30 - 10 Detroit Lions - New England Patriots
-acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 group-title='Fútbol', 16:00 - F Sevilla FC - Atlético de Madrid M+ Vamos
-3
-#EXTINF:-1 group-title='Rugby', 16:00 - CHAMPIONSHIP Escocia - Australia
-acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8
-#EXTINF:-1 group-title='Rugby', 16:00 - CHAMPIONSHIP Escocia - Australia
-acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 group-title='Rugby', 16:00 - CHAMPIONSHIP Escocia - Australia
-acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
-#EXTINF:-1 group-title='Rugby', 16:00 - CHAMPIONSHIP Escocia - Australia
-acestream://f4d9011721fad5098febbe4d7c078a582e176a01
-#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Granada CF - UD Las Palmas
-Replay
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Lugo - Mirandés
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Lugo - Mirandés
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Lugo - Mirandés
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Lugo - Mirandés
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Barça - Monbus Obradoiro
-acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Fútbol', 18:00 - F Deportivo Abanca - FC Barcelona
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Surne Bilbao - UCAM Murcia
-acestream://965b249321adbf3a1459f94c17f624022889fb8d
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title='Fútbol', 18:15 - F Valencia - Granada
-acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION SD Eibar - Cádiz CF
-acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION SD Eibar - Cádiz CF
-acestream://1f75d92098580443857caa95a719103cb83781b0
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION SD Eibar - Cádiz CF
-acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION SD Eibar - Cádiz CF
-acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Eldense - CE Sabadell
-acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
-#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Eldense - CE Sabadell
-acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Murcia - Alcorcón
-acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Murcia - Alcorcón
-acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Murcia - Alcorcón
-acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
-#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Murcia - Alcorcón
-acestream://b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 group-title='Baloncesto', 19:00 - ENDESA Baskonia - Real Madrid
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Detroit Pistons - San Antonio Spurs
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR Detroit Pistons - San Antonio Spurs
+acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Alcaraz - Medvedev
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 group-title='Baloncesto', 19:00 - ENDESA Baskonia - Real Madrid
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Alcaraz - Medvedev
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 group-title='Baloncesto', 19:00 - ENDESA Baskonia - Real Madrid
+#EXTINF:-1 group-title='Tenis', 14:00 - FINALS Alcaraz - Medvedev
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 group-title='NFL', 19:00 - 10 Green Bay Packers - Minnesota Vikings
-acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 group-title='NFL', 19:00 - 10 Green Bay Packers - Minnesota Vikings
-acestream://8a86cd6152154a25ad4b76523160552a40313b28
-#EXTINF:-1 group-title='NFL', 19:00 - 10 Green Bay Packers - Minnesota Vikings
-acestream://4e401fdceebffdf1f09aef954844d09f6c62f460
-#EXTINF:-1 group-title='NFL', 19:00 - 10 Green Bay Packers - Minnesota Vikings
-acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1
-#EXTINF:-1 group-title='NFL', 19:00 - 10 Green Bay Packers - Minnesota Vikings
-acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Shelton - Fils
-acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Shelton - Fils
-acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Shelton - Fils
-acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Inglaterra
-acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Inglaterra
-acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Inglaterra
-acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
-#EXTINF:-1 group-title='Fútbol', 20:45 - LEAGUE España - Inglaterra
-acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
-#EXTINF:-1 group-title='NBA', 22:00 - REGULAR Los Angeles Lakers @ Phoenix Suns
-acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
-#EXTINF:-1 group-title='NFL', 22:25 - 10 Los Angeles Rams @ Arizona Cardinals
-acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
-#EXTINF:-1 group-title='NBA', 23:00 - REGULAR San Antonio Spurs @ Utah Jazz
+#EXTINF:-1 group-title='Baloncesto', 18:00 - Besiktas - Real Madrid
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Baloncesto', 18:00 - Besiktas - Real Madrid
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Baloncesto', 18:00 - Besiktas - Real Madrid
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Baloncesto', 18:30 - Cedevita - Burgos
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Baloncesto', 18:30 - Cedevita - Burgos
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Baloncesto', 18:30 - Cedevita - Burgos
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Real Madrid - Inter
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 group-title='Fútbol', 18:45 - LEAGUE FEMENINA Real Madrid - Inter
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+#EXTINF:-1 group-title='Balonmano', 19:00 - GUERRERAS IBERDROLA Conservas Orbe Zendal Porriño - Atlético Guardés
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Balonmano', 19:00 - GUERRERAS IBERDROLA Conservas Orbe Zendal Porriño - Atlético Guardés
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Balonmano', 19:00 - GUERRERAS IBERDROLA Conservas Orbe Zendal Porriño - Atlético Guardés
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Balonmano', 19:00 - GUERRERAS IBERDROLA Conservas Orbe Zendal Porriño - Atlético Guardés
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Fútbol', 20:00 - DEL REY Alcoyano - Mallorca
+IB3
+#EXTINF:-1 group-title='Fútbol', 20:00 - DEL REY Badajoz - Tenerife TV
+Canaria
+#EXTINF:-1 group-title='Baloncesto', 20:30 - Kids&Us Manresa - PAOK M+ Baloncesto
+2
+#EXTINF:-1 group-title='Baloncesto', 20:30 - LEAGUE Unicaja - BK Kvis Pardubice
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Baloncesto', 20:30 - LEAGUE Unicaja - BK Kvis Pardubice
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Baloncesto', 20:30 - LEAGUE Unicaja - BK Kvis Pardubice
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Baloncesto', 20:30 - LEAGUE Unicaja - BK Kvis Pardubice
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='F.', 20:45 - LIGA PRIME (APERTURA) Barcelona - Córdoba
+acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
+#EXTINF:-1 group-title='F.', 20:45 - LIGA PRIME (APERTURA) Barcelona - Córdoba
+acestream://21bc11d195f5753c396e390c215952d21541d04d
+
+# --- Jueves19 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='Fútbol', 00:30 - Cruzeiro - Palmeiras
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 00:30 - Cruzeiro - Palmeiras
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 00:30 - Cruzeiro - Palmeiras
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Milwaukee Bucks - Miami Heat
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 group-title='NBA', 01:00 - REGULAR Milwaukee Bucks - Miami Heat
+acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='NBA', 03:30 - REGULAR Golden State Warriors - Dallas Mavericks
 acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Baloncesto', 20:00 - Bayern Munich - Baskonia M+
+Baloncesto
+#EXTINF:-1 group-title='Baloncesto', 21:00 - Valencia Basket - Virtus
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Baloncesto', 21:00 - Valencia Basket - Virtus
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Baloncesto', 21:00 - Valencia Basket - Virtus
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 23:30 - Vasco Gama - Internacional
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 23:30 - Vasco Gama - Internacional
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 23:30 - Vasco Gama - Internacional
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+# --- Viernes20 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR LA Clippers - San Antonio Spurs
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 group-title='NBA', 02:00 - REGULAR LA Clippers - San Antonio Spurs
+acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='NFL', 02:15 - 11 Indianapolis Colts - Houston Texans
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Fútbol', 15:00 - SUB-17 España - China
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Fútbol', 15:00 - SUB-17 España - China
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='Fútbol', 15:00 - SUB-17 España - China
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Fútbol', 15:00 - SUB-17 España - China
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Al Ahli - Al Nassr
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Al Ahli - Al Nassr
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 18:30 - SAUDÍ Al Ahli - Al Nassr
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 19:00 - RFEF Teruel - Hércules
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 19:00 - RFEF Teruel - Hércules
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 19:00 - RFEF Teruel - Hércules
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 19:00 - RFEF Teruel - Hércules
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Baloncesto', 20:00 - U Obradoiro - UCAM Murcia
+acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Baloncesto', 20:15 - Olympiacos - Real Madrid
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Baloncesto', 20:15 - Olympiacos - Real Madrid
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Baloncesto', 20:15 - Olympiacos - Real Madrid
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Baloncesto', 20:30 - FC Barcelona - Estrella Roja M+ Baloncesto
+2
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION FC Andorra - CD Leganés
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION FC Andorra - CD Leganés
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION FC Andorra - CD Leganés
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 20:30 - HYPERMOTION FC Andorra - CD Leganés
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://2773b39926d15dd3d9495d94c4050604792d7031
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 group-title='Balonmano', 20:30 - ASOBAL Ciudad Real - Torrelavega
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Athletic Club - RCD Espanyol
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1 group-title='Baloncesto', 21:00 - U Burgos - Valencia Basket
+acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
+#EXTINF:-1 group-title='Fútbol', 21:15 - RFEF Real Madrid Castilla - Murcia
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 21:15 - RFEF Real Madrid Castilla - Murcia
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 21:15 - RFEF Real Madrid Castilla - Murcia
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 21:15 - RFEF Real Madrid Castilla - Murcia
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+
+# --- Sábado21 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Boxeo', 02:00 - MEDIANO Amari Jones vs DeAundre Pettus
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon femenino (Gurgl)
+acestream://547ab7146a86d6119c9332c011669544720124e3
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 12:00 - F FC Badalona Women - Deportivo Abanca
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 1)
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Fútbol', 13:00 - RFEF Mirandés - Bilbao Athletic Movistar Primera
+Federacion
+#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) Viña Albali Valdepeñas - Noia Portus Apostoli
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) Viña Albali Valdepeñas - Noia Portus Apostoli
+acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) Viña Albali Valdepeñas - Noia Portus Apostoli
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='F.', 13:00 - LIGA PRIME (APERTURA) Viña Albali Valdepeñas - Noia Portus Apostoli
+acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Deportivo Alavés - RC Deportivo
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CE Sabadell - Granada CF
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CE Sabadell - Granada CF
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CE Sabadell - Granada CF
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION CE Sabadell - Granada CF
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Rugby', 15:00 - CHAMPIONSHIP Inglaterra - Nueva Zelanda
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Rugby', 15:00 - CHAMPIONSHIP Inglaterra - Nueva Zelanda
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Rugby', 15:00 - CHAMPIONSHIP Inglaterra - Nueva Zelanda
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 16:00 - LEAGUE Aston Villa - Sunderland
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 group-title='Motos', 16:00 - PORTUGAL MotoGP (Sprint)
+acestream://ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Valencia
+acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Valencia
+acestream://c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS Rayo - Valencia
+acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Cádiz CF
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Cádiz CF
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Cádiz CF
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sociedad B - Cádiz CF
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Fútbol', 16:30 - RFEF Zaragoza - Rayo Majadahonda Movistar Primera
+Federacion
+#EXTINF:-1 group-title='Fútbol', 17:00 - F SD Eibar - Atlético Madrid M+ Vamos
+3
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Rugby', 17:00 - CUP España - Samoa
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Rugby', 17:30 - CHAMPIONSHIP Irlanda - Sudáfrica
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Fútbol', 18:00 - A Parma - Roma
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 18:00 - A Parma - Roma
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 18:00 - A Parma - Roma
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA San Pablo Burgos - Unicaja
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA San Pablo Burgos - Unicaja
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA San Pablo Burgos - Unicaja
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://4955867fad3bc92e5b4c36045699fc277800fb18
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Sevilla - Betis
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Castellón - CD Eldense
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Castellón - CD Eldense
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Castellón - CD Eldense
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION CD Castellón - CD Eldense
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Ponferradina - Extremadura
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Ponferradina - Extremadura
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Ponferradina - Extremadura
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 18:45 - RFEF Ponferradina - Extremadura
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Logroño United - Deportivo Alavés M+ Vamos
+3
+#EXTINF:-1 group-title='Baloncesto', 19:30 - ENDESA Kids&Us Manresa - MoraBanc Andorra
+acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://2773b39926d15dd3d9495d94c4050604792d7031
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 group-title='Balonmano', 20:00 - ASOBAL Bidasoa - Barcelona
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title='Fútbol', 20:30 - Palmeiras - Flamengo
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 20:30 - Palmeiras - Flamengo
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 20:30 - Palmeiras - Flamengo
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 20:45 - 1 Monaco - Auxerre
+TV5MONDE
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Real Madrid - Celta
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Real Madrid - Celta
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Real Madrid - Celta
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION CD Tenerife - RCD Mallorca
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION CD Tenerife - RCD Mallorca
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION CD Tenerife - RCD Mallorca
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION CD Tenerife - RCD Mallorca
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Sant Andreu - Atlético Madrileño
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Sant Andreu - Atlético Madrileño
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Sant Andreu - Atlético Madrileño
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 21:00 - RFEF Sant Andreu - Atlético Madrileño
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Baloncesto', 21:00 - ENDESA UCAM Murcia - Casademont Zaragoza
+acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
+#EXTINF:-1 group-title='Fútbol', 23:15 - SUDAMERICANA Boca Juniors - Atlético Mineiro
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 23:15 - SUDAMERICANA Boca Juniors - Atlético Mineiro
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 23:15 - SUDAMERICANA Boca Juniors - Atlético Mineiro
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+# --- Domingo22 de Noviembre de 2026 ---
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://d719181097d256073844390b3e094fbcb1bceaa4
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 group-title='Fórmula', 05:00 - G.P. ESTADOS UNIDOS Las Vegas
+acestream://27d11bbeb3026231d52de16b1fac48da7a099247
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://8522af51ae7189b12effabbb448dcb707195ce1a
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://48a589dbeab3544662fafd79888aada7d834cfe9
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://ef2abf419586d9876370be127ad592dbb41b126a
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
+#EXTINF:-1 group-title='Esquí', 10:15 - DEL MUNDO Eslalon masculino (Gurgl)
+acestream://547ab7146a86d6119c9332c011669544720124e3
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Real Madrid CF
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Real Madrid CF
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Granada - Real Madrid CF
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 12:00 - F Real Sociedad - Sevilla CF
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Ourense - Racing Ferrol
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Ourense - Racing Ferrol
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Ourense - Racing Ferrol
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 12:00 - RFEF Ourense - Racing Ferrol
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
+#EXTINF:-1 group-title='Vela', 12:00 - Dubai (Jornada 2)
+acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
+#EXTINF:-1 group-title='Baloncesto', 12:00 - ENDESA Surne Bilbao - Kosner Baskonia
+acestream://965b249321adbf3a1459f94c17f624022889fb8d
+#EXTINF:-1 group-title='Baloncesto', 12:00 - ENDESA Obradoiro CAB - FIATC Girona
+acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
+#EXTINF:-1 group-title='Baloncesto', 12:00 - FEMENINA ENDESA Baxi Ferrol - Azul Marino Mallorca M+ Baloncesto
+2
+#EXTINF:-1 group-title='Baloncesto', 12:00 - FEMENINA ENDESA Durán Maquinaria Ensino - Spar Girona M+ Baloncesto
+3
+#EXTINF:-1 group-title='Baloncesto', 12:00 - FEMENINA ENDESA Inversus Gernika Bizkaia - Cadí La Seu M+ Baloncesto
+4
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 group-title='Motos', 12:15 - PORTUGAL Moto2 (Algarve)
+acestream://ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Leyma Coruña - iLERNA Lleida
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 group-title='Baloncesto', 12:30 - ENDESA Leyma Coruña - iLERNA Lleida
+acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='Baloncesto', 12:30 - FEMENINA ENDESA Valencia Basket - Innova TSN Leganés M+
+Baloncesto
+#EXTINF:-1 group-title='Baloncesto', 12:30 - FEMENINA ENDESA Impulso 360 Estepona - Celta Femxa Zorka M+ Baloncesto
+5
+#EXTINF:-1 group-title='Rugby', 13:45 - IBERDROLA Vulc. Alvarez El Salvador - Geixo Rugby Taldea M+ Vamos
+3
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://4955867fad3bc92e5b4c36045699fc277800fb18
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 group-title='Fútbol', 14:00 - EA SPORTS Barcelona - Villarreal
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba CF - Real Oviedo
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba CF - Real Oviedo
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba CF - Real Oviedo
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 14:00 - HYPERMOTION Córdoba CF - Real Oviedo
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 group-title='Motos', 14:00 - PORTUGAL MotoGP (Algarve)
+acestream://ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://129c707eb4854171d178a566f36d90b7f2b5e624
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 group-title='Motos', 15:30 - PORTUGAL Moto3 (Algarve)
+acestream://ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 group-title='Fútbol', 16:00 - RFEF Cartagena - Jaén
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 16:00 - RFEF Cartagena - Jaén
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 16:00 - RFEF Cartagena - Jaén
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 16:00 - RFEF Cartagena - Jaén
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title='Fútbol', 16:15 - EA SPORTS R. Racing Club - Real Sociedad
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sporting - UD Las Palmas
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sporting - UD Las Palmas
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sporting - UD Las Palmas
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 16:15 - HYPERMOTION Real Sporting - UD Las Palmas
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 17:00 - F Costa Adeje Tenerife - Madrid CFF
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Baloncesto', 17:00 - ENDESA Valencia Basket - Río Breogán
+acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
+#EXTINF:-1 group-title='Baloncesto', 17:00 - FEMENINA ENDESA Hozono Global Jairis - Movistar Estudiantes M+ Vamos
+3
+#EXTINF:-1 group-title='Fútbol', 17:30 - LEAGUE Liverpool - Manchester Utd.
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 17:30 - LEAGUE Liverpool - Manchester Utd.
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 17:30 - LEAGUE Liverpool - Manchester Utd.
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Baloncesto', 18:00 - ENDESA Laguna Tenerife - Barcelona
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Baloncesto', 18:00 - FEMENINA ENDESA Mirai Euskotren - Casademont Zaragoza M+
+Baloncesto
+#EXTINF:-1 group-title='Baloncesto', 18:00 - FEMENINA ENDESA Kutxabank Araski - Meins Avenida M+ Baloncesto
+2
+#EXTINF:-1 group-title='Fútbol', 18:15 - RFEF Cultural - Zamora
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 18:15 - RFEF Cultural - Zamora
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 18:15 - RFEF Cultural - Zamora
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 18:15 - RFEF Cultural - Zamora
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://4955867fad3bc92e5b4c36045699fc277800fb18
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
+#EXTINF:-1 group-title='Fútbol', 18:30 - EA SPORTS Osasuna - Málaga
+acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION Girona FC - SD Eibar
+Replay
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RC Celta Fortuna - Real Valladolid CF
+acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
+#EXTINF:-1 group-title='Fútbol', 18:30 - HYPERMOTION RC Celta Fortuna - Real Valladolid CF
+acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://fb2dd566824658eeab27aae19a01c09430f1a97d
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://43004e955731cd3afcc34d24e5178d4b427bff37
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 group-title='Fútbol', 19:00 - F Barcelona - Athletic Bilbao
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 group-title='Baloncesto', 19:00 - ENDESA Real Madrid - ASISA Joventut
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
+#EXTINF:-1 group-title='Baloncesto', 19:00 - ENDESA Real Madrid - ASISA Joventut
+acestream://217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 group-title='Fútbol', 20:30 - RFEF Cacereño - UD Logroñés
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 group-title='Fútbol', 20:30 - RFEF Cacereño - UD Logroñés
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 group-title='Fútbol', 20:30 - RFEF Cacereño - UD Logroñés
+acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
+#EXTINF:-1 group-title='Fútbol', 20:30 - RFEF Cacereño - UD Logroñés
+acestream://b40212c43e96e97542ea00f2129212a054853a57
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 group-title='Fútbol', 21:00 - EA SPORTS Getafe CF - Atlético de Madrid
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Burgos - Albacete BP
+acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Burgos - Albacete BP
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Burgos - Albacete BP
+acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
+#EXTINF:-1 group-title='Fútbol', 21:00 - HYPERMOTION Burgos - Albacete BP
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title='Fútbol', 23:00 - River - Lanus
+acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
+#EXTINF:-1 group-title='Fútbol', 23:00 - River - Lanus
+acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
+#EXTINF:-1 group-title='Fútbol', 23:00 - River - Lanus
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 
 
 # FUENTE EXTERNA: https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:00 1RFEF Fem -  Roldán FSF - Poio Pescamar FS
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Fem -  Espanyol Femenino - Costa Adeje Tenerife
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 12:45 Copa Continental - Semifinales Eslalon - 2ª manga
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 1RFEF - Grupo 1 Bilbao Athletic - Racing Ferrol
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Estocolmo - Final T. Fritz - TA. Tirante
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:00 Liga Prime - Torneo Apertura ElPozo Murcia - Barça FS
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:40 Superprestige Ciclocross - Merksplas (Bélgica) Carrera femenina
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Real Valladolid - CD Castellón
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:30 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7nxY26w/mma.png", 15:00 Velada -  Professional Fighters League - Dubai (Emiratos Árabes Unidos)
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 15:00 Professional Fighters League -  Velada Completa Dubai
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:05 Superprestige Ciclocross - Merksplas (Bélgica) Carrera masculina
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 16:00 Dubai Open -  Semifinal Masculina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Real Sociedad B - Sporting Gijón
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 1RFEF - Grupo 1 Real Unión - Cultural Leonesa
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 17:00 World Rugby Nations Cup -  España - Chile
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Fem -  Alavés Femenino - Eibar Femenino
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:00 Eurobasket Femenino - Fase de Clasificación Bulgaria - España
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 18:00 Dubai Open -  Semifinal Masculina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  UD Almería - FC Andorra
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Mallorca - Córdoba
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 1RFEF - Grupo 2 Hércules - Villarreal B
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Logroño La Rioja - BM Granollers
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 20:00 Austin Championship -  Jornada 3
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 20:00 Austin Championship -  V. Riley - S. Coupe
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Liga Fem -  Real Madrid Femenino - FC Badalona Women
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Liga Fem -  Real Madrid Femenino - FC Badalona Women
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Oviedo - Girona
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 1RFEF - Grupo 2 Real Jaén - Real Zaragoza
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 ACB - Liga Regular Joventut Badalona - Casademont Zaragoza
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 ATP Finals - Round Robin A. Fils - R. Jódar
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 02:00 DP World Tour Championship -  D. Pacheco - D. Fulghum
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 06:45 Saitama Criterium -  By Le Tour de France
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 07:30 DP World Tour Championship -  Jornada 4
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 09:45 NCAA -  Eslalon - 1ª manga
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 ATP Finals - Round Robin A. Fils - R. Jódar
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 ATP Finals - Round Robin A. Zverev - B. Shelton
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 
 
 # FUENTE EXTERNA: http://bit.ly/eventospeticiones
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 11:00 1RFEF Fem -  Roldán FSF - Poio Pescamar FS
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 12:00 Liga Fem -  Espanyol Femenino - Costa Adeje Tenerife
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 12:45 Copa Continental - Semifinales Eslalon - 2ª manga
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 13:00 1RFEF - Grupo 1 Bilbao Athletic - Racing Ferrol
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 13:00 Torneo de Estocolmo - Final T. Fritz - TA. Tirante
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WT6Y3z/futbol-sala.png", 13:00 Liga Prime - Torneo Apertura ElPozo Murcia - Barça FS
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 13:00 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 13:40 Superprestige Ciclocross - Merksplas (Bélgica) Carrera femenina
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 14:00 Segunda -  Real Valladolid - CD Castellón
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 14:30 Dubai Open -  Semifinal Femenina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7nxY26w/mma.png", 15:00 Velada -  Professional Fighters League - Dubai (Emiratos Árabes Unidos)
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 15:00 Professional Fighters League -  Velada Completa Dubai
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 15:05 Superprestige Ciclocross - Merksplas (Bélgica) Carrera masculina
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 16:00 Dubai Open -  Semifinal Masculina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:15 Segunda -  Real Sociedad B - Sporting Gijón
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 16:30 1RFEF - Grupo 1 Real Unión - Cultural Leonesa
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwMDrBp/patinar-sobre-hielo.png", 17:00 World Rugby Nations Cup -  España - Chile
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:00 Liga Fem -  Alavés Femenino - Eibar Femenino
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:00 Eurobasket Femenino - Fase de Clasificación Bulgaria - España
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ryfyhF1/padel.png", 18:00 Dubai Open -  Semifinal Masculina - Premier Padel Tour
-acestream://af393f93814d03160d48d2730759593b7bea5b47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  UD Almería - FC Andorra
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:30 Segunda -  Mallorca - Córdoba
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 18:45 1RFEF - Grupo 2 Hércules - Villarreal B
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5cV48dM/handball.png", 19:00 Asobal -  BM Logroño La Rioja - BM Granollers
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 20:00 Austin Championship -  Jornada 3
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 20:00 Austin Championship -  V. Riley - S. Coupe
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Liga Fem -  Real Madrid Femenino - FC Badalona Women
-acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 20:30 Liga Fem -  Real Madrid Femenino - FC Badalona Women
-acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 Segunda -  Real Oviedo - Girona
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vhFM7h/soccer-ball-variant.png", 21:00 1RFEF - Grupo 2 Real Jaén - Real Zaragoza
-acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 21:00 ACB - Liga Regular Joventut Badalona - Casademont Zaragoza
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 ATP Finals - Round Robin A. Fils - R. Jódar
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qs3RtQR/boxing-gloves.png", 02:00 DP World Tour Championship -  D. Pacheco - D. Fulghum
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsw23YC/cycling.png", 06:45 Saitama Criterium -  By Le Tour de France
-acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVt4bNf/golf.png", 07:30 DP World Tour Championship -  Jornada 4
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf3PWRZ/american-football.png", 09:45 NCAA -  Eslalon - 1ª manga
-acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 14:00 ATP Finals - Round Robin A. Fils - R. Jódar
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 18:00 Eurobasket Femenino - Fase de Clasificación Croacia - España
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Euroliga - Liga Regular Barça Basket - Paris Basketball
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kmrq8QQ/basketball.png", 20:30 Champions - Liga Regular Joventut Badalona - FC Porto CB
+acestream://4048be88f84250719e864868e537612f389df48e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjyrpmh/ball.png", 20:30 ATP Finals - Round Robin A. Zverev - B. Shelton
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
