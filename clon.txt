@@ -117,6 +117,12 @@ acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
 #EXTINF:-1 group-title='Baloncesto', 20:30 - LEAGUE Unicaja - BK Kvis Pardubice
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Cobolli - Tiafoe
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Cobolli - Tiafoe
+acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
+#EXTINF:-1 group-title='Tenis', 20:30 - FINALS Cobolli - Tiafoe
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 group-title='F.', 20:45 - LIGA PRIME (APERTURA) Barcelona - Córdoba
 acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 group-title='F.', 20:45 - LIGA PRIME (APERTURA) Barcelona - Córdoba
